@@ -1,0 +1,60 @@
+Date: Thu, 20 Nov 1997 15:41:23 GMT
+Server: Apache/1.2.4 PHP/FI-2.0b12
+Last-Modified: Thu, 21 Aug 1997 18:30:42 GMT
+ETag: "1a650-6e7-33fc8952"
+Content-Length: 1767
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>SkyWest Airlines</title>
+</head>
+
+<body bgcolor="#FFFFFF" link="#0000FF" vlink="#FF0000">
+<div align="center"><center>
+
+<table border="0" cellpadding="0" cellspacing="5">
+    <tr>
+        <td align="center"><img src="logo.gif" width="255"
+        height="66"> </td>
+        <td rowspan="2"><img src="newlogo.gif" width="150"
+        height="168"><br>
+        <br>
+        <br>
+        <a href="info/index.html"><font face="Arial">General
+        Information</font></a><font face="Arial"> </font><p><a
+        href="passenger/index.html"><font face="Arial">Passenger
+        Information</font></a><font face="Arial"> </font></p>
+        <p><a href="press/index.html"><font face="Arial">News
+        Releases</font></a><font face="Arial"> </font></p>
+        <p><a href="invest/index.html"><font face="Arial">Investor
+        Information</font></a><font face="Arial"> </font><br>
+        </p>
+        </td>
+    </tr>
+    <tr>
+        <td><img
+        src="http://www.skywest.com/imagescript/picture.phtml"
+        width="304" height="262"> </td>
+    </tr>
+</table>
+</center></div>
+
+<p align="center"><a href="http://www.delta-air.com/"><img
+src="delta.jpg" border="0" width="178" height="71"></a><a
+href="http://www.flycontinental.com/"><img src="cont.jpg"
+border="0" width="241" height="71"></a><br>
+<a href="http://www.raa.org"><img src="raa.gif" border="0"
+width="95" height="38"></a> </p>
+
+<p align="center"><font size="2" face="Arial">Copyright © 1997
+SkyWest Inc. All Rights Reserved </font></p>
+</body>
+</html>

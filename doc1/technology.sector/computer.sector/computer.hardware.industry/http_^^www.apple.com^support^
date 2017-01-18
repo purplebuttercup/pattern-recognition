@@ -1,0 +1,229 @@
+Server: Netscape-Enterprise/3.0
+Date: Fri, 21 Nov 1997 02:38:29 GMT
+Content-type: text/html
+Connection: close
+
+<HTML>
+<HEAD>
+
+<META NAME="Author.Corporate"		CONTENT="Apple Computer, Inc.">
+<LINK REL="Author.Corporate"		HREF="http://www.apple.com/">
+<META NAME="Publisher"				CONTENT="Apple Computer, Inc.">
+<LINK REL="Publisher"				HREF="http://www.info.apple.com/feedback/">
+<META NAME="Keywords"				CONTENT="Apple Computer, technical, support, Macintosh, help, computer, mac, quadra, powerpc, powermac, power mac, power pc, laserwriter, imagewriter, stylewriter, printer, macos, mac os, system software, technical, information, problem, library, answers, product, software, updates, software updates, ftp, warranty, service, hardware, support professional, contract, centris, classic, performa, mac plus, display, scanner, quicktime">
+<META NAME="Description"			CONTENT="Apple's Support Web pages at (http://www.apple.com/support/) are the primary source of Apple technical information, product information and software updates for Apple customers and provides support for Mac OS and Rhapsody developers. Updated on a daily basis.">
+<META NAME="Date.Modified"			CONTENT="19971105">
+<META HTTP-EQUIV="Expires"			CONTENT="Mon, 10 Nov 1997 23:59:59+0100">
+
+<LINK REL="home"		HREF="http://www.apple.com/">
+<LINK REL="index"		HREF="http://www.apple.com/find/siteindex.html">
+<LINK REL="find"		HREF="http://www.apple.com/find/">
+<LINK REL="meta"		HREF="http://www.apple.com/standards/meta.html">
+
+
+	<TITLE>Apple - Support</TITLE>
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" LEFTMARGIN="8" TOPMARGIN="8">
+
+<TABLE WIDTH="600" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+
+<!-- * ROW 1 * -->
+	<TR>
+
+	<!-- COLUMNS 1 - 2:  TOP BANNER -->
+		<TD WIDTH="600" COLSPAN="2"><IMG SRC="/main/elements/topbar.gif" WIDTH="600" HEIGHT="25" ALT="Think different."></TD>
+	</TR>
+
+<!-- * ROW 2 * -->
+	<TR VALIGN="top">
+
+	<!-- COLUMN 1:  LEVEL 2 AREA BANNER, AND PULL DOWN MENUS -->
+		<TD WIDTH="245">
+
+	<!-- LEVEL 2 AREA BANNER -->
+		<IMG SRC="/main/elements/support.gif" WIDTH="245" HEIGHT="54" ALT="Support"><BR>
+
+	<!-- BEGIN FORM FOR PULL DOWN MENUS -->
+		<FORM METHOD="POST" ACTION="/cgi-bin/menu">
+
+	<!-- PULL DOWN MENU 1 -->
+		<IMG SRC="/main/elements/techsupport.gif" WIDTH="245" HEIGHT="18" ALT="Technical Support"><BR>
+			<SELECT NAME="help" onChange="location.href=this.form.help.options[this.form.help.selectedIndex].value">
+			<OPTION SELECTED VALUE="/support/">Choose your destination
+			<OPTION VALUE="http://support.info.apple.com/tso/macos/news.html">Mac OS &amp; Applications
+			<OPTION VALUE="http://support.info.apple.com/tso/desktop/news.html">Desktop Computers
+			<OPTION VALUE="http://support.info.apple.com/tso/portable/news.html">Portable Computers
+			<OPTION VALUE="http://support.info.apple.com/tso/displays/news.html">Apple Displays
+			<OPTION VALUE="http://support.info.apple.com/tso/imaging/news.html">Printers &amp; Imaging
+			<OPTION VALUE="http://support.info.apple.com/tso/networking/news.html">Servers &amp; Networking
+			<OPTION VALUE="http://enterprise.apple.com/NeXTanswers/">WebObjects
+			<OPTION VALUE="http://enterprise.apple.com/NeXTanswers/">OpenStep
+			<OPTION VALUE="http://support.info.apple.com/tso/quicktime/news.html">QuickTime
+			<OPTION VALUE="http://support.info.apple.com/tso/newton/news.html">eMate/MessagePad
+			<option VALUE="/support/">------------------
+			<OPTION VALUE="http://support.info.apple.com/tso/troubleshooting/index.html">Basic Troubleshooting
+			<OPTION VALUE="http://support.info.apple.com/support/infohelp.html">Using Apple Support
+			<OPTION VALUE="http://support.info.apple.com/support/supportoptions/appleassurance.html">Servicing My Computer
+			<OPTION VALUE="http://support.info.apple.com/support/findinfo.html">Support Area Navigation
+			<OPTION VALUE="http://devworld.apple.com/dev/techsupport.shtml">Developer Support
+			</SELECT>
+			<NOSCRIPT><IMG SRC="/main/elements/spacer.gif" WIDTH="7" HEIGHT="1" ALT=""><INPUT TYPE="image" NAME="btn_help" VALUE="Go" SRC="/main/elements/go.gif" WIDTH="25" HEIGHT="20" BORDER="0" ALT="Go"></NOSCRIPT>
+		<BR><BR><BR>
+		
+	<!-- PULL DOWN MENU 2 -->
+		<IMG SRC="/main/elements/techres.gif" WIDTH="245" HEIGHT="18" ALT="Technical Resources"><BR>
+			<SELECT NAME="get" onChange="location.href=this.form.get.options[this.form.get.selectedIndex].value">
+			<OPTION SELECTED VALUE="/support/">Choose your destination
+			<OPTION VALUE="http://www.info.apple.com/swupdates/">Software Downloads
+			<OPTION VALUE="http://www.info.apple.com/til/">Tech Info Library
+			<OPTION VALUE="http://enterprise.apple.com/NeXTanswers/">NeXTanswers
+			<OPTION VALUE="http://www.info.apple.com/subscribe/">Support Mail Lists
+			<OPTION VALUE="http://www.info.apple.com/supportoptions/">Support Options
+			<OPTION VALUE="http://support.info.apple.com/support/smoke&mirrors.html">Behind the Scenes
+			<OPTION VALUE="http://support.info.apple.com/support/findinfo.html">Tech Support Area Map
+			<OPTION VALUE="http://devworld.apple.com/techresource.shtml">Developer Resources
+			</SELECT>
+			<NOSCRIPT><IMG SRC="/main/elements/spacer.gif" WIDTH="7" HEIGHT="1" ALT=""><INPUT TYPE="image" NAME="btn_need" VALUE="Go" SRC="/main/elements/go.gif" WIDTH="25" HEIGHT="20" BORDER="0" ALT="Go"></NOSCRIPT>
+		<BR><BR><BR>
+		
+	<!-- PULL DOWN MENU 3 -->
+		<IMG SRC="/main/elements/developer.gif" WIDTH="245" HEIGHT="18" ALT="Developer"><BR>
+			<SELECT NAME="developer" onChange="location.href=this.form.developer.options[this.form.developer.selectedIndex].value">
+			<OPTION SELECTED VALUE="/support/">Choose your destination
+			<OPTION VALUE="http://devworld.apple.com/devworld.shtml">DevWorld Home Page
+			<OPTION VALUE="http://devworld.apple.com/community.shtml">News &amp; Community
+			<OPTION VALUE="http://gemma.apple.com/con/con.shtml">Programs &amp; Services
+			<OPTION VALUE="http://devworld.apple.com/dev/techsupport.shtml">Developer Support
+			<OPTION VALUE="http://devworld.apple.com/techresource.shtml">Technology Resources
+			<OPTION VALUE="http://gemma.apple.com/mkt/mkt.shtml">Biz &amp; Mktg Resources		
+			</SELECT>
+			<NOSCRIPT><IMG SRC="/main/elements/spacer.gif" WIDTH="7" HEIGHT="1" ALT=""><INPUT TYPE="image" NAME="btn_developer" VALUE="Go" SRC="/main/elements/go.gif" WIDTH="25" HEIGHT="20" BORDER="0" ALT="Go"></NOSCRIPT>
+
+	<!-- END FORM FOR PULL DOWN MENUS -->
+		</FORM>
+		</TD>
+
+	<!-- COLUMN 2: PRIMARY PROMOS -->
+		<TD WIDTH="355">
+		<IMG SRC="/main/elements/spacer.gif" WIDTH="1" HEIGHT="45" ALT=""><BR>
+
+	<!-- PRIMARY PROMO AREA -->
+		<A HREF="/support/maps/promo.map">
+		<IMG SRC="/support/images/supportimage.gif" WIDTH="355" HEIGHT="245" BORDER="0" ALT="" ISMAP USEMAP="#promos"></A></TD>
+			<MAP NAME="promos">
+			<AREA SHAPE="rect" COORDS="164,0,352,155"	HREF="http://devworld.apple.com/rhapsody/rhapdev/rhapsody.html">
+			<AREA SHAPE="rect" COORDS="164,155,259,239"	HREF="http://www.info.apple.com/til/">
+			<AREA SHAPE="rect" COORDS="259,155,352,239"	HREF="http://support.info.apple.com/ftp/7.6.1.html">
+			</MAP>
+			
+	</TR>
+</TABLE>
+
+<TABLE WIDTH="600" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+
+<!-- * ROW 1 * -->
+	<TR VALIGN="top">
+
+	<!-- COLUMN 1:  LEFT TEXT PROMOS -->
+		<TD WIDTH="290">
+		
+		<BR>
+		
+		<FONT SIZE="+1"><STRONG>Technical Support News</STRONG></FONT><BR>
+		
+		<BR>
+		
+		<STRONG>Basic Macintosh Troubleshooting.</STRONG> A resource designed to help you learn the basics of how to <A HREF="http://support.info.apple.com/tso/troubleshooting/">troubleshoot</A> problems that you may encounter with your Macintosh. It also provides tips to help you prevent future problems and keep your Macintosh in top shape.<BR>
+
+		<BR>
+		
+		<STRONG>Software Downloads.</STRONG> A full collection of updaters, utilities, and full software installers, <A HREF="http://www.info.apple.com/swupdates/">Apple Software Updates</A> will help keep your Apple Products running smoothly.  The archive contains  both US and Worldwide versions of downloads and is updated daily.<BR>
+
+		<BR>
+
+		<STRONG>Tech Info Library.</STRONG> Apple's <A HREF="http://www.info.apple.com/til/">searchable support knowledgebase</A> with over 17,000 easy to read technical articles in topic and discussion format. The TIL has articles on troubleshooting, technical specifications, product history, printer drivers, cables, configurations, diagrams, and much more.  This is the same database Apple support specialists use to answer technical questions via the telephone.<BR>
+
+		<BR>
+
+		<STRONG>Tech Support Online.</STRONG> Your resource for <A HREF="http://www.info.apple.com/tso/"> product specific Technical Support</A>.  TSO is divided into product categories and provides the latest Support News, Frequently Asked Questions, Software  Downloads, Discussion Boards and Additional Resources related to the products that interest you.<BR>
+
+		</TD>
+
+	<!-- COLUMN 2: CENTER GUTTER -->
+		<TD WIDTH="20">
+		<IMG SRC="/main/elements/spacer.gif" WIDTH="7" HEIGHT="1" ALT=""></TD>
+
+	<!-- COLUMN 3: RIGHT TEXT PROMOS -->
+		<TD WIDTH="290">
+
+		<BR>
+		
+		<FONT SIZE="+1"><STRONG>Developer News</STRONG></FONT><BR>
+		
+		<BR>
+
+		<STRONG>Register for EDF97.</STRONG> European developers, solution providers, content producers, and systems integrators can register for Apple's fourth annual <A HREF="http://devworld.apple.com/">European Developer Forum 1997</A> (EDF97) scheduled November 19-21 in Brussels.<BR>
+
+		<BR>
+
+		<STRONG>Reserve Developer Central Booth Space.</STRONG> Developers can reserve booth space in the <A HREF="http://www.devcentral.com">Developer Central Booth at MACWORLD Expo</A> in San Francisco scheduled January 6-9.<BR>
+		
+		<BR>
+		
+		<STRONG>Technical Publications.</STRONG> If you are a programmer, designer, or engineer creating applications for one of Apple's product areas, check out the <A HREF="http://devworld.apple.com/techinfo/techdocs/">Technical Publications</A> section of Developer World for the latest information resources on Mac OS, Rhapsody, Hardware, Multimedia, or Enterprise/Internet.<BR>
+	
+		</TD>
+	</TR>
+
+<!-- * ROW 2 * -->
+	<TR>
+
+	<!-- COLUMNS 1-3: GLOBAL NAVIGATION, FIND, & COPYRIGHT INFO -->
+	<TD COLSPAN="3" WIDTH="600">
+
+	<BR>
+
+	<!-- APPLE NAVIGATION -->
+		<A HREF="/main/maps/navbar.map"><IMG SRC="/main/elements/navbar.gif" WIDTH="600" HEIGHT="38" BORDER="0" ALT="" ISMAP USEMAP="#navbar"></A><BR>
+			<MAP NAME="navbar">
+			<AREA SHAPE="rect" COORDS="0,0,84,37"		HREF="/store/">
+			<AREA SHAPE="rect" COORDS="84,0,192,18"		HREF="/hotnews/">
+			<AREA SHAPE="rect" COORDS="84,18,192,37"	HREF="/signmeup/">
+			<AREA SHAPE="rect" COORDS="192,0,300,18"	HREF="/products/">
+			<AREA SHAPE="rect" COORDS="192,18,300,37" 	HREF="/support/">
+			<AREA SHAPE="rect" COORDS="300,0,408,18"	HREF="/publishing/">
+			<AREA SHAPE="rect" COORDS="300,18,408,37"	HREF="/education/">
+			<AREA SHAPE="rect" COORDS="408,0,516,18"	HREF="/about/">
+			<AREA SHAPE="rect" COORDS="408,18,516,37"	HREF="/buy/">
+			<AREA SHAPE="rect" COORDS="516,0,599,37"	HREF="/">
+			</MAP>
+
+		<BR>
+
+	<!-- FIND FEATURE -->
+		<CENTER>
+		<FORM METHOD="POST" ACTION="http://search.apple.com/cgi-bin/nph-apple_search.pl">
+		<INPUT TYPE="hidden" NAME="qparser" VALUE="simple"><INPUT TYPE="hidden" NAME="POINTER" VALUE="FRONT">
+		<STRONG><A HREF="/find/">Find</A>:</STRONG><IMG SRC="/main/elements/spacer.gif" WIDTH="10" HEIGHT="1" ALT=""><INPUT TYPE="text" NAME="query" SIZE="20"><IMG SRC="/main/elements/spacer.gif" WIDTH="5" HEIGHT="1" ALT=""><INPUT TYPE="submit" NAME="buttonshort" VALUE="Shortcut"><IMG SRC="/main/elements/spacer.gif" WIDTH="3" HEIGHT="1" ALT=""><INPUT TYPE="submit" NAME="buttonsearch" VALUE="Search"><BR>
+		<BR><BR>
+		</FORM>
+
+	<!-- TEXT NAVIGATION -->
+		<FONT SIZE="-1">
+		<A HREF="/store/">The Apple Store</A> | <A HREF="/hotnews/">Hot News</A> | <A HREF="/signmeup/">Sign Me Up</A> | <A HREF="/products/">Products</A> | <A HREF="/support/">Support</A><BR>
+		<A HREF="/publishing/">Design &amp; Publishing</A> | <A HREF="/education/">Education</A> | <A HREF="/about/">About Apple</A> | <A HREF="/buy/">Where to Buy</A> | <A HREF="/">Home</A><BR>
+		</FONT><BR>
+
+	<!-- COPYRIGHT INFORMATION -->
+		<FONT SIZE="-1">
+		<A HREF="/support/contact.html">Contact Us</A><BR>
+		Copyright 1997 Apple Computer, Inc. <A HREF="/legal/">All rights reserved.</A><IMG SRC="http://www.info.apple.com/homeimages/monkey1.gif" WIDTH="1" HEIGHT="1" BORDER="0">
+		</CENTER>
+
+		</TD>
+	</TR>
+
+</TABLE>
+</BODY>
+</HTML>

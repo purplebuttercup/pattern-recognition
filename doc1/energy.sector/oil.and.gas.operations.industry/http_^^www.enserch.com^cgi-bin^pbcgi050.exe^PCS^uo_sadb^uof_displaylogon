@@ -1,0 +1,5 @@
+Server: Netscape-Enterprise/2.0a
+Date: Thu, 20 Nov 1997 00:04:09 GMT
+Content-type: text/html
+
+<HTML><HEAD><TITLE>BDIC Information Systems - LOGON</TITLE></HEAD><BODY BGCOLOR = "#FFFFFF"><BODY><H1><CENTER>Enter UserID and Password</CENTER></H1><FORM ACTION="/cgi-bin/pbcgi050.exe/PCS/uo_sadb/uof_getlogon" METHOD="GET"><P></P><PRE><I>   UserID: <INPUT MAXLENGTH = "30" NAME = "as_userid" SIZE = "30" TYPE = "TEXT"><P></P> Password: <INPUT MAXLENGTH = "30" NAME = "as_userpass" SIZE = "30" TYPE = "PASSWORD" VALUE=""></I></PRE><P></P><INPUT TYPE="SUBMIT" VALUE="Logon"></FORM></BODY></HTML>

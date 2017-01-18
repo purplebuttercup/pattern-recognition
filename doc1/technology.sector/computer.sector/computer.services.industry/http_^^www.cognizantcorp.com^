@@ -1,0 +1,50 @@
+Date: Mon, 29 Dec 1997 21:17:34 GMT
+Server: Apache/1.2.4
+Last-Modified: Mon, 08 Sep 1997 19:55:12 GMT
+ETag: "cb733-732-34145820"
+Content-Length: 1842
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+<!--      1492 Technologies          -->
+<!--        www.mxdii.com            -->
+<HTML>
+<HEAD>
+<TITLE>Cognizant Corporation</TITLE>
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF">
+
+<MAP NAME="top">
+<AREA SHAPE="circle" COORDS="488,54,38" HREF="docs/ims.html"> 
+<AREA SHAPE="circle" COORDS="390,53,38" HREF="docs/cognizantenterprises.html"> 
+</MAP>
+<MAP NAME="bottom">
+<AREA SHAPE="circle" COORDS="269,149,38" HREF="docs/gartner.html"> 
+<AREA SHAPE="circle" COORDS="317,38,38" HREF="docs/nielsen.html"> 
+<AREA SHAPE="circle" COORDS="220,39,38" HREF="docs/erisco.html"> 
+</MAP>
+<MAP NAME="left">
+<AREA SHAPE="rect" COORDS="15,155,163,179" HREF="docs/guestbook.html">
+<AREA SHAPE="rect" COORDS="15,126,163,150" HREF="docs/newsandevents.html">
+<AREA SHAPE="rect" COORDS="15,97,163,121" HREF="docs/employment.html">
+<AREA SHAPE="rect" COORDS="15,68,163,92" HREF="http://www.stockmaster.com/ir/CZT.html">
+<AREA SHAPE="rect" COORDS="15,39,163,63" HREF="docs/thisweek.html">
+<AREA SHAPE="rect" COORDS="15,10,163,34" HREF="docs/corpinfo.html">
+</MAP>
+
+<A HREF="/maps/top.map"><IMG SRC="art/top550125.jpg" WIDTH=550 HEIGHT=125 ALT="Divisions" ISMAP BORDER=0 USEMAP="#top"></A><BR><A HREF="/maps/left.map"><IMG SRC="art/left170373.jpg" WIDTH=170 HEIGHT=373 ALT="Site Navagation" ISMAP BORDER=0 USEMAP="#left"></A><A HREF="/maps/bottom.map"><IMG SRC="art/bottom380373.jpg" WIDTH=380 HEIGHT=373 ALT="Divisions" BORDER=0 ISMAP USEMAP="#bottom"></A>
+
+<P>
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0><TR><TD>
+<FONT SIZE=-2><A HREF="docs/copyright.html">Copyright</A> &#169; 1997, Cognizant Corporation, 200 Nyala Farms, Westport, CT 06880, USA. All rights reserved.
+<BR><A HREF="docs/safe.html">Safe Harbor Disclaimer</A>
+</TD>
+
+<TD ALIGN=RIGHT VALIGN=TOP>
+<FONT SIZE=-2><A HREF="mailto:cztwebmaster@mxdii.com">Webmaster</A>
+</TD></TR></TABLE>
+
+</BODY>
+</HTML>

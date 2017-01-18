@@ -1,0 +1,55 @@
+Server: Netscape-Enterprise/2.0a
+Date: Tue, 28 Oct 1997 19:08:35 GMT
+Accept-ranges: bytes
+Last-modified: Tue, 23 Sep 1997 18:28:12 GMT
+Content-length: 2982
+Content-type: text/html
+
+<HTML>
+<HEAD><TITLE>Welcome to ENSERCH!</TITLE></HEAD>
+<BODY BACKGROUND="./images/ltbl_bg.jpg" BGCOLOR="#00FFFF" TEXT="#000000" LINK="#0000FF" ALINK="#FF0000">
+<IMG SRC="./images/enslogo.gif" ALT="ENSERCH Corporation">
+<IMG SRC="./images/constr.gif" ALT="Under Construction" BORDER=0 HEIGHT=40 WIDTH=40 ALIGN=right>
+
+<P><H1>WELCOME TO ENSERCH!</H1>
+<P><FONT SIZE="4">Headquartered in Dallas, ENSERCH Corporation is an integrated natural-gas company with a solid business foundation spanning 87 years.  ENSERCH has established operations in natural gas and oil exploration and production, pipeline and gathering, processing and marketing, natural gas distribution and electric power generation.
+<P><FONT SIZE="4">The synergistic operating segments of the Corporation enable ENSERCH to benefit from the entire natural-gas stream.  Because of Lone Star Pipeline's extensive intrastate system, ENSERCH is highly regarded as an efficient gatherer, transporter and processor of natural gas.  Lone Star Gas Company, the Corporation's distribution segment, serves over 1.3 million customers in Texas.
+<P>
+<A HREF="enstext.html">Text Only Version</A><BR>
+<TABLE Border="5" Cellspacing="3" Cellpadding="3" Width="90%">
+<P>
+<CAPTION> </CAPTION>
+<th><H2>Business Segments</H2></th>
+<th><H2>Managing Company</H2></th>
+<tr>
+<td><A HREF="lsg.html"><IMG SRC="./images/blueball.gif" HSPACE=5  ALIGN=left BORDER=0>Distribution</A></td>
+<td><A HREF="lsg.html"><IMG SRC="./images/blueball.gif" HSPACE=5  ALIGN=left BORDER=0>Lone Star Gas Company</A></td>
+<tr><td></td>
+<tr>
+<td><A HREF="lspipe.html"><IMG SRC="./images/blueball.gif" HSPACE=5  ALIGN=left BORDER=0>Pipeline and GPM</A></td>
+<td><A HREF="lspipe.html"><IMG SRC="./images/blueball.gif" HSPACE=5  ALIGN=left BORDER=0>Lone Star Pipeline, Co.</A></td>
+<tr>
+<td></td>
+<td><IMG SRC="./images/blueball.gif" HSPACE=5  ALIGN=left BORDER=0>Enserch Processsing</td>
+<tr>
+<td> </td>
+<td><A HREF="/ees/ees00.html"><IMG SRC="./images/blueball.gif" HSPACE=5  ALIGN=left BORDER=0>Enserch Energy Services</td>
+<tr><td></td>
+<tr>
+<td><A HREF="ensdev.html"><IMG SRC="./images/blueball.gif" HSPACE=5  ALIGN=left BORDER=0>Power</A></td>
+<td><A HREF="ensdev.html"><IMG SRC="./images/blueball.gif" HSPACE=5  ALIGN=left BORDER=0>Enserch Development Corp.</A></td>
+<tr>
+<td> </td>
+<td><IMG SRC="./images/blueball.gif" HSPACE=5  ALIGN=left BORDER=0>Lone Star Energy Company</td>
+</table>
+</CENTER>
+<p><A HREF="/cgi-bin/pbcgi050.exe/PCS/uo_sadb/uof_displaylogon"><IMG SRC="./images/blueball.gif" HSPACE=5  ALIGN=left BORDER=0>LSG Business Development Information Center</A></P>
+
+<p>
+<A HREF="lspipe.html"><IMG SRC="./images/pipe.jpg" ALT="pipe" Border=2></A>
+<A HREF="lspipe.html"><IMG SRC="./images/gas.jpg" ALT="gas" Border=2></A>
+<A HREF="lsg.html"><IMG SRC="./images/flame.jpg" ALT="Lone Star Gas" BORDER=2></A>
+<A HREF="ensdev.html"><IMG SRC="./images/power.jpg" ALT="buf" Border=2></A>
+<HR SIZE=2>
+</BODY>
+</HTML>

@@ -1,0 +1,71 @@
+Server: Netscape-Enterprise/3.0
+Date: Thu, 18 Dec 1997 05:52:55 GMT
+Content-type: text/html
+Last-modified: Fri, 17 Oct 1997 22:50:34 GMT
+Content-length: 3044
+Accept-ranges: bytes
+
+<html>
+<head>
+<title>Welcome Franklin Templeton</title>
+
+</head>
+
+<body bgcolor="#ffffff" background="/public/images/shared/misc/background.gif">
+
+<img src="/public/images/gateway/frankbar.gif" ALT="Welcome to Franklin Templeton" ALIGN=TOP WIDTH="595" HEIGHT="22" BORDER=0>
+
+<p><table cellpadding=0 cellspacing=0 border=0 width=610>
+<tr>
+<td width=172 valign=top>
+<img src="/public/images/shared/navigation/sidenav/general/about_xsell.gif" width="140" height="120" border="0">
+</td>
+<td width=438 valign=top>
+<p>
+
+<img src="/public/images/gateway/welcomsquare.gif" alt="Welcome to Franklin Templeton" width="400" height="121" border="0">
+<P>Welcome to the Franklin Templeton Web site.  The information on this site is intended for U.S. Residents only. 
+If you do not reside in the U.S., please visit our <A HREF="/public/tools/offices.htm">world-wide offices</A> for information 
+on our foreign offices which can assist you with products and services legally available in your place of residence.
+
+<p><table cellpadding=8><tr><td valign=top>
+<center><a href="/public/home.htm"><img src="/public/images/gateway/enter.gif" alt="Enter" width="88" height="78" border="0"><br>
+<b><font face="arial, helvetica" size="2">Enter Franklin Templeton Online</font></b></a></center>
+</td><td valign=top>
+
+<P>1997 marks our 50<SUP>th</SUP> year of serving investors. Today, 
+we service more than 5 million shareholder accounts.
+
+<P>Our site is best viewed using
+<A HREF="http://home.netscape.com">Netscape Navigator&#153;</A> or 
+<A HREF="http://www.microsoft.com/ie/">Microsoft Internet Explorer&#153;</A>.
+
+<td></tr></table>
+<hr size = 1 noshadow>
+<P><font size="2">These materials are not an offer to sell or solicitation or offer to buy any security, nor shall any 
+security be offered or sold to any person, in any state, country or other 
+jurisdiction in which such offer, solicitation, purchase, or sale would be unlawful under
+the securities laws of any such state, country or other jurisdiction.
+
+<p>
+Remember mutual fund share prices fluctuate, and there is no assurance that the objective of any fund well be achieved.  Mutual fund shares are redeemable at the then current net asset
+value, which may be more or less than their original cost.
+<p>
+Certain types of funds, known as money market funds, seek to maintain a net asset value of $1.00 per share, 
+but there can be no assurance that they will.  An investment in a mutual fund is
+ not insured or guaranteed by the U.S. Government
+or by any other institution or entity.
+<p>
+For more information on any of our funds, consult your investment representative for a <A HREF="/public/prospectus/prospectus.htm">
+prospectus</a>, which contains important information
+about a fund's investment objective, sales charges, expenses and risk
+considerations.  Please read the prospectus before investing or sending money.
+
+</font>
+
+
+<!--#include virtual="/public/include/footer/general.htm"-->     
+      
+</td></tr></table>
+</body>
+</html>

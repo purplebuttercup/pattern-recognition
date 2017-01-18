@@ -1,0 +1,25 @@
+Server: Netscape-Enterprise/2.01
+Date: Thu, 18 Dec 1997 10:52:53 GMT
+Accept-ranges: bytes
+Last-modified: Thu, 04 Sep 1997 16:16:48 GMT
+Content-length: 499
+Content-type: text/html
+
+<html>
+<head>
+<title>
+BT Alex.Brown Municipals
+</title>
+
+<frameset rows="110,*" border=0 border=off frameborder=0 marginwidth=0 marginheight=0 scrolling=no  scrolling=off>
+	<frame src="banner.htm" name="banner" scrolling=off scrolling=no >
+	
+	<frameset cols="170,*" border=0  border=off frameborder=0 marginwidth=0 marginheight=0 scrolling=off>
+		<frame src="contacts.htm" name="left" scrolling=auto>
+		<frame src="right.htm" name="right" scrolling=auto>
+	</frameset>
+
+</frameset> 
+
+</body>
+</html>

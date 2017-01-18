@@ -1,0 +1,116 @@
+Server: Microsoft-IIS/3.0
+Date: Fri, 21 Nov 1997 03:52:54 GMT
+Content-type: text/html
+Set-Cookie: ENTRYPOINT=68386; expires=Fri, 21-Nov-1997 08:00:00 GMT; path=/
+Set-Cookie: ASPSESSIONID=FLPKGQTUFVQWEXYH; path=/
+Cache-control: private
+
+
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; iso-8859-1">
+<title>Bienvenido a Stac</title>
+<meta name="FORMATTER" content="Microsoft FrontPage 2.0">
+</head>
+
+<frameset rows="95,100%" frameborder="no" framespacing="0">
+    <frame src="navbar.html" name="Navigation Bars"
+    scrolling="no" noresize>
+    <frame src="news.html" name="News" noresize>
+    <noframes>
+    <body stylesrc="Spanish/news.html">
+    <!--webbot bot="Include" tag="BODY" u-include="news.html"
+    startspan --><table border="0">
+        <tr>
+            <td valign="top"><img src="images/banner.gif"
+            alt="Bienvenido a Stac" width="412" height="90"></td>
+        </tr>
+        <tr>
+            <td valign="top"><img
+            src="images/500_px_blue_rule.gif" width="500"
+            height="15"></td>
+        </tr>
+        <tr>
+            <td valign="top">&nbsp;</td>
+        </tr>
+    </table>
+    <table border="0" cellspacing="5">
+        <tr>
+            <td valign="top" rowspan="5" width="70"><img
+            src="images/vert_noticias.gif" alt="NOTICIAS"
+            width="44" height="310"></td>
+            <td valign="top"><p align="left"><font
+            color="#800080" size="3" face="Arial"><strong><img
+            src="images/bullet_blue_diamond.gif" width="11"
+            height="11"> </strong></font><font color="#808080"
+            size="3" face="Arial"><strong>PC Week Labs recomienda
+            Replica para el servidor Windows® NT</strong></font></p>
+            <blockquote>
+                <ul>
+                    <li><a
+                        href="http://www.pcweek.com/archive/1413/pcwk0021.html"
+                        target="_new"><font size="3"><strong>&quot;El
+                        producto de replicación de datos de Stac
+                        supera a NT Backup&quot;</strong></font></a><font
+                        size="3"> (artículo en <em>PC Week</em>,
+                        &quot;Stac's Data Replication Product
+                        Surpasses NT Backup&quot;)</font> <font
+                        size="2">(inglés)</font></li>
+                    <li><a href="download.html"><font size="3"><strong>¡Evalúe
+                        Replica para Windows NT usted mismo!<br>
+                        Consulte la página Descargar</strong></font></a><a
+                        href="download.html"><font size="3"><strong>.</strong></font></a></li>
+                </ul>
+            </blockquote>
+            </td>
+            <td align="center" valign="top">&nbsp;</td>
+        </tr>
+        <tr>
+            <td valign="top">&nbsp;</td>
+            <td align="center" valign="top">&nbsp;</td>
+        </tr>
+        <tr>
+            <td valign="top"><p align="left"><font
+            color="#800080" size="3" face="Arial"><strong><img
+            src="images/bullet_blue_diamond.gif" width="11"
+            height="11"> </strong></font><font color="#808080"
+            size="3" face="Arial"><strong>Notas de prensa</strong></font></p>
+            <blockquote>
+                <ul>
+                    <li><a href="/replica/press.html"><font
+                        size="3"><strong>Replica</strong></font></a>
+                        <font size="2">(inglés)</font></li>
+                    <li><a href="/reachout/press.html"><font
+                        size="3"><strong>ReachOut</strong></font></a><font
+                        size="3"><strong> </strong></font><font
+                        size="2">(inglés)</font></li>
+                   
+                </ul>
+            </blockquote>
+            </td>
+            <td align="center" valign="top"><img
+            src="images/press.gif" alt="Press Releases"
+            width="32" height="32"></td>
+        </tr>
+    </table>
+    <p>&nbsp;</p>
+    <p align="center"><a href="news.html"><font size="3"><strong>Noticias</strong></font></a><font
+    size="3"><strong> | </strong></font><a href="overview.html"><font
+    size="3"><strong>Productos</strong></font></a><font size="3"><strong>
+    | </strong></font><a href="honors.html"><font size="3"><strong>Premios</strong></font></a><font
+    size="3"><strong> | </strong></font><a href="download.html"><font
+    size="3"><strong>Descargar</strong></font></a><font size="3"><strong>
+    | </strong></font><a href="support.html"><font size="3"><strong>Asistencia</strong></font></a><font
+    size="3"><strong> | </strong></font><a href="purchase.html"><font
+    size="3"><strong>Comprar</strong></font></a><font size="3"><strong><br>
+    </strong></font><a href="../" target="_top"><font
+    size="3"><strong>Stac, Inc.</strong></font></a></p>
+
+</body>
+    </noframes>
+</frameset>
+</html>

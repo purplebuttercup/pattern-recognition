@@ -1,0 +1,70 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 18 Dec 1997 21:49:56 GMT
+Content-Type: text/html
+
+<html>
+<head>
+   <title>California Water Service Co.</title>
+</head>
+<body bgcolor="#FFFFFF">
+   <MAP NAME="puddlemap">
+      <AREA SHAPE=RECT COORDS="56,89,122,154"
+         HREF="/annual_report/index.stm"
+         ALT="Annual Report">
+      <AREA SHAPE=RECT COORDS="203,232,275,304"
+         HREF="/rates/index.stm"
+         ALT="Rates">
+      <AREA SHAPE=RECT COORDS="278,167,342,232"
+         HREF="/about_calwater/index.stm"
+         ALT="About Cal Water">
+      <AREA SHAPE=RECT COORDS="191,88,275,150"
+         HREF="/districts/index.stm"
+         ALT="Cal Water Districts">
+      <AREA SHAPE=RECT COORDS="47,225,122,298"
+         HREF="http://quote.yahoo.com/q?s=cwt&d=t"
+         ALT="Current Stock Quote">
+      <AREA SHAPE=RECT COORDS="354,92,431,166"
+         HREF="/press_releases/index.stm"
+         ALT="Press Releases">
+      <AREA SHAPE=RECT COORDS="125,154,199,226"
+         HREF="/conservation/index.stm"
+         ALT="Conservation">
+      <AREA SHAPE=RECT COORDS="278,235,349,315"
+         HREF="/other_sites.stm"
+         ALT="Other Useful Sites">
+      <AREA SHAPE=RECT COORDS="352,237,422,300"
+         HREF="/fyi/index.stm"
+         ALT="F.Y.I.">
+      <AREA SHAPE=RECT COORDS="73,343,174,373"
+         HREF="mailto:arubinstein@calwater.com"
+         ALT="to contact us..."></MAP>
+   <CENTER><A HREF="http://www.calwater.com/cgi-bin/imagemap/puddle.map">
+      <IMG SRC="puddle.gif" BORDER=0 HEIGHT=390 WIDTH=489 ISMAP
+      ALT="Cal Water - use text links below" 
+      USEMAP="#puddlemap"></A></CENTER>
+   <p>California Water Service Company, the largest investor-owned water
+      utility in California and the third largest in the country, has
+      provided high-quality domestic water service since 1926. Cal Water's
+      21 operating <a href="/districts/index.stm">districts</a> serve
+      approximately 1.5 million people in 56 California communities. Our
+      stock trades on the New York Stock Exchange under the trading symbol 
+      <a href="http://quote.yahoo.com/q?s=cwt&d=t">CWT</a>.
+   <HR>
+<CENTER>
+<H4> <A HREF="/index.stm">Home</A> 
+   | <A HREF="/about_calwater/index.stm">About Cal Water</A>
+   | <A HREF="/annual_report/index.stm">Annual Report</A> 
+   | <A HREF="http://quote.yahoo.com/q?s=cwt&d=t">Current Stock Quote</A> 
+   | <A HREF="/rates/index.stm">Rates</A> 
+   | <A HREF="/districts/index.stm">Cal Water Districts</A>		
+   | <A HREF="/press_releases/index.stm">Press Releases</A>
+   | <A HREF="/conservation/index.stm">Conservation</A> 
+   | <A HREF="/fyi/index.stm">F.Y.I.</A> 
+   | <A HREF="/other_sites.stm">Other Useful Sites</A>
+   | <a href="/job_opportunities/index.stm">Job Opportunities</a>
+   | <A HREF="mailto:arubinstein@calwater.com">Contact Us</a></H4>
+</CENTER>
+
+   <!--#exec cmd="echo $DATE_LOCAL - $REMOTE_HOST - $HTTP_REFERRER >> hits.txt"-->
+</body>
+</html>

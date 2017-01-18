@@ -1,0 +1,156 @@
+Date: Fri, 21 Nov 1997 03:01:55 GMT
+Server: Apache/1.2.4
+Connection: close
+Content-Type: text/html
+
+<html>
+<head><title>Search Cabletron Web</title>
+<base href="http://www.cabletron.com/Search/">
+</head>
+<body bgcolor="#ffffff">
+
+
+ <center><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0><TR>	<TD align=center><img src="/header/ctron-logo.gif" WIDTH="113" HEIGHT="44" alt="Cabletron"></TD><TD align=right><img src="/header/search-hdr.gif" WIDTH="299" HEIGHT="28" ALT="Search">&nbsp;</TD></TR><TR valign=top><TD><nobr><a href="/"><img src="/header/home.gif" WIDTH="38" HEIGHT="20" ALT="Home" border=0></a><a href="/Search/"><img src="/header/searchH.gif" WIDTH="46" HEIGHT="20" ALT="Search" border=0></a><a href="/Talk-to-Us.html"><img src="/header/mail.gif" WIDTH="39" HEIGHT="20" ALT="Mail" border=0></a></nobr></td><td><nobr><A HREF="/products/"><img src="/header/products.gif" WIDTH="66" HEIGHT="20" BORDER="0" ALT="Products"></A><A HREF="/news/"><img src="/header/news.gif" WIDTH="41" HEIGHT="20" BORDER="0" ALT="News"></A><A HREF="/corporate/"><img src="/header/corporate.gif" WIDTH="65" HEIGHT="20" BORDER="0" ALT="Corporate"></A><A HREF="/support/"><img src="/header/support.gif" WIDTH="57" HEIGHT="20" BORDER="0" ALT="Support"></A><A HREF="/events/"><img src="/header/events.gif" WIDTH="45" HEIGHT="20" BORDER="0" ALT="Events"></A><A HREF="/programs/"><img src="/header/programs.gif" WIDTH="62" HEIGHT="20" BORDER="0" ALT="Programs"></A><A HREF="/world/"><img src="/header/international.gif" WIDTH="87" HEIGHT="20" BORDER="0" ALT="International"></A></nobr></TD></TR></TABLE></center><br>
+<!--   end of server header   -->
+
+
+
+
+
+
+<center><IMG SRC="search-options.gif" WIDTH="195" HEIGHT="27" BORDER=0 ALT="Search Options">
+<table><tr><td><ul>
+<li><img src="/images/new.gif" width=28 height=11 alt="New!" hspace=4><font size="+1"><a href="/products/toc.html"><font size="+1">Product Index</font size></a>
+<LI><A HREF="#search-web">Search the Cabletron web site</A> -- this search is to be used to locate information anywhere on Cabletron's web<B><I> except</I></B> for the Technical Support web site.  
+<LI><A HREF="#tech-search">Technical Support web site</A> -- use this search to locate any technical support documentation.
+
+<li> <a href="SiteMap.html"><font size="+1">Site Map (Topics)</font size></a>
+<li> <a href="SiteMapFull.html"><font size="+1">Site Map (Documents)</font size></a>
+</ul></td></tr></table></center>
+
+
+<A NAME="search-web"></A>
+<center>
+<IMG SRC="search-web.gif" WIDTH="333" HEIGHT="23" Border=0 ALT="Search the Cabletron Web"><P>
+
+<TABLE border=1 bgcolor="#efefef"><TR><TD>
+<Table>
+
+<tr><td valign=middle>
+
+<FORM ACTION="/cgi-bin/Search" METHOD="POST">
+
+
+<center>
+Enter
+<SELECT name="mode">
+	<OPTION VALUE="simple" Selected>keywords
+	<OPTION VALUE="concept">words describing a concept
+</select>
+
+<INPUT name="search" size=55>
+<INPUT TYPE="submit" NAME="SearchButton" value="Go">
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</center><br>
+<center><font size="-1">This search tool provided by <a href="http://www.excite.com/navigate/">Excite</a>. Documentation about <a href="/Search/AT-queryhelp.html">making
+queries</a> is available.</font size></center>
+</td>
+</tr>
+</table></center>
+</TD></TR></TABLE>
+
+</FORM>
+<p>
+
+<FORM ACTION="/support/search.cgi" METHOD=POST>
+<a name="tech-search"></A>
+<CENTER>
+
+	<IMG SRC="search-support.gif" WIDTH="314" HEIGHT="26" BORDER="0" alt="Search Support Web-site"><P>
+
+
+<TABLE border=1 bgcolor="#efefef" cellpadding=8><TR><TD>
+
+<TABLE border=0 >
+
+
+
+
+<TR>
+	<td>Keywords<hr noshade size=1></td>
+	<td>Document Type<hr noshade size=1></td>
+	<td>Product Family<hr noshade size=1></td>
+</TR>
+
+
+
+<TR valign=top>
+<TD>
+	<center><INPUT TYPE="text" NAME="keyWord"></center><br>
+	Match: 
+	<select name=type>
+		<option value=and> all words
+		<option value=or> any words
+		<option value=phrase> phrase
+	</select>
+</td>
+
+
+
+<TD>
+	<INPUT TYPE="checkbox" NAME="dir" value="techtips" CHECKED>Technical Tips<br>
+	<INPUT TYPE="checkbox" NAME="dir" value="trbltips">Troubleshooting Tips<br>
+	<INPUT TYPE="checkbox" NAME="dir" value="techbltn">Technical Bulletins<br>
+	<INPUT TYPE="checkbox" NAME="dir" value="appnotes">Application Notes<br>
+	<INPUT TYPE="checkbox" NAME="dir" value="faqs">FAQS<br>
+	<INPUT TYPE="checkbox" NAME="dir" value="relnotes">Release Notes
+</TD>
+
+
+
+<td>
+	<INPUT TYPE="checkbox" NAME="fam" value="MMAC Plus Switching">MMAC Plus Switching<br>
+	<INPUT TYPE="checkbox" NAME="fam" value="SmartSwitches">SmartSwitches<br>
+	<INPUT TYPE="checkbox" NAME="fam" value="ATX LAN Switch">ATX LAN Switch<br>
+	<INPUT TYPE="checkbox" NAME="fam" value="Standalone Switches">Standalone Switches<br>
+	<INPUT TYPE="checkbox" NAME="fam" value="WAN Solutions">WAN Solutions<br>
+	<INPUT TYPE="checkbox" NAME="fam" value="MMAC Modular Hub">MMAC Modular Hub<br>
+	<INPUT TYPE="checkbox" NAME="fam" value="Standalone Hubs">Standalone Hubs<br>
+	<INPUT TYPE="checkbox" NAME="fam" value="Other Connectivity">Other Connectivity<br>
+	<INPUT TYPE="checkbox" NAME="fam" value="Enterprise Management">Enterprise Management<br>
+</TD>
+<td>
+
+</TD></TR>
+</TABLE>
+<center><INPUT TYPE="submit" VALUE="Go"></center>
+</TD></TR>
+</TABLE>
+</FORM>
+</CENTER></center>
+
+
+
+
+
+
+<!--   start of server trailer   -->
+
+
+
+<hr><table border=0 cellspacing=0 cellpadding=0 width="100%"><tr valign=top><td><p><font size=-1><strong><A HREF="http://www.cabletron.com/Copyright.html" target="_top">
+Copyright</a> &#169;1995-1997 by Cabletron Systems</strong><br>
+Last modified Friday, 1-Aug-97 16:51 EDT<br>http://www.cabletron.com/Search/<br></font></p></td><td><tt> &nbsp; </tt></td><td align=right valign=top>
+<table border=0 cellspacing=0 cellpadding=0><tr><td valign=top align=left>
+<p><font size=-1>
+Cabletron Systems<br>
+35 Industrial Way<br>
+Rochester, NH 03866 &nbsp;
+U.S.A.<br>
+Phone: +1 (603) 332-9400<br>
+Fax: +1 (603) 337-2211
+</font></p></td></tr></table></td></tr></table>
+</BODY></HTML>
+
+
+

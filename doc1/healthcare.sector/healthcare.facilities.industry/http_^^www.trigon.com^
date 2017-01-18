@@ -1,0 +1,55 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 18 Dec 1997 18:22:39 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Fri, 14 Nov 1997 20:55:09 GMT
+Content-Length: 2094
+
+<!--This file created 11/14/97 3:55 PM by Claris Home Page version 2.0-->
+<HTML>
+<HEAD>
+   <TITLE>Welcome to Trigon Healthcare, Inc.</TITLE>
+   <META NAME=GENERATOR CONTENT="Claris Home Page 2.0">
+   <X-SAS-WINDOW TOP=90 BOTTOM=626 LEFT=166 RIGHT=832>
+   <X-SAS-REMOTESAVE SERVER="207.87.26.226" USER="trigon" DIR=""
+   FILE="default.htm">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1"><!--This file created 11/10/97 7:47 PM by Claris Home Page version 2.0-->
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+
+<H6><CENTER><MAP NAME="map1">
+   <AREA SHAPE=RECT COORDS="0,0,273,73" NOHREF>
+   <AREA SHAPE=RECT COORDS="303,246,337,263" NOHREF>
+   <AREA SHAPE=RECT COORDS="296,231,344,246" NOHREF>
+   <AREA SHAPE=RECT COORDS="286,217,352,232" NOHREF>
+   <AREA SHAPE=RECT COORDS="278,200,364,218" NOHREF>
+   <AREA SHAPE=RECT COORDS="267,183,370,200" NOHREF>
+   <AREA SHAPE=RECT COORDS="260,166,379,184" NOHREF>
+   <AREA SHAPE=RECT COORDS="253,149,391,166" NOHREF>
+   <AREA SHAPE=RECT COORDS="462,160,546,207" HREF="relations.html">
+   <AREA SHAPE=RECT COORDS="328,153,477,283" HREF="relations.html">
+   <AREA SHAPE=RECT COORDS="92,207,180,270" HREF="indexbcbs.html">
+   <AREA SHAPE=RECT COORDS="168,150,313,283" HREF="indexbcbs.html">
+   <AREA SHAPE=RECT COORDS="393,28,487,90" HREF="aboutthc.html">
+   <AREA SHAPE=RECT COORDS="246,14,398,147" HREF="aboutthc.html">
+</MAP><IMG USEMAP="#map1" SRC="trigontriangles.gif"
+ALT="Trigon Healthcare, Inc." WIDTH=562 HEIGHT=290
+X-SAS-UseImageWidth X-SAS-UseImageHeight BORDER=0 ALIGN=bottom>
+</CENTER></H6>
+
+<H6><CENTER>
+<HR>
+<B>Copyright 1997, Trigon Healthcare, Inc.</B></CENTER></H6>
+
+<H6><CENTER><B>Trigon Blue Cross Blue Shield is the trade name of
+Trigon Insurance Company</B></CENTER></H6>
+
+<H6><CENTER><B>An Independent licensee of the Blue Cross and Blue
+Shield Association.</B></CENTER></H6>
+
+<P><CENTER><B><FONT COLOR="#AF0000">For questions about or problems
+with our web site please e-mail the
+</FONT><A HREF="mailto:webmaster@trigon.com">WebMaster</A></B>
+</CENTER></P>
+</BODY>
+</HTML>

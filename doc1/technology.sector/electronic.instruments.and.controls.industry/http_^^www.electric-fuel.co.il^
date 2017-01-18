@@ -1,0 +1,58 @@
+Date: Fri, 21 Nov 1997 03:59:00 GMT
+Server: RapidSite/Apa-1.2.4 FrontPage
+Last-Modified: Wed, 15 Oct 1997 12:25:14 GMT
+ETag: "cd07bb-dc1-3444b62a"
+Content-Length: 3521
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+X-Pad: avoid browser bug
+
+<HTML><HEAD>
+<TITLE>Electric Fuel</TITLE>
+<META  name="keywords" content="Electric Fuel, electric vehicles, electric, fuel, Electric-Fuel, fueled,electric fuel, Electric Fuel Ltd, vehicles,  elec, zinc-air, zinc-air battery, energy storage system, sustainable transport, alternative fuel, battery, batteries">
+<META  name="description" 
+content="Electric Fuel develops, produces and commercializes a zinc-air energy system for powering electric 
+vehicles. It uses a proprietary zinc-air technology that is ideal for use by fleet operators. Fleet vehicles 
+continuously drive on inner city routes and are a major cause of urban air pollution. 
+Fleets use central hubs for their large number of vehicles and are well suited for the installation of the 
+infrastructure required to adapt to new technology, such as the Electric Fuel zinc-air system. As large 
+fleet operators adopt electric vehicles, an expanded Electric Fuel infrastructure would become available 
+to small fleet operators and eventually to individuals.
+In field trials with major European entities, Electric Fuel is proving the commercial viability of its battery 
+system by regularly demonstrating 350 to 450 km in actual drive cycles.
+The Electric Fuel zinc-air battery consists of a battery pack with removable zinc-anode cassettes. The 
+battery currently provides an energy density of over 180 Wh/kg and 100 W/kg. An automated battery 
+exchange unit located at the fleet garage or at a refueling station enables rapid vehicle turn-around. A 
+refueling machine is used to replace the depleted anode cassettes with recycled and recharged cassettes. In 
+the regeneration process, the discharged zinc oxide is dissolved in an electrolytic process that forms 
+charged zinc particles that are then made into new anode cassettes.
+World Sustainable Energy Trade Fair STAND 8030">
+</HEAD>
+<BODY BGCOLOR="ffffff" LINK="009C31">
+
+
+
+<TABLE BORDER=0 CELLSPACING="0" CELLPADDING="0"><TR><TD COLSPAN=3 NOWRAP><NOBR><IMG SRC="pics/welcom2.gif" WIDTH="278" HEIGHT="97" ALT="Welcome to"><IMG SRC="pics/usawelcomer.jpg" WIDTH="293" HEIGHT="97" ALT="Electric Fuel Ltd."></NOBR></TD></TR>
+<TR>
+<TD><IMG SRC="pics/pixel.gif" WIDTH="93" HEIGHT="1"></TD>
+<TD ALIGN=right><IMG SRC="pics/usaxtop.gif" WIDTH="365" HEIGHT="151" BORDER="0" ALT="Electric Fuel Menu" USEMAP="#frontmap" ISMAP></TD>
+<TD VALIGN=top><A HREF="usa/index.html"><IMG SRC="pics/usaballoon.jpg" WIDTH="120" HEIGHT="93" BORDER="0" ALT="Electric Fuel in USA"></A></TD></TR></TABLE>
+
+
+<MAP NAME="frontmap">
+<AREA COORDS="53,18,137,40" HREF="news/index.html" onMouseOver="window.status='News Archive';return true;">
+<AREA COORDS="195,19,298,40" HREF="event/index.html" onMouseOver="window.status='Events';return true;">
+<AREA COORDS="23,40,163,63" HREF="techno/index.html" onMouseOver="window.status='Technology';return true;">
+<AREA COORDS="165,41,324,62" HREF="evpro/index.html" onMouseOver="window.status='EV Programs';return true;">
+<AREA COORDS="109,64,352,83" HREF="howfar/index.html" onMouseOver="window.status='How far Can You Go?';return true;">
+<AREA COORDS="68,83,280,104" HREF="invest/index.html" onMouseOver="window.status='Investor Relations';return true;">
+<AREA COORDS="17,105,201,127" HREF="compro/index.html" onMouseOver="window.status='Company Profile';return true;">
+<AREA COORDS="207,106,346,126" HREF="contact/index.html" onMouseOver="window.status='Contact Us';return true;">
+</MAP>
+
+
+<BR>
+<CENTER><A HREF="mailto:info@electric-fuel.com">info@electric-fuel.com</A></CENTER>
+</BODY>
+</HTML>

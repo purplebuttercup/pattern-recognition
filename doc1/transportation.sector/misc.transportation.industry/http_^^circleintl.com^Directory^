@@ -1,0 +1,82 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 20 Nov 1997 15:59:08 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Wed, 01 Oct 1997 15:03:56 GMT
+Content-Length: 2674
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Company Directory</title>
+</head>
+
+<body bgcolor="#FFFFFF">
+
+<p align="center"><img src="../images/Circle.gif" width="190"
+height="54"><img src="../images/Directory.gif" width="278"
+height="54"> </p>
+
+<table border="0" width="100%">
+    <tr>
+        <td><img src="../images/Americas.gif" width="152"
+        height="151"></td>
+        <td><img src="../images/EurAfr.gif" width="152"
+        height="151"></td>
+        <td><img src="../images/AsiaPacific.gif" width="152"
+        height="151"></td>
+    </tr>
+    <tr>
+        <td><a href="NorthAmerica/index.html"><img
+        src="../images/blue.gif" align="middle" border="0"
+        width="24" height="23">North America</a></td>
+        <td><a href="Europe/index.html"><img
+        src="../images/blue.gif" align="middle" border="0"
+        width="24" height="23">Europe</a></td>
+        <td><a href="Asia/index.html"><img
+        src="../images/blue.gif" align="middle" border="0"
+        width="24" height="23">Asia</a></td>
+    </tr>
+    <tr>
+        <td><a href="LatinAmerica/index.html"><img
+        src="../images/blue.gif" align="middle" border="0"
+        width="24" height="23">Latin America</a></td>
+        <td><a href="MiddleEast/index.html"><img
+        src="../images/blue.gif" align="middle" border="0"
+        width="24" height="23">Middle East</a></td>
+        <td><a href="SouthPacific/index.html"><img
+        src="../images/blue.gif" align="middle" border="0"
+        width="24" height="23">South Pacific</a></td>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+        <td><a href="Africa/index.html"><img
+        src="../images/blue.gif" align="middle" border="0"
+        width="24" height="23">Africa</a></td>
+        <td>&nbsp;</td>
+    </tr>
+</table>
+
+<hr>
+
+<p align="center">[ <a href="../index.htm">Home</a> ] [ <a
+href="../WhatsNew/index.html">What's New</a> ] [ <a
+href="../Services/index.html">Services</a> ] [ <a
+href="../Financials/index.html">Financials</a> ] [ <a
+href="../Newsletters/index.html">Newsletters</a> ]<br>
+[ <a href="../CEO.html">CEO</a> ] [ <a
+href="../ExpertAdvice/index.html">Advice</a> ] [ <a
+href="index.html">Directory</a> ] [ <a href="../Incoterms.html">Incoterms</a>
+] [ <a href="../Resources.html">Resources</a> ] </p>
+
+<hr>
+
+<p align="center"><a href="../">Circle International</a> / 1
+(415) 978 0600 / <a href="mailto:marketing@circleintl.com">marketing@circleintl.com</a>
+</p>
+</body>
+</html>

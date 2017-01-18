@@ -1,0 +1,53 @@
+Server: Netscape-Enterprise/2.01
+Date: Fri, 21 Nov 1997 03:55:32 GMT
+Accept-ranges: bytes
+Last-modified: Mon, 25 Aug 1997 21:51:48 GMT
+Content-length: 1236
+Content-type: text/html
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; iso-8859-1">
+<META name="keywords" content="
+	switches, 
+	Solid State relay, 
+	solid state switch, 
+	solid state surge arrester,
+	current sensor,
+	linear optocoupler,
+	linear isolation amplifier,
+	modem isolation transformer,
+	current sensor,
+	integrated telecom circuit,
+	data access arrangement,
+	transient voltage suppressor,
+	gas discharge tube,
+	metallic oxide varistor,
+	trigger gap,
+	spark gap,
+	surge protection,
+	dry reed relay,
+	grid relay,
+	electromechanical relay,
+	magnetic proximity switches,
+	magnetic sensors,
+	reed witches">
+
+<title>index.html </title>
+</head>
+
+<frameset FRAMESPACING="0" FRAMEBORDER="NO" FRAMEPADDING="0" cols="151,*" border="0" bordercolor="#ffffff">
+    <frame name="frameL" src="homebn2.html" scrolling="auto"
+    marginwidth="0" marginheight="0">
+    <frame src="home.html" name="frameR">
+    <noframes>
+    <body>
+    <center><p>This site uses frames and JavaScript. For best
+    viewing please use Netscape Navigator 3 or higher. Microsoft
+    Internet Explorer 3 or later may also be used without optimal
+    results. </center> </p>
+    </body>
+    </noframes>
+</frameset>
+</html>

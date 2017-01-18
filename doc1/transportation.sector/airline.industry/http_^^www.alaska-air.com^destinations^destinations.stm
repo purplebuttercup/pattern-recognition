@@ -1,0 +1,86 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 20 Nov 1997 15:59:20 GMT
+Content-Type: text/html
+
+<HTML> <!--Copyright 1996-1997, Alaska Airlines and Horizon Air -->
+<HEAD>
+<TITLE> Alaska Airlines &amp; Horizon Air / Destinations / Sites </TITLE>
+</HEAD>
+<BODY BACKGROUND="/Shared/K_Background.gif" >
+<TABLE BORDER=0 CELLPADDING="2"><!-- Page Table -->
+ 
+<TR>
+<TD><PRE>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</PRE></td>
+
+<TD><TABLE><!-- Content Table -->
+
+<TR>
+<TD colspan=2>
+<IMG WIDTH=280 HEIGHT=60  SRC="/destinations/Shared/T_Destinations.gif">
+<br><P>
+<b>Where do you want to go?</b><P>
+Alaska Airlines and Horizon Air serve more than 70 cities in Alaska, Canada, Mexico, Russia and seven Western states.  Listed below are a few of these destinations.  Watch for more to be added. <P></P>Select a category by clicking on its name.
+</TD>
+</TR>
+ 
+<TR>
+<TD nowrap><BLOCKQUOTE><A HREF="/destinations/alaska/HTML/AlaskaOverview.stm">Alaska Overview</A><BR>
+<A HREF="/destinations/alaska/HTML/AlaskaSights.stm">Alaska Sights</A><br>
+<A HREF="/destinations/LAX/HTML/LAXOverview.stm">Los Angeles Overview</A><BR>
+<A HREF="/destinations/LAX/HTML/LAXSights.stm">Los Angeles Sights</A><BR>
+<A HREF="/destinations/Mexico/HTML/MexicoOverview.stm">Mexico Overview</A><BR>
+<A HREF="/destinations/Mexico/HTML/MexicoSights.stm">Mexico Sights</A><br>
+<A HREF="/destinations/sea/HTML/SEAOverview.stm">Seattle Overview</A><BR>
+<A HREF="/destinations/sea/HTML/SeaSights.stm">Seattle Sights</A><BR>
+</blockquote>
+</TD>
+
+<TD><IMG SRC="/Destinations/shared/A_Look_Man.gif" ALIGN=LEFT WIDTH="288" HEIGHT="194" BORDER="0" HSPACE="0">
+</TD>
+</TR>
+
+<TR>
+<TD colspan=2 align=center nowrap>
+<HR width=65%>
+
+<FONT SIZE=-1>
+<A HREF="/contents.stm">Home</A>&nbsp;/&nbsp;
+<A HREF="http://207.108.221.3/rez/cgi-bin/Sched.acgi">
+Schedules</A>&nbsp;/&nbsp;
+<A HREF="http://207.108.221.3/rez/cgi-bin/Rez.acgi">
+Reservations</A>&nbsp;/&nbsp;
+<A HREF="/WebSpecials/start.asp">Web Specials</A>&nbsp;/&nbsp;
+<A HREF="/IT/IT.stm">Instant Travel</A>
+<BR>
+<A HREF="/easypak/qx_easypak.stm">EasyPAK Booklets</A>&nbsp;/&nbsp;
+<A HREF="/mileageplan/start.asp">Mileage Plan Account Info</A>&nbsp;/&nbsp;
+<A HREF="/Cargo/html/AS_QX_CargoIndex.stm">Cargo</A>
+<BR>
+<A HREF="/destinations/Routemap.stm">Route Map</A>&nbsp;/&nbsp;
+<A HREF="/AS_QX_VacationsIndex/AS_QX_VacationsIndex.stm">Vacations</A>&nbsp;/&nbsp;
+<A HREF="/destinations/destinations.stm">City Info</A>&nbsp;/&nbsp;
+<A HREF="/RussianFarEast/NewRussia.stm">Russia</A>&nbsp;/&nbsp;
+<A HREF="/CompanyInfo/Press/html/PressReleases.stm">Press Releases</A>
+<BR>
+<A HREF="/CompanyInfo/jobs/html/joblist.stm">Job Opportunities</A>&nbsp;/&nbsp;
+<A HREF="/help/faqs/html/faq.stm">FAQs</A>&nbsp;/&nbsp;
+<A HREF="/help/site/html/browsers.stm">Browsers</A>&nbsp;/&nbsp;
+<A HREF="/help/site/html/navigate.stm">Site Help</A></FONT>
+
+<p>
+Comments:<A HREF="mailto:Distribution.Technologies@AlaskaAir.com">Supervisor, Distribution Technologies</A>
+<BR>Alaska Airlines 1-800-426-0333 &nbsp; Horizon Air 1-800-547-9308
+<br>
+URL: www.alaskaair.com or www.horizonair.com
+
+
+</td>
+</tr>
+</TABLE><!-- Content Table -->
+
+</td>
+</tr>
+</TABLE><!-- Page Table -->
+
+</BODY>
+</HTML>

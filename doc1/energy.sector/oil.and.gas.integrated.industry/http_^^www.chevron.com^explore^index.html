@@ -1,0 +1,121 @@
+Server: Netscape-Communications/1.1
+Date: Wednesday, 19-Nov-97 23:48:31 GMT
+Last-modified: Friday, 23-May-97 23:52:59 GMT
+Content-length: 2893
+Content-type: text/html
+
+<HTML>
+<HEAD><TITLE>
+Exploration Zone
+</TITLE><script language=JavaScript>
+<!--
+var NavWindow=null
+//make sure nav window has focus--close it and reopen
+function NavWindowOpen(){
+	if (document.cookie=='navopen'){
+		NavWindow=open('','NavWindow')
+		NavWindow.close()
+	}
+	timerID=setTimeout('NavWindowOpen1()',1)
+}
+function NavWindowOpen1(){
+	NavWindow = open('', 'NavWindow', 'resizable=1,width=290,height=300');
+//identify this window to the nav window as opener
+	if (NavWindow !=null){
+		if (NavWindow.opener==null){
+			NavWindow.opener=self
+		}
+	NavWindow.location.href='http://' + location.host + '/chevron_root/nav_window.html'
+	}
+}
+//work-around for mac NS2.0 bug--open it twice for page to load
+if (document.cookie){
+	var index=document.cookie.indexOf("NavWindowOpen")
+	if (index>-1){
+		NavWindowOpen()
+	}
+}
+//-->
+</script>
+</HEAD>
+
+<FRAMESET COLS="125,*" BORDER=0 FRAMEBORDER=0>
+
+<FRAME NAME="small_window" SRC="control.html">
+<FRAME NAME="large_window" SRC="main.html">
+
+</FRAMESET>
+
+
+<noframes>
+
+<BODY bgcolor="#FFFFFF" text="#000000" link="#003366" vlink="#cc0000" alink="#ffffff">
+<br>
+<table border=0 cellspacing=0 cellpadding=0>
+
+<tr>
+<td><IMG SRC="Hexplore.gif" height=72 align="right" alt="Exploration Zone"></td>
+</tr>
+
+<tr><td>
+
+<table border=0 cellpadding=0 cellspacing=0>
+
+<tr>
+<td colspan=2><IMG SRC="../common_graphics/filldot.gif" height=12></td>
+</tr>
+
+<tr>
+<td><IMG SRC="../common_graphics/indic2.gif" height=20></td><td><a href="history/main.html"><font size=+1 face=helvetica><strong>CHEVRON MUSEUM</strong></font></a></td>
+</tr>
+
+<tr>
+<td></td><td>
+<dl>
+<dd><A HREF="history/hst_road/index.html">History by the Side of the Road: The Evolution of Chevron Service Stations</A>
+<dd><A HREF="history/arab50/index.html">A Difficult Oil Discovery that Changed the History of the Oil Industry</A>
+<dd><A HREF="history/shipping/index.html">Hale, Hearty and a Hundred: The History of Chevron Shipping</A>
+</dl>
+</td></tr>
+
+<tr>
+<td colspan=2><IMG SRC="../common_graphics/filldot.gif" height=12></td>
+</tr>
+
+<tr>
+<td><IMG SRC="../common_graphics/indic2.gif" height=20></td><td><a href="science/main.html"><font size=+1 face=helvetica><strong>CHEVRON LEARNING CENTER</strong></font></a></td>
+</tr>
+
+<tr>
+<td></td><td>
+<dl>
+<dd><A HREF="science/crude/index.html">What is crude oil?</A>
+<dd><A HREF="science/refinery/index.html">What is a refinery?</A>
+<dd><A HREF="science/primer/index.html">A Prospecting Primer</A>
+<dd><A HREF="science/station/index.html">What is a Service Station?</A>
+</dl>
+</td>
+</tr>
+
+<tr>
+<td colspan=2><IMG SRC="../common_graphics/filldot.gif" height=12></td>
+</tr>
+
+</table>
+
+</td></tr>
+</table>
+
+<p>
+<hr>
+<br>
+<center>
+<font size="-1">| <a href=../index.html target="_top">Home</a> |
+</font>
+</center>
+<p>
+</BODY>
+
+</noframes>
+
+</HTML>

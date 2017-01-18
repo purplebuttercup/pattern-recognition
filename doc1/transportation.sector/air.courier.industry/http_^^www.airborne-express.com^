@@ -1,0 +1,106 @@
+Server: Netscape-Enterprise/2.01
+Date: Thu, 20 Nov 1997 15:37:41 GMT
+Accept-ranges: bytes
+Last-modified: Fri, 14 Nov 1997 22:09:24 GMT
+Content-length: 3251
+Content-type: text/html
+
+<HTML>
+
+<!--File: index.htm-->
+<!--Date Last Modified: 09/05/97-->
+
+<HEAD>
+<META NAME="keywords"                                                  
+CONTENT="airborne, airborne express, airbourne, airborn, shipping,  
+shipment, overnight, express, freight, transportation, logistics, air
+courier, sky courier, mail, air cargo, carrier, warehousing, tracking,
+delivery, package, distribution, same-day, next-day, second-day,       
+LIGHTSHIP, Libra, Flight-Ready, fedex, federal express, ups, united    
+parcel service, dhl, dhl worldwide express, burlington air express">     
+<META NAME="description"                                              
+CONTENT="Information on Airborne Express, the third largest and      
+fastest growing international air express delivery carrier in America.">
+<TITLE> Airborne Express - Express Shipment Delivery Carrier</TITLE>    
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+
+<!--======This is the Client Side Image Map for the Home Page=======-->
+<CENTER>
+<MAP NAME=home>
+<AREA SHAPE=rect COORDS= "0,148, 72,182" HREF="about/about.htm">
+<AREA SHAPE=rect COORDS= "26,86, 94,108" HREF="prodserv/prodserv.htm">
+<AREA SHAPE=rect COORDS= "92,38, 165,68" HREF="using/using.htm">
+<AREA SHAPE=rect COORDS= "237,37, 300,69" HREF="news/news.htm">
+<AREA SHAPE=rect COORDS= "307,76, 390,108" HREF="comment/comment.htm">
+<AREA SHAPE=rect COORDS= "335,161, 411,182" HREF="toc/toc.htm">
+<!--<AREA SHAPE=rect COORDS= "2,194, 111,283" HREF="about/histhigh.htm">-->
+<AREA SHAPE=default  NOHREF>
+</MAP>
+
+<MAP NAME=trace>
+<AREA SHAPE=rect COORDS="0,0, 92,101" HREF="trace/trace.htm">
+</MAP>
+
+<NOBR>
+<IMG SRC="pictures/anim.gif" USEMAP="#trace" BORDER=0 ALT="Track Your Shipment">
+<IMG SRC="pictures/home.gif" USEMAP="#home" BORDER=0 ALT="Airborne Index">
+</NOBR>
+</CENTER>
+<!--==============================================================-->
+
+<!--=====Text Directory===========================================-->
+
+<HR>
+<CENTER>
+<FONT SIZE=-1><A HREF="news/thanks.htm">Thanksgiving Day Holiday Schedule</A></FONT>
+</CENTER>
+<HR>
+<CENTER>
+   <FONT SIZE=-1>
+     <A HREF="trace/trace.htm">Track Your Shipment</A> |
+     <A HREF="about/about.htm">About Airborne</A> |
+     <A HREF="prodserv/prodserv.htm">Services</A> |
+     <A HREF="using/using.htm">Using Airborne</A> |
+     <A HREF="news/news.htm">What's New?</A> |
+     <A HREF="comment/comment.htm">Comments</A> |
+     <A HREF="toc/toc.htm">Contents</A>
+     </FONT>
+</CENTER>
+<!--==============================================================-->
+<HR>
+  <CENTER>
+    <FONT SIZE=-1><A HREF="about/career.htm">Career Opportunities</A></FONT>
+  </CENTER>
+<HR>
+
+<CENTER>
+   <FONT SIZE=-2>
+     &copy; 1997 Airborne Freight Corporation -- All Rights Reserved
+   </FONT>
+</CENTER>
+
+<HR>
+
+<CENTER>
+<FONT SIZE=-1>
+Best experienced with<BR>
+<TABLE>
+<TR>
+<TD><A HREF="http://www.microsoft.com/ie/default.asp">
+<IMG SRC="pictures/msexpl.gif" width="88" height="31" border="0" alt="Microsoft Internet Explorer" vspace = "7"></A><BR>
+<TD>&nbsp
+<TD>or
+<TD>&nbsp
+<TD><A HREF="http://www.netscape.com/comprod/mirror/">
+<IMG SRC="pictures/netscp.gif" width="88" height="31" border="0" alt="Download Netscape" vspace = "7"></A><BR>
+<TR>
+</TABLE>
+Click to download
+</FONT>
+</CENTER>
+
+</BODY>
+
+</HTML>

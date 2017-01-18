@@ -1,0 +1,9 @@
+WWW Alert:  Redirection response from server is not handled by this client
+Server: Netscape-Commerce/1.12
+Date: Friday, 21-Nov-97 04:12:55 GMT
+Location: http://www.kemet.com/prod/tantalum/
+Content-type: text/html
+Content-length: 221
+
+<HTML><HEAD><TITLE>Found</TITLE></HEAD><BODY><H1>Found</H1>
+This document has moved to a new <a href="http://www.kemet.com/prod/tantalum/">location</a>. Please update your documents and hotlists accordingly.</BODY></HTML>

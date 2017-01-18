@@ -1,0 +1,363 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 20 Nov 1997 15:43:12 GMT
+Content-type: text/html
+Set-Cookie: AMERICAWEST=ETOVERSION=1%2E1; expires=Tue, 21-Dec-1999 06:00:00 GMT; path=/
+Set-Cookie: ASPSESSIONID=OUYRWOSPOFGFDKVP; path=/
+Cache-control: private
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>America West Airlines Home Page</title>
+</head>
+
+<body background="images/zigzag.gif" bgcolor="#FFFFFF"
+link="#008080" topmargin="8" leftmargin="3">
+<script language="JavaScript">
+<!-- Begin Put this script into the head of the page
+function isMsie4orGreater() { 
+
+	var ua = window.navigator.userAgent;   var msie = ua.indexOf ( "MSIE " );
+
+	if  (msie > 0)
+
+		{return (parseInt ( ua.substring ( msie+5, ua.indexOf ( ".", msie ) ) ) >=4) && (ua.indexOf("MSIE 4.0b") <0) ;}
+
+	else {return false;}
+
+}
+
+
+
+ie4 = ((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 4 ));
+
+// -->
+
+</script><script
+language="JavaScript">
+
+
+
+function mouseover(){
+
+	if (ie4){
+
+  		event.srcElement.style.color="red";
+
+  	}
+
+}
+
+
+
+function mouseout(){
+
+	if (ie4){
+
+  		event.srcElement.style.color="teal";
+
+  	}
+
+}
+
+// -->
+
+</script>
+
+<p align="center"><a
+href="http://www.microsoft.com/ie/ie40/download/?/ie/ie40/download/redirect.htm"
+name="awacdf"><img src="images/microsoft/ieaddchannel.gif"
+border="0" width="136" height="20"></a> <script
+language="JavaScript">
+
+  if ( isMsie4orGreater()) { awacdf.href ="http://www.americawest.com/americawestairlines.cdf"; }
+
+</script> </p>
+<div align="center"><center>
+
+<table border="0" cellpadding="0" cellspacing="0" width="579">
+    <tr>
+        <td colspan="3" width="457"><img
+        src="images/homepage/awa_logo1a.gif" width="457"
+        height="59"> </td>
+        <td rowspan="3" width="121"><a
+        href="eto/skycap_intro.htm"><img
+        src="images/homepage/animation_home.gif"
+        alt="Effortless Ticketing Online" border="0" width="121"
+        height="85"></a></td>
+    </tr>
+    <tr>
+        <td width="22"><img
+        src="images/homepage/weird_spacer.gif" width="40"
+        height="22"></td>
+        <td align="center" width="413"><font size="2"
+        face="ARIAL,HELVETICA,SANS-SERIF"><strong>Thursday, November 20, 1997</strong></font></td>
+        <td width="22"><img
+        src="images/homepage/weird_spacer.gif" width="40"
+        height="22"></td>
+    </tr>
+    <tr>
+        <td valign="bottom" colspan="3" width="457"><img
+        src="images/homepage/logo_line.gif" width="457"
+        height="1"></td>
+    </tr>
+</table>
+</center></div><div align="left">
+
+<table border="0" cellpadding="0" cellspacing="0" width="590">
+    <tr>
+        <td align="center">
+<applet code="Marquee" codebase="classes" align="baseline" width="519" height="67">
+<param name="BGColor" value="#FFFFFF">
+<param name="BGImage" value="classes/images/lgclouds.gif">
+<param name="BGRate" value="150">
+
+<param name="Text0" value="Fly Away This Weekend with This Week's Surf n' Go Online Specials!">
+<param name="HREF0" value="eto/surfngo.asp">
+<param name="Target0" value="_top">
+<param name="Color0" value="#3CCFF">
+<param name="Speed0" value="15">
+<param name="Wipe0" value="7">
+<param name="Pause0" value="500">
+
+<param name="Text1" value="Phoenix to/from Washington D.C.(Dulles)  - $179 roundtrip">
+<param name="HREF1" value="eto/surfngo.asp">
+<param name="Color1" value="#3CCFF">
+<param name="Speed1" value="15">
+<param name="Open1" value="5">
+<param name="Wipe1" value="7">
+<param name="Pause1" value="500">
+
+<param name="Text2" value="Phoenix to/from El Paso - $69 roundtrip">
+<param name="HREF2" value="eto/surfngo.asp">
+<param name="Color2" value="#3CCFF">
+<param name="Speed2" value="15">
+<param name="Open2" value="5">
+<param name="Wipe2" value="7">
+<param name="Pause2" value="500">
+
+<param name="Text3" value="Phoenix to/from Burbank - $59 roundtrip">
+<param name="HREF3" value="eto/surfngo.asp">
+<param name="Color3" value="#3CCFF">
+<param name="Speed3" value="15">
+<param name="Open3" value="5">
+<param name="Wipe3" value="7">
+<param name="Pause3" value="500">
+
+<param name="Text4" value="Phoenix to/from Ontario - $59 roundtrip">
+<param name="HREF4" value="eto/surfngo.asp">
+<param name="Color4" value="#3CCFF">
+<param name="Speed4" value="15">
+<param name="Open4" value="5">
+<param name="Wipe4" value="7">
+<param name="Pause4" value="500">
+
+<param name="Text5" value="Las Vegas to/from Dallas - $89 roundtrip">
+<param name="HREF5" value="eto/surfngo.asp">
+<param name="Color5" value="#3CCFF">
+<param name="Speed5" value="15">
+<param name="Open5" value="5">
+<param name="Wipe5" value="7">
+<param name="Pause5" value="500">
+
+<param name="Text6" value="Las Vegas to/from San Diego - $59 roundtrip">
+<param name="HREF6" value="eto/surfngo.asp">
+<param name="Color6" value="#3CCFF">
+<param name="Speed6" value="15">
+<param name="Open6" value="5">
+<param name="Wipe6" value="7">
+<param name="Pause6" value="500">
+
+<param name="Text7" value="Las Vegas to/from Cleveland - $169 roundtrip">
+<param name="HREF7" value="eto/surfngo.asp">
+<param name="Color7" value="#3CCFF">
+<param name="Speed7" value="15">
+<param name="Open7" value="5">
+<param name="Wipe7" value="7">
+<param name="Pause7" value="500">
+
+<param name="Text8" value="Columbus to/from Chicago(Midway) - $59 roundtrip">
+<param name="HREF8" value="eto/surfngo.asp">
+<param name="Color8" value="#3CCFF">
+<param name="Speed8" value="15">
+<param name="Open8" value="5">
+<param name="Wipe8" value="7">
+<param name="Pause8" value="1000">
+
+<param name="Text9" value="Earn Free Worldwide Travel by Joining FlightFund, America West Airline's Frequent Flyer Program.  Click Here for Details and To Enroll Online.">
+<param name="HREF9" value="fltfund/fltfund.htm">
+<param name="Color9" value="#C0C0C0">
+<param name="Speed9" value="15">
+<param name="Open9" value="7">
+<param name="Wipe9" value="7">
+<param name="Pause9" value="500">
+
+<param name="Text10" value="From Now through 12/31/97, Earn An Additional 500 Bonus FlightFund Miles When You Purchase Tickets through Effortless Ticketing Online and Surf n' Go.">
+<param name="HREF10" value="fltfund/fltfund.htm">
+<param name="Color10" value="#C0C0C0">
+<param name="Speed10" value="15">
+<param name="Open110" value="7">
+<param name="Wipe10=" value="7">
+<param name="Pause10=" value="1000">
+</applet>
+        </td>
+    </tr>
+</table>
+</div><div align="center"><center>
+
+<table border="0" width="100%">
+    <tr>
+        <td align="right" valign="top" width="15%"><a
+        href="vacation/golf.htm"><img
+        src="images/homepage/vacation_box2.gif"
+        alt="AWA Golf Vacations" border="0" width="106"
+        height="57"></a><br>
+        <a href="fltfund/fltfund.htm"><img
+        src="images/homepage/flightfund_box2.gif"
+        alt="FlightFund" border="0" width="106" height="61" ismap></a><br>
+        <a href="fly4less/senior.htm"><img
+        src="images/homepage/sen_box3.gif" alt="Senior Info"
+        border="0" width="106" height="61"></a><br>
+        <a href="fltinfo/pets.htm"><img
+        src="images/homepage/mittens_box2.gif"
+        alt="Travelling with Your Pet" border="0" width="106"
+        height="61"></a><br>
+        </td>
+        <td align="right" valign="top" width="15%"><img
+        src="images/homepage/verdot_1.gif" width="22"
+        height="240"></td>
+        <td align="center" valign="top" width="20%"><p
+        align="center"><a href="vacation/deal/index.htm"><img
+        src="images/homepage/dow11_17.jpg"
+        alt="Deal of the Week: Dive into Adventure!  Los Cabos.  Prices starting at $419."
+        border="0" width="323" height="179"></a><br>
+        </p>
+        <table border="0">
+            <tr>
+                <td valign="top"><a href="salefare/nofares.htm"><img
+                src="images/homepage/SALEF.GIF" alt="Sale Fares"
+                border="0" width="152" height="68"></a><a
+                href="eto/surfngo.asp"><img
+                src="images/homepage/SURFNGO3.GIF"
+                alt="Surf n' Go Specials" border="0" width="132"
+                height="68"></a></td>
+            </tr>
+            <tr>
+                <td width="50%"><table border="0">
+                    <tr>
+                        <td align="center"><a
+                        href="awainc/jdpower.htm"><font
+                        color="#FF0000" size="3" face="Arial"><b>AMERICA
+                        WEST RANKED #1 AIRLINE<br>
+                        FOR SHORT FLIGHTS</b></font></a></td>
+                        <td><img src="images/awainc/jdpower.gif"
+                        width="120" height="152"></td>
+                    </tr>
+                </table>
+                </td>
+            </tr>
+        </table>
+        </td>
+        <td align="center" valign="top" width="20%"><img
+        src="images/homepage/verdot_1.gif" width="22"
+        height="240"> </td>
+        <td valign="top" width="30%"><a
+        href="reserv/resersub.htm" onmouseover="mouseover();"
+        onmouseout="mouseout();"><font color="#008080" size="3"
+        face="Tahoma, Arial, Helvetica"><b>Reservations</b></font></a><font
+        color="#008080" size="3"><b><br>
+        <br>
+        </b></font><a href="eto/surfngo.asp"
+        onmouseover="mouseover();" onmouseout="mouseout();"><font
+        color="#008080" size="3" face="tahoma, Arial, Helvetica"><b>Surf
+        n' Go</b></font></a><font color="#008080" size="3"><b><br>
+        <br>
+        </b></font><a href="vacation/vacation.htm"
+        onmouseover="mouseover();" onmouseout="mouseout();"><font
+        color="#008080" size="3" face="tahoma, Arial, Helvetica"><b>Vacations</b></font></a><font
+        color="#008080" size="3"><b><br>
+        <br>
+        </b></font><a href="fltfund/fltfund.htm"
+        onmouseover="mouseover();" onmouseout="mouseout();"><font
+        color="#008080" size="3" face="tahoma, Arial, Helvetica"><b>FlightFund</b></font></a><font
+        color="#008080" size="3"><b><br>
+        <br>
+        </b></font><a href="fltinfo/fltinfo.htm"
+        onmouseover="mouseover();" onmouseout="mouseout();"><font
+        color="#008080" size="3" face="tahoma, Arial, Helvetica"><b>Flight
+        Info</b></font></a><font color="#008080" size="3"><b><br>
+        <br>
+        </b></font><a
+        href="http://prnewswire.com/gh/cnoc/comp/121453.html"
+        onmouseover="mouseover();" onmouseout="mouseout();"><font
+        color="#008080" size="3" face="tahoma, Arial, Helvetica"><b>Investor
+        Relations</b></font></a><font color="#008080" size="3"><b><br>
+        <br>
+        </b></font><a href="cargo/air_cargo.htm"
+        onmouseover="mouseover();" onmouseout="mouseout();"><font
+        color="#008080" size="3" face="tahoma, Arial, Helvetica"><b>Cargo</b></font></a><font
+        color="#008080" size="3"><b><br>
+        <br>
+        </b></font><a href="awainc/corpsub.htm"
+        onmouseover="mouseover();" onmouseout="mouseout();"><font
+        color="#008080" size="3" face="tahoma, Arial, Helvetica"><b>AWA
+        Inc.</b></font></a><font color="#008080" size="3"><b><br>
+        <br>
+        </b></font><a href="travagt/travsub.htm"
+        onmouseover="mouseover();" onmouseout="mouseout();"><font
+        color="#008080" size="3" face="tahoma, Arial, Helvetica"><b>Travel
+        Agent</b></font></a><font color="#008080" size="3"><b><br>
+        <br>
+        </b></font><a href="travagt/travagnt.htm"
+        onmouseover="mouseover();" onmouseout="mouseout();"><font
+        color="#008080" size="3" face="tahoma, Arial, Helvetica"><b>Group
+        Travel</b></font></a><font color="#008080" size="3"><b><br>
+        <br>
+        </b></font><a href="newdest.htm"
+        onmouseover="mouseover();" onmouseout="mouseout();"><font
+        color="#008080" size="3" face="tahoma, Arial, Helvetica"><b>New
+        Service</b></font></a></td>
+    </tr>
+</table>
+</center></div>
+
+<p align="center"><a href="vacation/vacation.htm"><font
+color="#008080" size="2" face="Verdana">Vacations </font></a><font
+color="#008080" size="2" face="Verdana">| </font><a
+href="fltfund/fltfund.htm"><font color="#008080" size="2"
+face="Verdana">FlightFund </font></a><font color="#008080"
+size="2" face="Verdana">| </font><a href="reserv/resersub.htm"><font
+color="#008080" size="2" face="Verdana">Reservations </font></a><font
+color="#008080" size="2" face="Verdana">| </font><a
+href="fltinfo/fltinfo.htm"><font color="#008080" size="2"
+face="Verdana">Flight Info </font></a><font color="#008080"
+size="2" face="Verdana">| </font><a href="cargo/air_cargo.htm"><font
+color="#008080" size="2" face="Verdana">Cargo </font></a><font
+color="#008080" size="2" face="Verdana">| </font><a
+href="awainc/corpsub.htm"><font color="#008080" size="2"
+face="Verdana">AWA Inc.</font></a><font color="#008080" size="2"
+face="Verdana"> | </font><a href="travagt/travsub.htm"><font
+color="#008080" size="2" face="Verdana">Travel Agent</font></a><font
+color="#008080" size="2" face="Verdana"> | </font><a
+href="travagt/travagnt.htm"><font color="#008080" size="2"
+face="Verdana">Group Travel</font></a><font color="#008080"
+size="2" face="Verdana">| </font><a href="about.htm"><font
+color="#008080" size="2" face="Verdana">About</font></a><font
+color="#008080" size="3"> </font></p>
+
+<p align="center"><font color="#008080" size="3"><A HREF="/awaweb/adredir.asp?url=http://www.microsoft.com/ie/default.asp&image=/images/microsoft/msie.gif" ><IMG SRC="/images/microsoft/msie.gif" ALT="Micrsoft's Internet Explorer is the BEST!" WIDTH=468 HEIGHT=60   BORDER=1></A> </font></p>
+
+<p align="center"><font color="#000080" size="1" face="Arial">Best
+viewed with<br>
+</font><a href="http://www.microsoft.com/usa/southwest"><font
+color="#008080" size="3"><img src="images/animated_logo.gif"
+alt="microsoft's internet explorer" border="0" width="88"
+height="31"></font></a><font color="#008080" size="3"><br>
+</font><font color="#004040" size="1" face="Arial"><strong>Copyright
+© 1996/97 America West Airlines</strong></font></p>
+</body>
+</html>

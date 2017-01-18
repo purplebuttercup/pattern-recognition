@@ -1,0 +1,201 @@
+Server: Netscape-Enterprise/2.01
+Date: Thu, 18 Dec 1997 12:30:58 GMT
+Content-type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 3.0//EN">
+<HTML>
+	<HEAD>
+		<TITLE>Regional Banking</TITLE>
+	</HEAD>
+	<BODY LINK="#2A5CB3" VLINK="#6A6767" ALINK="#336633" BGCOLOR="#FFFFFF" TEXT="000000">
+
+
+<!-- Image Maps for Green Graphic -->
+
+<map name="big_green_map">
+<area shape="rect" coords="189,38,342,138" href="fcb/index.shtml">
+<area shape="rect" coords="370,38,554,138" href="nbd/index.shtml">
+</map>
+
+<map name="rg4_map">
+<area shape="rect" coords="0,3,30,36" href="nbd/index.shtml">
+<area shape="poly" coords="0,38,26,38,42,41,45,38,51,39,53,57,61,76,61,86,51,96,44,86,37,75,14,75,14,62,33,62,22,55,0,51,0,38" href="nbd/index.shtml">
+</map>
+
+<map name="rg5_map">
+<area shape="poly" coords="0,13,14,10,23,19,40,17,52,30,57,47,62,55,60,67,55,75,24,75,23,56,0,56,0,13" href="nbd/index.shtml">
+<area shape="rect" coords="55,75,72,89" href="nbd/index.shtml">
+</map>
+
+<map name="rg6_map">
+<area shape="poly" coords="0,76,4,55,15,51,29,54,29,89,13,98,0,97,0,76" href="nbd/index.shtml">
+</map>
+
+<map name="loc_map">
+<area shape="rect" coords="474,0,534,16" href="/locator/locator.shtml">
+</map>
+
+
+
+<!-- End of Image Maps for Green Graphic -->
+
+
+
+		<!--Master Table-->
+		<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="570">
+			
+			
+			
+			
+			<!--Spacer-->
+	
+			<TR ALIGN="LEFT" VALIGN="TOP">
+				<TD ALIGN="LEFT" VALIGN="TOP">
+					<IMG VSPACE="0" HSPACE="0" SRC="../images/business/pix_trans.gif" ALIGN="LEFT" WIDTH="1" HEIGHT="5" BORDER="0">
+				</TD>
+			</TR>
+			
+			
+			
+			<TR ALIGN="LEFT" VALIGN="TOP">
+				<TD ALIGN="LEFT" VALIGN="TOP">
+
+					<!--First line Navigator- Date - Text Links - Logo-->
+					<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="570">
+						<TR ALIGN="LEFT" VALIGN="TOP">
+							<TD ALIGN="LEFT" VALIGN="TOP" WIDTH="40">
+								
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="28">
+<TR ALIGN=LEFT VALIGN=TOP WIDTH="28"><TD ALIGN=LEFT VALIGN=TOP WIDTH="28"><IMG SRC="/images/calendar/Thu.gif"></TD></TR>
+<TR ALIGN=LEFT VALIGN=TOP WIDTH="28"><TD ALIGN=LEFT VALIGN=TOP WIDTH="28"><IMG SRC="/images/calendar/18.gif">
+</TD></TR></TABLE>
+ 
+							</TD>
+							<TD ALIGN="LEFT" VALIGN="TOP" WIDTH="431">
+								<A HREF="/index.shtml"><FONT FACE="verdana, helvetica, arial" SIZE=1>fcnbd home</FONT></A>
+							</TD>
+							<TD ALIGN="LEFT" VALIGN="TOP" WIDTH="99">
+								<IMG VSPACE="0" HSPACE="0" SRC="../images/business/pix_trans.gif" ALIGN="LEFT" WIDTH="1" HEIGHT="1" BORDER="0">
+							</TD>
+						</TR>
+					</TABLE>
+				</TD>
+			</TR>
+			
+			
+			
+		<!--Spacer-->
+	
+			<TR ALIGN="LEFT" VALIGN="TOP">
+				<TD ALIGN="LEFT" VALIGN="TOP">
+					<IMG VSPACE="0" HSPACE="0" SRC="../images/business/pix_trans.gif" ALIGN="LEFT" WIDTH="1" HEIGHT="10" BORDER="0">
+				</TD>
+			</TR>
+			
+			
+			
+			
+			<TR ALIGN="LEFT" VALIGN="TOP">
+				<TD ALIGN="LEFT" VALIGN="TOP">
+					
+					<!--Second line Navigator - Title bar-->
+				
+				
+				
+				
+					<!--Page title bar-->
+					<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="570">
+						<TR ALIGN="LEFT" VALIGN="TOP">
+							<TD ALIGN="LEFT" VALIGN="TOP" WIDTH="39">
+								<IMG VSPACE="0" HSPACE="0" SRC="../images/business/pix_trans.gif" ALIGN="LEFT" WIDTH="39" HEIGHT="1" BORDER="0">
+							</TD>
+							<TD ALIGN="LEFT" VALIGN="TOP" WIDTH="100">
+								<IMG VSPACE="0" HSPACE="0" SRC="../images/business/b_back.gif" ALIGN="LEFT" WIDTH="100" HEIGHT="35" BORDER="0">
+							</TD>
+							<TD ALIGN="LEFT" VALIGN="TOP" WIDTH="431">
+								<IMG VSPACE="0" HSPACE="0" SRC="../images/business/t_sbb.gif" ALIGN="LEFT" WIDTH="420" HEIGHT="35" BORDER="0">
+							</TD>
+						</TR>
+					</TABLE>
+				</TD>
+			</TR>
+				
+				
+			<TR ALIGN="LEFT" VALIGN="TOP">
+				<TD ALIGN="LEFT" VALIGN="TOP" COLSPAN="2"><A HREF="/locator/locator.shtml"><IMG VSPACE="0" HSPACE="0" SRC="../images/business/rg_loc.gif" ALIGN="LEFT" WIDTH="563" HEIGHT="16" BORDER="0" ALT="ATM Locations" usemap="#loc_map"></A>
+				</TD>
+			</TR>
+			
+			
+
+<!-- INSERT GREEN PANEL -->
+
+			<TR ALIGN="LEFT" VALIGN="TOP">
+
+				<TD ALIGN="LEFT" VALIGN="TOP" width="563">
+
+<IMG VSPACE="0" HSPACE="0" SRC="../images/business/map.gif" usemap="#big_green_map" ALIGN="LEFT" WIDTH="563" HEIGHT="144" BORDER="0">
+					
+	</TD>
+</TR>
+
+<!-- END OF GREEN PANEL INSERT -->
+
+
+
+<!-- SPACER -->
+<TR ALIGN="LEFT" VALIGN="TOP">
+	<TD ALIGN="LEFT" VALIGN="TOP" COLSPAN=2>
+		<IMG VSPACE="0" HSPACE="0" SRC="../images/business/pix_trans.gif" ALIGN="LEFT" WIDTH="240" HEIGHT="10" BORDER="0">
+	</TD>
+
+</TR>
+</TABLE>					
+
+
+<!-- TEXT BELOW GREEN PANEL -->
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="570">
+<TR ALIGN="LEFT" VALIGN="TOP">
+	<TD ALIGN="LEFT" VALIGN="TOP" WIDTH="240">
+		<IMG VSPACE="0" HSPACE="0" SRC="../images/business/pix_trans.gif" ALIGN="LEFT" WIDTH="240" HEIGHT="10" BORDER="0">
+	</TD>
+
+	<TD ALIGN="LEFT" VALIGN="TOP" WIDTH="323">
+		<FONT FACE="verdana, helvetica, arial" SIZE=2>If you bank <B>outside this area</B>, you can learn more about our <A HREF="fcb/products/frp.shtml">401(k) retirement plans</A> and <A HREF="fcb/products/fms.shtml">merchant services</A> -- available nationwide. You can also access our <A HREF="fcb/index.shtml#advisor">Business Advisor</A>, a guide for any small business.
+		</FONT>
+	</TD>
+
+	<TD ALIGN="LEFT" VALIGN="TOP" WIDTH="7">
+		<IMG VSPACE="0" HSPACE="0" SRC="../images/business/pix_trans.gif" ALIGN="LEFT" WIDTH="7" HEIGHT="1" BORDER="0">
+	</TD>
+
+</TR>	
+</TABLE>
+
+
+					<!--Bottom Banking Links-->
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="570">
+					
+<TR ALIGN="LEFT" VALIGN="BOTTOM">
+	<TD ALIGN="LEFT" VALIGN="BOTTOM" WIDTH="563" HEIGHT="100"><IMG VSPACE="0" HSPACE="0" SRC="../images/business/pix_trans.gif" ALIGN="LEFT" WIDTH="30" HEIGHT="1" BORDER="0"><A HREF="/per/perchoice.html"><FONT FACE="verdana, helvetica, arial" SIZE=1>personal banking</FONT></A>
+								<FONT FACE="verdana, helvetica, arial" SIZE=1 COLOR="#2A5CB3">
+								&nbsp; | &nbsp; 
+								</FONT>
+								<A HREF="http://www.fcnbd.com/midmarket"><FONT FACE="verdana, helvetica, arial" SIZE=1>middle market banking</FONT></A>
+								<FONT FACE="verdana, helvetica, arial" SIZE=1 COLOR="#2A5CB3">
+								&nbsp; | &nbsp; 
+								</FONT>
+								<A HREF="/cor/cmenu.shtml"><FONT FACE="verdana, helvetica, arial" SIZE=1>corporate banking</FONT></A>
+							</TD>
+
+							<TD ALIGN="LEFT" VALIGN="BOTTOM" WIDTH="7" HEIGHT="100">
+								<IMG VSPACE="0" HSPACE="0" SRC="../images/business/pix_trans.gif" ALIGN="LEFT" WIDTH="7" HEIGHT="10" BORDER="0">
+	</TD>
+</TR>
+</TABLE>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	<img src="/cgi-bin/gifcookie.cgi?page=Business" hspace="0" vspace="0" height="1" width="1" BORDER="0">
+
+</BODY>
+</HTML>

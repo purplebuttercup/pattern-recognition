@@ -1,0 +1,20 @@
+Server: Netscape-Communications/1.1
+Date: Thursday, 20-Nov-97 16:06:17 GMT
+Content-type: text/html
+
+<HTML>
+<HEAD><TITLE>Page Under Construction</TITLE>
+</HEAD>
+<BODY BGCOLOR="#C5FFFF">
+<meta http-equiv="Refresh" content="0; URL=index.shtml">
+<script Language="JavaScript">
+<!-- HIDE FROM OTHER BROWSERS
+
+
+document.write(alert("Page Under Construction"));
+
+// STOP HIDING FROM OTHER BROWSERS -->
+</SCRIPT>
+<CENTER><FONT  SIZE=+7 COLOR=#FF0000><B><BLINK>Under Construction</BLINK></B></FONT></CENTER>
+</BODY>
+</HTML>

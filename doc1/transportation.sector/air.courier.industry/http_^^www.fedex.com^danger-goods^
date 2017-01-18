@@ -1,0 +1,137 @@
+Server: Netscape-Enterprise/3.0D
+Date: Thu, 20 Nov 1997 17:05:41 GMT
+Content-type: text/html
+Last-modified: Fri, 20 Jun 1997 01:40:55 GMT
+Content-length: 5907
+Accept-ranges: bytes
+Connection: close
+
+<HTML>
+<HEAD>
+
+<TITLE>Dangerous Goods Shippers Seminars</TITLE>
+
+</HEAD>
+<BODY BGCOLOR="#D7C6B4" TEXT="#000000" LINK="#DE5208" VLINK="#9425E6">
+
+
+<MAP NAME="header-home-map">
+<AREA SHAPE=rect HREF="/danger-goods/overview.html" COORDS="0,138, 83,169">
+<AREA SHAPE=rect HREF="/danger-goods/day1.html" COORDS="84,138, 160,169">
+<AREA SHAPE=rect HREF="/danger-goods/schedule.html" COORDS="161,138, 237,169">
+<AREA SHAPE=rect HREF="/danger-goods/register.html" COORDS="238,138, 311,169">
+<AREA SHAPE=rect HREF="/danger-goods/employees.html" COORDS="312,138, 386,169">
+<AREA SHAPE=rect HREF="/" COORDS="387,138, 468,169">
+</MAP>
+
+<CENTER>
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=468>
+<TR><TD COLSPAN=3>
+<A HREF="/images/dg-header-home.map"><IMG SRC="/images/dg-header-home.gif" WIDTH=468 HEIGHT=172 ALT="FedEx Dangerous Goods Seminars" BORDER=0 ISMAP USEMAP="#header-home-map"></A>
+
+<P>
+</TD></TR>
+
+<TR><TD VALIGN="TOP" ALIGN="CENTER" WIDTH=110><A HREF="/danger-goods/form.html"><IMG SRC="/images/dg-button-register.gif" WIDTH=68 HEIGHT=76 ALT="Register Now" BORDER=0></A></TD>
+<TD WIDTH=10>&#160;&#160;&#160;</TD>
+<TD WIDTH=348 ALIGN="LEFT">
+Federal Express is the world's largest air carrier of Dangerous Goods.
+Since there are laws, fines and penalties imposed against those who fail to
+comply with rules applied to the shipping of Dangerous Goods, Federal
+Express Dangerous Goods seminars can help you understand regulations and
+avoid costly fines. Helping you and your employees understand these
+requirements is what the Federal Express seminar is all about. 
+<DL>
+<DT><FONT SIZE="+1"><STRONG><IMG SRC="/images/dg-bullet.gif" WIDTH=18 HEIGHT=22 ALT="*"> <A HREF="overview.html">Overview</A></STRONG></FONT>
+<DD>
+What are Dangerous Goods? Check this partial list of items which are
+considered dangerous for shipping.
+<DT><FONT SIZE="+1"><STRONG><IMG SRC="/images/dg-bullet.gif" WIDTH=18 HEIGHT=22 ALT="*"> <A HREF="day1.html">Seminar Description</A></STRONG></FONT>
+<DD>
+A daily schedule for <A HREF="day1.html">Day 1</A>, <A HREF="day2.html">Day 2</A> and <A HREF="day3.html">Day 3</A> of the Dangerous Goods seminar and the special one day
+<A HREF="radioactive.html">Radioactive Materials seminar</A>.
+<DT><FONT SIZE="+1"><STRONG><IMG SRC="/images/dg-bullet.gif" WIDTH=18 HEIGHT=22 ALT="*"> <A HREF="schedule.html">Seminar Schedule</A></STRONG></FONT>
+<DD>
+Throughout the year, seminars are offered across the country.  Find out
+when the next seminar in your area will take place. 
+<DT><FONT SIZE="+1"><STRONG><IMG SRC="/images/dg-bullet.gif" WIDTH=18 HEIGHT=22 ALT="*"> <A HREF="register.html">Register</A></STRONG></FONT>
+<DD>
+Sign up for a Dangerous Goods seminar using the <A HREF="/danger-goods/form.html">online registration form</A>. 
+<DT><FONT SIZE="+1"><STRONG><IMG SRC="/images/dg-bullet.gif" WIDTH=18 HEIGHT=22 ALT="*"> <A HREF="employees.html">Personnel</A></STRONG></FONT>
+<DD>
+Who are the people that bring you invaluable information about shipping
+Dangerous Goods? </DL> 
+</TD></TR>
+
+<TR><TD COLSPAN=3>
+<!-- start "/include/tan-navbar.ofi" -->
+<MAP NAME="navbar-tan">
+<AREA SHAPE="RECT" COORDS="425, 39, 465, 58" HREF="/dropoff/" ALT="Dropoff Locator">
+<AREA SHAPE="RECT" COORDS="417, 20, 437, 39" HREF="/dropoff/" ALT="Dropoff Locator">
+<AREA SHAPE="RECT" COORDS="382, 39, 421, 57" HREF="https://www.fedex.com/cgi-bin/ship_it/interNetShip" ALT="Shipping">
+<AREA SHAPE="RECT" COORDS="373, 21, 396, 39" HREF="https://www.fedex.com/cgi-bin/ship_it/interNetShip" ALT="Shipping">
+<AREA SHAPE="RECT" COORDS="339, 38, 372, 59" HREF="/cgi-bin/rate?entry=us.us" ALT="Rate Finder">
+<AREA SHAPE="RECT" COORDS="331, 20, 351, 38" HREF="/cgi-bin/rate?entry=us.us" ALT="Rate Finder">
+<AREA SHAPE="RECT" COORDS="296, 38, 336, 59" HREF="/track_it.html" ALT="Tracking">
+<AREA SHAPE="RECT" COORDS="287, 20, 310, 38" HREF="/track_it.html" ALT="Tracking">
+<AREA SHAPE="RECT" COORDS="252, 38, 287, 58" HREF="/help.html" ALT="Help/Search">
+<AREA SHAPE="RECT" COORDS="245, 21, 266, 39" HREF="/help.html" ALT="Help/Search">
+<AREA SHAPE="RECT" COORDS="210, 38, 246, 59" HREF="/pr/" ALT="What's New">
+<AREA SHAPE="RECT" COORDS="202, 20, 222, 38" HREF="/pr/" ALT="What's New">
+<AREA SHAPE="RECT" COORDS="166, 38, 203, 58" HREF="/info_central.html" ALT="Info Central">
+<AREA SHAPE="RECT" COORDS="159, 20, 178, 38" HREF="/info_central.html" ALT="Info Central">
+<AREA SHAPE="RECT" COORDS="123, 38, 165, 58" HREF="/dw_software.html" ALT="Free Software">
+<AREA SHAPE="RECT" COORDS="116, 20, 135, 38" HREF="/dw_software.html" ALT="Free Software">
+<AREA SHAPE="RECT" COORDS="81, 39, 120, 59" HREF="/svcs_online.html" ALT="Services Online">
+<AREA SHAPE="RECT" COORDS="73, 21, 91, 39" HREF="/svcs_online.html" ALT="Services Online">
+<AREA SHAPE="RECT" COORDS="3, 20, 49, 59" HREF="/index.html" ALT="Home">
+</MAP>
+ 
+<CENTER><A HREF="/images/navbar-tan.map"><IMG SRC="/images/navbar-tan.gif" WIDTH="468" HEIGHT="58" 
+ALT="Image map- See text navigation at the bottom" ISMAP USEMAP="#navbar-tan" BORDER="0"></A>
+<P>
+<A HREF="/email-form.html">
+Your Comments and Suggestions Welcomed!</A>
+</P>
+ 
+<P>
+<A HREF="/index.html">
+<FONT SIZE="-1">HOME</FONT></A> | 
+<A HREF="/svcs_online.html">
+<FONT SIZE="-1">SERVICES ONLINE</FONT></A> | 
+<A
+HREF="/dw_software.html">
+<FONT SIZE="-1">FREE SOFTWARE</FONT></A> | 
+ 
+<A HREF="/info_central.html">
+<FONT SIZE="-1">INFO CENTRAL</FONT></A> |
+ 
+<A
+HREF="/pr/">
+<FONT SIZE="-1">WHAT'S NEW</FONT></A><BR> 
+ 
+<A
+HREF="/help.html">
+<FONT SIZE="-1">HELP/SEARCH</FONT></A> | 
+ 
+<A HREF="/track_it.html">
+<FONT SIZE="-1">TRACKING</FONT></A> | 
+ 
+<A HREF="/cgi-bin/rate?entry=us.us">
+<FONT SIZE="-1">RATE FINDER</FONT></A> | 
+ 
+<A HREF="https://www.fedex.com/cgi-bin/ship_it/interNetShip">
+<FONT SIZE="-1">SHIPPING</FONT></A> | 
+ 
+<A HREF="/dropoff/">
+<FONT SIZE="-1">DROPOFF LOCATOR</FONT></A>
+</CENTER>
+
+<!-- end "/include/tan-navbar.ofi" -->
+
+</TD></TR>
+</TABLE>
+</CENTER>
+</BODY>
+</HTML>

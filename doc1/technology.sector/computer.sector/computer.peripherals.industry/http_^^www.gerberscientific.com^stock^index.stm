@@ -1,0 +1,91 @@
+Server: Microsoft-IIS/3.0
+Date: Fri, 21 Nov 1997 03:19:08 GMT
+Content-Type: text/html
+
+<html>
+<head>
+<title>Stock Info -- Gerber Scientific, Inc.</title>
+</head>
+<body bgcolor="#FFFFFF" link="#FFFFFF" vlink="#FFFF00" background="../graphics/bg5.gif">
+<table cellpadding=8 cellspacing=0 border=0>
+
+<tr>
+	<td valign=top width=120>&nbsp;<br><a href="../index.html"><img src="../graphics/smworld.gif" border=0></a>&nbsp;&nbsp;
+		</td>
+	
+	<td><blockquote><img src="../graphics/finanhd.jpg" height=44 width=361 border=0></blockquote>
+	</td>
+</tr><tr>
+	<td valign=top>
+		<a href="../annual/index.html"><img src="../graphics/b-ann.gif" border=0 height=19 width=112></a><br>
+<a href = "http://www.sec.gov/Archives/edgar/data/41133/0000041133-96-000016.txt">10Q (11/22/96)</a><br>
+<a href = "http://www.sec.gov/Archives/edgar/data/41133/0000041133-96-000012.txt">10Q (8/21/96)</a><br>         
+<a href = "http://www.sec.gov/Archives/edgar/data/41133/0000041133-96-000010.txt">10K (7/23/96)<a/><br>
+<a href = "http://www.sec.gov/Archives/edgar/data/41133/0000041133-96-000005.txt">10Q (2/21/96)</a><p>
+
+		<a href="../quarter/index.html"><img src="../graphics/b-quart.gif" border=0 height=19 width=112></a><br>
+		<img src="../graphics/b-stock.gif" border=0 height=19 width=112><br>
+		<a href="../newsreleases/index.html"><img src="../graphics/b-newsi.gif" border=0 height=19 width=112></a><br>
+		<a href="../communicator/index.html"><img src="../graphics/b-newsl.gif" border=0 height=19 width=112></a><br>
+		<a href="../subs/index.html"><img src="../graphics/b-subs.gif" border=0 height=19 width=112></a><p><br>
+		<a href="../disc/index.html"><img src="../graphics/b-disc.gif" border=0 height=19 width=112></a><br>
+	</td><td><blockquote><center>
+	
+<table border= cellpadding=6 cellspacing=5 width="100%">
+<tr><th colspan=5 bgcolor=teal><center><B><font size=4 color=white>GRB -- Gerber Scientific, Inc.</Font></B></center></th></tr>
+<tr><th colspan=5><center>As of market close Friday October 24, 1997</Center></TH></TR>
+<tr><th colspan=5 bgcolor="#FFF1DB">Current Price <font size=2>(delayed 15 minutes)</font>&nbsp;&nbsp;&nbsp;19 3/4
+</th></tr>
+<tr>
+<td align=right bgcolor="#FFF1DB"><B>Opened week</B></td>
+<td bgcolor="#FFF1DB" align=center><B>21 1/16</B></td>
+<td></TD>
+<td align=right bgcolor="#FFF1DB"><b>Closed week</B></td>
+<td bgcolor="#FFF1DB" align=center><B>20 3/4</B></td>
+
+
+
+</tr>
+<tr>
+<td align=right bgcolor="#FFF1DB"><B>Weekly Change</B></td>
+<td bgcolor="#FFF1DB" align=center><B>- 5/16</B></td>
+
+<td></TD>
+<td align=right bgcolor="#FFF1DB"><B>Volume</B></td>
+<td bgcolor="#FFF1DB" align=center><B>8,800</B></td>
+</tr>
+<tr>
+<td align=right bgcolor="#FFF1DB"><B>Day Range</B></td>
+<td bgcolor="#FFF1DB" align=center><B>20 3/8 - 21 1/16</B></td>
+
+<td></TD>
+<td align=right bgcolor="#FFF1DB"><B>Latest Div.</B></td>
+<td bgcolor="#FFF1DB" align=center><B>0.08</B></td>
+</tr>
+<tr>
+<td align=right bgcolor="#FFF1DB"><B>52 Week High</B></td>
+<td bgcolor="#FFF1DB" align=center><B>24 1/2</B></td>
+
+<td></TD>
+<td align=right bgcolor="#FFF1DB"><B>52 Week Low</B></td>
+<td bgcolor="#FFF1DB" align=center><B>13 1/4</B></td></tr>
+<tr>
+<td align=right bgcolor="#FFF1DB"><B>PE Ratio</B></td>
+<td bgcolor="#FFF1DB" align=center><B>25.0</B></td>
+
+<td></TD>
+
+<td align=right bgcolor="#FFF1DB"><B>Annual Div.</B></td>
+<td bgcolor="#FFF1DB" align=center><B>0.32, 1.50%</B></td>
+</tr>
+<TR>
+<th colspan=5 bgcolor=teal><font color=white>Market - New York Stock Exchange</Font></th></tr>
+
+</tr>
+</table>
+</center>
+</blockquote>
+</td>
+</table>
+</body>
+</html>

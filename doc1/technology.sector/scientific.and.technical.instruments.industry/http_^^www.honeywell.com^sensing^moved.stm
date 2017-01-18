@@ -1,0 +1,122 @@
+Server: Microsoft-IIS/3.0
+Date: Fri, 21 Nov 1997 04:45:59 GMT
+Content-Type: text/html
+
+<html>
+<head>
+<title>We've Moved the Honeywell Sensing &amp; Control Website</title>
+</head>
+<body bgcolor="#ffffff">
+
+<center>
+
+<table border="0" cellpadding="0" cellspacing="0" width="700">
+<tr><td align="left" valign="top">
+<!--			begin ssi for Navigation Bar 	-->
+<!--			/components/navbar.txt -->
+
+
+
+
+	<TABLE border=0 cellpadding=0 cellspacing=0 >
+	<TR><TD align="left" valign="bottom" >
+
+	<!--				Honeywell Logo -->
+	<IMG src="/sensing/graphics/hlogo2.gif">
+	
+	</td>
+	<td align=right valign=middle>
+
+	<!--				Search -->
+	<a href="http://www.honeywell.com/search/"><IMG border="0" 
+	src="/sensing/components/graphics/search.gif"></a><a href="http://www.honeywell.com/products/default.asp?grp=cat&bus=sc"><IMG border="0" 
+	src="/sensing/components/graphics/prodnav.gif"></a><!--				Support --><a href="http://www.honeywell.com/support/"><IMG border="0" 
+	src="/sensing/components/graphics/support.gif"></a><!--				Contact --><a href="http://www.honeywell.com/support/contact/"><IMG border="0" 
+	src="/sensing/components/graphics/contact.gif"></a><!--				Site Map --><a href="http://www.honeywell.com/sitemap.asp"><IMG border="0" 
+	src="/sensing/components/graphics/sitemap.gif"></a><!--				Honeywell --><a href="http://www.honeywell.com"><IMG border="0" 
+	src="/sensing/components/graphics/honey2.gif"></a>
+	
+	
+	</TD></TR>
+   
+	<TR><TD align="right" valign="top" colspan=2>
+	
+	<!-				Sensing and Control -->
+	<a href="/sensing/"><IMG border="0" 
+	src="/sensing/components/graphics/f2sencon.gif"></a><!--			Solution --><a href="/sensing/solution/"><IMG border="0" 
+	src="/sensing/components/graphics/f-solut.gif"></a><!--			News --><a href="/sensing/about/news/"><IMG border="0" 
+	src="/sensing/components/graphics/f-news2.gif"></a><!--			About --><a href="http://www.honeywell.com/business/ic.asp"><IMG border="0" 
+	src="/sensing/components/graphics/f-about.gif"></a><!--			Website Utilities --><a href="/sensing/general/utility.stm"><IMG border="0" 
+	src="/sensing/components/graphics/f-util.gif"></a><!--			What's New --><a href="/sensing/new/"><IMG border="0" 
+	src="/sensing/components/graphics/f-new.gif"></a>
+	
+	</TD></TR>
+	
+	</TABLE>
+
+
+
+<!--			end ssi for Navigation Bar 	-->
+
+
+<p>
+<table border="0" cellpadding="4" cellspacing="0">
+<tr><td align="left" valign="top" width="261">
+
+	
+<p>	<a href="/sensing/"><img src="/sensing/graphics/moved.gif" border="0" alt="We've Moved Our Website!" WIDTH="261" HEIGHT="139"></a>
+
+
+
+</td>
+
+<td align="center" valign="top">
+<img src="/sensing/components/graphics/redpix.gif" width="1" height="400">
+</td>
+
+<td align="left" valign="top" width="330">
+
+
+	
+	<small>The Honeywell Sensing &amp; Control website, which includes MICRO SWITCH,
+	has been moved to a new location. Our new URL is: 
+	<a href="/sensing/"><font color="#ff0000">http://www.honeywell.com/sensing/</font></a>
+	</small>
+
+
+	
+<small>
+<p><b>What does this mean for you?</b>
+
+	
+	<ul>
+	<li>better search capabilities
+	<li>easier connectivity to our databases 
+	<li>faster and better connectivity to other Honeywell businesses
+	and product information
+	<li>significantly expanded capability to offer you more through our website
+	</ul>
+	
+	
+
+<p>
+We apologize for the inconvenience of changing your bookmarks, but hope 
+that you will soon see the added value we are trying to develop though this
+move as we expand our website capabilities and offerings.
+
+<p>	<a href="/sensing/"><img src="/sensing/graphics/update.gif" border="0" alt="Update your bookmarks to www.honeywell.com/sensing" WIDTH="225" HEIGHT="81"></a>
+	
+<br>Thank-you,
+<a href="mailto:webmaster@micro.honeywell.com">webmaster@micro.honeywell.com</a>
+
+</small>
+
+</td></tr></table>
+
+</td></tr></table>
+
+</center>
+
+</body>
+</html>
+

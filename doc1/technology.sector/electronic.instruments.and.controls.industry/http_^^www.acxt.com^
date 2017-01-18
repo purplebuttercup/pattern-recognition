@@ -1,0 +1,60 @@
+Date: Fri, 21 Nov 1997 04:08:17 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 1652
+Last-modified: Sat, 21 Jun 1997 15:00:50 GMT
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+ <TITLE>ACX Technologies</TITLE>
+</HEAD>
+<BODY TEXT="#FFFFFF" BGCOLOR="#8F685F" LINK="#00CAFF" VLINK="#EDFF5F" ALINK="#0077FF">
+<CENTER>
+ <TABLE>
+  <TR>
+   <TD VALIGN="TOP"><IMG SRC="acx95.gif" ALT="ACX Logo" HEIGHT="91" WIDTH="255"></TD>
+   <TD VALIGN="center" ROWSPAN="3">
+<TABLE BORDER=0 CELLSPACING=10
+<TR>
+<TH COLSPAN=2><IMG SRC="bluff.gif" WIDTH=296 HEIGHT=69>
+</TH></TR><TR>
+<TH><IMG SRC="panel.gif" WIDTH=155 HEIGHT=126></TH>
+<TH><IMG SRC="chips.gif" WIDTH=121 HEIGHT=126></TH>
+</TR><TR>
+<TH COLSPAN=2><IMG SRC="solar.gif" WIDTH=296 HEIGHT=131>
+</TH></TR>
+</TABLE>
+</TD>
+  </TR>
+  <TR>
+   <TD ALIGN="CENTER">
+    <H2>ACX Technologies</H2>
+    <P><B><I><FONT SIZE="4">Pioneering Customer Solutions</FONT></I></B></P>
+   </TD>
+  </TR>
+  <TR>
+   <TD><A HREF="http://www.acxt.com/cgi-bin/imagemap/content.map"><IMG ISMAP SRC="95bar.gif" ALT="Image map, see text hyperlinks below" BORDER="0" HEIGHT="215" WIDTH="254"></A></TD>
+  </TR>
+ </TABLE>
+</CENTER>
+<CENTER>
+ <P><IMG SRC="acx95sm.gif" ALT="ACX logo" HEIGHT="32" WIDTH="90" ALIGN="ABSCENTER"><B><I><BLINK><FONT SIZE="+2"><A HREF="mapit.htm">at
+  a glance</A></FONT> </BLINK></I></B></P>
+</CENTER>
+<CENTER>
+ <HR>
+ <A HREF="acxroad.htm">[On the road to ACX...] </A><A HREF="highlts.htm">[Highlights]
+ </A><A HREF="acxcore.htm">[Core Businesses] </A><A HREF="financls.htm">[ACX
+ Financials] </A><A HREF="mapit.htm">[Contents] 
+ </A>
+ <HR>
+ <ADDRESS><I>Copyright 1997 &copy; <A HREF="mailto:info@lightcomm.com">Lighthouse
+ Communications
+ Group, LLC.</A></I></ADDRESS>
+</CENTER>
+<CENTER>
+ <ADDRESS></ADDRESS>
+</CENTER>
+</BODY>
+</HTML>

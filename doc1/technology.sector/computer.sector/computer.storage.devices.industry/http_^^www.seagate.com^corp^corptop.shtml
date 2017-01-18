@@ -1,0 +1,80 @@
+Server: Netscape-Enterprise/2.01
+Date: Fri, 21 Nov 1997 03:50:49 GMT
+Content-type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>Seagate:Corporate Information</TITLE>
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.0Gold (Win95; I) [Netscape]">
+</HEAD>
+<BODY>
+
+<P><!--doctype html public--><!--Pages updated 05/07/96--><!-- Header --><!-- header.shtml -->
+<body bgcolor="#ffffff" link="#238e23" vlink="#236b8e">
+
+<MAP NAME="Header">
+   <AREA SHAPE=RECT COORDS="389,50,459,69" HREF="http://www.seagate.com/Architext/search.shtml">
+   <AREA SHAPE=DEFAULT HREF="http://www.seagate.com">
+</MAP>
+
+<IMG BORDER=0  SRC="/graphics/header.gif" USEMAP="#Header">
+<!-- Body --></P>
+
+<TABLE WIDTH="450" >
+<TR>
+<TD ROWSPAN=3><IMG SRC="/graphics/30pix.gif" ></TD>
+
+<TD ROWSPAN=3 ALIGN=left valign=top><IMG SRC="/graphics/10pix.gif" > 
+<H3><A HREF="/corp/vpr/vprtop.shtml">Virtual Press Room</A></H3>
+
+<H3><A HREF="/corp/wwmap.shtml">Sales Offices</A></H3>
+
+<H3><A HREF="/corp/hr/hrtop.shtml">Career Opportunities</A></H3>
+
+<H3><A HREF="/corp/ir/ir.shtml">Investor Information<BR>
+<BR>
+</A><A HREF="../../../support/services/services.shtml">Contacting Seagate</A></H3>
+
+<H3><A HREF="../../../corp/h+spolicy.shtml">Environmental<BR>
+Health &amp; Safety<BR>
+Information</A></H3>
+</TD>
+
+<TD ROWSPAN=3><IMG SRC="/graphics/10pix.gif" ></TD>
+
+<TD><A HREF="/corp/profile.shtml"><IMG SRC="/graphics/compinfo.gif" BORDER=0 ></A>
+</TD>
+</TR>
+
+<TR>
+<TD ALIGN=center HEIGHT=80><IMG SRC="/graphics/AppleBoy.jpeg" ></TD>
+</TR>
+
+<TR>
+<TD><IMG SRC="/graphics/10pix.gif" >
+<P><!-- footer.html --></P>
+
+<FONT SIZE="-1" FACE="arial,geneva">
+
+<P><A HREF="/toc.shtml">Site Index</A> | 
+<A HREF="/Architext/search.shtml">Search</A> | 
+<A HREF="/feedback.shtml">Feedback</A> | 
+<A HREF="/corp/corptop.shtml">Corporate &amp; Career Info</A> | 
+<A HREF="/sales/salestop.shtml">Sales</A> | 
+<A HREF="/disc/disctop.shtml">Disc Storage</A> | 
+<A HREF="/tape/tapetop.shtml">Tape Storage</A> |
+<A HREF="/support/supporttop.shtml">Service &amp; Support</A> | 
+<A HREF="http://www.seagatesoftware.com">Seagate Software</A>
+
+<P><A HREF="/about.shtml">&copy;1997 Seagate Technology, Inc.</A></P>
+
+
+</FONT>
+
+</TD>
+</TR>
+</TABLE>
+
+</BODY>
+</HTML>

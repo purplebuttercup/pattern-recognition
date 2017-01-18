@@ -1,0 +1,61 @@
+Date: Thu, 20 Nov 1997 16:35:21 GMT
+Server: Stronghold/2.0 Apache/1.2b10
+Last-Modified: Mon, 09 Dec 1996 23:10:29 GMT
+ETag: "285c87-67c-32ac9c65"
+Content-Length: 1660
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+<html>
+<head>
+<title>
+home.mem.net
+</title>
+</head>
+<BODY BACKGROUND="../background/bg.gif" text=004a63 link=732952 alink=ffaaaa vlink=591f3f>
+<center>
+<table border=0 cellpadding=10>
+
+<tr>
+
+<td valign=top width=400>
+
+<CENTER>
+
+<h2><pre><b>Synapse<br> Home Server.</b></pre></h2>
+
+<p>
+</center>
+
+<font size=4><b>W</b></font><font size=2>elcome to the Synapse Home Server. 
+If you are looking for our corporate website, please go to <a href="http://www.mem.net/"><i><b>http://www.mem.net/</b></i></a>.
+<p>
+<font size=4><b>H</b></font>ere at Synapse, we feel strongly about utilizing the latest standards in the internet industry. That is why we fully support 
+the following <nobr>web-browsing</nobr> packages:</font><br>
+<ul><li><a href="http://home.netsscape.com">Netscape Navigator 3.0</a>.
+<p><li><a href="http://www.microsoft.com/ie/">Internet Explorer 3.0</a>.
+<p><li><a href="http://www.aol.com/try/software.html">AOL 3.0</a>.
+</ul>
+<p>
+<form action="/cgi-lib/sh-www_redir.py" method="post">
+<font size=4><b>H</b></font><font size=2>owever, we understand that such services as AOL do not use the protocols defined in these programs, so we have devised a way to 
+accomodate these users. Just copy and paste (or type) the URL you were attempting to reach in the box below and click "Check URL".</font><br>
+<p>
+<center>
+<font size=3><b>Y</b></font><font size=2><b>ou must type in the complete URL, as in <br>
+<em>http://www.mem.net/index.html</em><br>
+or <br>
+<em>http://www.mem.net/whatsnew/</em></b>
+</center>
+<p>
+</font><br>
+<center>
+<input type=text name=url size=40>
+<br>
+<input type=submit value="Check URL">
+</center>
+</form>
+</table>
+</body>
+</html>

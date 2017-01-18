@@ -1,0 +1,207 @@
+Date: Fri, 21 Nov 1997 04:44:57 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Last-Modified: Wednesday, August 13, 1997 12:51:22 EST
+Content-Length: 7926
+
+
+<HTML>
+<HEAD>
+<TITLE>Company Profile</TITLE>
+</HEAD>
+<!-- This is the beginning of the page code -->
+
+<script>
+<!--
+bName = navigator.appName;
+bVer = parseInt(navigator.appVersion);
+if  (bName == "Netscape" && bVer >= 3) ver = "n3";
+else ver = "n2";
+if (ver == "n3")
+{
+  news_1 = new Image(120, 20);
+  news_1.src="/bin/webmate/egg/raw/egg/MIME/news_1.gif/data/image/gif";
+  divisions_1 = new Image(120, 20);
+  divisions_1.src="/bin/webmate/egg/raw/egg/MIME/divisions_1.gif/data/image/gif";
+  markets_1 = new Image(120, 20);
+  markets_1.src="/bin/webmate/egg/raw/egg/MIME/markets_1.gif/data/image/gif";
+  products_1 = new Image(120, 20);
+  products_1.src="/bin/webmate/egg/raw/egg/MIME/products_1.gif/data/image/gif";
+  contact_1 = new Image(120, 20);
+  contact_1.src="/bin/webmate/egg/raw/egg/MIME/contact_1.gif/data/image/gif";
+
+  news_0 = new Image(120, 20);
+  news_0.src="/bin/webmate/egg/raw/egg/MIME/news_0.gif/data/image/gif";
+  divisions_0 = new Image(120, 20);
+  divisions_0.src="/bin/webmate/egg/raw/egg/MIME/divisions_0.gif/data/image/gif";
+  markets_0 = new Image(120, 20);
+  markets_0.src="/bin/webmate/egg/raw/egg/MIME/markets_0.gif/data/image/gif";
+  products_0 = new Image(120, 20);
+  products_0.src="/bin/webmate/egg/raw/egg/MIME/products_0.gif/data/image/gif";
+  contact_0 = new Image(120, 20);
+  contact_0.src="/bin/webmate/egg/raw/egg/MIME/contact_0.gif/data/image/gif";
+
+  news_2 = new Image(120, 20);
+  news_2.src="/bin/webmate/egg/raw/egg/MIME/news_2.gif/data/image/gif";
+  divisions_2 = new Image(120, 20);
+  divisions_2.src="/bin/webmate/egg/raw/egg/MIME/divisions_2.gif/data/image/gif";
+  markets_2 = new Image(120, 20);
+  markets_2.src="/bin/webmate/egg/raw/egg/MIME/markets_2.gif/data/image/gif";
+  products_2 = new Image(120, 20);
+  products_2.src="/bin/webmate/egg/raw/egg/MIME/products_2.gif/data/image/gif";
+  contact_2 = new Image(120, 20);
+  contact_2.src="/bin/webmate/egg/raw/egg/MIME/contact_2.gif/data/image/gif";
+
+}
+
+function imgchg(imgst,imgName) {
+if (ver == "n3") {
+     imgc = eval(imgName + "_" + imgst + ".src");
+     document [imgName].src = imgc;
+ }
+}
+
+//-->
+</script>
+
+<BODY BGCOLOR=#ffffff TEXT=#000000 LINK=#cc3333 VLINK=#3366cc ALINK=#FFFFFF>
+
+<!-- This is the beginning of the page code -->
+<TABLE border=0 cellspacing=0 cellpadding=0 width=600>
+
+<TR>
+<TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD>
+</TR>
+
+<TR BGCOLOR=#000000>
+<TD COLSPAN=6 height=56 width=144><a href="/bin/webmate/egg/page/egg/index"><IMG border=0 SRC="/bin/webmate/egg/raw/egg/MIME/egglogo.jpg/data/image/jpeg" width=144 alt="Home"></a></TD>
+<TD COLSPAN=16 height=56 width=384 align=center bgcolor=#000000><font color=red><h2>Company Profile</TD></font></h2>
+<TD COLSPAN=3 height=56 width=72><a href="/bin/webmate/egg/page/egg/search"><IMG border=0 SRC="/bin/webmate/egg/raw/egg/MIME/srchme.gif/data/image/gif" height=56 width=72 name="search" alt="Search our database"></a></TD>
+</TR>
+
+<TR>
+<TD COLSPAN=5 height=20 width=120><a href="/bin/webmate/egg/page/egg/view_press/EGG" onmouseover="imgchg('1','news')" onmouseout="imgchg('0','news')"><img border=0 height=20 width=120 name="news" src="/bin/webmate/egg/raw/egg/MIME/news_0.gif/data/image/gif" alt="What's New"></a></TD>
+<TD COLSPAN=5 height=20 width=120><a href="/bin/webmate/egg/page/egg/divisions" onmouseover="imgchg('1','divisions')" onmouseout="imgchg('0','divisions')"><img border=0 height=20 width=120 name="divisions" src="/bin/webmate/egg/raw/egg/MIME/divisions_0.gif/data/image/gif" alt="Division listing"></a></TD>
+<TD COLSPAN=5 height=20 width=120><a href="/bin/webmate/egg/page/egg/mktframe/EGG" onmouseover="imgchg('1','markets')" onmouseout="imgchg('0','markets')"><img border=0 height=20 width=120 name="markets" src="/bin/webmate/egg/raw/egg/MIME/markets_0.gif/data/image/gif" alt="Market driven listing"></a></TD>
+<TD COLSPAN=5 height=20 width=120><a href="/bin/webmate/egg/page/egg/prodfram/all/EGG" onmouseover="imgchg('1','products')" onmouseout="imgchg('0','products')"><img border=0 height=20 width=120 name="products" src="/bin/webmate/egg/raw/egg/MIME/products_0.gif/data/image/gif" alt="Products and Services"></a></TD>
+<TD COLSPAN=5 height=20 width=120><a href="/bin/webmate/egg/page/egg/emailtop" onmouseover="imgchg('1','contact')" onmouseout="imgchg('0','contact')"><img border=0 height=20 width=120 name="contact" src="/bin/webmate/egg/raw/egg/MIME/contact_0.gif/data/image/gif" alt="Send us an e-mail"></a></TD>
+</TR>
+
+</TABLE>
+
+
+
+
+
+<!-- Outer table -->
+<TABLE cellpadding=5 width="600" border=0 cellspacing=0>
+
+<tr>
+
+<!-- left side -->
+<td align=left valign=top width=25% bgcolor=cyan>
+
+<table cellpadding=2 border=0>
+
+<tr><td>
+<h3><font color=#ffffff><center>EG&G Company Profile</center></font></h3>
+</td></tr>
+
+<tr><td>
+<a href="/bin/webmate/egg/page/egg/solutions">Today's EG&G is inventing tomorrow's solutions...</a>
+</td></tr>
+
+<tr><td>
+<a href="/bin/webmate/egg/page/egg/finframe">EG&G Financials</a>
+</td></tr>
+
+<tr><td>
+<a href="/bin/webmate/egg/page/egg/corpinfo">EG&G Corporate Information</a>
+</td></tr>
+
+<tr><td>
+<A HREF="/bin/webmate/egg/page/egg/message">Chairman's Message</A>
+</td></tr>
+
+<tr><td>
+<A HREF="/bin/webmate/egg/page/egg/vision">Vision Statement</A>
+</td></tr>
+
+<tr><td>
+<A HREF="/bin/webmate/egg/page/egg/locframe/EGG">EG&G Locations</A>
+</td></tr>
+
+<tr><td>
+<A HREF="/bin/webmate/egg/page/egg/history">EG&G History</A>
+</td></tr>
+
+</TABLE>
+</td>
+<!-- right side -->
+
+<td valign=top width=*>
+
+<B>Corporate Headquarters<BR>
+</B>EG&G, Inc.<BR>
+45 William Street<BR>
+Wellesley, Massachusetts 02181, U.S.A.<BR>
+<P>
+<B>Annual Sales<BR>
+</B>1996: $1.4 Billion<BR>
+<P>
+<B>Employees<BR>
+</B>Approximately: 14,000<BR>
+<P>
+<B>Incorporated<BR>
+</B>1947<BR>
+<P>
+<B>Stock Exchange<BR>
+</B>New York Stock Exchange<BR>
+<P>
+<B>Ticker Symbol<BR>
+</B>EGG <BR>
+<P>
+<B>Business Description<BR>
+</B>EG&G is a diversified technology company which provides
+optoelectronic, mechanical, and electromechanical components and
+instruments to manufacturers and end-user customers. In technical
+services, EG&G provides technical and managerial support to
+government and industrial customers.<BR>
+<P>
+<B>Markets Served<BR>
+</B>EG&G serves global customers in a variety of markets,
+including aerospace, automotive, transportation, chemical, petrochemical,
+environmental, industrial, medical, photography, government/Military, and
+security.<BR>
+<P>
+<B>Four Business Segments<BR>
+</B>
+<A HREF="/bin/webmate/egg/page/egg/group_view/Group/Instruments">Instruments</A><BR>
+<A HREF="/bin/webmate/egg/page/egg/group_view/Group/MechComp">Mechanical Components</A><BR>
+<A HREF="/bin/webmate/egg/page/egg/group_view/Group/OptoElect">Optoelectronics</A><BR>
+<A HREF="/bin/webmate/egg/page/egg/group_view/Group/TechServ">Technical Services</A><BR>
+
+</td>
+</tr>
+</TABLE>
+
+<br><br>
+<table width=600><tr valign=center><td>
+<p><center><font size=-2>
+<a href="/bin/webmate/egg/page/egg/index"> EG&G Home</a> |
+<a href="/bin/webmate/egg/page/egg/view_press/EGG"> News</a> |
+<a href="/bin/webmate/egg/page/egg/divisions"> Divisions</a> |
+<a href="/bin/webmate/egg/page/egg/mktframe/EGG"> Markets</a> |
+<a href="/bin/webmate/egg/page/egg/prodfram/all/EGG"> Products & Services</a> |
+<a href="/bin/webmate/egg/page/egg/emailtop"> Contact Us</a> |
+<a href="/bin/webmate/egg/page/egg/search"> Search</a>
+<p>
+<A HREF="/bin/webmate/egg/page/egg/copyright">Copyright© 1997 EG&G, Inc. Legal Notices</A><BR>
+45 William Street, Wellesley, Massachusetts, U.S.A.  All Rights Reserved.<BR>
+</font></center>
+</td></tr></table>
+
+
+</BODY>
+</HTML>
+

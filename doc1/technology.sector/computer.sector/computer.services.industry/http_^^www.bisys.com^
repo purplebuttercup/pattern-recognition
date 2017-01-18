@@ -1,0 +1,115 @@
+Server: Netscape-Enterprise/2.01
+Date: Mon, 29 Dec 1997 21:14:28 GMT
+Accept-ranges: bytes
+Last-modified: Wed, 11 Jun 1997 12:18:44 GMT
+Content-length: 2591
+Content-type: text/html
+
+<!HTML>
+<HEAD>
+<TITLE>The BISYS Group, Inc.</TITLE>
+</HEAD>
+<BODY BGCOLOR="#ffffff">
+<FONT BASE="ARIAL">
+<CENTER><!--<FONT SIZE="-2"><A HREF="maintext.html">mostly TEXT </A> | <A HREF="mainjava.html"> JAVA version </A> | GRAPHICS mostly</FONT>-->
+</CENTER>
+
+<TABLE>
+<TR VALIGN="TOP">
+<TD><IMG BORDER="0" SRC="mainleft.gif"></TD>
+<TD></TD>
+
+<TD>
+<BR><IMG BORDER="0" SRC="maintop.gif"><BR><BR>
+<IMG BORDER="0" SRC="mainbar1.gif" usemap="#mainbar1">
+<TABLE>
+<TR>
+<TD>
+<A HREF="division.html">
+<IMG BORDER="0" SRC="mainic1a.gif"></A>
+</TD>
+<TD>
+<P>
+<FONT SIZE="+2"><TT><STRONG><A HREF="division.html">BISYS DIVISIONS</A></STRONG></TT></FONT><BR>
+<FONT SIZE="-1"><B>TOTALPLUS</B>®  •  Creative Solutions  •  Document Solutions  •  </FONT>
+<FONT SIZE="-1">Research Services  •  Fund Services •  Plan Services  •  Insurance Services</FONT>
+</P>
+</TD>
+</TR>
+</TABLE>
+
+
+
+<TABLE>
+<TR>
+<TD>
+<A HREF="bimnews.html">
+<IMG BORDER="0" SRC="mainic3a.gif"></A>
+</TD>
+<TD>
+<P>
+<FONT SIZE="+2"><TT><STRONG><A HREF="bimnews.html">BISYS News</A></STRONG></TT></FONT><BR>
+<FONT SIZE="-1">Latest BISYS news</FONT>
+
+<BR>
+</P>
+</TD>
+</TR>
+</TABLE>
+
+<TABLE>
+<TR>
+<TD>
+<A HREF="bishare1.html">
+<IMG BORDER="0" SRC="mainic4a.gif"></A>
+</TD>
+<TD>
+<P>
+<FONT SIZE="+2"><TT><STRONG><A HREF="bishare1.html">SHAREHOLDER</A></STRONG></TT></FONT><BR>
+<FONT SIZE="-1">I N F O R M A T I O N</FONT>
+<BR><BR>
+</P>
+</TD>
+</TR>
+</TABLE>
+
+<TABLE>
+<TR>
+<TD>
+<A HREF="bijobs.html">
+<IMG BORDER="0" SRC="mainic5a.gif"></A>
+</TD>
+<TD>
+<P>
+<FONT SIZE="+2"><TT><STRONG><A HREF="bijobs.html">EMPLOYMENT</A></STRONG></TT></FONT><BR>
+<FONT SIZE="-1">O P P O R T U N I T I E S</FONT>
+<BR><BR>
+</P>
+</TD>
+</TR>
+</TABLE>
+
+<BR><BR><BR>
+<!--<IMG BORDER="0" SRC="mainbar2.gif" usemap="#mainbar2"><BR><BR>-->
+
+</TD>
+</TR>
+</TABLE>
+<HR SIZE="1">
+<CENTER>
+<FONT SIZE="-1"><I><A BORDER="0" HREF="copyrite.html">Copyright© 1996</A></I> -- <B>The BISYS Group, Inc.</B> -- <A BORDER="0" HREF="copyrite.html"><I>All rights reserved.</I></A></FONT>
+</CENTER>
+
+<map name="mainbar1">
+<area shape="rect" coords="49,0,168,29" href="bimnews.html">
+<area shape="rect" coords="192,0,310,29" href="http://www.nasdaq.com/scripts/html3/fquote.idc?symname=bsys">
+<area shape="rect" coords="330,0,431,29" href="sitemap.html">
+<area shape="default" nohref>
+</map>
+<map name="mainbar2">
+<area shape="rect" coords="123,0,229,30" href="mailroom.html">
+<area shape="rect" coords="255,0,361,29" href="webtools.html">
+<area shape="default" nohref>
+</map>
+</BODY>
+</HTML>

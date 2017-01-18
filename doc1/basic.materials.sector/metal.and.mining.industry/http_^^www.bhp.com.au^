@@ -1,0 +1,234 @@
+Server: Netscape-Communications/1.1
+Date: Thursday, 20-Nov-97 22:32:05 GMT
+Last-modified: Friday, 14-Nov-97 05:27:58 GMT
+Content-length: 9070
+Content-type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 3.0">
+<title>B H P - Homepage</title>
+<script language="JavaScript">
+
+
+
+function scroll_status (seed)
+
+{
+
+        var msg = "visit BHP Environmental Report";
+
+        var out = " ";
+
+        var c   = 1;
+
+
+
+        if (150 < seed) {
+
+                seed--;
+
+                var cmd="scroll_status(" + seed + ")";
+
+                timerTwo=window.setTimeout(cmd,100);
+
+        }
+
+        else if (seed <= 150 && 0 < seed) {
+
+                for (c=0 ; c < seed ; c++) {
+
+                        out+=" ";
+
+                }
+
+                out+=msg;
+
+                seed--;
+
+                var cmd="scroll_status(" + seed + ")";
+
+                window.status=out;
+
+                timerTwo=window.setTimeout(cmd,100);
+
+        }
+
+        else if (seed <= 0) {
+
+                if (-seed < msg.length) {
+
+                        out+=msg.substring(-seed,msg.length);
+
+                        seed--;
+
+                        var cmd="scroll_status(" + seed + ")";
+
+                        window.status=out;
+
+                        timerTwo=window.setTimeout(cmd,100);
+
+                }
+
+                else {
+
+                        window.status=" ";
+
+                        timerTwo=window.setTimeout("scroll_status(150)",100);
+
+                }
+
+        }
+
+}
+
+// -- End of JavaScript code -------------- -->
+
+
+
+
+
+
+</script>
+
+<meta name="FORMATTER" content="Microsoft FrontPage 2.0">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" topmargin="0" leftmargin="0" bgstart bgend>
+
+<table border="0">
+  <tr>
+    <td><font size="1" face="arial, helv"><img src="images/logo.gif" alt=" B H P " width="169"
+    height="60"></font></td>
+    <td><font size="1" face="arial, helv"><!--webbot bot="ImageMap" startspan
+    rectangle=" (301,30) (394, 47)  toolbox/whatsnew.htm"
+    rectangle=" (318,11) (394, 30)  toolbox/sitemap.htm" src="images/ban-hp.gif" border="0"
+    width="395" height="60" --><MAP NAME="FrontPageMap0"><AREA SHAPE="RECT" COORDS="301, 30, 394, 47" HREF="toolbox/whatsnew.htm"><AREA SHAPE="RECT" COORDS="318, 11, 394, 30" HREF="toolbox/sitemap.htm"></MAP><img src="images/ban-hp.gif" border="0" width="395" height="60" usemap="#FrontPageMap0"><!--webbot bot="ImageMap" i-checksum="14699" endspan --></font></td>
+  </tr>
+</table>
+
+<table border="0">
+  <tr>
+    <td><img src="images/block.jpg" width="20" height="20" alt="block.jpg (1644 bytes)"></td>
+  </tr>
+</table>
+<div align="left">
+
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="110"><font size="1"></font>&nbsp;</td>
+    <td><table border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td><a href="about.htm"><font size="1" face="arial, helv"><img src="images/about.gif"
+        alt=" About BHP " border="0" width="118" height="111"></font></a></td>
+      </tr>
+      <tr>
+        <td><a href="financ.htm"><font size="1" face="arial, helv"><img src="images/finan.gif"
+        alt=" Financials " border="0" width="118" height="97"></font></a></td>
+      </tr>
+    </table>
+    </td>
+    <td><table border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td><div align="left"><table border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td><a href="news.htm"><font size="1" face="arial, helv"><img src="images/news.gif"
+            alt=" News " border="0" width="118" height="80"></font></a></td>
+            <td><a href="products.htm"><font size="1" face="arial, helv"><img
+            src="images/products.gif" alt=" Products and Services " border="0" width="175" height="80"></font></a></td>
+          </tr>
+        </table>
+        </div></td>
+      </tr>
+      <tr>
+        <td><table border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td valign="top"><a href="school.htm"><font size="1" face="arial, helv"><img
+            src="images/school.gif" alt=" School Projects " align="top" border="0" width="71"
+            height="128"></font></a></td>
+            <td valign="top"><font size="1" face="arial, helv"><a href="enviro.htm"><img
+            src="images/enviro.gif" alt=" Environment " align="top" border="0" width="103" height="48"></a><br>
+            <a href="culture.htm"><img src="images/culture.gif" alt=" Culture and Community "
+            align="top" border="0" width="103" height="80"></font></a></td>
+            <td><a href="careers.htm"><font size="1" face="arial, helv"><img src="images/careers.gif"
+            alt=" Careers and Employment " border="0" width="119" height="128"></font></a></td>
+          </tr>
+        </table>
+        </td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+</table>
+</div>
+
+<form action="http://www.bhp.com.au/cgi-bin/AT-bhpwwwsearch.cgi" method="POST">
+  <input type="hidden" name="sp" value="sp"><div align="left"><table border="0">
+    <tr>
+      <td width="100"></td>
+      <td align="center"><font size="1" face="Arial"><textarea name="search" rows="1" cols="45"
+      scrolling="no"></textarea></font></td>
+    </tr>
+    <tr>
+      <td width="100"></td>
+      <td align="center"><font size="1" face="Arial"><input type="image" name="I1"
+      src="images/search.gif" align="bottom" border="0" width="89" height="20"></font></td>
+    </tr>
+  </table>
+  </div>
+</form>
+
+<p><font size="1" face="arial, helv"></font>&nbsp;</p>
+
+<table border="0">
+  <tr>
+    <td width="640"><p align="center"><font size="1" face="Arial"><a
+    href="corporate/index.htm">BHP Group</a> | <a href="steel/index.html">BHP Steel</a> | <a
+    href="copper/index.htm">BHP Copper</a> | <a href="minerals/index.htm">BHP Minerals</font></a><font
+    size="1" face="arial, helv"><br>
+    </font><font size="1" face="Arial"><a href="petroleum/index.htm">BHP Petroleum</a> | <a
+    href="servicecompanies/index.htm">BHP Service Companies</a> <br>
+    <br>
+    </font><a href="about.htm"><font size="1" face="arial, helv">About BHP</font></a><font
+    size="1" face="Arial"> | </font><a href="news.htm"><font size="1" face="arial, helv">News</font></a><font
+    size="1" face="Arial"> | </font><a href="financ.htm"><font size="1" face="arial, helv">Financials</font></a><font
+    size="1" face="Arial"> | </font><a href="products.htm"><font size="1" face="arial, helv">Products
+    &amp; Services</font></a><font size="1" face="Arial"><br>
+    </font><a href="school.htm"><font size="1" face="arial, helv">Student Projects</font></a><font
+    size="1" face="Arial"> | </font><a href="enviro.htm"><font size="1" face="arial, helv">Environment</font></a><font
+    size="1" face="Arial"> | </font><a href="culture.htm"><font size="1" face="arial, helv">Culture
+    &amp; Community</font></a><font size="1" face="Arial"> | </font><a href="careers.htm"><font
+    size="1" face="arial, helv">Careers &amp; Employment</font></a><font size="1" face="Arial">
+    <br>
+    <br>
+    <a href="toolbox/contact.htm">Contacts &amp; Feedback</a><br>
+    <br>
+    </font><a href="bhphome.htm"><font size="1" face="arial, helv">BHP Home</font></a><font
+    size="1" face="Arial"> </font></p>
+    <p align="center"><font size="1" face="Arial">©1997 <a href="toolbox/disclaim.htm"><b>The
+    Broken Hill Proprietary Company Limited</b></a> ACN 004 028 077<br>
+    This page approved by Group Communications. <br>
+    Contact</font><font size="2" face="Arial"> </font><font size="1" face="Arial"><a
+    href="mailto:blackall.crispin.c@bhp.com.au">Crispin Blackall</a>.&nbsp; Revised 23 October
+    1997.</font></p>
+    <p align="center"><font size="1" face="Arial">This site is best viewed using</font></p>
+    <p align="center"><a href="http://www.microsoft.com/ie/"><font size="1" face="Arial"><img
+    src="images/ie3.gif" border="0" width="88" height="31"></a> </font><font face="Arial"><small><small><small>and</small></small></small>
+    <a href="financials/ar32e30.exe" target><img src="financials/images/acrored.gif"
+    border="0" width="88" height="31"></font></a></p>
+    <p align="center"><font size="1" face="Arial">This information has been compiled for your
+    convenience and we invite you to access it at your leisure. BHP has taken all reasonable
+    care in producing this information. However, we cannot promise that it will provide you
+    with complete answers to all your questions or that it is accurate. Accordingly, we shall
+    not be responsible for any eventualities arising from the use of the information. We
+    strongly advise you to seek independent professional advice before making any investment
+    decisions. You may download the information for your own personal use or in order to
+    inform others about our materials, but otherwise you may not reproduce or modify it
+    without our express permission. </font></td>
+  </tr>
+</table>
+</body>
+</html>

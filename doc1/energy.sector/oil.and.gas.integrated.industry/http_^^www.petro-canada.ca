@@ -1,0 +1,167 @@
+Server: Microsoft-IIS/3.0
+Date: Sun, 16 Nov 1997 18:33:01 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Wed, 22 Oct 1997 16:06:11 GMT
+Content-Length: 13382
+
+<html>
+  <head>
+    <!---- PetroCanada WebSite ---->
+    <!---- new homepage for prototype testing and demonstration ---->
+    <!---- 96-sep-04 : istar : creation ---->
+    <META name="keywords" content="Petro-Canada, PetroCanada, Petro, oil, natural gas, explore, refine, market, lubricants"> 
+    <META name="description" content="Petro-Canada is Canada's largest integrated oil and gas company. We explore for, develop, and market crude oil, natural gas and natural gas liquids.  Petro-Canada also refines crude oil into a variety of products, notably gasoline and lubricants, and markets those products. Our operations span Canada and include significant offshore interests.">
+    <title>
+      Petro-Canada: Welcome to Petro-Canada
+    </title>
+  </head>
+  
+  <script language="JavaScript">
+      <!-- hide javascript code from bad boy browsers... 
+      function buttonPress (imgCode) 
+{ 
+if (imgCode == 1)  { parent.PetroCan_Menu.location.href="/menu_html/menu-01a.html"; parent.PetroCan_Main.location.href="http://www.petro-canada.ca/PetroCan-Main.html"; } 
+if (imgCode == 2)  { parent.PetroCan_Menu.location.href="/menu_html/menu-01b.html"; parent.PetroCan_Main.location.href="http://www.petro-canada.ca/html/PetroCan-About.html"; } 
+if (imgCode == 3)  { parent.PetroCan_Menu.location.href="/menu_html/menu-01c.html"; parent.PetroCan_Main.location.href="http://www.petro-canada.ca/investor/PetroCan-Investor.html"; } 
+if (imgCode == 4)  { parent.PetroCan_Menu.location.href="/menu_html/menu-01d.html"; parent.PetroCan_Main.location.href="http://www.petro-canada.ca/html/PetroCan-Products.html"; } 
+if (imgCode == 5)  { parent.PetroCan_Menu.location.href="/menu_html/menu-01e.html"; parent.PetroCan_Main.location.href="http://www.petro-canada.ca/html/PetroCan-Opportunities.html"; } 
+if (imgCode == 6)  { parent.PetroCan_Menu.location.href="/menu_html/menu-01f.html"; parent.PetroCan_Main.location.href="http://www.petro-canada.ca/html/PetroCan-Search.html"; } 
+if (imgCode == 7)  { parent.PetroCan_Menu.location.href="/menu_html/menu-01g.html"; parent.PetroCan_Main.location.href="http://www.petro-canada.ca/html/PetroCan-Contacts.html"; } 
+if (imgCode == 8)  { parent.PetroCan_Menu.location.href="/menu_html/menu-01b.html"; parent.PetroCan_Main.location.href="http://www.petro-canada.ca/html/PetroCan-Upstream.html"; } 
+if (imgCode == 9)  { parent.PetroCan_Menu.location.href="/menu_html/menu-01b.html"; parent.PetroCan_Main.location.href="http://www.petro-canada.ca/html/PetroCan-Downstream.html"; } 
+if (imgCode == 10) { parent.PetroCan_Menu.location.href="/menu_html/menu-01b.html"; parent.PetroCan_Main.location.href="http://www.petro-canada.ca/html/PetroCan-Responsibility.html"; } 
+if (imgCode == 11) { parent.PetroCan_Menu.location.href="/menu_html/menu-01a.html"; parent.PetroCan_Main.location.href="http://www.petro-canada.ca/PetroCan-Main.html#hotlinks"; } 
+if (imgCode == 12) { parent.PetroCan_Menu.location.href="/menu_html/menu-01d.html"; parent.PetroCan_Main.location.href="http://qs.secapl.com/cgi-bin/qs?tick=T.PCA"; } 
+if (imgCode == 13) { parent.PetroCan_Menu.location.href="/menu_html/menu-01a.html"; parent.PetroCan_Main.location.href="http://qs.secapl.com/cgi-bin/qs?tick=PCZ"; } 
+if (imgCode == 14) { parent.PetroCan_Menu.location.href="/menu_html/menu-01b.html"; parent.PetroCan_Main.location.href="http://www.petro-canada.ca/html/PetroCan-CodeofConduct.html"; } 
+if (imgCode == 15) { parent.PetroCan_Menu.location.href="/menu_html/menu-01b.html"; parent.PetroCan_Main.location.href="http://www.petro-canada.ca/html/PetroCan-Legal.html"; } 
+if (imgCode == 16) { parent.PetroCan_Menu.location.href="/menu_html/menu-01c.html"; parent.PetroCan_Main.location.href="http://www.petro-canada.ca/html/PetroCan-History.html"; } 
+if (imgCode == 17) { parent.PetroCan_Menu.location.href="/menu_html/menu-01d.html"; parent.PetroCan_Main.location.href="http://www.calflo.com/"; } 
+if (imgCode == 18) { parent.PetroCan_Menu.location.href="/menu_html/menu-01d.html"; parent.PetroCan_Main.location.href="http://www.icg.ca/"; } 
+if (imgCode == 19) { parent.PetroCan_Menu.location.href="/menu_html/menu-01d.html"; parent.PetroCan_Main.location.href="http://www.htlubricants.com/intro.html"; } 
+if (imgCode == 20) { parent.PetroCan_Menu.location.href="/menu_html/menu-01f.html"; parent.PetroCan_Main.location.href="http://www.petro-canada.ca/html/PetroCan-Search.html"; } 
+if (imgCode == 21) { parent.PetroCan_Menu.location.href="/menu_html/menu-01b.html"; parent.PetroCan_Main.location.href="http://www.petro-canada.ca/html/PetroCan-Profiles.html"; } 
+if (imgCode == 22) { parent.PetroCan_Menu.location.href="/menu_html/menu-01c.html"; parent.PetroCan_Main.location.href="http://www.petro-canada.ca/investor/97fctsht.html"; } 
+if (imgCode == 23) { parent.PetroCan_Menu.location.href="/menu_html/menu-01c.html"; parent.PetroCan_Main.location.href="http://www.petro-canada.ca/investor/PetroCan-shareholder.html"; } 
+if (imgCode == 24) { parent.PetroCan_Menu.location.href="/menu_html/menu-01c.html"; parent.PetroCan_Main.location.href="http://ww2.newswire.ca/cgi-bin/view.cgi?OKEY=OR-51071"; } 
+if (imgCode == 25) { parent.PetroCan_Menu.location.href="/menu_html/menu-01c.html"; parent.PetroCan_Main.location.href="http://www.petro-canada.ca/investor/PetroCan-financial.html"; } 
+if (imgCode == 26) { parent.PetroCan_Menu.location.href="/menu_html/menu-01c.html"; parent.PetroCan_Main.location.href="http://quote.canada-stockwatch.com/sw/quote.dbm?symbol=T.PCA+M.PCA"; } 
+if (imgCode == 27) { parent.PetroCan_Menu.location.href="/menu_html/menu-01c.html"; parent.PetroCan_Main.location.href="http://www.petro-canada.ca/investor/PetroCan-questions.html"; } 
+if (imgCode == 28) { parent.prices_menubar.location.href="/investor/PetroCan-prices-menubar-1.html"; parent.prices_main.location.href="http://www.petro-canada.ca/investor/pump.html"; } 
+if (imgCode == 29) { parent.PetroCan_Menu.location.href="/menu_html/menu-01c.html"; parent.PetroCan_Main.location.href="http://www.petro-canada.ca/html/PetroCan-Speeches.html"; }
+if (imgCode == 30) { parent.PetroCan_Menu.location.href="/menu_html/menu-01e.html"; parent.PetroCan_Main.location.href="http://www.petro-canada.ca/campus/PetroCan-Campus.html"; } 
+if (imgCode == 31) { parent.PetroCan_Menu.location.href="/menu_html/menu-01c.html"; parent.PetroCan_Main.location.href="http://www.petro-canada.ca/investor/PetroCan-Oddlot.html"; } 
+if (imgCode == 32)  { parent.PetroCan_Menu.location.href="/menu_html/menu-01e.html"; parent.PetroCan_Main.location.href="http://www.petro-canada.ca/html/PetroCan-Retail.html"; } 
+
+} 
+
+    document.writeln("<FRAMESET FRAMEBORDER=\"YES\" FRAMESPACING=\"1\" COLS=\"170,*\">")
+    document.writeln("  <FRAMESET FRAMEBORDER=\"0\" FRAMESPACING=\"0\" BORDER=\"0\" ROWS=\"127,*\">")
+    document.writeln("    <FRAME SRC=\"/PetroCan-Logo.html\" NAME=\"PetroCan_Logo\" NORESIZE SCROLLING=\"NO\"  MARGINWIDTH=\"0\" MARGINHEIGHT=\"0\">")
+    document.writeln("    <FRAME SRC=\"/menu_html/menu-01a.html\" NAME=\"PetroCan_Menu\" NORESIZE MARGINWIDTH=\"0\" MARGINHEIGHT=\"0\">")
+    document.writeln("  </FRAMESET>")
+    document.writeln("  <FRAME SRC=\"/PetroCan-Main.html\" NAME=\"PetroCan_Main\" NORESIZE MARGINWIDTH=\"0\" MARGINHEIGHT=\"0\">")
+    document.writeln("</FRAMESET>")    
+    
+            <!-- end the hiding of code from bad boy browsers... --->
+          </script>
+        
+        <BODY bgcolor="D3D3D3">
+                
+        <!-- Search words: Petro-Canada,  Petro-Canada, Petro-Canada, Petro-Canada, Petro-Canada
+                           Petrocanada, Petrocanada, Petrocanada, Petrocanada, Petrocanada
+                           Petrocan, Petrocan, Petrocan, Petrocan, Petrocan
+                           Petro-can, Petro-can, Petro-can, Petro-can, Petro-can 
+                           Petro Canada, Petro Canada, Petro Canada, Petro Canada, Petro Canada
+                           Petro Can, Petro Can, Petro Can, Petro Can, Petro Can
+                           oil company, oil company, oil company, oil company, oil company
+                           gas company, gas company, gas company, gas company, gas company
+                           fuel, fuel, fuel, fuel, fuel
+                           hibernia, hibernia, hibernia, hibernia, hibernia
+                           terra nova, terra nova, terra nova, terra nova, terra nova
+                           terranova, terranova, terranova, terranova, terranova
+                           norsk hydro, norsk hydro, norsk hydro, norsk hydro, norsk hydro                           syncrude, syncrude, syncrude, syncrude, syncrude
+                           lubricants, lubricants, lubricants, lubricants, lubricants
+                           Canadian, Canadian, Canadian, Canadian, Canadian
+                           gas station, gas station, gas station, gas station, gas station
+                           credit cards, credit cards, credit cards, credit cards, credit cards
+                           oil and gas, oil and gas, oil and gas, oil and gas, oil and gas
+                           wintergas, wintergas, wintergas, wintergas, wintergas 
+                           petropoints, petropoints, petropoints, petropoints, petropoints, 
+                           petro points, petro points, petro points, petro points, petro points, 
+                           petro-points, petro-points, petro-points, petro-points, petro-points, 
+                           petropass, petropass, petropass, petropass, petropass, 
+                           petro-pass, petro-pass, petro-pass, petro-pass, petro-pass, 
+                           petro pass, petro pass, petro pass, petro pass, petro pass, 
+                           winter gas, winter gas, winter gas, winter gas, winter gas, 
+                           shares, shares, shares, shares, shares, 
+                           stocks, stocks, stocks, stocks, stocks, 
+                           trading, trading, trading, trading, trading, 
+                           investments, investments, investments, investments, investments, 
+                           investors, investors, investors, investors, investors, 
+                           employment, employment, employment, employment, employment, 
+                           career, career, career, career, career, 
+                           engineering, engineering, engineering, engineering, engineering, 
+                           geology, geology, geology, geology, geology, 
+                           geophysics, geophysics, geophysics, geophysics, geophysics, 
+                           upstream, upstream, upstream, upstream, upstream, 
+                           downstream, downstream, downstream, downstream, downstream, 
+                           pca, pca, pca, pca, pca, 
+                           pcz, pcz, pcz, pcz, pcz, 
+                           icg, icg, icg, icg, icg, 
+                           propane, propane, propane, propane, propane, 
+                           calflo, calflo, calflo, calflo, calflo, 
+                           ht, ht, ht, ht, ht, 
+                           grand banks, grand banks, grand banks, grand banks, grand banks, 
+                           algeria, algeria, algeria, algeria, algeria, 
+                           north sea, north sea, north sea, north sea, north sea, 
+                           Jeanne d'Arc Basin, Jeanne d'Arc Basin, Jeanne d'Arc Basin, Jeanne d'Arc Basin, Jeanne d'Arc Basin, 
+                           Sedimentary, Sedimentary, Sedimentary, Sedimentary, Sedimentary, 
+                           exploration, exploration, exploration, exploration, exploration, 
+                           annual report, annual report, annual report, annual report, annual report, 
+                           refinery, refinery, refinery, refinery, refinery, 
+                           crude, crude, crude, crude, crude, 
+                           dividend, dividend, dividend, dividend, dividend, 
+                           calgary, calgary, calgary, calgary, calgary,         
+        End of search words -->
+ 
+
+        </BODY>
+        
+        
+    <NOFRAMES>
+    
+    <! **** This is the NO FRAME stuff for older browsers ***>
+    
+      <TITLE>Petro-Canada</TITLE>
+      <BODY BGCOLOR=FFFFFF>
+        <CENTER>        
+        <img src="/imgs/TopPCLogo.gif" border="0">
+        <br><br>
+        <TABLE align=center border=0>
+        <TR>
+        <TD COLSPAN=2 ALIGN=CENTER>
+          Welcome to the Petro-Canada Home Page.
+          <BR><BR><BR>
+          This site is best viewed with a frame-enabled browser.
+          <TR>
+          <TD align=center>
+            <A HREF="HTTP://www.netscape.com/comprod/mirror/client_download.html">
+              <IMG SRC="imgs/netnow3.gif" WIDTH="88" HEIGHT="31" BORDER="0" ALT="Netscape Navigator" VSPACE="20" HSPACE="20"></A>
+          </TD>
+          <TD align=center> 
+            <A HREF="http://www.microsoft.com/ie/ie.htm">
+              <IMG SRC="imgs/ie_static.gif" WIDTH="88" HEIGHT="31" BORDER="0" ALT="Microsoft Internet Explorer" VSPACE="20" HSPACE="20"></A>
+          </TD>
+          </TR>
+        </TD>
+        </TR>  
+        </TABLE>
+        </CENTER>
+
+      </BODY>  
+    </NOFRAMES>
+        
+      </html>
+      

@@ -1,0 +1,170 @@
+Date: Fri, 21 Nov 1997 04:06:04 GMT
+Server: Apache/1.1b4-NW
+Content-type: text/html
+Content-length: 9604
+Last-modified: Tue, 14 Oct 1997 23:36:29 GMT
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<HTML>
+  
+  <HEAD>
+    <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META NAME="AUTHOR" CONTENT="Dave Lampton">
+    <META NAME="keywords" 
+    CONTENT="3d stereo 3-d audio surround sound desper products oem licensing pro electronics consumer software virtual reality">
+    <META NAME="GENERATOR" CONTENT="Microsoft FrontPage 2.0">
+    <TITLE>Spatializer Audio Laboratories, Inc.</TITLE>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+var js = 1.0;
+function change(Name,Image,No,Msg) { if (js >= 1.1) return changeit(Name,Image,No,Msg); }
+//-->
+</SCRIPT>
+
+<SCRIPT LANGUAGE="JavaScript1.1">
+Version = parseInt(navigator.appVersion);
+if (navigator.appName == "Netscape")
+    js = ((Version >= 4) ? 1.2 : ( (Version == 3) ? 1.1 : 1.0 ));
+else
+    if (navigator.appVersion.indexOf('MSIE') != -1) 
+        js = ((Version >= 4) ? 1.1 : 1.0);
+corp4 = new Image();
+corp4.src  = "http://www.spatializer.com/images/corp4.gif";
+corp5 = new Image();
+corp5.src = "http://www.spatializer.com/images/corp5.gif";
+prod4 = new Image();
+prod4.src  = "http://www.spatializer.com/images/prod4.gif";
+prod5 = new Image();
+prod5.src = "http://www.spatializer.com/images/prod5.gif";
+oem4 = new Image();
+oem4.src  = "http://www.spatializer.com/images/oem4.gif";
+oem5 = new Image();
+oem5.src = "http://www.spatializer.com/images/oem5.gif";
+support4 = new Image();
+support4.src  = "http://www.spatializer.com/images/support4.gif";
+support5 = new Image();
+support5.src = "http://www.spatializer.com/images/support5.gif";
+sitemap4 = new Image();
+sitemap4.src  = "http://www.spatializer.com/images/sitemap4.gif";
+sitemap5 = new Image();
+sitemap5.src = "http://www.spatializer.com/images/sitemap5.gif";
+ear0 = new Image();
+ear0.src  = "http://www.spatializer.com/images/ear0.gif";
+ear1 = new Image();
+ear1.src = "http://www.spatializer.com/images/ear1.gif";
+demo0 = new Image();
+demo0.src  = "http://www.spatializer.com/images/demo0.gif";
+demo1 = new Image();
+demo1.src = "http://www.spatializer.com/images/demo1.gif";
+whatsnew0 = new Image();
+whatsnew0.src  = "http://www.spatializer.com/images/whatsnew0.gif";
+whatsnew1 = new Image();
+whatsnew1.src = "http://www.spatializer.com/images/whatsnew1.gif";
+window.defaultStatus = '';
+function changeit(Name,Image,No,Msg) {
+    document [Name].src = eval(Image + No + ".src");
+    if (Msg) self.status = eval(Image + "3");
+    return true
+}
+</SCRIPT>
+  </HEAD>
+  
+  <BODY BACKGROUND="http://www.spatializer.com/images/background.jpg" 
+  TEXT="#FFFFFF" LINK="#0000FF" VLINK="#999966" ALINK="#FF0000" 
+  BGPROPERTIES="fixed" 
+  ONLOAD="window.status='Welcome to the Spatializer Audio Laboratories Corporate Website';return true">
+    <DIV ALIGN="center">
+    <CENTER>
+    <TABLE BORDER="0" CELLPADDING="0" CELLSPACING="5" WIDTH="100%">
+      <TR>
+        <TD ALIGN="right"><IMG SRC="http://www.spatializer.com/images/banner.gif" WIDTH="560" HEIGHT="28"></TD>
+        <TD ALIGN="right" WIDTH="35">
+
+<!--<a href="Demos/Splash/Spatial.zip"
+
+
+onmouseover="window.status='Download a cool little animation! (1.52MB)';return
+
+
+true"
+
+
+
+		onmouseout="window.status='Welcome to the Spatializer Audio Laboratories
+
+
+Corporate Website';return true">
+
+
+
+		-->
+        
+         <IMG SRC="http://www.spatializer.com/images/logo.gif" WIDTH="29" HEIGHT="29" BORDER="0">
+
+<!--</a>-->
+        
+         </TD>
+      </TR>
+    </TABLE> </CENTER></DIV>
+    <TABLE BORDER="0" WIDTH="100%">
+      <TR>
+        <TD ALIGN="center"><IMG SRC="http://www.spatializer.com/images/collage.gif" WIDTH="250" HEIGHT="246">
+        </TD>
+        <TD>
+        <DIV ALIGN="right">
+        <TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+          <TR>
+            <TD HEIGHT="30"><A HREF="http://www.spatializer.com/Corporate/index.html" TITLE="Corporate Information" ONMOUSEOVER="window.status='Investor Relations, Employment Opportunities, Contact Information, etc.';change('corpA','corp',5);return true" ONMOUSEOUT="change('corpA','corp',4);window.status='Welcome to the Spatializer Audio Laboratories Corporate Website';return true"><IMG SRC="http://www.spatializer.com/images/corp4.gif" ALIGN="right" BORDER="0" HSPACE="0" WIDTH="300" HEIGHT="24" NAME="corpA"></A>
+            </TD>
+          </TR>
+          <TR>
+            <TD HEIGHT="30"><A HREF="http://www.spatializer.com/Products/index.html" TITLE="Professional and Consumer Products Information" ONMOUSEOVER="window.status='Learn more about our Professional and Consumer Audio Products';change('prodA','prod',5);return true" ONMOUSEOUT="change('prodA','prod',4);window.status='Welcome to the Spatializer Audio Laboratories Corporate Website';return true"><IMG SRC="http://www.spatializer.com/images/prod4.gif" ALIGN="right" BORDER="0" HSPACE="0" WIDTH="300" HEIGHT="24" NAME="prodA"></A></TD>
+          </TR>
+          <TR>
+            <TD HEIGHT="30"><A HREF="http://www.spatializer.com/OEM/index.html" TITLE="Licensing Information for OEM's" ONMOUSEOVER="change('oemA','oem',5);window.status='Audio solutions for OEMs';return true" ONMOUSEOUT="window.status='Welcome to the Spatializer Audio Laboratories Corporate Website';change('oemA','oem',4);return true"><IMG SRC="http://www.spatializer.com/images/oem4.gif" ALIGN="right" BORDER="0" HSPACE="0" WIDTH="300" HEIGHT="24" NAME="oemA"></A></TD>
+          </TR>
+          <TR>
+            <TD HEIGHT="30"><A HREF="http://www.spatializer.com/Support/index.html" TITLE="Product Support/Technical Support" ONMOUSEOVER="change('supportA','support',5);window.status='Product support and technical support';return true" ONMOUSEOUT="window.status='Welcome to the Spatializer Audio Laboratories Corporate Website';change('supportA','support',4);return true"><IMG SRC="http://www.spatializer.com/images/support4.gif" ALIGN="right" BORDER="0" HSPACE="0" WIDTH="300" HEIGHT="24" NAME="supportA"></A></TD>
+          </TR>
+          <TR>
+            <TD HEIGHT="30"><A HREF="http://www.spatializer.com/SiteMap/index.html" TITLE="View the entire Web site at a glance" ONMOUSEOVER="change('sitemapA','sitemap',5);window.status='View the entire Spatializer Web site at a glance';return true" ONMOUSEOUT="window.status='Welcome to the Spatializer Audio Laboratories Corporate Website';change('sitemapA','sitemap',4);return true"><IMG SRC="http://www.spatializer.com/images/sitemap4.gif" ALIGN="right" BORDER="0" HSPACE="0" WIDTH="300" HEIGHT="24" NAME="sitemapA"></A>
+            </TD>
+          </TR>
+          <TR>
+            <TD>
+            <TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+              <TR>
+                <TD WIDTH="50%" HEIGHT="100"><A HREF="http://www.spatializer.com/Products/Audio_Samples/index.html" TITLE="Hear for yourself!" ONMOUSEOVER="window.status='Listen to some of our products';change('earA','ear',1);return true" ONMOUSEOUT="change('earA','ear',0);window.status='Welcome to the Spatializer Audio Laboratories Corporate Website';return true"><IMG SRC="http://www.spatializer.com/images/ear0.gif" ALIGN="right" NAME="earA" BORDER="0" HSPACE="0" WIDTH="180" HEIGHT="50"></A></TD>
+                <TD ALIGN="center" WIDTH="50%"><A HREF="http://www.spatializer.com/Products/Pro_Software/PT3D.html" TITLE="Download a demo!" ONMOUSEOVER="window.status='Check out the PT3D demo for ProTools!';change('demoA','demo',1);return true" ONMOUSEOUT="change('demoA','demo',0);window.status='Welcome to the Spatializer Audio Laboratories Corporate Website';return true"><IMG SRC="http://www.spatializer.com/images/demo0.gif" BORDER="0" NAME="demoA" WIDTH="150" HEIGHT="30"></A>
+                <BR><IMG SRC="http://www.spatializer.com/images/spacer.gif" BORDER="0" WIDTH="150" HEIGHT="6">
+                <BR><A HREF="http://www.spatializer.com/Corporate/Press_Releases/index.html" TITLE="Spatializer News" ONMOUSEOVER="window.status='Find out what\'s going on at Spatializer';change('whatA','whatsnew',1);return true" ONMOUSEOUT="change('whatA','whatsnew',0);window.status='Welcome to the Spatializer Audio Laboratories Corporate Website';return true"><IMG SRC="http://www.spatializer.com/images/whatsnew0.gif" BORDER="0" NAME="whatA" WIDTH="150" HEIGHT="14"></A></TD>
+              </TR>
+            </TABLE> </TD>
+          </TR>
+        </TABLE> </DIV></TD>
+      </TR>
+    </TABLE>
+    <TABLE CELLPADDING="10" CELLSPACING="0" ALIGN="CENTER" CLEAR="0" 
+    BORDERCOLOR="#FDAE1C" BORDERCOLORLIGHT="#FDAE1C" BORDERCOLORDARK="#FDAE1C" 
+    WIDTH="75%">
+      <TR>
+        <TD VALIGN="MIDDLE" ALIGN="CENTER" HEIGHT="72" WIDTH="144"><A HREF="http://www.spatializer.com/Products/Consumer/HTMS-2510.html"><B><FONT SIZE="-1" COLOR="#C0C0C0">Click
+          here for information about </FONT></B>
+          <BR><FONT COLOR="#C0C0C0" FACE="Arial Black" SIZE="-1">The </FONT><I><B><FONT FACE="Arial" COLOR="#FFFFFF">HTMS&#183;<FONT COLOR="#FFFFFF">2510</FONT></FONT></B></I>
+          <BR><FONT COLOR="#C0C0C0" FACE="Arial" SIZE="-2">Stereo Surround
+          Sound System</FONT></A></TD>
+        <TD VALIGN="MIDDLE" ALIGN="CENTER" WIDTH="353"><IMG SRC="http://www.spatializer.com/images/comlogo.gif" ALT="See us at COMDEX 1997!" ALIGN="MIDDLE" WIDTH="333" HEIGHT="146"></TD>
+      </TR>
+    </TABLE>
+    
+    <P><BR>
+       </P>
+    <CENTER><FONT SIZE="-2">This site looks best when viewed with Netscape
+    Navigator 3.0 or higher, or with Microsoft Internet Explorer 4.0 or higher.</FONT>
+    <BR> <FONT SIZE="-1"><I>Spatializer&reg; and the circle-in-square device
+    are trademarks owned by Desper Products, Inc.
+    <BR>&copy;1997 Spatializer Audio Laboratories, Inc.</I> </FONT></CENTER>
+  </BODY>
+</HTML>

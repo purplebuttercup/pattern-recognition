@@ -1,0 +1,61 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Thursday, 18-Dec-97 13:07:19 GMT
+Content-Type: text/html
+Content-Length: 1771
+Last-Modified: Wednesday, 26-Nov-97 18:33:35 GMT
+
+<HTML>
+<HEAD><TITLE>The Pacific Bank Home Page</TITLE></HEAD>
+<META NAME="Section"  CONTENT="Homepage">
+<META name="description" content="The Pacific Bank">
+<META name="keywords" content="international  banking financial bank checking savings sba commercial trade finance business real estate cash management  cd trust ">
+
+<BODY  BACKGROUND="bg02.gif" TEXT="#000000">
+
+<CENTER>
+<IMG align=top SRC="web.gif" ALT="[Bank Logo]"  >
+</CENTER>
+
+
+<A HREF="cablecar.html"><IMG ALIGN=LEFT SRC="tpbbuild.gif" BORDER=0 ALT="[Main Office]"></A>
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="inter.html">
+<IMG ALIGN=LEFT SRC="t_d1.gif" ALT="[International Banking]"   BORDER=0 ></A></TD>
+<TD><A HREF="commbank.html">
+<IMG ALIGN=LEFT SRC="t_d2.gif" ALT="[Commercial Banking]"   BORDER=0 ></A></TD>
+<TD><A HREF="ppbank.html">
+<IMG ALIGN=LEFT SRC="t_d4.gif" ALT="[Personal Banking]"  BORDER=0 ></A></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<TABLE >
+<TD><A HREF="wealth.html">
+<IMG ALIGN=RIGHT SRC="t_d7.gif" ALT="[Wealth Management]"  BORDER=0 ></A></TD>
+<TD><A HREF="share.html">
+<IMG ALIGN=RIGHT SRC="t_d5.gif" ALT="[Shareholder  Information]"  BORDER=0 ></A></TD>
+<TD><A HREF="bankloc.html">
+<IMG ALIGN=RIGHT SRC="t_d3.gif" ALT="[Bank Locations]"  BORDER=0 ></A></TD>
+<TD><A HREF="whatnew.html">
+<IMG ALIGN=left  SRC="t_d6.gif" ALT="[What's New]"   BORDER=0 ></A></TD>
+</TR>
+</TABLE> 
+<BR>
+
+</CENTER>
+<P>
+
+<H5><I>Please send any questions or comments to 
+<A HREF="mailto:tpb@pacificbank.com">info@pacificbank.com</A><BR>
+or  see the <A HREF="bankloc.html">Bank Locations</A> for phone and fax </I></H5>
+
+<H5>Also check out our <A HREF="job.html">Career Opportunities.</A></H5>
+<H5>Member FDIC</H5>
+
+<H6>Last update Nov 26, 1997 </H6>
+</BODY>
+</HTML>

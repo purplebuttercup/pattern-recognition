@@ -1,0 +1,195 @@
+Server: Netscape-Enterprise/2.01
+Date: Thu, 18 Dec 1997 10:52:23 GMT
+Accept-ranges: bytes
+Last-modified: Tue, 02 Sep 1997 21:54:34 GMT
+Content-length: 4127
+Content-type: text/html
+
+<html>
+
+<head>
+
+<title>News & Facts</title>
+
+</head>
+
+
+
+<BODY MARGINHEIGHT=15 MARGINWIDTH=10 BACKGROUND="/commongifs/bg2.gif" bgcolor="#ffffff" LINK="#0033FF">
+
+
+
+<!-- the banner -->
+
+
+
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
+
+<tr>
+
+<td width=160 align=right valign=top>
+
+<A HREF="nav.map"><img src="/commongifs/2ndlvlnav.gif" USEMAP="#nav.map" border="0"></A>
+
+<br>
+
+<img src="/commongifs/spacer.gif" width=160 height=1 border=0></td>
+
+<td align=left valign=top>
+
+<img src="images/n&f.gif">
+
+</td>
+
+</tr>
+
+</table>
+
+
+
+<!-- table border="0">
+
+
+
+<tr><td WIDTH=155  ALIGN="RIGHT"><a href="/../maps/navnf3.map"><img src="images/2navbarwout.gif" WIDTH=157 HEIGHT=88 BORDER=0 ISMAP></A><a name="top">
+
+</TD>
+
+
+
+<TD WIDTH=930 ALIGN="LEFT" VALIGN="TOP"><img src="images/n&f.gif" WIDTH=930 HEIGHT=88 hspace=0></a></td></tr></table -->
+
+<P>
+
+
+
+<TABLE BORDER=0 cellspacing=0 cellpadding=0>
+
+<!-- make the columns -->
+
+<tr>
+
+<td><img src="/commongifs/spacer.gif" width=153 height=1></td>
+
+<td><img src="/commongifs/spacer.gif" width=25 height=1></td>
+
+<td><img src="/commongifs/spacer.gif" width=427 height=1></td>
+
+</tr>
+
+
+
+<tr>
+
+<td valign=top><font size="2">
+
+
+
+
+
+<a href="profile/index.html">Corporate Profile</a><br>
+<a href="/cgi-bin/isg/nph-form?FormId=setbtab&topleft=banners/flag.html&bottomleft=menu.html&size=20&topright=banners/b-alexb.html&bottomright=home/home.html">BT Alex. Brown</a><br>
+<a href="finhigh/index.html">Quarterly Financial Highlights</a><br>
+
+<a href="country/map.html">BT Worldwide</a><br>
+
+<a href="/cgi-bin/isg/nph-form?FormId=pressrel">Press Releases</a><br>
+
+<A HREF="communi/index.html">Social Responsibility</a><br>
+
+<a href="speech/index.html">Commentary &amp; Vision</a><br>
+
+<a href="finhigh/form.html">1996 Annual Report</A><br>
+
+</td>
+
+<td></td>
+
+<td>
+
+
+
+
+
+Welcome to News &amp; Facts!  In these pages you will find a wide range of  information regarding Bankers Trust, including our <a href="profile/index.html">Corporate Profile</a>, an introduction to <a href="/cgi-bin/isg/nph-form?FormId=setbtab&topleft=banners/flag.html&bottomleft=menu.html&size=20&topright=banners/b-alexb.html&bottomright=home/home.html">BT Alex. Brown</a>  and our most recent <a href="finhigh/index.html">Quarterly Financial Highlights</a>. Also, for a description of Bankers Trust's offices around the globe, you can take a look at <a href="country/map.html">Bankers Trust Worldwide</a>.<P>
+
+
+
+Recent press releases issued by the firm can be found in the <a href="/cgi-bin/isg/nph-form?FormId=pressrel">What's New at Bankers Trust</a> section. BT's community involvement is described in <A HREF="communi/index.html">Global Corporate Social Responsibility</a>, and management's speeches, offering BT's unique
+
+<a href="speech/index.html">Commentary &amp; Vision</a>, is also located here.<P> 
+
+
+
+Finally, if you would like to review our <a href="finhigh/form.html">1996 Annual Report</A> you are given a choice of either downloading it or requesting a copy via U.S. mail.
+
+
+
+</td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td></td>
+
+<td>
+
+
+
+<font size="2">
+<hr>
+[ <a href="/home.html">Home</a> |
+
+<a href="/toolbox.html">Help</A> ]
+
+<P>
+
+[ <A HREF="index.html">News and Facts</A> | <A HREF="/global/index.html">Research</A> | <A HREF="/ms/index.html">Markets and Services</A> | <A HREF="/hr/index.html">Careers</A> ]<p>
+
+<I>&#169; Copyright 1997 Bankers Trust New York Corporation.  All rights reserved.</I>
+
+</font>
+
+</td>
+
+</tr>
+
+</table>
+
+
+
+<MAP NAME="nav.map"><AREA SHAPE=RECT COORDS="1,1,153,38" HREF="/index.html">
+
+<!-- #$-:Image Map file created by Map THIS! -->
+
+<!-- #$-:Map THIS! free image map editor by Todd C. Wilson -->
+
+<!-- #$-:Please do not edit lines starting with "#$" -->
+
+<!-- #$VERSION:1.30 -->
+
+<!-- #$DATE:Tue Feb 11 10:03:18 1997 -->
+
+<!-- #$PATH:I:\Projects 5\BankersTrust\main\Demo\images\ -->
+
+<!-- #$GIF:2ndlvlnav.gif -->
+
+<AREA SHAPE=RECT COORDS="4,41,90,62" HREF="index.html">
+
+<AREA SHAPE=RECT COORDS="88,39,149,61" HREF="/global/index.html">
+
+<AREA SHAPE=RECT COORDS="3,68,49,84" HREF="/hr/index.html">
+
+<AREA SHAPE=RECT COORDS="54,63,153,84" HREF="/ms/index.html">
+
+</MAP>
+
+
+
+</body>
+
+</html>
+

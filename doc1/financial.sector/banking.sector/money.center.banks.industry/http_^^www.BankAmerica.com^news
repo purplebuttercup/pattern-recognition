@@ -1,0 +1,9 @@
+WWW Alert:  Redirection response from server is not handled by this client
+Server: Netscape-Commerce/1.12
+Date: Thursday, 18-Dec-97 12:19:05 GMT
+Location: http://www.bankamerica.com/news/
+Content-type: text/html
+Content-length: 218
+
+<HTML><HEAD><TITLE>Found</TITLE></HEAD><BODY><H1>Found</H1>
+This document has moved to a new <a href="http://www.bankamerica.com/news/">location</a>. Please update your documents and hotlists accordingly.</BODY></HTML>

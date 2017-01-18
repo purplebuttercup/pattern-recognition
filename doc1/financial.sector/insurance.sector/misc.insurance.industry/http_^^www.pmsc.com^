@@ -1,0 +1,83 @@
+Server: Netscape-FastTrack/2.01
+Date: Tue, 16 Dec 1997 13:15:57 GMT
+Accept-ranges: bytes
+Last-modified: Thu, 11 Dec 1997 17:06:43 GMT
+Content-length: 2987
+Content-type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML> 
+<HEAD>
+   <TITLE>Policy Management Systems Corporation</TITLE>
+   <META NAME="DESCRIPTION" CONTENT="Solutions for the global insurance and financial services industries">
+   <META NAME="KEYWORDS" CONTENT="Policy Management Systems, Policy Management, Policy, Insurance, Internet, GLOBAL, risk management, management, agents, series II, series III, POINT, PMS, PMSC, e-commerce, electronic commerce, cybertek, vilink, iso, quality, smalltalk, developers, software, systems">
+</HEAD>
+
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000CC" VLINK="#CC0000" ALINK="#FF3300">
+<CENTER>
+<TABLE WIDTH=435 BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR>
+  <TD ALIGN=center>
+<b><FONT FACE="arial, helvetica">PMSC Achieves ISO Certification Worldwide</FONT></b> [ <A HREF="r43_iso.html">Full Story...</A> ]
+<BR><BR>
+<!--
+<APPLET CODE=ProScroll CODEBASE=http://www.pmsc.com/proscroll/ WIDTH=371 HEIGHT=16>
+<PARAM NAME=TEXT VALUE="#kEmployment Opportunities: NT Specialists, Smalltalk Programmers, Business Analysts,
+ Internet Developers, Entry Level Programming Positions, and more -- #rClick Here For Info!">
+<PARAM NAME=SIZE VALUE=14>
+<PARAM NAME=STYLE VALUE=1>
+<PARAM NAME=BGCOLOR VALUE=w>
+<PARAM NAME=URL VALUE=career.html>
+<PARAM NAME=MAXTIMES VALUE=3>
+</APPLET>
+-->
+<br>
+</CENTER>
+<p>
+<IMG SRC="pic/hometop.gif" WIDTH=453 HEIGHT=183 BORDER=0><BR>
+<IMG SRC="pic/homecaption.gif" WIDTH=453 HEIGHT=44 BORDER=0 VSPACE=3><BR>
+</TD>
+</TR>
+<TR>
+<TD>
+<IMG SRC="pic/dot_clear.gif" HEIGHT=1 WIDTH=1 HSPACE=22 VSPACE=0>
+<b><font face="arial" size="-1">Try our <A HREF="pmsc_toc.html">Table of Contents</A></font>
+</b>
+<BR>
+<BR>
+<center>
+<MAP NAME="homemap">
+<!--Comment Customer Support-->
+<AREA SHAPE="RECT" COORDS="8,2,125,22" HREF="support.html">
+<!--Comment About PMSC-->
+<AREA SHAPE="RECT" COORDS="144,1,239,22" HREF="about.html">
+<!--Comment Career Opportunities-->
+<AREA SHAPE="RECT" COORDS="5,32,140,56" HREF="career.html">
+<!--Comment PMSC Online Home Page-->
+<AREA SHAPE="RECT" COORDS="147,33,286,54" HREF="pmscol.html">
+<!--Comment Feedback Form-->
+<AREA SHAPE="RECT" COORDS="7,65,108,86" HREF="feedback.html">
+<!--Comment Systems & Services-->
+<AREA SHAPE="RECT" COORDS="146,65,333,86" HREF="sysnserv.html">
+</MAP>
+<IMG SRC="pic/hbuttons.gif" WIDTH=343 HEIGHT=91 BORDER=0 USEMAP="#homemap">
+</center>
+</TD>
+</TR>
+<TR>
+  <TD ALIGN=center><BR>
+  <b>
+  <FONT SIZE="-1" FACE="arial, geneva, helvetica">
+&nbsp;&nbsp;For More Information: (803)333-3848 or (803) 333-6474<BR>
+&nbsp;&nbsp;Questions, comments and suggestions: <A HREF="mailto:webmaster@pmsc.com?Subject=PMSC Home Page">webmaster@pmsc.com</A>
+  <p>
+  <FONT SIZE="-2" FACE="arial, geneva, helvetica">&nbsp;&nbsp;Address: PO Box 10 Columbia, SC 29202</FONT>
+  <BR>
+  <FONT SIZE="-2" FACE="arial, geneva, helvetica">&nbsp;&nbsp;Copyright &copy;&nbsp;1996, 1997 Policy Management Systems Corporation. All Rights Reserved.</FONT></FONT></b>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+</BODY>
+
+</HTML>

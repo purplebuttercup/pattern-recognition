@@ -1,0 +1,91 @@
+Server: Netscape-Enterprise/2.01
+Date: Tue, 25 Nov 1997 14:33:12 GMT
+Accept-ranges: bytes
+Last-modified: Mon, 24 Nov 1997 13:11:27 GMT
+Content-length: 2841
+Content-type: text/html
+
+<html> 
+<head><title>Lincoln National Corporation</title></head> 
+<body bgcolor="#ffffff"> 
+<!-- ---\/this table goes around everything on the page\/--- -->
+<center><table BORDER=0 WIDTH=620><tr><td>
+<!-- ---/\is table goes around everything on the page/\- -->
+
+<center>
+<nobr><img vspace=4 src="../images/keylnc2.gif" alt="[KeyLNC]">
+<img align=top ALT="Lincoln National Corporation" SRC="../images/lnclogo.gif"></nobr>
+<p>
+<img WIDTH=360 HEIGHT=72 ALT="Investor Relations" SRC="../images/ircolumns.gif"><p>
+<a href="http://www.stockmaster.com/ir/LNC.html"><img border="0" src="http://www.stockmaster.com/irg/LNC-quote.gif" alt="[Quote]"></a>
+<br clear=all><p>
+<font size=4>
+<a href="stock_quote.html">Stock Quote and Stock Information</a><br>
+<a href="annual/index.html">1996 Annual Report Highlights</a><br>
+<a href="../quarterly/">Quarterly Earnings Information</a><br>
+<a href="../proxy/">1997 Proxy Statement</a><br>
+<a href="http://www.sec.gov/cgi-bin/srch-edgar?Lincoln+ADJ+National">SEC Filings</a><br>
+<a href="../news_linc/">News Linc</a> <br>
+<a href="../ratings/">Financial Strength and Debt Ratings</a><br>
+<a HREF="information_form.cgi">Information Request Form</a><br>
+<a href="investor_contacts.html">Investor Contacts</a>
+</font></center>
+<p>
+<center>
+<table BORDER=0>
+<tr>
+<td colspan=2 align=center>
+<a href="../fun_facts/addpiece.cgi?piece=1742444089"><img src="../fun_facts/images/5unclippered.jpg" alt="[Puzzle Piece]" border=0 width=100 height=50 align=center> &lt;-- Look..a Lincoln Fun Fact</a>
+</td>
+</tr>
+
+<tr>
+<td><center>
+<p><br clear=all>
+<a href="/investor/"><img src="../images/goback.gif" alt="[Back]" border=0></a>
+<a href="/investor/"><img src="../images/goindex.gif" alt="[Index]" border=0></a>
+<a href="/investor/stock_quote.html"><img src="../images/gonext.gif" alt="[Next]" border=0></a></center>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="bottom">
+<center>
+<nobr>
+| <a href="/site_index.html">Index</a>
+| <a href="/family/">Family of Businesses</a> 
+| <a href="/services/">Products and Services</a>
+|</nobr>
+<br clear=all>
+<nobr>
+| <a href="/investor/">Investor Relations</a> 
+| <a href="/shareholder/">Shareholders Services</a>
+| <a href="/news_linc/">News Linc</a>
+| <a href="/fun_facts/">Fun Facts</a>
+|
+</nobr>
+<br clear=all>
+<nobr>
+| <a href="/public_involvement/">Corporate Public Involvement</a>
+| <a href="/museum/">The Lincoln Museum</a> 
+| <a href="/contact/">Contact Information</a> 
+|
+</nobr>
+</center>
+</td>
+<!-- ------------\/home button\/------------ -->
+<td align="right" valign="top">
+<a href="/index.html"><img src="../images/home_white.jpg" alt="[Home]" border="0"></a>
+</td>
+</tr>
+</table>
+
+</center>
+
+<!-- ---\/this table goes around everything on the page\/--- -->
+</td></tr></table></center>
+<!-- ---/\This table goes around everything on the page/\--- -->
+
+</body>
+</html>

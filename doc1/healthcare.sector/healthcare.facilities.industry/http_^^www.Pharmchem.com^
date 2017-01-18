@@ -1,0 +1,67 @@
+Date: Thu, 18 Dec 1997 19:19:29 GMT
+Server: Stronghold/1.3.4 Ben-SSL/1.3 Apache/1.1.3
+Content-type: text/html
+Content-length: 2119
+Last-modified: Fri, 05 Sep 1997 03:34:23 GMT
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Welcome to PharmChem Labs</title>
+<meta name="FORMATTER" content="Microsoft FrontPage 2.0">
+</head>
+
+<body stylesrc="style.htm" background="images/backgrnd.gif"
+bgcolor="#FFFFFF">
+
+<table border="0" width="100%">
+    <tr>
+        <td>&nbsp;</td>
+        <td align="center" colspan="3"><img
+        src="images/phrmlogo.gif" width="403" height="81"> <p><font
+        color="#0C094D" size="2" face="Flexure"><em><strong>THE
+        DRUG TESTING EXPERT</strong></em></font></p>
+        <p><font size="5">1505A O'Brien Drive - Menlo Park, CA
+        94025<br>
+        (800)446-5177</font></p>
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+        <td width="33%"><h6 align="center"><font size="3"
+        face="Arial"><strong>OUR SITE IS CURRENTLY UNDER
+        CONSTRUCTION</strong></font></h6>
+        <p align="center"><font size="4" face="Arial"><strong><img
+        src="images/work.gif" width="38" height="38"></strong></font></p>
+        </td>
+        <td align="center" width="33%"><img
+        src="images/FLAGMAN.gif" width="120" height="120"></td>
+        <td><p align="center"><font size="3" face="Arial"><strong>TO
+        SIGN OUR GUESTBOOK,<br>
+        PLEASE CLICK</strong></font><font size="4" face="Arial"><strong><br>
+        </strong></font><a href="guestbook.htm"><font size="1"
+        face="Arial"><img src="images/HERE2.gif" border="0"
+        width="60" height="60"></font></a></p>
+        </td>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+        <td colspan="3"><p align="center"><img
+        src="images/frontpage.gif" width="114" height="43"></p>
+        <p align="right">Contact the <a
+        href="mailto:WebMaster@PharmChem.com">WebMaster</a><a
+        href="mailto:WebMaster@PharmChem.com"><img
+        src="images/read_mail.gif" border="0" width="88"
+        height="52"></a></p>
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+</table>
+</body>
+</html>

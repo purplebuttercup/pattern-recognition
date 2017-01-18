@@ -1,0 +1,138 @@
+Date: Thu, 18 Dec 1997 08:00:10 GMT
+Server: Apache/1.2.4
+Last-Modified: Wed, 03 Dec 1997 20:20:30 GMT
+ETag: "3480c-1a12-3485bf0e"
+Content-Length: 6674
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<HTML>
+  
+  <HEAD>
+    <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+    <META NAME="GENERATOR" CONTENT="Microsoft FrontPage 2.0">
+    <TITLE>Freddie Mac Homepage</TITLE>
+  </HEAD>
+  
+  <BODY BACKGROUND="gifs/tile.gif" BGCOLOR="#FFFFFF" LINK="#0000FF" 
+  VLINK="#FD0407" ALINK="#000EF3">
+    <TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="640" HEIGHT="417">
+      <TR>
+        <TD ALIGN="center" VALIGN="top" ROWSPAN="2" WIDTH="128">
+        <P ALIGN="left"><IMG SRC="gifs/sidebut1.gif" BORDER="0" WIDTH="110" HEIGHT="381" USEMAP="#Sidebar buttons">
+          <MAP NAME="Sidebar buttons">
+          <AREA SHAPE="RECT" COORDS="4,260,100,273" 
+          HREF="function/fm-lenders/lender.htm">
+          <AREA SHAPE="RECT" COORDS="7,358,98,370" 
+          HREF="function/fm-hr/employmt.htm">
+          <AREA SHAPE="RECT" COORDS="9,236,98,249" 
+          HREF="function/fm-news/fm-media/newsinf.htm">
+          <AREA SHAPE="RECT" COORDS="8,213,98,225" HREF="welcome.htm">
+          <AREA SHAPE="RECT" COORDS="6,152,98,162" HREF="sitemap.htm">
+          <AREA SHAPE="RECT" COORDS="5,285,97,297" 
+          HREF="http://ww1.freddiemac.com/goldpc/cgi-bin/securitieshome.cgi">
+          <AREA SHAPE="RECT" COORDS="5,173,99,186" HREF="index.html">
+          <AREA SHAPE="RECT" COORDS="7,332,99,346" 
+          HREF="function/fm-homby/homebuy.htm">
+          <AREA SHAPE="RECT" COORDS="6,309,100,320" 
+          HREF="function/fm-fin/findiscl.htm"></MAP>
+<!--webbot bot="ImageMap"         i-checksum="3836" endspan --></P> </TD>
+        <TD VALIGN="top" WIDTH="511">&nbsp;<IMG SRC="gifs/mainhead.gif" WIDTH="457">
+        </TD>
+      </TR>
+      <TR>
+        <TD VALIGN="top">
+        <TABLE WIDTH="485" BORDER="1">
+          <TR>
+            <TD VALIGN="MIDDLE"><IMG SRC="gifs/headline.gif" ALIGN="MIDDLE" WIDTH="75" HEIGHT="26">
+            <B><A HREF="new.htm">We've added new features and information!</A></B>
+            </TD>
+          </TR>
+        </TABLE>
+        <TABLE BORDER="0" CELLPADDING="4" CELLSPACING="1" WIDTH="496">
+          <TR>
+            <TD VALIGN="top" ROWSPAN="5" WIDTH="26%"><FONT COLOR="#000000"><I>We
+            open doors to the places millions call home. Freddie Mac is a
+            shareholder-owned corporation whose people are dedicated to making
+            the dream of decent, accessible housing a reality. Over the years,
+            Freddie Mac has financed one in six American homes.</I></FONT><IMG SRC="gifs/whitedot.gif" WIDTH="105" HEIGHT="1"></TD>
+            <TD VALIGN="top" WIDTH="165"><IMG SRC="gifs/buttwelc.gif" BORDER="0" WIDTH="150" HEIGHT="40" USEMAP="#welcome">
+            <MAP NAME="welcome">
+            <AREA SHAPE="RECT" COORDS="3,2,145,38" HREF="welcome.htm"></MAP></TD>
+            <TD VALIGN="top" WIDTH="37%"><IMG SRC="gifs/buttnews.gif" BORDER="0" WIDTH="151" HEIGHT="40" USEMAP="#news&info">
+            <MAP NAME="news&info">
+            <AREA SHAPE="RECT" COORDS="4,2,148,39" 
+            HREF="function/fm-news/fm-media/newsinf.htm"></MAP> </TD>
+          </TR>
+          <TR>
+            <TD VALIGN="top"><IMG SRC="gifs/buttlend.gif" BORDER="0" WIDTH="150" HEIGHT="40" USEMAP="#lenders">
+            <MAP NAME="lenders">
+            <AREA SHAPE="RECT" COORDS="4,2,146,38" 
+            HREF="function/fm-lenders/lender.htm"></MAP></TD>
+            <TD VALIGN="top"><IMG SRC="gifs/buttsecu.gif" BORDER="0" WIDTH="150" HEIGHT="40" USEMAP="#investors">
+            <MAP NAME="investors">
+            <AREA SHAPE="RECT" COORDS="2,3,147,38" 
+            HREF="http://ww1.freddiemac.com/goldpc/cgi-bin/securitieshome.cgi">
+            </MAP></TD>
+          </TR>
+          <TR>
+            <TD VALIGN="top"><IMG SRC="gifs/buttshar.gif" BORDER="0" WIDTH="150" USEMAP="#shareholders">
+            <MAP NAME="shareholders">
+            <AREA SHAPE="RECT" COORDS="2,3,147,38" 
+            HREF="function/fm-fin/findiscl.htm"></MAP></TD>
+            <TD VALIGN="top"><IMG SRC="gifs/butthome.gif" BORDER="0" WIDTH="150" HEIGHT="40" USEMAP="#homebuyers">
+            <MAP NAME="homebuyers">
+            <AREA SHAPE="RECT" COORDS="5,2,141,37" 
+            HREF="function/fm-homby/homebuy.htm"></MAP></TD>
+          </TR>
+          <TR>
+            <TD VALIGN="top"><IMG SRC="gifs/buttempl.gif" BORDER="0" WIDTH="150" HEIGHT="40" USEMAP="#employmnt">
+            <MAP NAME="employmnt">
+            <AREA SHAPE="RECT" COORDS="3,3,149,39" 
+            HREF="function/fm-hr/employmt.htm"></MAP></TD>
+            <TD VALIGN="top"></TD>
+          </TR>
+          <TR>
+            <TD><IMG SRC="gifs/whitedot.gif" WIDTH="150" HEIGHT="20"></TD>
+            <TD><IMG SRC="gifs/whitedot.gif" WIDTH="150" HEIGHT="20"></TD>
+          </TR>
+        </TABLE>
+        <HR WIDTH="410" ALIGN="CENTER">
+        <TABLE WIDTH="440" BORDER="0" CELLSPACING="12" ALIGN="CENTER">
+          <TR>
+            <TD ALIGN="CENTER"><IMG SRC="gifs/whitedot.gif" WIDTH="1" HEIGHT="1"></TD>
+            <TD ALIGN="CENTER"><FONT SIZE="-1"><A HREF="index.html">Home</A></FONT></TD>
+            <TD ALIGN="CENTER"><FONT SIZE="-1"><A HREF="function/fm-news/fm-media/newsinf.htm">News
+              &amp; Info</A></FONT></TD>
+            <TD ALIGN="CENTER"><FONT SIZE="-1"><A HREF="function/fm-lenders/lender.htm">Lenders</A></FONT></TD>
+            <TD ALIGN="CENTER"><FONT SIZE="-1"><A HREF="http://ww1.freddiemac.com/goldpc/cgi-bin/securitieshome.cgi">Investors</A></FONT></TD>
+          </TR>
+          <TR>
+            <TD ALIGN="CENTER"></TD>
+            <TD ALIGN="CENTER"><FONT SIZE="-1"><A HREF="function/fm-fin/findiscl.htm">Shareholders</A></FONT></TD>
+            <TD ALIGN="CENTER"><FONT SIZE="-1"><A HREF="function/fm-homby/homebuy.htm">Homebuyers</A></FONT></TD>
+            <TD ALIGN="CENTER"><FONT SIZE="-1"><A HREF="function/fm-hr/employmt.htm">Employment</A></FONT></TD>
+            <TD ALIGN="CENTER"></TD>
+          </TR>
+          <TR>
+            <TD ALIGN="CENTER" VALIGN="MIDDLE"></TD>
+            <TD COLSPAN="4" ALIGN="CENTER" VALIGN="MIDDLE"><IMG SRC="gifs/whitedot.gif" WIDTH="20" HEIGHT="1"></TD>
+          </TR>
+        </TABLE></TD>
+      </TR>
+    </TABLE>
+    <TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="640" HEIGHT="83">
+      <TR>
+        <TD WIDTH="23%">&nbsp;</TD>
+        <TD VALIGN="top" WIDTH="77%">
+        <HR ALIGN="left">
+        <P><FONT SIZE="-1">If you have comments concerning our website, please
+          contact the <A HREF="webmast.htm">Freddie Mac Webmaster</A>.<BR><A HREF="terms.htm">Terms
+            &amp; Conditions</A><BR>&copy; 1997 Freddie Mac</FONT></P> </TD>
+      </TR>
+    </TABLE>
+  </BODY>
+</HTML>

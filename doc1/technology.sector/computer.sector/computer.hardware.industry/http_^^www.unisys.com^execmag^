@@ -1,0 +1,39 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Friday, 21-Nov-97 02:26:02 GMT
+Content-Type: text/html
+Content-Length: 1176
+Last-Modified: Tuesday, 28-Oct-97 15:40:28 GMT
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="keywords"
+content="Information, Knowledge Capital, Asset, Technology
+Management, Executive, Business, Manager, Journal, Best of Web, Intellectual Capital">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Welcome to Exec!</title>
+</head>
+
+<frameset frameborder="0" border="0" framespacing="0"
+cols="170,*">
+    <frame src="frame_resource.html" name="toc">
+    <frame src="cover_frame.html" name="content">
+    <noframes>
+    <body bgcolor="#FFFFFF">
+    <p><img src="images/exec_logo_small.jpg" width="145"
+    height="63"></p>
+    <p><i>Exec!</i> uses frames to make navigation of our
+    extensive CxO Resources easier. </p>
+    <p>Viewing these pages requires <a
+    href="http://www.netscape.com">Netscape 2.0</a> (or later) or
+    <a href="http://www.microsoft.com/ie">Microsoft IE 3.0</a>.</p>
+    <p>For your convenience we also maintain a <a
+    href="index_noframes.html">nonframes version</a> of <i>Exec</i><em>!</em>.</p>
+    </body>
+    </noframes>
+</frameset>
+</html>

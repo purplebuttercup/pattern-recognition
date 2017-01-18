@@ -1,0 +1,96 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 18 Dec 1997 10:33:11 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Mon, 15 Dec 1997 15:40:34 GMT
+Content-Length: 3955
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Crawford & Company, Inc.</title>
+<bgsound src="audio/08_6000/Homepage01.au" loop="1">
+</head>
+
+<body bgcolor="#FFCC9C" link="#0000FF" vlink="#800080"
+alink="#FF0000" topmargin="0" leftmargin="0">
+<div align="center"><center>
+
+<table border="0" cellpadding="0" cellspacing="0" width="580">
+    <tr>
+        <td colspan="2" bgcolor="#FFFFFF"><img
+        src="images/home.jpg" width="580" height="265"></td>
+    </tr>
+    <tr>
+        <td colspan="2"><applet code="Ticker.class"
+        align="baseline" width="580" height="20"><param
+        name="AppBGColor" value="#FFCC9C"><param
+        name="DelayBetweenChars" value="30"><param
+        name="DelayBetweenRuns" value="0"><param name="Font"
+        value="TimesRoman"><param name="MoveDist" value="2"><param
+        name="Pointsize" value="14"><param name="Style"
+        value="Bold"><param name="text1"
+        value="NEWS FLASH --- November 3 ---  Crawford &amp; Company has formed a strategic partnership with the nation's largest managed care organization HealthCare COMPARE Corp.  The alliance allows Crawford to provide clients with even better service, increased discounts, and access to an unmatched network of physicians and hospitals."><param
+        name="TextCount" value="1"><param name="VertCenter"
+        value="true"></applet></td>
+    </tr>
+</table>
+</center></div><div align="center"><center>
+
+<table border="0" cellpadding="5" cellspacing="0" width="580">
+    <tr>
+        <td width="250"><a href="aboutus.htm"><font size="4"><strong>About
+        Us</strong></font></a></td>
+        <td colspan="6" width="330"><a href="Financial.htm"><font
+        size="4"><strong>Our Financial Strength</strong></font></a></td>
+    </tr>
+    <tr>
+        <td align="right" colspan="5" width="250"><a
+        href="Techedge.htm"><font size="4"><strong>Our
+        Technological Edge</strong></font></a></td>
+        <td align="center" width="330"><a href="howwe.htm"><font
+        size="4"><strong>How We Work For You</strong></font></a></td>
+    </tr>
+    <tr>
+        <td align="center" valign="bottom" colspan="6"><a
+        href="y2kproject.htm"><font size="4"><strong>Year 2000
+        Compliance Project</strong></font></a><p><a
+        href="addinfo.htm"><img src="images/smglobe.jpg"
+        align="middle" border="0" width="30" height="32"></a><a
+        href="addinfo.htm"><font size="4"><strong>Additional
+        Information and Free Subscriptions</strong></font></a><font
+        size="4"><strong><br>
+        </strong></font><font size="1">This site uses Vxtreme
+        video and RealAudio, get the plug-ins here</font><font
+        size="4"><strong> </strong></font><a
+        href="http://www.microsoft.com/netshow/vxtreme/plugin.htm"><font
+        size="4"><strong><img src="images/wtnow.gif" border="0"
+        width="88" height="31"></strong></font></a><font size="4"><strong>
+        </strong></font><a
+        href="http://www.real.com/products/player/index.html"><font
+        size="4"><strong><img src="images/get_rp5.gif" border="0"
+        width="88" height="31"></strong></font></a></p>
+        </td>
+    </tr>
+</table>
+</center></div><div align="center"><center>
+
+<table border="0" cellpadding="0" cellspacing="0" width="580">
+    <tr>
+        <td align="center"><a href="http://www.crawford.com"><font
+        size="1">Created by Crawford InterMedia</font></a><font
+        size="1"> / </font><a href="mailto:lallred@crawco.com"><font
+        size="1">email comments</font></a></td>
+    </tr>
+</table>
+</center></div>
+
+<p><embed src="audio/08_6000/Homepage01.au" hidden="true"
+align="baseline" border="0" width="5" height="5" loop="false"
+autostart="true"></p>
+</body>
+</html>

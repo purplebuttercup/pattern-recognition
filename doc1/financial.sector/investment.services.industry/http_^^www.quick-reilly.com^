@@ -1,0 +1,37 @@
+Server: Netscape-Enterprise/2.01
+Date: Thu, 18 Dec 1997 11:34:53 GMT
+Last-modified: Tue, 25 Nov 1997 13:43:55 GMT
+Content-length: 1106
+Content-type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="FORMATTER" content="Microsoft FrontPage 2.0">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Quick & Reilly Home</title>
+</head>
+
+<frameset rows="50,*" framespacing="0" frameborder="no"
+border="0">
+    <frame src="/public/QWbanner.htm" name="QWbanner"
+    marginwidth="0" border="0" marginheight="0" scrolling="no"
+    frameborder="no" noresize>
+    <frameset cols="117,*" framespacing="0" frameborder="no"
+    border="0">
+        <frame src="/Navigation/HomeOUT.htm" marginwidth="0"
+        name="NavBar" scrolling="NO" noresize frameborder="no"
+        border="0">
+        <frame src="/public/QWhome.htm" marginwidth="0"
+        name="Main" noresize frameborder="0" marginheight="0">
+    </frameset>
+    <noframes>
+    <body>
+    </body>
+    </noframes>
+</frameset>
+</html>
+<P><center><font size=-1><I>Entire publication © 1997 Quick & Reilly, Inc. All Rights reserved Member SIPC/NYSE</I></font></center></P>

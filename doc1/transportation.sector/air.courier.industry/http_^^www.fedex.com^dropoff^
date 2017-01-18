@@ -1,0 +1,194 @@
+Server: Netscape-Enterprise/3.0D
+Date: Thu, 20 Nov 1997 14:37:23 GMT
+Content-type: text/html
+Last-modified: Thu, 11 Sep 1997 16:24:17 GMT
+Content-length: 7700
+Accept-ranges: bytes
+
+<HTML>
+<HEAD><TITLE>FedEx Dropoff Locations Search</TITLE></HEAD>
+
+<BODY BGCOLOR="#000000" TEXT="#BDB9AD" LINK="#DE5208" VLINK="#9425E6">
+
+<CENTER>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="468">
+<TR>
+<TD VALIGN=MIDDLE ALIGN=LEFT><IMG SRC="/images/smlogo.gif" WIDTH=114 HEIGHT=32 ALT="FedEx">&#160;</TD>
+<TD VALIGN=TOP ALIGN=RIGHT><A HREF="/cgi-bin/redirect?class=ads&message=Dropoff+Locations+FedEx+interNetShip+Ad+(iship15_256.gif)&url=http://www.fedex.com/ship_it.html"><IMG SRC="/images/iship15_256.gif" ALT="Still writing airbills? Click here to ship... online!" WIDTH="358" HEIGHT="60" BORDER="0"></A></TD>
+</TR>
+</TABLE>
+</CENTER>
+<P>
+<CENTER>
+<IMG SRC="/dropoff/dropoff-images/drop.loc.gif" WIDTH="287" HEIGHT="41" ALT="Dropoff Locations">
+</CENTER>
+
+<P><CENTER><TABLE CELLPADDING="0" CELLSPACING="0" BORDER="0" WIDTH="468"><TR><TD><HR><FONT SIZE="+1">FedEx provides over 40,000 convenient locations where you can drop off your shipment and pick up FedEx shipping supplies. Besides FedEx Drop Boxes, you can drop off at staffed <A HREF="/dropoff/worldsvccenters.html">FedEx World Service Centers</A>; many <A HREF="/dropoff/other-drop-locs.html">Kinko's<FONT SIZE="-1">&reg;</FONT>, OfficeMax<FONT SIZE="-1">&reg;</FONT></A> and <A HREF="/dropoff/other-drop-locs.html">Staples<FONT SIZE="-1">&reg;</FONT></A> stores; and thousands of packaging stores (<A HREF="/dropoff/shipcenters.html">FedEx Authorized ShipCenters</A>).
+</FONT><HR></TD></TR></TABLE></CENTER>
+
+<FORM ACTION="/cgi-bin/findloc" METHOD="POST">
+
+<CENTER>
+<TABLE BORDER=0 CELLPADDING=3 CELLSPACING=0>
+<TR>
+<TD>&#160;&#160;</TD>
+<TD COLSPAN=4><STRONG><FONT SIZE="+1">Search for package dropoff locations in U.S.:</FONT></STRONG></TD>
+</TR>
+
+<TR>
+<TD>&#160;</TD>
+<TD ALIGN=LEFT VALIGN=TOP><FONT SIZE="+1"><STRONG><NOBR>by ZIP code:</NOBR></STRONG></FONT><BR>
+<INPUT TYPE="text" NAME="zip" SIZE="5" MAXLENGTH="5"></TD>
+
+<TD ALIGN=LEFT VALIGN=TOP>&#160;&#160;&#160;<FONT SIZE="+1"><STRONG>OR</STRONG>&#160;&#160;&#160;&#160;</FONT></TD>
+
+<TD ALIGN=RIGHT VALIGN=TOP><FONT SIZE="+1"><STRONG>by City and</STRONG></FONT><BR>
+<INPUT TYPE="text" NAME="cityname" SIZE="20"></TD>
+
+<TD ALIGN=LEFT VALIGN=TOP ROWSPAN=2><FONT SIZE="+1"><STRONG>State:</STRONG></FONT><BR>
+<SELECT NAME="state" SIZE="6"><OPTION SELECTED>Please Select State
+<OPTION VALUE=AL>AL-Alabama
+<OPTION VALUE=AK>AK-Alaska
+<OPTION VALUE=AZ>AZ-Arizona
+<OPTION VALUE=AR>AR-Arkansas
+<OPTION VALUE=CA>CA-California
+<OPTION VALUE=CO>CO-Colorado
+<OPTION VALUE=CT>CT-Connecticut
+<OPTION VALUE=DC>DC-Washington D.C.
+<OPTION VALUE=DE>DE-Delaware
+<OPTION VALUE=FL>FL-Florida
+<OPTION VALUE=GA>GA-Georgia
+<OPTION VALUE=HI>HI-Hawaii
+<OPTION VALUE=ID>ID-Idaho
+<OPTION VALUE=IL>IL-Illinois
+<OPTION VALUE=IN>IN-Indiana
+<OPTION VALUE=IA>IA-Iowa
+<OPTION VALUE=KS>KS-Kansas
+<OPTION VALUE=KY>KY-Kentucky
+<OPTION VALUE=LA>LA-Louisiana
+<OPTION VALUE=ME>ME-Maine
+<OPTION VALUE=MD>MD-Maryland
+<OPTION VALUE=MA>MA-Massachusetts
+<OPTION VALUE=MI>MI-Michigan
+<OPTION VALUE=MN>MN-Minnesota
+<OPTION VALUE=MS>MS-Mississippi
+<OPTION VALUE=MO>MO-Missouri
+<OPTION VALUE=MT>MT-Montana
+<OPTION VALUE=NE>NE-Nebraska
+<OPTION VALUE=NV>NV-Nevada
+<OPTION VALUE=NH>NH-New Hampshire
+<OPTION VALUE=NJ>NJ-New Jersey
+<OPTION VALUE=NM>NM-New Mexico
+<OPTION VALUE=NY>NY-New York
+<OPTION VALUE=NC>NC-North Carolina
+<OPTION VALUE=ND>ND-North Dakota
+<OPTION VALUE=OH>OH-Ohio
+<OPTION VALUE=OK>OK-Oklahoma
+<OPTION VALUE=OR>OR-Oregon
+<OPTION VALUE=PA>PA-Pennsylvania
+<OPTION VALUE=PR>PR-Puerto Rico
+<OPTION VALUE=RI>RI-Rhode Island
+<OPTION VALUE=SC>SC-South Carolina
+<OPTION VALUE=SD>SD-South Dakota
+<OPTION VALUE=TN>TN-Tennessee
+<OPTION VALUE=TX>TX-Texas
+<OPTION VALUE=UT>UT-Utah
+<OPTION VALUE=VT>VT-Vermont
+<OPTION VALUE=VA>VA-Virginia
+<OPTION VALUE=WA>WA-Washington
+<OPTION VALUE=WV>WV-West Virginia
+<OPTION VALUE=WI>WI-Wisconsin
+<OPTION VALUE=WY>WY-Wyoming
+</SELECT>
+</TD></TR>
+
+<TR><TD>&#160;</TD><TD COLSPAN=3 VALIGN=TOP>
+<FONT SIZE="+1"><STRONG> Location Type:</STRONG></FONT>
+<SELECT NAME="type_of_location" SIZE="1"><OPTION SELECTED VALUE="All">All
+<OPTION VALUE="Self_Service">Self-Service
+<OPTION VALUE="Staffed">Staffed
+</SELECT></TD></TR>
+
+<TR>
+<TD>&#160;</TD>
+<TD ALIGN=LEFT VALIGN=TOP><INPUT TYPE="submit" VALUE="Search ZIP" NAME="SearchZip"></TD>
+<TD></TD>
+<TD ALIGN=LEFT VALIGN=TOP><INPUT TYPE="submit" VALUE="Search City &amp; State"></TD>
+<TD></TD>
+</TR></TABLE></CENTER></FORM>
+<P>
+
+<CENTER>
+<TABLE BORDER="0" WIDTH="468"><TR><TD>
+<FONT SIZE="+1">
+Effective July 1, 1997, FedEx publishes "drop-off" rates. These are the rates that apply when you drop off your shipment at one of our locations. (See the <A HREF="/cgi-bin/rate?entry=us.us">FedEx Rate Finder</A> for more information.)  Any requests for courier pickup could result in a $3 courier pickup charge reported separately on your invoice.</FONT></TD></TR></TABLE></CENTER>
+
+<P>
+
+<!-- start "/include/black-navbar.ofi" -->
+<MAP NAME="navbar-black">
+<AREA SHAPE="RECT" COORDS="425, 39, 465, 58" HREF="/dropoff/" ALT="Dropoff Locator">
+<AREA SHAPE="RECT" COORDS="417, 20, 437, 39" HREF="/dropoff/" ALT="Dropoff Locator">
+<AREA SHAPE="RECT" COORDS="382, 39, 421, 57" HREF="https://www.fedex.com/cgi-bin/ship_it/interNetShip" ALT="Shipping">
+<AREA SHAPE="RECT" COORDS="373, 21, 396, 39" HREF="https://www.fedex.com/cgi-bin/ship_it/interNetShip" ALT="Shipping">
+<AREA SHAPE="RECT" COORDS="339, 38, 372, 59" HREF="/cgi-bin/rate?entry=us.us" ALT="Rate Finder">
+<AREA SHAPE="RECT" COORDS="331, 20, 351, 38" HREF="/cgi-bin/rate?entry=us.us" ALT="Rate Finder">
+<AREA SHAPE="RECT" COORDS="296, 38, 336, 59" HREF="/track_it.html" ALT="Tracking">
+<AREA SHAPE="RECT" COORDS="287, 20, 310, 38" HREF="/track_it.html" ALT="Tracking">
+<AREA SHAPE="RECT" COORDS="252, 38, 287, 58" HREF="/help.html" ALT="Help/Search">
+<AREA SHAPE="RECT" COORDS="245, 21, 266, 39" HREF="/help.html" ALT="Help/Search">
+<AREA SHAPE="RECT" COORDS="210, 38, 246, 59" HREF="/pr/" ALT="What's New">
+<AREA SHAPE="RECT" COORDS="202, 20, 222, 38" HREF="/pr/" ALT="What's New">
+<AREA SHAPE="RECT" COORDS="166, 38, 203, 58" HREF="/info_central.html" ALT="Info Central">
+<AREA SHAPE="RECT" COORDS="159, 20, 178, 38" HREF="/info_central.html" ALT="Info Central">
+<AREA SHAPE="RECT" COORDS="123, 38, 165, 58" HREF="/dw_software.html" ALT="Free Software">
+<AREA SHAPE="RECT" COORDS="116, 20, 135, 38" HREF="/dw_software.html" ALT="Free Software">
+<AREA SHAPE="RECT" COORDS="81, 39, 120, 59" HREF="/svcs_online.html" ALT="Services Online">
+<AREA SHAPE="RECT" COORDS="73, 21, 91, 39" HREF="/svcs_online.html" ALT="Services Online">
+<AREA SHAPE="RECT" COORDS="3, 20, 49, 59" HREF="/index.html" ALT="Home">
+</MAP>
+ 
+<CENTER><A HREF="/images/navbar-black.map"><IMG SRC="/images/navbar-black.gif" WIDTH="468" HEIGHT="58" 
+ALT="Image map- See text navigation at the bottom" ISMAP USEMAP="#navbar-black" BORDER="0"></A>
+<P>
+<A HREF="/email-form.html">
+Your Comments and Suggestions Welcomed!</A>
+</P>
+ 
+<P>
+<A HREF="/index.html">
+<FONT SIZE="-1">HOME</FONT></A> | 
+<A HREF="/svcs_online.html">
+<FONT SIZE="-1">SERVICES ONLINE</FONT></A> | 
+<A
+HREF="/dw_software.html">
+<FONT SIZE="-1">FREE SOFTWARE</FONT></A> | 
+ 
+<A HREF="/info_central.html">
+<FONT SIZE="-1">INFO CENTRAL</FONT></A> |
+ 
+<A
+HREF="/pr/">
+<FONT SIZE="-1">WHAT'S NEW</FONT></A><BR> 
+ 
+<A
+HREF="/help.html">
+<FONT SIZE="-1">HELP/SEARCH</FONT></A> | 
+ 
+<A HREF="/track_it.html">
+<FONT SIZE="-1">TRACKING</FONT></A> | 
+ 
+<A HREF="/cgi-bin/rate?entry=us.us">
+<FONT SIZE="-1">RATE FINDER</FONT></A> | 
+ 
+<A HREF="https://www.fedex.com/cgi-bin/ship_it/interNetShip">
+<FONT SIZE="-1">SHIPPING</FONT></A> | 
+ 
+<A HREF="/dropoff/">
+<FONT SIZE="-1">DROPOFF LOCATOR</FONT></A>
+</CENTER>
+
+<!-- end "/include/black-navbar.ofi" -->
+
+</BODY>
+</HTML>

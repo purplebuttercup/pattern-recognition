@@ -1,0 +1,100 @@
+Server: Netscape-Enterprise/3.0
+Date: Thu, 20 Nov 1997 16:09:42 GMT
+Content-type: text/html
+Last-modified: Thu, 02 Oct 1997 17:09:44 GMT
+Content-length: 5953
+Accept-ranges: bytes
+
+<HTML>
+<HEAD><TITLE>Norfolk Southern Corporation</TITLE><!--- Last updated May 28, 1997 -->
+<META NAME="Keywords" CONTENT="norfolk southern,railroad,railway,transportation,transport,freight,intermodal,trucking,logistics,distribution">
+<META NAME="Description" CONTENT="The official Web site of Norfolk Southern Corporation, a holding company that owns all the common stock of and controls a major freight railroad, Norfolk Southern Railway Company, and a motor carrier, North American
+Van Lines, Inc. The railroad operates in 20 states in the Midwest and Southeast.">
+</HEAD>
+<BODY BGCOLOR="#000000" TEXT="#fde59d" LINK="#feeecd" VLINK="#feeecd">
+
+<script language="JavaScript">
+
+<!-- JavaScript Code © 1996 DesertNet . http://desert.net/ -->
+<!-- Author: Wil Gerken . wil@desert.net -->
+function imgToggle(imgObjectName, imgObjectState) {
+  if (navigator.userAgent.indexOf ("Mozilla/3") >= 0) {    imgObject = new Object();
+    imgObject = imgObjectName;
+    imgObject.src = imgObjectState;
+  }
+}
+function imgPreLoad(i, img) {
+  if (navigator.userAgent.indexOf ("Mozilla/3") >= 0) {    cacheImg[i] = new Image();
+    cacheImg[i].src = img;
+  }
+}
+// Declare and Load Images
+what = "nscorp/html/images/new-br.gif";
+transact = "nscorp/html/images/transact-br.gif";
+about = "nscorp/html/images/about-br.gif";
+business = "nscorp/html/images/business-br.gif";
+invest = "nscorp/html/images/invest-br.gif";
+journal = "nscorp/html/images/journal-br.gif";
+employ = "nscorp/html/images/employ-br.gif";
+site = "nscorp/html/images/search-br.gif";
+cacheImg = new Array();
+imgPreLoad(0,what);
+imgPreLoad(1,transact);
+imgPreLoad(2,about);
+imgPreLoad(3,business);
+imgPreLoad(4,invest);
+imgPreLoad(5,journal);
+imgPreLoad(6,employ);
+imgPreLoad(7,site);
+// End Script --&gt;
+</script>
+
+
+<TABLE width="100%">
+<TR><TD><p align="center"><IMG SRC="nscorp/html/images/horse.gif" width="160" height="62" border="0" alt=""><A HREF="/cgi-bin/imagemap/logo"><IMG SRC="nscorp/html/images/goldlogo.gif" usemap="#goldlogo" width="338" height="62" border="0" alt="NORFOLK SOUTHERN CORPORATION" ISMAP></TD></TR>
+</TABLE>
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><IMG SRC="nscorp/html/images/loco.jpg" width=260 height=265></TD>
+
+<TD width=280>
+<A HREF="nscorp/html/new.html" onMouseover="imgToggle(what,'nscorp/html/images/new-br.gif'); window.status='What\'\s New'; return true" onMouseOut="imgToggle(what,'nscorp/html/images/new-i.gif'); window.status=''"><IMG SRC="nscorp/html/images/new-i.gif" name="what" WIDTH=280 HEIGHT=32 BORDER=0 ALT="What's New"></a><BR>
+<A HREF="nscorp/html/conrail.html" onMouseover="imgToggle(transact,'nscorp/html/images/transact-br.gif'); window.status='The Conrail Transaction'; return true" onMouseOut="imgToggle(transact,'nscorp/html/images/transact.gif'); window.status=''"><IMG SRC="nscorp/html/images/transact.gif" name="transact" WIDTH=280 HEIGHT=32 BORDER=0 ALT="The Conrail Transaction"></a><BR>
+<A HREF="nscorp/html/about.html" onMouseover="imgToggle(about,'nscorp/html/images/about-br.gif'); window.status='About Norfolk Southern'; return true" onMouseOut="imgToggle(about,'nscorp/html/images/about.gif'); window.status=''"><IMG SRC="nscorp/html/images/about.gif" name="about" WIDTH=280 HEIGHT=32 BORDER=0 ALT="About Norfolk Southern"></a><BR>
+<A HREF="nscorp/html/customer.html" onMouseover="imgToggle(business,'nscorp/html/images/business-br.gif'); window.status='Doing Business with NS'; return true" onMouseOut="imgToggle(business,'nscorp/html/images/business.gif'); window.status=''"><IMG SRC="nscorp/html/images/business.gif" name="business" WIDTH=280 HEIGHT=32 BORDER=0 ALT="Doing Business with NS"></a><BR>
+<A HREF="nscorp/html/invest.html" onMouseover="imgToggle(invest,'nscorp/html/images/invest-br.gif'); window.status='Investing in the Thoroughbred'; return true" onMouseOut="imgToggle(invest,'nscorp/html/images/invest.gif'); window.status=''"><IMG SRC="nscorp/html/images/invest.gif" name="invest" WIDTH=280 HEIGHT=32 BORDER=0 ALT="Investing in the Thoroughbred"></a><BR>
+<A HREF="nscorp/html/journal.html" onMouseover="imgToggle(journal,'nscorp/html/images/journal-br.gif'); window.status='The Journalists\'\ Page'; return true" onMouseOut="imgToggle(journal,'nscorp/html/images/journal.gif'); window.status=''"><IMG SRC="nscorp/html/images/journal.gif" name="journal" WIDTH=280 HEIGHT=32 BORDER=0 ALT="The Journalists' Page"></a><BR>
+<A HREF="nscorp/html/jobs/employ.html" onMouseover="imgToggle(employ,'nscorp/html/images/employ-br.gif'); window.status='Employment Opportunities'; return true" onMouseOut="imgToggle(employ,'nscorp/html/images/employ-i.gif'); window.status=''"><IMG SRC="nscorp/html/images/employ-i.gif" name="employ" WIDTH=280 HEIGHT=32 BORDER=0 ALT="Employment Opportunities"></a><BR>
+<A HREF="/cgi-bin/wwwwais" onMouseover="imgToggle(site,'nscorp/html/images/search-br.gif'); window.status='Search the NS Web Site'; return true" onMouseOut="imgToggle(site,'nscorp/html/images/search.gif'); window.status=''"><IMG SRC="nscorp/html/images/search.gif" name="site" WIDTH=280 HEIGHT=32 BORDER=0 ALT="Search the NS Web Site"></a>
+
+
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<CENTER>
+<TABLE width="541">
+<TR><TD>
+
+<p align="center"><A HREF="nscorp/html/texthome.html"><B>Text version of this page</B></A>
+
+<p align="center"><B>Want to report a problem on the railroad?<br>Call the Norfolk Southern emergency line 24 hours a day: 800-453-2530</B>
+
+<p align="center"><A HREF="nscorp/html/admired.html"><IMG SRC="nscorp/html/images/fortune2.gif" WIDTH="100" HEIGHT="49" ALT="America's Most Admired Companies" border="0"></A>
+
+<p align="center"><FONT SIZE="-1"><I><B>Copyright 1997 by Norfolk Southern Corporation<br>
+Please send comments and suggestions to <A HREF="mailto:Robin_Chapman@nscorp.com">Robin_Chapman@nscorp.com</A>.</B></I></FONT>
+
+</TD></TR>
+</TABLE>
+</CENTER>
+
+<map name="goldlogo">
+<area shape="rect" coords="24,33,326,59" href="nscorp/html/thbred.html">
+<area shape="default" nohref>
+</map>
+</BODY>
+</HTML>

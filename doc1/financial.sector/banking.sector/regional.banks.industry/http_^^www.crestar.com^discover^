@@ -1,0 +1,306 @@
+Server: Microsoft-IIS/4.0
+Date: Thu, 18 Dec 1997 12:48:42 GMT
+Content-Type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="description"
+content="We would like to tell you a little bit about Crestar and the many services we provide.  Crestar is dedicated to providing a superior level of customer convenience in all areas of banking.">
+<meta name="keywords"
+content="discover crestar bank, about us, learn more, branch locator, find atm, find branch, find moneystop, 2000">
+<meta name="author" content="jb">
+<meta name="resource-type" content="document">
+<meta name="copyright" content="1997 Crestar Bank">
+<meta name="distribution" content="global">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Crestar Bank - Discover Crestar</title>
+<script language="JavaScript">
+
+<!--
+agent = navigator.userAgent
+
+browserVer = 2;
+
+if (agent.substring(0,7) == "Mozilla"){
+
+    if (parseInt(agent.substring(8,9)) >= 3) {browserVer = 1;}
+
+}
+
+
+if (browserVer == 1) {
+
+	bankonline_white = new Image(135, 15);
+	bankonline_white.src = "../images_nav/bankonline_white.gif";
+	bankonline_y = new Image(135, 15);
+	bankonline_y.src = "../images_nav/bankonline_y.gif";
+
+	bank24_white = new Image(135, 15);
+	bank24_white.src = "../images_nav/bank24_white.gif";
+	bank24_y = new Image(135, 15);
+	bank24_y.src = "../images_nav/bank24_y.gif";
+
+	borrow_white = new Image(135, 15);
+	borrow_white.src = "../images_nav/borrow_white.gif";
+	borrow_y = new Image(135, 15);
+	borrow_y.src = "../images_nav/borrow_y.gif";
+
+	aboutcrestar_white = new Image(135, 15);
+	aboutcrestar_white.src = "../images_nav/aboutcrestar_white.gif";
+	aboutcrestar_y = new Image(135, 15);
+	aboutcrestar_y.src = "../images_nav/aboutcrestar_y.gif";
+
+	branchlocator_white = new Image(135, 15);
+	branchlocator_white.src = "../images_nav/branchlocator_white.gif";
+	branchlocator_y = new Image(135, 15);
+	branchlocator_y.src = "../images_nav/branchlocator_y.gif";
+
+	discovercrestar_white = new Image(135, 15);
+	discovercrestar_white.src = "../images_nav/discovercrestar_white.gif";
+	discovercrestar_y = new Image(135, 15);
+	discovercrestar_y.src = "../images_nav/discovercrestar_y.gif";
+
+	custservice_white = new Image(135, 15);
+	custservice_white.src = "../images_nav/custservice_white.gif";
+	custservice_y = new Image(135, 15);
+	custservice_y.src = "../images_nav/custservice_y.gif";
+
+	requestnews_white = new Image(135, 15);
+	requestnews_white.src = "../images_nav/requestnews_white.gif";
+	requestnews_y = new Image(135, 15);
+	requestnews_y.src = "../images_nav/requestnews_y.gif";
+
+	crestardirect_white = new Image(135, 15);
+	crestardirect_white.src = "../images_nav/crestardirect_white.gif";
+	crestardirect_y = new Image(135, 15);
+	crestardirect_y.src = "../images_nav/crestardirect_y.gif";
+
+	checking_white = new Image(135, 15);
+	checking_white.src = "../images_nav/checking_white.gif";
+	checking_y = new Image(135, 15);
+	checking_y.src = "../images_nav/checking_y.gif";
+
+	communicate_white = new Image(135, 15);
+	communicate_white.src = "../images_nav/communicate_white.gif";
+	communicate_y = new Image(135, 15);
+	communicate_y.src = "../images_nav/communicate_y.gif";
+
+	explorebb_white = new Image(135, 15);
+	explorebb_white.src = "../images_nav/explorebb_white.gif";
+	explorebb_y = new Image(135, 15);
+	explorebb_y.src = "../images_nav/explorebb_y.gif";
+
+	home_white = new Image(135, 15);
+	home_white.src = "../images_nav/home_white.gif";
+	home_y = new Image(135, 15);
+	home_y.src = "../images_nav/home_y.gif";
+
+	insure_white = new Image(135, 15);
+	insure_white.src = "../images_nav/insure_white.gif";
+	insure_y = new Image(135, 15);
+	insure_y.src = "../images_nav/insure_y.gif";
+
+	invest_white = new Image(135, 15);
+	invest_white.src = "../images_nav/invest_white.gif";
+	invest_y = new Image(135, 15);
+	invest_y.src = "../images_nav/invest_y.gif";
+
+	save_white = new Image(135, 15);
+	save_white.src = "../images_nav/save_white.gif";
+	save_y = new Image(135, 15);
+	save_y.src = "../images_nav/save_y.gif";
+
+	sitemap_white = new Image(135, 15);
+	sitemap_white.src = "../images_nav/sitemap_white.gif";
+	sitemap_y = new Image(135, 15);
+	sitemap_y.src = "../images_nav/sitemap_y.gif";
+
+	callback_white = new Image(135, 60);
+	callback_white.src = "../images_nav/callback_white.gif";
+	callback_y = new Image(135, 60);
+	callback_y.src = "../images_nav/callback_y.gif";
+
+	backtotop_white = new Image(135, 15);
+	backtotop_white.src = "../images_nav/backtotop_white.gif";
+	backtotop_y = new Image(135, 15);
+	backtotop_y.src = "../images_nav/backtotop_y.gif";
+}
+
+function hiLite(imgDocID,imgObjName) {
+
+	if (browserVer == 1) {
+
+		document.images[imgDocID].src = eval(imgObjName + ".src");
+	}
+
+}
+//-->
+
+</script>
+
+<BODY BGCOLOR="#FFFFFF" LINK="000099" ALINK="#FFFFFF" VLINK="#666666" BACKGROUND="../images/standard_bg.gif" topmargin=0><a name=top></a>
+</head>
+
+<body>
+
+<table border="0" cellpadding="0" width="600">
+    <tr>
+        <td colspan="2" bgcolor="#FF0000" height="25"><img
+        src="../images/logo.gif" width="600" height="25"></td>
+    </tr>
+    <tr>
+        <td valign="top" width="150" font color="#ffffff"><img
+        src="../images_nav/discover_y.gif"
+        alt="Current Section: Discover Crestar" width="135"
+        height="15"><br>
+        <a href="aboutus.stm"
+        onmouseover="hiLite('aboutcrestar_white','aboutcrestar_y'); window.status='Link to About Crestar'; return true;"
+        onmouseout="hiLite('aboutcrestar_white','aboutcrestar_white');"><img
+        src="../images_nav/aboutcrestar_white.gif"
+        alt="Link: About Crestar" border="0" width="135"
+        height="15" name="aboutcrestar_white"></a><br>
+        <a href="branches.stm"
+        onmouseover="hiLite('branchlocator_white','branchlocator_y'); window.status='Link to Branch Locator'; return true;"
+        onmouseout="hiLite('branchlocator_white','branchlocator_white');"><img
+        src="../images_nav/branchlocator_white.gif"
+        alt="Link: Branch Locator" border="0" width="135"
+        height="15" name="branchlocator_white"></a><br>
+        <img src="../images_nav/black_15x135.gif" width="135"
+        height="15"><br>
+        <a href="../bankonline/index.stm"
+        onmouseover="hiLite('bankonline_white','bankonline_y'); window.status='Link to Bank Online'; return true;"
+        onmouseout="hiLite('bankonline_white','bankonline_white');"><img
+        src="../images_nav/bankonline_white.gif"
+        alt="Link: Bank Online" border="0" width="135"
+        height="15" name="bankonline_white"></a><br>
+        <a href="../save/index.stm"
+        onmouseover="hiLite('save_white','save_y'); window.status='Link to Save'; return true;"
+        onmouseout="hiLite('save_white','save_white');"><img
+        src="../images_nav/save_white.gif" alt="Link: Save"
+        border="0" width="135" height="15" name="save_white"></a><br>
+        <a href="../borrow/index.stm"
+        onmouseover="hiLite('borrow_white','borrow_y'); window.status='Link to Borrow'; return true;"
+        onmouseout="hiLite('borrow_white','borrow_white');"><img
+        src="../images_nav/borrow_white.gif" alt="Link: Borrow"
+        border="0" width="135" height="15" name="borrow_white"></a><br>
+        <a href="../invest/index.stm"
+        onmouseover="hiLite('invest_white','invest_y'); window.status='Link to Invest'; return true;"
+        onmouseout="hiLite('invest_white','invest_white');"><img
+        src="../images_nav/invest_white.gif" alt="Link: Invest"
+        border="0" width="135" height="15" name="invest_white"></a><br>
+        <a href="../checking/index.stm"
+        onmouseover="hiLite('checking_white','checking_y'); window.status='Link to Checking'; return true;"
+        onmouseout="hiLite('checking_white','checking_white');"><img
+        src="../images_nav/checking_white.gif"
+        alt="Link: Check Out Checking" border="0" width="135"
+        height="15" name="checking_white"></a><br>
+        <a href="../explorebb/index.stm"
+        onmouseover="hiLite('explorebb_white','explorebb_y'); window.status='Link to Explore Business Banking'; return true;"
+        onmouseout="hiLite('explorebb_white','explorebb_white');"><img
+        src="../images_nav/explorebb_white.gif"
+        alt="Link: Explore Business Banking" border="0"
+        width="135" height="15" name="explorebb_white"></a><br>
+        <a href="../insure/index.stm"
+        onmouseover="hiLite('insure_white','insure_y'); window.status='Link to Insure'; return true;"
+        onmouseout="hiLite('insure_white','insure_white');"><img
+        src="../images_nav/insure_white.gif" alt="Link: Insure"
+        border="0" width="135" height="15" name="insure_white"></a><br>
+        <a href="../bank24/index.stm"
+        onmouseover="hiLite('bank24_white','bank24_y'); window.status='Link to Bank 24 Hours'; return true;"
+        onmouseout="hiLite('bank24_white','bank24_white');"><img
+        src="../images_nav/bank24_white.gif"
+        alt="Link: Bank 24hours" border="0" width="135"
+        height="15" name="bank24_white"></a><br>
+        <a href="../communicate/index.stm"
+        onmouseover="hiLite('communicate_white','communicate_y'); window.status='Link to Communicate'; return true;"
+        onmouseout="hiLite('communicate_white','communicate_white');"><img
+        src="../images_nav/communicate_white.gif"
+        alt="Link: Communicate" border="0" width="135"
+        height="15" name="communicate_white"></a><br>
+        <a href="../sitemap/index.stm"
+        onmouseover="hiLite('sitemap_white','sitemap_y'); window.status='Link to Site Map'; return true;"
+        onmouseout="hiLite('sitemap_white','sitemap_white');"><img
+        src="../images_nav/sitemap_white.gif" alt="Link: Sitemap"
+        border="0" width="135" height="15" name="sitemap_white"></a><br>
+        <a href="../index.html"
+        onmouseover="hiLite('home_white','home_y'); window.status='Link to Home'; return true;"
+        onmouseout="hiLite('home_white','home_white');"><img
+        src="../images_nav/home_white.gif"
+        alt="Link: Return Home" border="0" width="135"
+        height="15" name="home_white"></a><br>
+        <a
+        href="http://speakwithagent.att.net/cgi-bin/welcome?SN=crestar+bank&amp;SC=default"
+        onmouseover="hiLite('callback_white','callback_y'); window.status='Link to Instant Callback'; return true;"
+        onmouseout="hiLite('callback_white','callback_white');"><img
+        src="../images_nav/callback_white.gif"
+        alt="Link: Instant Callback" border="0" vspace="8"
+        width="135" height="60" name="callback_white"></a><br>
+        </td>
+        <td valign="top" rowspan="2"><img
+        src="../images/discover_texthead.gif"
+        alt="Exceptional Performance for Each and Every Customer"
+        width="450" height="70"><!--<img src="../images/discover_photostrip.gif" align=right hspace=40 alt="Whatever specific needs you have, Crestar can help you manage your finances successfully.">--> <br>
+        <img src="../images/discover_fatherson.gif"
+        alt="banking solutions you can grow with" align="right"
+        hspace="0" width="180" height="323"><img
+        src="../images/drop_W.gif" alt="W" align="left"
+        hspace="0" width="30" height="28"> <font size="2"
+        face="arial,helvetica">e would like to tell you a little
+        bit about Crestar and the many services we provide.
+        Crestar is dedicated to providing a superior level of
+        customer convenience in all areas of banking. We want you
+        to do your banking on your terms - when you want and how
+        you want. We are the preeminent full-service consumer
+        bank in Virginia, Washington D.C. and Maryland. And we
+        take our role as a full service financial institution
+        very seriously. That's why we've sponsored this Web Site.
+        Because, in today's hyperspeed world, &quot;full
+        service&quot; means &quot;full-access to
+        information.&quot; </font><ul type="square">
+            <li><font size="2" face="arial,helvetica">To learn
+                more about us, our values, and our vision, check
+                out </font><a href="aboutus.stm"><font size="2"
+                face="arial,helvetica">About Crestar.</font></a><font
+                size="2" face="arial,helvetica"> </font></li>
+            <li><font size="2" face="arial,helvetica">Want to
+                find the closest Crestar branch to your home or
+                place of business? Use our </font><a
+                href="branches.stm"><font size="2"
+                face="arial,helvetica">Branch Locator</font></a><font
+                size="2" face="arial,helvetica">. </font></li>
+            <li><font size="2" face="arial,helvetica">Interested
+                in </font><a href="year2000.stm"><font size="2"
+                face="arial,helvetica">how the year 2000 will
+                affect Crestar</font></a><font size="2"
+                face="arial,helvetica">? Learn more about our
+                approach as we discuss this hot topic.</font></li>
+            <li><font size="2" face="arial,helvetica">Crestar
+                respects each customer&#146;s right to privacy.
+                Learn more about </font><a href="privacy.stm"><font
+                size="2" face="arial,helvetica">Crestar&#146;s
+                Principles of Privacy</font></a><font size="2"
+                face="arial,helvetica"> and </font><a
+                href="confidentiality.stm"><font size="2"
+                face="arial,helvetica">your right to
+                confidentiality</font></a><font size="2"
+                face="arial,helvetica">.</font></li>
+        </ul>
+        </td>
+    </tr>
+    <tr>
+        <td valign="bottom"><a href="#top"
+        onmouseover="hiLite('backtotop_white','backtotop_y'); window.status='Link to Top'; return true;"
+        onmouseout="hiLite('backtotop_white','backtotop_white');"><img
+        src="../images_nav/backtotop_white.gif"
+        alt="Link: Back to Top" border="0" width="135"
+        height="15" name="backtotop_white"></a> <br>
+        <img src="../images_nav/copyright.gif"
+        alt="Copyright 1997 Crestar Bank" width="150" height="15"></td>
+    </tr>
+</table>
+</body>
+</html>

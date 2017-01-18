@@ -1,0 +1,328 @@
+Server: Microsoft-IIS/4.0
+Date: Thu, 18 Dec 1997 12:47:58 GMT
+Content-Type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="keywords"
+content="search, banking, crestar internet, online help, sitemap, query, content, hit">
+<meta name="summary"
+content="Use this search function to locate a specific page on the Crestar Banking site, or find what you are looking for on our visual site map.">
+<meta name="author" content="wlw">
+<meta name="SUBJECT" content="sample form">
+<meta name="MS.CATEGORY" content="Internet">
+<meta name="MS.LOCALE" content="EN-US">
+<meta name="resource-type" content="document">
+<meta name="copyright" content="1997 Crestar Bank">
+<meta name="distribution" content="global">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Crestar Bank - Site Map</title>
+<!--         Specify various properties of this HTML page, so that they can be queried. The         properties are:            Description:    abstract of this page            Author:         author            Keywords:       keywords            Subject:        subject            Ms.category:    category            Ms.locale:      locale or language of this HTML page (US English)            Content-type:   charset identifier of this HTML page (1252)         If a description meta tag is present in an HTML page, then it is used as the abstract or summary         of the HTML page. If a description tag is not present then the Index Server will automatically         generate an abstract using the text in the title tag, heading tags and so on. To query for a meta         tag property, the property must be specified in the idq file. The GUID for the meta property         is D1B5D3F0-C0B3-11CF-9A92-00A0C908DBF1 and the property name is specified by the name field. In         the case of the description property the name is "description. Hence to query for the description         property, add the following to the Names section of the idq file              [Names]              MetaDescription(DBTYPE_WSTR) = D1B5D3F0-C0B3-11CF-9A92-00A0C908DBF1 description         Then the query              @MetaDescription Microsoft Index Server         will return this page in the result set. The GUID for meta property is a registry parameter         located at  HKEY_LOCAL_MACHINE                 \System\CurrentControlSet                  \Control\HtmlFilter                   \MetaTagClsid         Author, Keywords and Subject properties in a meta tag are treated differently. These properties         have the friendly names DocAuthor, DocKeywords and DocSubject respectively, and they         correspond to the Author, Keywords and Subject properties of the Microsoft Summary Information         property set. Hence, the query             @DocAuthor Index Server Team         will return this page in the result set.         The MS.CATEGORY property is also treated differently. The MS.CATEGORY property is mapped to         the category property in the Microsoft Document Summary Information property set. The GUID         for the Document Summary Information property set is d5cdd502-2e9c-101b-9397-08002b2cf9ae,         and the property id for category in that property set is 2. So, to query for the MS.CATEGORY         property, add the following to the Names section of the idq file              [Names]              DocCategory(DBTYPE_WSTR) = d5cdd502-2e9c-101b-9397-08002b2cf9ae 2         Then the query              @DocCategory Internet         will return this page in the result set.         The MS.LOCALE property specifies the locale or language of this page. The locale property         allows the Index Server to use the appropriate locale specific resources when processing the         HTML page. It is very useful to specify the locale property when the HTML pages being indexed are in         different locales. If all the HTML pages being indexed are in the same locale and it's         the same as the locale of the server computer on which Index Server is running, then the         MS.LOCALE property can be omitted without any loss of fidelity. The MS.LOCALE property can also be         queried just like any other generic meta tag property. To query for the MS.LOCALE property, add the         following to the Names section of the idq file              [Names]              Locale(DBTYPE_WSTR) = D1B5D3F0-C0B3-11CF-9A92-00A0C908DBF1 ms.locale         Then the query              @Locale US         will return this page in the result set.         The charset meta tag specifies the character set of the HTML page. This information         is used by the Index Server when converting the text in the HTML page to Unicode. The following         charset IDs are recognized:                 Base_Charset (Display Name): Charset IDs                 ----------------------------------------                 1252 (Western) : us-ascii, iso8859-1, ascii, iso_8859-1, iso-8859-1, ANSI_X3.4-1968, iso-ir-6,                       ANSI_X3.4-1986, ISO_646.irv:1991, ISO646-US, us, IBM367, cp367, csASCII, latin1,                       iso_8859-1:1987, iso-ir-100, ibm819, cp819, Windows-1252                 28592 (Central European (ISO)): iso8859-2, iso-8859-2, iso_8859-2, latin2, iso_8859-2:1987,                       iso-ir-101, l2, csISOLatin2                 1250 (Central European (Windows)): windows-1250, x-cp1250                 1251 (Cyrillic (Windows)): windows-1251, x-cp1251                 1253 (Greek (Windows)): windows-1253                 1254 (Turkish (Windows)):windows-1254                 932 (Shift-JIS) :  shift_jis, x-sjis, ms_Kanji, csShiftJIS                 EUC-JP (EUC) : Extended_UNIX_Code_Packed_Format_for_Japanese, csEUCPkdFmtJapanese, x-euc-jp                 JIS (JIS) : csISO2022JP, iso-2022-jp                 1257 : windows-1257                 950 (Traditional Chinese (BIG5)) : big5, csbig5, x-x-big5                 936 (Simplified Chinese): GB_2312-80, iso-ir-58, chinese, csISO58GB231280, csGB2312, gb2312                 20866 (Cyrillic (KOI8-R)): csKOI8R, koi8-r                 949 (Korean): ks_c_5601, ks_c_5601-1987, korean, csKSC56011987                 1255 (Hebrew): ISO_8859-8:1988, iso-ir-138, ISO_8859-8, ISO-8859-8, hebrew, csISOLatinHebrew                 1256 (Arabic): Windows-1256                 874 (Thai): Windows-874                 1258 (Vietnamese): Windows-1258    -->
+<script language="JavaScript">
+
+<!--
+agent = navigator.userAgent
+
+browserVer = 2;
+
+if (agent.substring(0,7) == "Mozilla"){
+
+    if (parseInt(agent.substring(8,9)) >= 3) {browserVer = 1;}
+
+}
+
+
+if (browserVer == 1) {
+
+	bankonline_white = new Image(135, 15);
+	bankonline_white.src = "../images_nav/bankonline_white.gif";
+	bankonline_y = new Image(135, 15);
+	bankonline_y.src = "../images_nav/bankonline_y.gif";
+
+	bank24_white = new Image(135, 15);
+	bank24_white.src = "../images_nav/bank24_white.gif";
+	bank24_y = new Image(135, 15);
+	bank24_y.src = "../images_nav/bank24_y.gif";
+
+	borrow_white = new Image(135, 15);
+	borrow_white.src = "../images_nav/borrow_white.gif";
+	borrow_y = new Image(135, 15);
+	borrow_y.src = "../images_nav/borrow_y.gif";
+
+	personal_white = new Image(135, 15);
+	personal_white.src = "../images_nav/personal_white.gif";
+	personal_y = new Image(135, 15);
+	personal_y.src = "../images_nav/personal_y.gif";
+
+	business_white = new Image(135, 15);
+	business_white.src = "../images_nav/business_white.gif";
+	business_y = new Image(135, 15);
+	business_y.src = "../images_nav/business_y.gif";
+
+	communicate_white = new Image(135, 15);
+	communicate_white.src = "../images_nav/communicate_white.gif";
+	communicate_y = new Image(135, 15);
+	communicate_y.src = "../images_nav/communicate_y.gif";
+
+	discover_white = new Image(135, 15);
+	discover_white.src = "../images_nav/discover_white.gif";
+	discover_y = new Image(135, 15);
+	discover_y.src = "../images_nav/discover_y.gif";
+
+	explorebb_white = new Image(135, 15);
+	explorebb_white.src = "../images_nav/explorebb_white.gif";
+	explorebb_y = new Image(135, 15);
+	explorebb_y.src = "../images_nav/explorebb_y.gif";
+
+	home_white = new Image(135, 15);
+	home_white.src = "../images_nav/home_white.gif";
+	home_y = new Image(135, 15);
+	home_y.src = "../images_nav/home_y.gif";
+
+	insure_white = new Image(135, 15);
+	insure_white.src = "../images_nav/insure_white.gif";
+	insure_y = new Image(135, 15);
+	insure_y.src = "../images_nav/insure_y.gif";
+
+	invest_white = new Image(135, 15);
+	invest_white.src = "../images_nav/invest_white.gif";
+	invest_y = new Image(135, 15);
+	invest_y.src = "../images_nav/invest_y.gif";
+
+	save_white = new Image(135, 15);
+	save_white.src = "../images_nav/save_white.gif";
+	save_y = new Image(135, 15);
+	save_y.src = "../images_nav/save_y.gif";
+
+	sitemap_white = new Image(135, 15);
+	sitemap_white.src = "../images_nav/sitemap_white.gif";
+	sitemap_y = new Image(135, 15);
+	sitemap_y.src = "../images_nav/sitemap_y.gif";
+
+	backtotop_white = new Image(135, 15);
+	backtotop_white.src = "../images_nav/backtotop_white.gif";
+	backtotop_y = new Image(135, 15);
+	backtotop_y.src = "../images_nav/backtotop_y.gif";
+
+	callback_white = new Image(135, 60);
+	callback_white.src = "../images_nav/callback_white.gif";
+	callback_y = new Image(135, 60);
+	callback_y.src = "../images_nav/callback_y.gif";
+
+	checking_white = new Image(135, 15);
+	checking_white.src = "../images_nav/checking_white.gif";
+	checking_y = new Image(135, 15);
+	checking_y.src = "../images_nav/checking_y.gif";
+}
+
+function hiLite(imgDocID,imgObjName) {
+
+	if (browserVer == 1) {
+
+		document.images[imgDocID].src = eval(imgObjName + ".src");
+	}
+}
+//-->
+
+</script>
+
+<BODY BGCOLOR="#FFFFFF" LINK="000099" ALINK="#FFFFFF" VLINK="#666666" BACKGROUND="../images/standard_bg.gif" topmargin=0><a name=top></a>
+</head>
+
+<body>
+
+<table border="0" cellpadding="0" width="600">
+    <tr>
+        <td colspan="2" bgcolor="#FF0000" height="25"><img
+        src="../images/logo.gif" width="600" height="25"></td>
+    </tr>
+    <tr>
+        <td valign="top" width="150" font color="#ffffff"><!--A HREF="../sitemap/" onMouseOver="hiLite('sitemap_white','sitemap_y'); window.status='Link to Site Map'; return true;" onMouseOut="hiLite('sitemap_white','sitemap_white');"--><img
+        src="../images_nav/sitemap_y.gif"
+        alt="Current Section: Sitemap" width="135" height="15"
+        name="sitemap_white"><br>
+        <img src="../images_nav/black_15x135.gif" width="135"
+        height="15"><br>
+        <a href="../bankonline/"
+        onmouseover="hiLite('bankonline_white','bankonline_y'); window.status='Link to Bank Online'; return true;"
+        onmouseout="hiLite('bankonline_white','bankonline_white');"><img
+        src="../images_nav/bankonline_white.gif"
+        alt="Link: Bank Online" border="0" width="135"
+        height="15" name="bankonline_white"></a><br>
+        <a href="../save/"
+        onmouseover="hiLite('save_white','save_y'); window.status='Link to Save'; return true;"
+        onmouseout="hiLite('save_white','save_white');"><img
+        src="../images_nav/save_white.gif" alt="Link: Save"
+        border="0" width="135" height="15" name="save_white"></a><br>
+        <a href="../borrow/"
+        onmouseover="hiLite('borrow_white','borrow_y'); window.status='Link to Borrow'; return true;"
+        onmouseout="hiLite('borrow_white','borrow_white');"><img
+        src="../images_nav/borrow_white.gif" border="0"
+        width="135" height="15" name="borrow_white"></a><br>
+        <a href="../invest/"
+        onmouseover="hiLite('invest_white','invest_y'); window.status='Link to Invest'; return true;"
+        onmouseout="hiLite('invest_white','invest_white');"><img
+        src="../images_nav/invest_white.gif" alt="Link: Invest"
+        border="0" width="135" height="15" name="invest_white"></a><br>
+        <a href="../checking/"
+        onmouseover="hiLite('checking_white','checking_y'); window.status='Link to Checking'; return true;"
+        onmouseout="hiLite('checking_white','checking_white');"><img
+        src="../images_nav/checking_white.gif"
+        alt="Link: Check Out Checking" border="0" width="135"
+        height="15" name="checking_white"></a><br>
+        <a href="../explorebb/"
+        onmouseover="hiLite('explorebb_white','explorebb_y'); window.status='Link to Explore Business Banking'; return true;"
+        onmouseout="hiLite('explorebb_white','explorebb_white');"><img
+        src="../images_nav/explorebb_white.gif"
+        alt="Link: Explore Business Banking" border="0"
+        width="135" height="15" name="explorebb_white"></a><br>
+        <a href="../insure/index.stm"
+        onmouseover="hiLite('insure_white','insure_y'); window.status='Link to Insure'; return true;"
+        onmouseout="hiLite('insure_white','insure_white');"><img
+        src="../images_nav/insure_white.gif" alt="Link: Insure"
+        border="0" width="135" height="15" name="insure_white"></a><br>
+        <a href="../bank24/"
+        onmouseover="hiLite('bank24_white','bank24_y'); window.status='Link to Bank 24 Hours'; return true;"
+        onmouseout="hiLite('bank24_white','bank24_white');"><img
+        src="../images_nav/bank24_white.gif"
+        alt="Link: Bank 24hours" border="0" width="135"
+        height="15" name="bank24_white"></a><br>
+        <a href="../communicate/"
+        onmouseover="hiLite('communicate_white','communicate_y'); window.status='Link to Communicate'; return true;"
+        onmouseout="hiLite('communicate_white','communicate_white');"><img
+        src="../images_nav/communicate_white.gif"
+        alt="Link: Communicate" border="0" width="135"
+        height="15" name="communicate_white"></a><br>
+        <a href="../discover/"
+        onmouseover="hiLite('discover_white','discover_y'); window.status='Link to Discover'; return true;"
+        onmouseout="hiLite('discover_white','discover_white');"><img
+        src="../images_nav/discover_white.gif"
+        alt="Link: Discover Crestar" border="0" width="135"
+        height="15" name="discover_white"></a><br>
+        <a href="../index.html"
+        onmouseover="hiLite('home_white','home_y'); window.status='Link to Home'; return true;"
+        onmouseout="hiLite('home_white','home_white');"><img
+        src="../images_nav/home_white.gif"
+        alt="Link: Return Home" border="0" width="135"
+        height="15" name="home_white"></a><br>
+        <a
+        href="http://speakwithagent.att.net/cgi-bin/welcome?SN=crestar+bank&amp;SC=default"
+        onmouseover="hiLite('callback_white','callback_y'); window.status='Link to Instant Callback'; return true;"
+        onmouseout="hiLite('callback_white','callback_white');"><img
+        src="../images_nav/callback_white.gif"
+        alt="Link: Instant Callback" border="0" vspace="8"
+        width="135" height="60" name="callback_white"></a><br>
+        </td>
+        <td valign="top" rowspan="2"><img
+        src="../images/sitemap_tt.gif"
+        alt="We'll Help You Find What You Need" vspace="5"
+        width="334" height="23"><br>
+        <font size="2" face="arial,helvetica">To find something
+        on the Crestar website, please use the </font><a
+        href="#search"><font size="2" face="arial,helvetica">search</font></a><font
+        size="2" face="arial,helvetica"> function below, or click
+        on the area you are interested in on our </font><a
+        href="#map"><font size="2" face="arial,helvetica">site
+        map</font></a><font size="2" face="arial,helvetica">.</font>
+        <p><a name="search"></a> <font face="arial,helvetica"><b>SEARCH</b><br>
+        </font><font size="2" face="arial,helvetica">Please enter
+        a word or words that describe what you're searching for,
+        and click the &quot;Search&quot; button. <!--Need help? Take a look at our <A HREF="search_tips.stm">tips for searching</A>.--><br>
+        </font></p>
+        <form action="queryhit.idq" method="GET">
+            <input type="hidden" name="CiMaxRecordsPerPage"
+            value="10"><input type="hidden" name="CiScope"
+            value="/"><input type="hidden" name="TemplateName"
+            value="queryhit"><input type="hidden" name="CiSort"
+            value="rank[d]"><input type="hidden"
+            name="HTMLQueryForm" value="index.stm"><p><font
+            size="2" face="arial,helvetica"><input type="text"
+            size="60" maxlength="100" name="CiRestriction"> <input
+            type="submit" value="Search"> </font></p>
+        </form>
+        <p><br>
+        <br>
+        <a name="map"></a> <font face="arial,helvetica"><b>SITE
+        MAP</b><br>
+        </font><font size="2" face="arial,helvetica"><!--webbot
+        bot="ImageMap" startspan
+        rectangle=" (7,33) (123, 43)  ../bankonline/mortgage.stm"
+        rectangle=" (7,10) (120, 19)  ../bankonline/"
+        rectangle=" (8,21) (121, 32)  ../bankonline/internetbanking.stm"
+        rectangle=" (8,45) (123, 56)  ../bankonline/invest_banking.stm"
+        rectangle=" (7,96) (121, 106)  ../bank24/"
+        rectangle=" (7,109) (121, 119)  ../bank24/pc_banking.stm"
+        rectangle=" (7,121) (121, 130)  ../bank24/atms.stm"
+        rectangle=" (8,132) (121, 143)  ../bank24/moneycard.stm"
+        rectangle=" (8,145) (121, 155)  ../bank24/paybyphone.stm"
+        rectangle=" (7,182) (121, 193)  ../discover/"
+        rectangle=" (7,194) (121, 206)  ../discover/aboutus.stm"
+        rectangle=" (8,208) (121, 219)  ../discover/branches.stm"
+        rectangle=" (8,262) (121, 272)  ../borrow/"
+        rectangle=" (8,275) (121, 284)  http://www.crestarmortgage.com"
+        rectangle=" (8,286) (121, 297)  http://www.student-loans.com"
+        rectangle=" (9,299) (121, 309)  http://206.43.192.71/boat-loans/"
+        rectangle=" (9,310) (121, 322)  ../borrow/install_loans.stm"
+        rectangle=" (10,324) (121, 333)  ../borrow/home_equity.stm"
+        rectangle=" (9,334) (122, 346)  ../borrow/credit_cards.stm"
+        rectangle=" (137,9) (311, 19)  ../explorebb/"
+        rectangle=" (137,21) (311, 32)  ../explorebb/specials.stm"
+        rectangle=" (137,33) (311, 44)  ../explorebb/deposit.stm"
+        rectangle=" (138,46) (311, 56)  ../explorebb/credit.stm"
+        rectangle=" (139,58) (310, 68)  ../explorebb/treasury_mgmt.stm"
+        rectangle=" (139,69) (311, 79)  ../explorebb/intl_banking.stm"
+        rectangle=" (138,262) (311, 272)  ../checking/"
+        rectangle=" (138,274) (311, 286)  ../checking/specials.stm"
+        rectangle=" (138,286) (311, 297)  ../checking/reg_check.stm"
+        rectangle=" (138,299) (311, 308)  ../checking/interest_check.stm"
+        rectangle=" (139,310) (311, 321)  ../checking/budget.stm"
+        rectangle=" (138,322) (312, 333)  ../checking/selfserv.stm"
+        rectangle=" (138,334) (312, 344)  ../checking/key_acct.stm"
+        rectangle=" (139,346) (313, 357)  ../checking/safekeeping.stm"
+        rectangle=" (140,359) (314, 369)  ../checking/overdraft.stm"
+        rectangle=" (139,371) (313, 381)  ../checking/yourselection.stm"
+        rectangle=" (139,382) (313, 392)  ../checking/acct_mgmt.stm"
+        rectangle=" (328,8) (443, 20)  ../communicate/"
+        rectangle=" (329,23) (445, 33)  ../communicate/direct.stm"
+        rectangle=" (329,35) (445, 44)  ../communicate/subscribe.stm"
+        rectangle=" (329,45) (445, 56)  ../communicate/customer_service.stm"
+        rectangle=" (329,96) (443, 106)  ../save/"
+        rectangle=" (328,107) (443, 119)  ../save/reg_savings.stm"
+        rectangle=" (329,121) (443, 131)  ../save/moneymarket.stm"
+        rectangle=" (330,133) (443, 144)  ../save/savcertificate.stm"
+        rectangle=" (330,145) (444, 155)  ../save/rewarder.stm"
+        rectangle=" (330,156) (444, 167)  ../save/yourselection.stm"
+        rectangle=" (329,184) (444, 193)  ../insure/personal.stm"
+        rectangle=" (327,207) (444, 219)  ../insure/business.stm"
+        rectangle=" (328,195) (444, 206)  ../insure/personal.stm"
+        rectangle=" (328,262) (443, 273)  ../invest/"
+        rectangle=" (328,275) (443, 285)  ../invest/asset_mgmt.stm"
+        rectangle=" (329,285) (442, 297)  ../invest/crestfunds.stm"
+        rectangle=" (331,297) (445, 309)  http://www.crestarinvest.com"
+        rectangle=" (332,310) (446, 322)  ../invest/guide.stm"
+        rectangle=" (331,324) (445, 334)  ../invest/persinvest.stm"
+        rectangle=" (328,333) (443, 345)  ../invest/businvest.stm"
+        rectangle=" (165,167) (282, 193)  ../index.html"
+        src="../images/sitemap.gif" alt="Visual Site Map"
+        border="0" width="450" height="400" --><MAP NAME="FrontPageMap0"><AREA SHAPE="RECT" COORDS="7, 33, 123, 43" HREF="../bankonline/mortgage.stm"><AREA SHAPE="RECT" COORDS="7, 10, 120, 19" HREF="../bankonline/"><AREA SHAPE="RECT" COORDS="8, 21, 121, 32" HREF="../bankonline/internetbanking.stm"><AREA SHAPE="RECT" COORDS="8, 45, 123, 56" HREF="../bankonline/invest_banking.stm"><AREA SHAPE="RECT" COORDS="7, 96, 121, 106" HREF="../bank24/"><AREA SHAPE="RECT" COORDS="7, 109, 121, 119" HREF="../bank24/pc_banking.stm"><AREA SHAPE="RECT" COORDS="7, 121, 121, 130" HREF="../bank24/atms.stm"><AREA SHAPE="RECT" COORDS="8, 132, 121, 143" HREF="../bank24/moneycard.stm"><AREA SHAPE="RECT" COORDS="8, 145, 121, 155" HREF="../bank24/paybyphone.stm"><AREA SHAPE="RECT" COORDS="7, 182, 121, 193" HREF="../discover/"><AREA SHAPE="RECT" COORDS="7, 194, 121, 206" HREF="../discover/aboutus.stm"><AREA SHAPE="RECT" COORDS="8, 208, 121, 219" HREF="../discover/branches.stm"><AREA SHAPE="RECT" COORDS="8, 262, 121, 272" HREF="../borrow/"><AREA SHAPE="RECT" COORDS="8, 275, 121, 284" HREF="http://www.crestarmortgage.com"><AREA SHAPE="RECT" COORDS="8, 286, 121, 297" HREF="http://www.student-loans.com"><AREA SHAPE="RECT" COORDS="9, 299, 121, 309" HREF="http://206.43.192.71/boat-loans/"><AREA SHAPE="RECT" COORDS="9, 310, 121, 322" HREF="../borrow/install_loans.stm"><AREA SHAPE="RECT" COORDS="10, 324, 121, 333" HREF="../borrow/home_equity.stm"><AREA SHAPE="RECT" COORDS="9, 334, 122, 346" HREF="../borrow/credit_cards.stm"><AREA SHAPE="RECT" COORDS="137, 9, 311, 19" HREF="../explorebb/"><AREA SHAPE="RECT" COORDS="137, 21, 311, 32" HREF="../explorebb/specials.stm"><AREA SHAPE="RECT" COORDS="137, 33, 311, 44" HREF="../explorebb/deposit.stm"><AREA SHAPE="RECT" COORDS="138, 46, 311, 56" HREF="../explorebb/credit.stm"><AREA SHAPE="RECT" COORDS="139, 58, 310, 68" HREF="../explorebb/treasury_mgmt.stm"><AREA SHAPE="RECT" COORDS="139, 69, 311, 79" HREF="../explorebb/intl_banking.stm"><AREA SHAPE="RECT" COORDS="138, 262, 311, 272" HREF="../checking/"><AREA SHAPE="RECT" COORDS="138, 274, 311, 286" HREF="../checking/specials.stm"><AREA SHAPE="RECT" COORDS="138, 286, 311, 297" HREF="../checking/reg_check.stm"><AREA SHAPE="RECT" COORDS="138, 299, 311, 308" HREF="../checking/interest_check.stm"><AREA SHAPE="RECT" COORDS="139, 310, 311, 321" HREF="../checking/budget.stm"><AREA SHAPE="RECT" COORDS="138, 322, 312, 333" HREF="../checking/selfserv.stm"><AREA SHAPE="RECT" COORDS="138, 334, 312, 344" HREF="../checking/key_acct.stm"><AREA SHAPE="RECT" COORDS="139, 346, 313, 357" HREF="../checking/safekeeping.stm"><AREA SHAPE="RECT" COORDS="140, 359, 314, 369" HREF="../checking/overdraft.stm"><AREA SHAPE="RECT" COORDS="139, 371, 313, 381" HREF="../checking/yourselection.stm"><AREA SHAPE="RECT" COORDS="139, 382, 313, 392" HREF="../checking/acct_mgmt.stm"><AREA SHAPE="RECT" COORDS="328, 8, 443, 20" HREF="../communicate/"><AREA SHAPE="RECT" COORDS="329, 23, 445, 33" HREF="../communicate/direct.stm"><AREA SHAPE="RECT" COORDS="329, 35, 445, 44" HREF="../communicate/subscribe.stm"><AREA SHAPE="RECT" COORDS="329, 45, 445, 56" HREF="../communicate/customer_service.stm"><AREA SHAPE="RECT" COORDS="329, 96, 443, 106" HREF="../save/"><AREA SHAPE="RECT" COORDS="328, 107, 443, 119" HREF="../save/reg_savings.stm"><AREA SHAPE="RECT" COORDS="329, 121, 443, 131" HREF="../save/moneymarket.stm"><AREA SHAPE="RECT" COORDS="330, 133, 443, 144" HREF="../save/savcertificate.stm"><AREA SHAPE="RECT" COORDS="330, 145, 444, 155" HREF="../save/rewarder.stm"><AREA SHAPE="RECT" COORDS="330, 156, 444, 167" HREF="../save/yourselection.stm"><AREA SHAPE="RECT" COORDS="329, 184, 444, 193" HREF="../insure/personal.stm"><AREA SHAPE="RECT" COORDS="327, 207, 444, 219" HREF="../insure/business.stm"><AREA SHAPE="RECT" COORDS="328, 195, 444, 206" HREF="../insure/personal.stm"><AREA SHAPE="RECT" COORDS="328, 262, 443, 273" HREF="../invest/"><AREA SHAPE="RECT" COORDS="328, 275, 443, 285" HREF="../invest/asset_mgmt.stm"><AREA SHAPE="RECT" COORDS="329, 285, 442, 297" HREF="../invest/crestfunds.stm"><AREA SHAPE="RECT" COORDS="331, 297, 445, 309" HREF="http://www.crestarinvest.com"><AREA SHAPE="RECT" COORDS="332, 310, 446, 322" HREF="../invest/guide.stm"><AREA SHAPE="RECT" COORDS="331, 324, 445, 334" HREF="../invest/persinvest.stm"><AREA SHAPE="RECT" COORDS="328, 333, 443, 345" HREF="../invest/businvest.stm"><AREA SHAPE="RECT" COORDS="165, 167, 282, 193" HREF="../index.html"></MAP><img src="../images/sitemap.gif" alt="Visual Site Map" border="0" width="450" height="400" usemap="#FrontPageMap0"><!--webbot
+        bot="ImageMap" i-checksum="11760" endspan --><br>
+        </font></p>
+        </td>
+    </tr>
+    <tr>
+        <td valign="bottom"><a href="#top"
+        onmouseover="hiLite('backtotop_white','backtotop_y'); window.status='Link to Top'; return true;"
+        onmouseout="hiLite('backtotop_white','backtotop_white');"><img
+        src="../images_nav/backtotop_white.gif"
+        alt="Link: Back to Top" border="0" width="135"
+        height="15" name="backtotop_white"></a> <br>
+        <img src="../images_nav/copyright.gif"
+        alt="Copyright 1997 Crestar Bank" width="150" height="15"></td>
+    </tr>
+</table>
+</body>
+</html>

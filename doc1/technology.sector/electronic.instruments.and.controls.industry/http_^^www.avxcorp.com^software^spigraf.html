@@ -1,0 +1,106 @@
+Server: Netscape-Commerce/1.12
+Date: Friday, 21-Nov-97 04:10:18 GMT
+Last-modified: Tuesday, 22-Jul-97 20:41:34 GMT
+Content-length: 2342
+Content-type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+
+<HTML>
+
+<HEAD>
+<TITLE>AVX - Spigraf</TITLE>
+</HEAD>
+
+<BODY bgcolor="#FFFFFF">
+<CENTER>
+<FORM METHOD=POST ACTION="http://www.avxcorp.com/test/spi.cgi">
+
+
+<TABLE border=5>
+<TR>
+<TD colspan=4>
+<center>
+<IMG SRC="avxstrip.gif"><BR>
+</center>
+</TD>
+</TR>
+<TR>
+<TD colspan=4>
+<center>
+<IMG SRC="spicap.gif"><BR>
+by AVX
+</center>
+</TD>
+</TR>
+<TR>
+<TD valign=top>
+<b>Chip Size</b><BR>
+<INPUT TYPE="radio" NAME="chip" VALUE=0>0603<BR>
+<INPUT TYPE="radio" NAME="chip" VALUE=1>0805<BR>
+<INPUT TYPE="radio" NAME="chip" VALUE=2>1206<BR>
+<INPUT TYPE="radio" NAME="chip" VALUE=3>0402<BR>
+<INPUT TYPE="radio" NAME="chip" VALUE=4>1210<BR>
+<INPUT TYPE="radio" NAME="chip" VALUE=5>0612<BR>
+<INPUT TYPE="radio" NAME="chip" VALUE=6>0508<BR>
+</TD>
+
+<TD VALIGN=top>
+<b>Volt Rating</b><BR>
+<INPUT TYPE="radio" NAME="volt" VALUE=0>16V<BR>
+<INPUT TYPE="radio" NAME="volt" VALUE=1>25V<BR>
+<INPUT TYPE="radio" NAME="volt" VALUE=2>50V<BR>
+<INPUT TYPE="radio" NAME="volt" VALUE=3>100V<BR>
+<INPUT TYPE="radio" NAME="volt" VALUE=4>200<BR>
+</TD>
+
+<TD VALIGN=top>
+<b>Dielectric </b><BR>
+<INPUT TYPE="radio" NAME="diel" VALUE=0>NPO<BR>
+<INPUT TYPE="radio" NAME="diel" VALUE=1>X7R<BR>
+<INPUT TYPE="radio" NAME="diel" VALUE=2>Z5U<BR>
+<INPUT TYPE="radio" NAME="diel" VALUE=3>Y5V<BR>
+</TD>
+
+
+<TD VALIGN=top>
+<INPUT TYPE="text" NAME="cap_val" SIZE=6 VALUE="">
+<b>Capacitance Value</b><BR>
+
+<INPUT TYPE="radio" NAME="cap_unit" VALUE=0><b>pF</b>
+<INPUT TYPE="radio" NAME="cap_unit" VALUE=1><b>&#181;F</b><BR>
+
+<INPUT TYPE="text" NAME="freq_op" SIZE=6 VALUE="1">
+<b>Freq. of Operation (MHz)</b><BR>
+
+<INPUT TYPE="text" NAME="freq_star" SIZE=6 VALUE="0.1">
+<b>Starting Freq. (MHz)</b><BR>
+
+<INPUT TYPE="text" NAME="freq_end" SIZE=6 VALUE="1000">
+<b>Ending Freq. (MHz)</b><BR>
+
+<INPUT TYPE="text" NAME="temp" SIZE=6 VALUE="25">
+<b>Operation Temp (C)</b><br>
+
+<INPUT TYPE="text" NAME="bias_volt" SIZE=6 VALUE="0">
+<b>DC Bias Voltage (V)</b><br>
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=top colspan=4>
+<center>
+<INPUT TYPE="submit" NAME="sub_button" VALUE="Generate Graph and Parameters"><BR>
+<center><INPUT TYPE="reset"    NAME="reset_button" VALUE="Clear Values"></center>
+</center>
+</TD>
+</TR>
+</TABLE>
+<BR>
+Note: You will periodically need to clear you disk cache to make sure that the correct graph
+is loaded.
+</CENTER>
+</FORM>
+</BODY>
+
+</HTML>

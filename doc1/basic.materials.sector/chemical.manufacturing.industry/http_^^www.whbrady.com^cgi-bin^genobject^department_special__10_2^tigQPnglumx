@@ -1,0 +1,125 @@
+Date: Thu, 20 Nov 1997 20:04:38 GMT
+Server: Apache/1.2.1
+Connection: close
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>
+On-line Technical Support
+</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" >
+
+<table cellspacing=0 cellpadding=0 border=0>
+<tr><td colspan=2><A href="/cgi-bin/imagemap.pl/secsec.map/tigQPnglumx"><img src = "/imgs/brady/redesignedgraphics/secsec.gif" border = "0" ISMAP width = "582" height = "89" alt = "brady_sub"></A></td></tr>
+<tr><td valign=top width=140>
+		<table width=140 cellspacing=0 cellpadding=0 border=0>
+		<tr><td><img src = "/imgs//brady/redesignedgraphics/leftbar.gif" border = "0" width = "114" height = "30" alt = "Blank grey"></td></tr>
+		<TR><TD><A href="/cgi-bin/genobject/document_1_1_103/tigQPnglumx"><img src = "/imgs/brady/redesignedgraphics/leftnews.gif" border = "0" width = "114" height = "30" alt = "News"></a></TD></TR>
+		<!-- TR><TD>< if($Session{'base_2'}eq "SESSION/base_2_3"){ link_object('depart_trade_shows', present('GRAPHIC/leftbar'));}else{link_object('article_gen_html_2_1', present('GRAPHIC/leftbar')); }></TD></TR -->
+                <TR><TD><A href="/cgi-bin/genobject/dept_our_company/tigQPnglumx"><img src = "/imgs/brady/redesignedgraphics/leftcompany.gif" border = "0" width = "114" height = "30" alt = "Our Company"></a></TD></TR>
+		<TR><TD><A href="/cgi-bin/genobject/department_class_3/tigQPnglumx"><img src = "/imgs/brady/redesignedgraphics/leftprod.gif" border = "0" width = "114" height = "30" alt = "Products"></a></TD></TR>
+		<TR><TD><A href="/cgi-bin/genobject/depart_tech_support/tigQPnglumx"><img src = "/imgs/brady/redesignedgraphics/techsupport2.gif" border = "0" width = "114" height = "30" alt = "TechSupport White"></a></TD></TR>
+		<!-- TR><TD>< link_object('depart_our_distr', present('GRAPHIC/leftdistrib'))></TD></TR -->
+		<TR><TD><A href="/cgi-bin/genobject/dept_bus_unit_locator/tigQPnglumx"><img src = "/imgs/brady/redesignedgraphics/leftloc.gif" border = "0" width = "114" height = "30" alt = "Locations"></a></TD></TR>
+		<TR><TD><A href="/cgi-bin/genobject/partners_1/tigQPnglumx"><img src = "/imgs/brady/redesignedgraphics/leftpartners.gif" border = "0" width = "114" height = "30" alt = "Partners"></a></TD></TR>
+		<TR><TD><A href="/cgi-bin/genobject/dept_financial_information/tigQPnglumx"><img src = "/imgs/brady/redesignedgraphics/leftfinancial.gif" border = "0" width = "114" height = "30" alt = "Financial"></a></TD></TR>
+		<TR><TD><A href="/cgi-bin/genobject/depart_job_opp/tigQPnglumx"><img src = "/imgs/brady/redesignedgraphics/leftemploy.gif" border = "0" width = "114" height = "30" alt = "Employment"></a></TD></TR>
+		<!-- TR><TD>< link_object('depart_compl_alliance', present('GRAPHIC/leftcompliance'))></TD></TR -->
+		<tr><td><IMG SRC="/imgs/brady/redesignedgraphics/leftbar.gif" WIDTH="114" HEIGHT="500"></td></tr>
+                <tr><td valign=top><IMG SRC="/imgs/brady/redesignedgraphics/copy.gif" WIDTH="114" HEIGHT="88" alt="Copyright 1996 WH Brady Co."></td>
+		</table>
+</td><td align=left valign=top><BR>
+<BR><form method="POST" action="/cgi-bin/genobject/department_special__10_2/tigQPnglumx" ENCTYPE="x-www-form-encoded">
+
+<P>We want to help answer your <B>technical</B> questions as efficiently as possible.
+If you'd rather send us an <B>email</B> than contact us by phone 
+or fax, please fill-out and send us the brief form below.
+We will reply to your request within 24 hours.
+<P>
+If you do not wish to email your questions you may also contact
+us through phone or fax:<P>
+
+Identification Solutions Division<BR>
+FAX: (414) 358-6767<BR>
+Phone: 1-800-643-8766 <P>
+Signmark Division<BR>
+FAX: 1-800-445-7446<BR>
+Phone: 1-800-635-7557
+<P>
+Note that this page only works if your browser supports forms.
+<HR>
+<PRE>
+<B>PRODUCT YOU NEED TECHNICAL SUPPORT FOR:</B>
+      PART# <INPUT TYPE="TEXT" NAME="PART#" SIZE=6> 
+DESCRIPTION <INPUT TYPE="TEXT" NAME="PART_DESCRIPTION" SIZE=16>
+
+<B>CONTACT INFORMATION:</B>
+<INPUT TYPE="hidden" NAME="TYPE_OF_FORM" VALUE="TECH_SUPPORT">
+<INPUT TYPE="hidden" NAME="dest" VALUE="tech_support@whbrady.com">
+Your Name:    <INPUT TYPE="text" SIZE="30" NAME="name">
+Your Title:   <INPUT TYPE="text" SIZE="30" NAME="title">
+Your Company: <INPUT TYPE="text" SIZE="30" NAME="company"><BR>
+Business Address: 
+Street:          <INPUT TYPE="text" SIZE="30" NAME="street">
+City:            <INPUT TYPE="text" SIZE="22" NAME="city">  
+State/Province:  <INPUT TYPE="text" SIZE="5" NAME="state">
+Zip/Postal Code: <INPUT TYPE="text" SIZE="11" NAME="zip"> Country: <INPUT TYPE="text" SIZE="11" NAME="country">
+
+E-mail: <INPUT TYPE="text" SIZE="30" NAME="email">
+Phone:  <INPUT TYPE="text" SIZE="20" NAME="phone">
+FAX:    <INPUT TYPE="text" SIZE="20" NAME="fax">
+
+<B>Comments or Questions:</B>
+<TEXTAREA NAME="comments" ROWS="4" COLS="50"></TEXTAREA>
+
+<INPUT TYPE="submit" VALUE="Submit"> <INPUT TYPE="reset" VALUE="Reset">
+</PRE>
+</FORM>
+<CENTER>
+<A href="/cgi-bin/genobject/index/tigQPnglumx"><img src = "/imgs/brady/newbradygraphics/homebutton.gif" border = "0" width = "46" height = "88" alt = "Home"></a>
+
+</CENTER>
+
+
+
+<!-- IMG SRC="http://www.whbrady.com/imgs/brady/redesignedgraphics/homebutton.gif" WIDTH="46" HEIGHT="88" -->
+
+</td>
+</tr>
+<tr><td valign=top><! IMG SRC="http://www.whbrady.com/imgs/brady/redesignedgraphics/copy.gif" WIDTH="136" HEIGHT="88" alt="Copyright 1996 WH Brady Co."></td>
+<td align=center></td></tr>
+</table>
+
+
+
+
+<hr>
+
+
+
+<MAP NAME=main>
+<AREA SHAPE=rect COORDS="0,70,96,89" href="/cgi-bin/genobject/department_special__feedback/tigQPnglumx">
+<AREA SHAPE=rect COORDS="95,71,151,89" href="/cgi-bin/genobject/department_special__12_1/tigQPnglumx?m2=References+m1=graphics+cwd=/">
+<AREA SHAPE=rect COORDS="149,71,202,89" href="/cgi-bin/genobject/department_class_2/tigQPnglumx">
+<AREA SHAPE=rect COORDS="200,71,263,89" href="/cgi-bin/genobject/sitemap/tigQPnglumx">
+<AREA SHAPE=rect COORDS="261,71,330,89" href="/cgi-bin/genobject/department_special__10_1/tigQPnglumx">
+<AREA SHAPE=rect COORDS="329,71,386,89" href="/cgi-bin/WebX.cgi/tigQPnglumx?Brady">
+<AREA SHAPE=rect COORDS="385,71,454,89" href="/cgi-bin/genobject/depart_download/tigQPnglumx">
+<AREA SHAPE=rect COORDS="453,71,519,89" href="/cgi-bin/genobject/department_class_1/tigQPnglumx">
+<AREA SHAPE=rect COORDS="518,71,581,89" href="/cgi-bin/genobject/index/tigQPnglumx">
+<AREA SHAPE=default href="/cgi-bin/genobject/index/tigQPnglumx">
+</MAP>
+
+
+<p>
+<!-- <P><BR>
+Contact us through our <A href="/cgi-bin/genobject/department_special__10_1/tigQPnglumx">feedback form</a> for general comments/suggestions or our <A href="/cgi-bin/genobject/department_special__10_2/tigQPnglumx">technical support form</a> for product support.  
+<P><BR> -->
+
+<center>
+<! link_object('index',present('GRAPHIC/homebutton'))>
+</center>
+</BODY>
+</HTML>

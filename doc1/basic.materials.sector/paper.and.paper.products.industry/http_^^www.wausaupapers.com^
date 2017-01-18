@@ -1,0 +1,70 @@
+Server: Netscape-Communications/1.1
+Date: Friday, 21-Nov-97 02:00:07 GMT
+Last-modified: Monday, 22-Sep-97 20:54:33 GMT
+Content-length: 2300
+Content-type: text/html
+
+<HTML>
+<HEAD><TITLE>Wausau Papers</TITLE></HEAD>
+
+
+<BODY BGCOLOR=#FFFFFF BACKGROUND="images/background.jpg" LINK="#6666FF" VLINK="#AA00AA">
+
+
+<CENTER><P ALIGN=center>
+
+<TABLE cellspacing=0 cellpadding=0 border=0>
+<TR><TD align=center><IMG SRC="images/wpm_headthing.gif" ALT="Wausau Papers" WIDTH=301 HEIGHT=34 VSPACE=4 BORDER=0></TD></TR>
+<TR><TD align=center>
+
+<img src="images/trees.gif" alt="Wausau Papers Logo" width="305" height="159">
+<!--<IMG SRC="images/mainlogo.gif" ALT="Wausau Papers Logo" WIDTH=297 HEIGHT=155 BORDER=0>-->
+
+</TD></TR>
+<TR><TD align=center><A HREF="maps/index.map" TARGET="_top"><IMG SRC="images/menubar.jpg" ALT="Navigation Menu" WIDTH=600 HEIGHT=100 ISMAP BORDER=0 usemap="#navbar"></A></TD></TR>
+</TABLE>
+
+
+<br>
+
+<IMG SRC="images/performanceS.gif" width="477" height="46" alt="printing and wiriting division premium performance, exceptional value">
+<!--
+<IMG SRC="images/performance1.gif" ALT="Printing and Writing Division" WIDTH=353 HEIGHT=21 VSPACE=15 BORDER=0><br>
+<img src="images/performance2.gif" width=510 height=25 border=0 alt="Premium Performance, Exceptional Value">
+-->
+</P></CENTER>
+
+<BR>
+<CENTER><P ALIGN=center><FONT SIZE=1 COLOR="#B39368" FACE="ARIAL,HELVETICA">
+[<A HREF="frame1.htm" TARGET="_top">Who We Are</A>]
+[<A HREF="frame2.htm" TARGET="_top">Products</A>]
+[<A HREF="frame3.htm" TARGET="_top">Distributors</A>]
+[<A HREF="frame4.htm" TARGET="_top">What's New</A>]
+[<A HREF="frame5.htm" TARGET="_top">Gallery</A>]
+[<A HREF="frame6.htm" TARGET="_top">Comments</A>]
+<BR><BR>
+This site has been optimized for use with Netscape Navigator 3.0<BR>
+wausaupapers.com is presented in frames.
+<BR><BR>
+For general comments or questions about this site, please send email to the <a href="mailto:bdern@wausaupapers.com">webmaster</A>.
+<BR>
+<B>&#169; 1997 Wausau Papers.  All rights reserved.</B></FONT></P></CENTER>
+
+
+
+
+
+<MAP NAME="navbar">
+<AREA SHAPE=RECT COORDS="112,19,203,82" HREF="frame2.htm">
+<AREA SHAPE=RECT COORDS="208,19,297,82" HREF="frame3.htm">
+<AREA SHAPE=RECT COORDS="494,19,586,84" HREF="frame6.htm">
+<AREA SHAPE=RECT COORDS="12,19,107,82" HREF="frame1.htm">
+<AREA SHAPE=RECT COORDS="305,19,394,82" HREF="frame4.htm">
+<AREA SHAPE=RECT COORDS="398,19,488,84" HREF="frame5.htm">
+<AREA SHAPE=default HREF="index.htm">
+</MAP>
+
+
+
+</BODY>
+</HTML>

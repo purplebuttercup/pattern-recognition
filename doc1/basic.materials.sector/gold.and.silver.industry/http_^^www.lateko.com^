@@ -1,0 +1,27 @@
+Date: Thu, 20 Nov 1997 22:05:58 GMT
+Server: Apache/1.2.0
+Last-Modified: Fri, 31 Oct 1997 23:15:14 GMT
+ETag: "af812-106-345a6682"
+Content-Length: 262
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>
+La Teko Resources Ltd. 
+</TITLE>
+ </HEAD>
+  
+
+
+<frameset cols="100,* " border=0>
+
+<frame src="frontnav.htm" name="_left" marginwidth=0 marginheight=0>
+<frame src="front.htm" name="_right" marginwidth=0 marginheight=0>
+</frameset>
+
+
+
+</html>

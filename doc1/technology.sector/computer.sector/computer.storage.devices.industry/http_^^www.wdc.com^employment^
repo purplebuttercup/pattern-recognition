@@ -1,0 +1,202 @@
+Server: Netscape-Enterprise/2.01
+Date: Fri, 21 Nov 1997 03:50:18 GMT
+Content-type: text/html
+
+<!--AUTHOR:	MIKE AT WESTERN DIGITAL
+    DATE:	OCTOBER 16, 1997
+    URL:	HTTP://WWW.WDC.COM/EMPLOYMENT/WELCOME.HTML
+--> 
+
+<html>
+
+<head>
+
+<!--Information contained within META tags supplies characterizing information about the respective HTML document; META's primarily used to generate Key Words to the respective search engine called upon to parse the HTML -->
+<META NAME="description" CONTENT="Employment at Western Digital">
+<META NAME="keywords" CONTENT="hard drive, SelectWD, retail partners, special programs at Western Digital, Western Digital, Drive Your Own Course, College Recruiting, Employment at Western Digital, Jobs in Irvine, Jobs in Silicon Valley, Open House, Career Fairs, Interview Days, Benefits">
+<META NAME="Generator" CONTENT="FrontPage 98"> 
+
+<title>Western Digital Corporation - Employment</title>
+</head>
+
+<body>
+
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<script language = "JavaScript">
+<!-- 
+        function link_select(){
+        var dest = document.navigate.destination.options[document.navigate.destination.selectedIndex].value
+        window.location.href = dest        }
+// -->
+</script>
+
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD VALIGN="TOP"><IMG SRC="/images/hleft2.gif" 
+    WIDTH="472" HEIGHT="65" ALIGN="TOP" ALT="" BORDER="0"></TD>
+<TD ROWSPAN="2"><IMG SRC="/images/hemployR.jpeg" 
+    ALT="Products" BORDER=0 WIDTH=169 HEIGHT=152 ALIGN="TOP"></TD>
+</TR>
+<TR>
+<TD ALIGN=LEFT HEIGHT="80" VALIGN="TOP"><form name="navigate" 
+  method="post" action="/cgi-bin/navigate.pl">
+
+<select name="destination" size=1 onChange ="link_select()">
+
+<option value="/">WD Home 
+
+<option value="/search.html">Search Site
+
+<option value="/support/">Support/Service
+  <option value="/support/ftp/drives.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  Software/Drivers
+  <option value="/support/ET/welcome.htm">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  Expert Trouble Shooter
+  <option value="/support/FAQ/drvparms.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  HD Parameters
+  <option value="/support/FAQ/jumpers.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  HD Jumper Settings
+  <option value="/quality/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Quality Watch
+  <option value="/register/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  Registration
+
+<option value="/products/">Current Products
+  <option value="/promos/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Promotions
+  <option value="/products/drives/where2buy.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Where2Buy
+
+<option value="/company/">Company
+  <option value="/new/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  What's New
+  <option value="/employment/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  Employment
+  <option value="/partners/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Partners
+  <option value="/company/acrobat.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  WD Document Library
+
+<option value="/toc.html">Site Index
+
+</select>
+
+<input type=submit value="Go">
+</form></TD>
+</TR>
+</TABLE>
+
+
+
+<table border="0" cellpadding="0" width="588" height="150" cellspacing="0">
+  <tr>
+    <td width="21%" height="67" align="right" valign="bottom">
+    <img src="/images-new/anim-employ.gif" width="150" height="150" 
+     alt="anim-employ.gif (32291 bytes)" start="fileopen" align="bottom">
+    </td>
+    <td width="79%" height="67" align="left" valign="center">
+    <img src="/images-new/subhead.gif" width="438" height="112" 
+     alt="subhead.gif (3649 bytes)" align="left">
+    </td>
+  </tr>
+</table>
+
+<table border="0" cellpadding="0" width="588" height="187" cellspacing="0">
+  <tr>
+    <td width="33" align="center" valign="top">&nbsp;</TD>
+    <td width="87" align="center" valign="top">
+    <img src="/images-new/black-line.gif" width="2" height="100" 
+     alt="black-line.gif (59 bytes)" align="center">
+    <img src="/images-new/openhs.gif" width="87" height="87" border="0"
+     alt="openhs.gif (1400 bytes)" usemap="#openhs"></td>
+    <td width="65" align="center" valign="top">&nbsp;</td>
+    <td width="403" height="67" align="center" valign="top"> <BR> 
+    <img src="/images-new/category.gif" width="403" height="116" 
+     alt="category.gif (4346 bytes)" start="fileopen" align="center" 
+     border="0" -- usemap="#category">
+   </td>
+  </tr>
+</table>
+
+<!-- Image Map Information Follows -->
+
+<map name="category">
+<area shape="rect" coords="90,0,266,22" href="/employment/whywd.html"<IMG SRC="openhs.gif" ALIGN="" WIDTH="87" HEIGHT="87" BORDER="0" ALT="">
+<area shape="rect" coords="24,34,163,65" href="/employment/jobs-loc.html">
+<area shape="rect" coords="214,32,353,64" href="/employment/college1.html">
+<area shape="rect" coords="26,76,163,106" href="/employment/resume/welcome.html">
+<area shape="rect" coords="213,75,353,106" href="/company/mission.html">
+<area shape="default" nohref>
+</map>
+
+<map name="openhs">
+<area shape="circle" coords="44,42,44" href="/employment/open-house.html">
+<area shape="default" nohref>
+</map>
+
+<!-- End Image Map Information -->
+
+<P>
+<CENTER>
+<HR SIZE=2 WIDTH=660>
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=660>
+  <TR>
+    <TD WIDTH=55 ALIGN=CENTER><FONT FACE=TIMES SIZE=1><B>
+    <A HREF="/welcome.html">Home</A></B></FONT></TD>
+    
+    <TD WIDTH=55 ALIGN=LEFT><FONT FACE=TIMES SIZE=1><B>
+    <A HREF="/branding/">Photos/Logos</A></B></FONT></TD>
+
+    <TD WIDTH=55 ALIGN=CENTER><FONT FACE=TIMES SIZE=1>
+    <A HREF="/new/"><B>New</A></B></FONT></TD>
+
+    <TD WIDTH=55 ALIGN=LEFT><FONT FACE=TIMES SIZE=1>
+    <A HREF="/company/"><B>Company</A></B></FONT></TD>
+
+    <TD WIDTH=55 ALIGN=LEFT><FONT FACE=TIMES SIZE=1>
+    <A HREF="/products/"><B>Products</A></B></FONT></TD>
+    
+    <TD WIDTH=55 ALIGN=LEFT><FONT FACE=TIMES SIZE=1>
+    <A HREF="/products/drives/where2buy.html"><B>Where2Buy</A></B></FONT></TD>
+
+    <TD WIDTH=55 ALIGN=CENTER><FONT FACE=TIMES SIZE=1>
+    <A HREF="/support/"><B>Support/Service</A></B></FONT></TD>
+
+    <TD WIDTH=55 ALIGN=RIGHT><FONT FACE=TIMES SIZE=1>
+    <A HREF="/promos/"><B>Promos</A></B></FONT></TD>
+
+    <TD WIDTH=55 ALIGN=CENTER><FONT FACE=TIMES SIZE=1>
+    <A HREF="/partners/"><B>Partners</A></B></FONT></TD>
+
+    <TD WIDTH=55 ALIGN=LEFT><FONT FACE=TIMES SIZE=1>
+    <A HREF="/employment/"><B>Employment</A></B></FONT></TD>
+
+    <TD WIDTH=55 ALIGN=CENTER><FONT FACE=TIMES SIZE=1>
+    <A HREF="/toc.html"><B>Index</A></B></FONT></TD>
+
+    <TD WIDTH=55 ALIGN=LEFT><FONT FACE=TIMES SIZE=1>
+    <A HREF="/search.html"><B>Search</A></B></FONT></TD>
+
+  </TR>
+
+</TABLE>
+
+<HR SIZE=2 WIDTH=660>
+</CENTER>
+<BR>
+
+<FONT FACE=TIMES SIZE=2><B>Document Library of 
+<A HREF="/company/acrobat.html">Acrobat</A> PDF Files.</B></FONT>
+
+<P>
+
+<FONT FACE=TIMES SIZE=2><B>&#169 <A HREF="/copyright.html">Copyright</A> 1997 Western Digital Corporation.  All rights reserved.</B></FONT>
+
+<BR>
+
+<FONT FACE=TIMES SIZE=2><B><I>Problems or comments? Please contact
+<A HREF="/webmaster.html">webmaster@www.wdc.com</A></B></I></FONT>
+
+</body>
+</html>

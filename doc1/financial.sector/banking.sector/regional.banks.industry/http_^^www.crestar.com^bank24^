@@ -1,0 +1,390 @@
+Server: Microsoft-IIS/4.0
+Date: Thu, 18 Dec 1997 12:49:54 GMT
+Content-Type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="description"
+content="With Crestar PC Banking&lt;sup&gt;SM&lt;/sup&gt;, Crestar Internet Banking, MoneyStop ATMs, Crestar MoneyCards, Telephone Bill Payer, and Crestar Direct, you can bank 24 hours a day, 7 days a week at Crestar.">
+<meta name="keywords"
+content="PC Banking, Internet Banking, ATMs, MoneyCards, Telephone Bill Payer, Crestar Direct">
+<meta name="summary"
+content="With Crestar PC Banking&lt;sup&gt;SM&lt;/sup&gt;, Crestar Internet Banking, MoneyStop ATMs, Crestar MoneyCards, Telephone Bill Payer, and Crestar Direct, you can bank 24 hours a day, 7 days a week at Crestar.">
+<meta name="author" content="lg">
+<meta name="resource-type" content="document">
+<meta name="copyright" content="1997 Crestar Bank">
+<meta name="distribution" content="global">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Crestar Bank - 24 Hour Banking Convenience</title>
+<script language="JavaScript">
+
+<!--
+agent = navigator.userAgent
+
+browserVer = 2;
+
+if (agent.substring(0,7) == "Mozilla"){
+
+    if (parseInt(agent.substring(8,9)) >= 3) {browserVer = 1;}
+
+}
+
+
+if (browserVer == 1) {
+
+	bankonline_white = new Image(135, 15);
+	bankonline_white.src = "../images_nav/bankonline_white.gif";
+	bankonline_y = new Image(135, 15);
+	bankonline_y.src = "../images_nav/bankonline_y.gif";
+
+	bank24_white = new Image(135, 15);
+	bank24_white.src = "../images_nav/bank24_white.gif";
+	bank24_y = new Image(135, 15);
+	bank24_y.src = "../images_nav/bank24_y.gif";
+
+	borrow_white = new Image(135, 15);
+	borrow_white.src = "../images_nav/borrow_white.gif";
+	borrow_y = new Image(135, 15);
+	borrow_y.src = "../images_nav/borrow_y.gif";
+
+	pcbanking_white = new Image(135, 15);
+	pcbanking_white.src = "../images_nav/24pcbanking_white.gif";
+	pcbanking_y = new Image(135, 15);
+	pcbanking_y.src = "../images_nav/24pcbanking_y.gif";
+
+	services2_white = new Image(135, 15);
+	services2_white.src = "../images_nav/services2_white.gif";
+	services2_y = new Image(135, 15);
+	services2_y.src = "../images_nav/services2_y.gif";
+
+	checking_white = new Image(135, 15);
+	checking_white.src = "../images_nav/checking_white.gif";
+	checking_y = new Image(135, 15);
+	checking_y.src = "../images_nav/checking_y.gif";
+
+	communicate_white = new Image(135, 15);
+	communicate_white.src = "../images_nav/communicate_white.gif";
+	communicate_y = new Image(135, 15);
+	communicate_y.src = "../images_nav/communicate_y.gif";
+
+	cost2_white = new Image(135, 15);
+	cost2_white.src = "../images_nav/cost2_white.gif";
+	cost2_y = new Image(135, 15);
+	cost2_y.src = "../images_nav/cost2_y.gif";
+
+	discover_white = new Image(135, 15);
+	discover_white.src = "../images_nav/discover_white.gif";
+	discover_y = new Image(135, 15);
+	discover_y.src = "../images_nav/discover_y.gif";
+
+	explorebb_white = new Image(135, 15);
+	explorebb_white.src = "../images_nav/explorebb_white.gif";
+	explorebb_y = new Image(135, 15);
+	explorebb_y.src = "../images_nav/explorebb_y.gif";
+
+	home_white = new Image(135, 15);
+	home_white.src = "../images_nav/home_white.gif";
+	home_y = new Image(135, 15);
+	home_y.src = "../images_nav/home_y.gif";
+
+	software2_white = new Image(135, 15);
+	software2_white.src = "../images_nav/software2_white.gif";
+	software2_y = new Image(135, 15);
+	software2_y.src = "../images_nav/software2_y.gif";
+
+	signup2_white = new Image(135, 15);
+	signup2_white.src = "../images_nav/signup2_white.gif";
+	signup2_y = new Image(135, 15);
+	signup2_y.src = "../images_nav/signup2_y.gif";
+
+	insure_white = new Image(135, 15);
+	insure_white.src = "../images_nav/insure_white.gif";
+	insure_y = new Image(135, 15);
+	insure_y.src = "../images_nav/insure_y.gif";
+
+	crestarinternet_white = new Image(135, 15);
+	crestarinternet_white.src = "../images_nav/24crestarinternet_white.gif";
+	crestarinternet_y = new Image(135, 15);
+	crestarinternet_y.src = "../images_nav/24crestarinternet_y.gif";
+
+	invest_white = new Image(135, 15);
+	invest_white.src = "../images_nav/invest_white.gif";
+	invest_y = new Image(135, 15);
+	invest_y.src = "../images_nav/invest_y.gif";
+
+	save_white = new Image(135, 15);
+	save_white.src = "../images_nav/save_white.gif";
+	save_y = new Image(135, 15);
+	save_y.src = "../images_nav/save_y.gif";
+
+	moneystop_white = new Image(135, 15);
+	moneystop_white.src = "../images_nav/24moneystop_white.gif";
+	moneystop_y = new Image(135, 15);
+	moneystop_y.src = "../images_nav/24moneystop_y.gif";
+
+	sitemap_white = new Image(135, 15);
+	sitemap_white.src = "../images_nav/sitemap_white.gif";
+	sitemap_y = new Image(135, 15);
+	sitemap_y.src = "../images_nav/sitemap_y.gif";
+
+	moneycard_white = new Image(135, 15);
+	moneycard_white.src = "../images_nav/24moneycard_white.gif";
+	moneycard_y = new Image(135, 15);
+	moneycard_y.src = "../images_nav/24moneycard_y.gif";
+
+	telephone_white = new Image(135, 15);
+	telephone_white.src = "../images_nav/24telephone_white.gif";
+	telephone_y = new Image(135, 15);
+	telephone_y.src = "../images_nav/24telephone_y.gif";
+
+	crestardirect_white = new Image(135, 15);
+	crestardirect_white.src = "../images_nav/24crestardirect_white.gif";
+	crestardirect_y = new Image(135, 15);
+	crestardirect_y.src = "../images_nav/24crestardirect_y.gif";
+
+	callback_white = new Image(135, 60);
+	callback_white.src = "../images_nav/callback_white.gif";
+	callback_y = new Image(135, 60);
+	callback_y.src = "../images_nav/callback_y.gif";
+
+	backtotop_white = new Image(135, 15);
+	backtotop_white.src = "../images_nav/backtotop_white.gif";
+	backtotop_y = new Image(135, 15);
+	backtotop_y.src = "../images_nav/backtotop_y.gif";
+}
+
+function hiLite(imgDocID,imgObjName) {
+
+	if (browserVer == 1) {
+
+		document.images[imgDocID].src = eval(imgObjName + ".src");
+	}
+
+}
+//-->
+
+</script>
+
+<BODY BGCOLOR="#FFFFFF" LINK="000099" ALINK="#FFFFFF" VLINK="#666666" BACKGROUND="../images/standard_bg.gif" topmargin=0><a name=top></a>
+</head>
+
+<body>
+
+<table border="0" cellpadding="0" width="600">
+    <tr>
+        <td colspan="2" bgcolor="#FF0000" height="25"><img
+        src="../images/logo.gif" width="600" height="25"></td>
+    </tr>
+    <tr>
+        <td valign="top" width="150" font color="#ffffff"><img
+        src="../images_nav/bank24_y.gif"
+        alt="Current Section: Bank 24hours" vspace="3"
+        width="135" height="15"><br>
+        <a href="pc_banking.stm"
+        onmouseover="hiLite('pcbanking_white','pcbanking_y'); window.status='Link to PCBanking'; return true;"
+        onmouseout="hiLite('pcbanking_white','pcbanking_white');"><img
+        src="../images_nav/24pcbanking_white.gif"
+        alt="Link: PC banking" border="0" width="135" height="15"
+        name="pcbanking_white"></a><br>
+        <a href="../bankonline/internetbanking.stm"
+        onmouseover="hiLite('crestarinternet_white','crestarinternet_y'); window.status='Link to Crestar Internet Banking'; return true;"
+        onmouseout="hiLite('crestarinternet_white','crestarinternet_white');"><img
+        src="../images_nav/24crestarinternet_white.gif"
+        alt="Link: Crestar Internet Banking" border="0"
+        width="135" height="15" name="crestarinternet_white"></a><br>
+        <a href="atms.stm"
+        onmouseover="hiLite('moneystop_white','moneystop_y'); window.status='Link to Moneystop ATMS'; return true;"
+        onmouseout="hiLite('moneystop_white','moneystop_white');"><img
+        src="../images_nav/24moneystop_white.gif"
+        alt="Link: Moneystop ATMS" border="0" width="135"
+        height="15" name="moneystop_white"></a><br>
+        <a href="moneycard.stm"
+        onmouseover="hiLite('moneycard_white','moneycard_y'); window.status='Link to Moneycard'; return true;"
+        onmouseout="hiLite('moneycard_white','moneycard_white');"><img
+        src="../images_nav/24moneycard_white.gif"
+        alt="Link: MoneyCard" border="0" width="135" height="15"
+        name="moneycard_white"></a><br>
+        <a href="paybyphone.stm"
+        onmouseover="hiLite('telephone_white','telephone_y'); window.status='Link to Telephone Bill Payer'; return true;"
+        onmouseout="hiLite('telephone_white','telephone_white');"><img
+        src="../images_nav/24telephone_white.gif"
+        alt="Link: Telephone Bill Payer" border="0" width="135"
+        height="15" name="telephone_white"></a><br>
+        <a href="../communicate/direct.stm"
+        onmouseover="hiLite('crestardirect_white','crestardirect_y'); window.status='Link to Crestar Direct'; return true;"
+        onmouseout="hiLite('crestardirect_white','crestardirect_white');"><img
+        src="../images_nav/24crestardirect_white.gif"
+        alt="Link: Crestar Cirect" border="0" width="135"
+        height="15" name="crestardirect_white"></a><br>
+        <img src="../images_nav/black_15x135.gif" width="135"
+        height="15"><br>
+        <a href="../bankonline/"
+        onmouseover="hiLite('bankonline_white','bankonline_y'); window.status='Link to Bank Online'; return true;"
+        onmouseout="hiLite('bankonline_white','bankonline_white');"><img
+        src="../images_nav/bankonline_white.gif"
+        alt="Link: Bank Online" border="0" width="135"
+        height="15" name="bankonline_white"></a><br>
+        <a href="../save/"
+        onmouseover="hiLite('save_white','save_y'); window.status='Link to Save'; return true;"
+        onmouseout="hiLite('save_white','save_white');"><img
+        src="../images_nav/save_white.gif" alt="Link: Save"
+        border="0" width="135" height="15" name="save_white"></a><br>
+        <a href="../borrow/"
+        onmouseover="hiLite('borrow_white','borrow_y'); window.status='Link to Borrow'; return true;"
+        onmouseout="hiLite('borrow_white','borrow_white');"><img
+        src="../images_nav/borrow_white.gif" border="0"
+        width="135" height="15" name="borrow_white"></a><br>
+        <a href="../invest/"
+        onmouseover="hiLite('invest_white','invest_y'); window.status='Link to Invest'; return true;"
+        onmouseout="hiLite('invest_white','invest_white');"><img
+        src="../images_nav/invest_white.gif" alt="Link: Invest"
+        border="0" width="135" height="15" name="invest_white"></a><br>
+        <a href="../explorebb/"
+        onmouseover="hiLite('explorebb_white','explorebb_y'); window.status='Link to Explore Business Banking'; return true;"
+        onmouseout="hiLite('explorebb_white','explorebb_white');"><img
+        src="../images_nav/explorebb_white.gif"
+        alt="Link: Explore Business Banking" border="0"
+        width="135" height="15" name="explorebb_white"></a><br>
+        <a href="../insure/"
+        onmouseover="hiLite('insure_white','insure_y'); window.status='Link to Insure'; return true;"
+        onmouseout="hiLite('insure_white','insure_white');"><img
+        src="../images_nav/insure_white.gif" alt="Link: Insure"
+        border="0" width="135" height="15" name="insure_white"></a><br>
+        <a href="../checking/"
+        onmouseover="hiLite('checking_white','checking_y'); window.status='Link to Check Our Checking'; return true;"
+        onmouseout="hiLite('checking_white','checking_white');"><img
+        src="../images_nav/checking_white.gif"
+        alt="Link: Check Our Checking" border="0" width="135"
+        height="15" name="checking_white"></a><br>
+        <a href="../communicate/"
+        onmouseover="hiLite('communicate_white','communicate_y'); window.status='Link to Communicate'; return true;"
+        onmouseout="hiLite('communicate_white','communicate_white');"><img
+        src="../images_nav/communicate_white.gif"
+        alt="Link: Communicate" border="0" width="135"
+        height="15" name="communicate_white"></a><br>
+        <a href="../discover/"
+        onmouseover="hiLite('discover_white','discover_y'); window.status='Link to Discover'; return true;"
+        onmouseout="hiLite('discover_white','discover_white');"><img
+        src="../images_nav/discover_white.gif"
+        alt="Link: Discover Crestar" border="0" width="135"
+        height="15" name="discover_white"></a><br>
+        <a href="../sitemap/"
+        onmouseover="hiLite('sitemap_white','sitemap_y'); window.status='Link to Site Map'; return true;"
+        onmouseout="hiLite('sitemap_white','sitemap_white');"><img
+        src="../images_nav/sitemap_white.gif" alt="Link: Sitemap"
+        border="0" width="135" height="15" name="sitemap_white"></a><br>
+        <a href="../index.html"
+        onmouseover="hiLite('home_white','home_y'); window.status='Link to Home'; return true;"
+        onmouseout="hiLite('home_white','home_white');"><img
+        src="../images_nav/home_white.gif"
+        alt="Link: Return Home" border="0" width="135"
+        height="15" name="home_white"></a><br>
+        <a
+        href="http://speakwithagent.att.net/cgi-bin/welcome?SN=crestar+bank&amp;SC=default"
+        onmouseover="hiLite('callback_white','callback_y'); window.status='Link to Instant Callback'; return true;"
+        onmouseout="hiLite('callback_white','callback_white');"><img
+        src="../images_nav/callback_white.gif"
+        alt="Link: Instant Callback" border="0" vspace="8"
+        width="135" height="60" name="callback_white"></a><br>
+        </td>
+        <td valign="top" rowspan="2"><table border="0">
+            <tr>
+                <td align="right" valign="top" colspan="2"><img
+                src="../images/bank_24toptitle.gif"
+                alt="24 Hour Banking Convenience" align="right"
+                hspace="0" width="429" height="27"></td>
+            </tr>
+            <tr>
+                <td valign="top"><img
+                src="../images/bank24_title.gif"
+                alt="We're Using Our Resources" align="left"
+                hspace="0" width="279" height="56"><br
+                clear="all">
+                <img src="../images/drop_T.gif" alt="C"
+                align="left" hspace="0" width="18" height="28"><font
+                size="2" face="arial,helvetica"> o save you time
+                and energy, Crestar has many ways to simplify
+                your banking. Open accounts, apply for loans and
+                much, much more. </font><a
+                href="../communicate/direct.stm"><font size="2"
+                face="arial,helvetica">Crestar Direct</font></a><font
+                size="2" face="arial,helvetica"> lets you bank on
+                your own terms -- from your home, office or car
+                -- when you're out of town for business or out of
+                the country on vacation.</font></td>
+                <td valign="top"><font size="2"
+                face="arial,helvetica"><img
+                src="../images/bank24_800.gif"
+                alt="1-800-Crestar" width="165" height="141"></font></td>
+            </tr>
+            <tr>
+                <td valign="top" colspan="2"><img
+                src="../images/drop_W.gif" alt="W" align="left"
+                hspace="0" width="30" height="28"><font size="2"
+                face="arial,helvetica">ith </font><a
+                href="moneycard.stm"><font size="2"
+                face="arial,helvetica">Crestar Money Card</font></a><font
+                size="2" face="arial,helvetica">, you can bank 24
+                hours a day at </font><a href="atms.stm"><font
+                size="2" face="arial,helvetica">Crestar
+                MoneyStop®</font></a><font size="2"
+                face="arial,helvetica">; and MOST® and CIRRUS®
+                ATMs. Use it just like cash for purchases
+                anywhere you see a MOST sign or INTERLINK® sign
+                Use our Premier MoneyCard instead of check or
+                credit card anywhere VISA is accepted -- at over
+                10 million locations worldwide. </font></td>
+            </tr>
+            <tr>
+                <td valign="top" rowspan="2" colspan="2"><font
+                size="2" face="arial,helvetica"><img
+                src="../images/bank24_card.gif"
+                alt="Crestar MoneyCard" align="left" hspace="0"
+                width="223" height="244"></font><font size="2"
+                face="arial,helvetica"> <img
+                src="../images/drop_Y.gif" align="left"
+                hspace="0" width="22" height="28"></font><font
+                size="2" face="arial,helvetica">our home or
+                office personal computer can become a valuable
+                tool for convenient banking. Use </font><a
+                href="pc_banking.stm"><font size="2"
+                face="arial,helvetica">PC Banking</font></a><font
+                size="2" face="arial,helvetica"> to pay bills,
+                get account information, transfer funds, send
+                e-mail to Crestar, and even more. </font><p><img
+                src="../images/drop_O.gif" alt="O" align="left"
+                hspace="0" width="21" height="28"><font size="2"
+                face="arial,helvetica">nce you set up your </font><a
+                href="paybyphone.stm"><font size="2"
+                face="arial,helvetica">Crestar Telephone Bill
+                Payer</font></a><font size="2"
+                face="arial,helvetica"> account, you'll wonder
+                why you ever spent so much time paying bills each
+                month. Pay bills from wherever you are with any
+                touch-tone phone so you'll never miss a due date.
+                Crestar Telephone Bill Payer works for you 24
+                hours a day, 7 days a week.</font></p>
+                </td>
+            </tr>
+        </table>
+        </td>
+    </tr>
+    <tr>
+        <td valign="bottom"><a href="#top"
+        onmouseover="hiLite('backtotop_white','backtotop_y'); window.status='Link to Top'; return true;"
+        onmouseout="hiLite('backtotop_white','backtotop_white');"><font
+        size="2" face="arial,helvetica"><img
+        src="../images_nav/backtotop_white.gif"
+        alt="Link: Back to Top" border="0" vspace="3" width="135"
+        height="15" name="backtotop_white"></font></a><font
+        size="2" face="arial,helvetica"> <br>
+        <img src="../images_nav/copyright.gif"
+        alt="Copyright 1997 Crestar Bank" width="150" height="15"></font></td>
+    </tr>
+</table>
+</body>
+</html>

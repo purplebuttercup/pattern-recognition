@@ -1,0 +1,214 @@
+Server: Netscape-Enterprise/2.01
+Date: Fri, 21 Nov 1997 04:32:57 GMT
+RequestStartUsec: 866744
+RequestStartSec: 880086777
+AnalysisUserId: 19297880086777
+Set-cookie: AnalysisUserId=19297880086777; path=/; expires=Friday, 31-Dec-99 23:59:59 GMT
+Content-type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>Xerox Drivers Library</TITLE>
+<META NAME="date" CONTENT="1997/03/26">
+<META NAME="owner" CONTENT="xps">
+<META NAME="keywords" CONTENT="PRINTER,DRIVERS,DRIVER,XEROX">
+<META NAME="description" CONTENT="The Xerox Printer Drivers Library.">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+<!--button bar "Products and Solutions"-->
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR>
+<TD VALIGN="TOP" WIDTH="75"><A NAME="top"><IMG SRC="/btnbar/images/spacer.gif" WIDTH=0 HEIGHT=0 BORDER=0 ALT="-"></A><A HREF="/"><IMG SRC="/btnbar/images/logo_top.gif" WIDTH=75 HEIGHT=71 BORDER=0 ALT="Xerox Home"></A></TD><TD VALIGN="TOP" WIDTH="525"><A HREF="/feedback.html"><IMG SRC="/btnbar/images/t_comm.gif" WIDTH=75 HEIGHT=71 BORDER=0 ALT="Comments"></A><A HREF="/searchform.html"><IMG SRC="/btnbar/images/t_sear.gif" WIDTH=75 HEIGHT=71 BORDER=0 ALT="Search"></A><A HREF="/sitemap.htm"><IMG SRC="/btnbar/images/t_site.gif" WIDTH=75 HEIGHT=71 BORDER=0 ALT="Site Map"></A><A HREF="/supplies.html"><IMG SRC="/btnbar/images/t_supp.gif" WIDTH=75 HEIGHT=71 BORDER=0 ALT="Supplies"></A><A HREF="/products.html"><IMG SRC="/btnbar/images/t_prod.gif" WIDTH=75 HEIGHT=71 BORDER=0 ALT="Products and Solutions"></A><A HREF="/services.html"><IMG SRC="/btnbar/images/t_serv.gif" WIDTH=75 HEIGHT=71 BORDER=0 ALT="Service and Support"></A><A HREF="/aboutdoc/"><IMG SRC="/btnbar/images/t_abou.gif" WIDTH=75 HEIGHT=71 BORDER=0 ALT="About the Document"></A><BR><IMG SRC="/btnbar/images/tb_prod.gif" WIDTH=525 HEIGHT=4 BORDER=0 ALT=""></TD></TR>
+</TABLE>
+<!--end-->
+
+
+<!-- Document Body -->
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR>
+<TD VALIGN="TOP" WIDTH="150">
+&nbsp;
+</TD>
+
+<TD VALIGN="TOP" WIDTH="450">
+<P>
+<BR>
+<IMG SRC="/xps/misc/drivers.gif" ALT="Drivers" ALIGN="BOTTOM">
+</P>
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN="TOP" WIDTH="150" ALIGN="LEFT">
+<IMG SRC="/images/qscroll.gif" BORDER=0 ALT="Quick Scroll:"
+WIDTH=150 HEIGHT=24><BR>
+<FONT SIZE=-1>
+&nbsp; <A HREF="#form">Search Form</A><BR>
+&nbsp; <A HREF="#other">Need more help?</A><BR>
+</FONT>
+
+
+</TD>
+<TD VALIGN="TOP" WIDTH="450">
+<H3>Welcome to the Xerox Drivers/PPDs Library</H3>
+<TABLE WIDTH=450 BORDER=0 CELLPADDING=0 CELLSPACING=0>
+<TR>
+ <TD WIDTH=2 ALIGN=LEFT VALIGN=TOP>
+ <A NAME="form"><IMG SRC="/drivers/images/what.gif" BORDER=0 ALT="What are you looking for?"
+WIDTH=200 HEIGHT=65></A>
+</TD>
+ <TD WIDTH=250 ALIGN=RIGHT>
+<FORM METHOD="POST" ACTION="/cgi-bin/drivers.cgi">
+<TABLE WIDTH=250 BORDER=0 CELLPADDING=0 CELLSPACING=3>
+<TR>
+  <TD WIDTH=250 ALIGN=RIGHT>
+  <SELECT NAME="PROD">
+           <OPTION VALUE="">Select a product
+        <OPTION VALUE="4215 MRP">4215 MRP
+        <OPTION VALUE="4215 MICR">4215 MICR
+        <OPTION VALUE="4219 MRP">4219 MRP
+        <OPTION VALUE="4219 MICR">4219 MICR
+        <OPTION VALUE="4220 MRP">4220 MRP
+        <OPTION VALUE="4220 MICR">4220 MICR
+        <OPTION VALUE="4230 MRP">4230 MRP
+        <OPTION VALUE="4230 MICR">4230 MICR
+        <OPTION VALUE="4232 MRP">4232 MRP
+        <OPTION VALUE="4235 LPS">4235 LPS
+        <OPTION VALUE="4450 MRP">4450 MRP
+        <OPTION VALUE="4700 II Color">4700 II Color
+        <OPTION VALUE="DocuImage 620S">DocuImage 620S
+        <OPTION VALUE="DocuPrint 4512">DocuPrint 4512
+        <OPTION VALUE="DocuPrint C55">DocuPrint C55
+        <OPTION VALUE="DocuPrint 4517">DocuPrint 4517
+        <OPTION VALUE="DCS 20">Document Center System 20
+        <OPTION VALUE="DCS 35">Document Center System 35
+        <OPTION VALUE="DWC 150">Document WorkCenter 150
+        <OPTION VALUE="DWC 250">Document WorkCenter 250
+        <OPTION VALUE="DWC 450c">Document WorkCentre 450c
+        <OPTION VALUE="DWC Pro 3006">Document WorkCenter Pro 3006
+        <OPTION VALUE="DWC Pro 535">Document WorkCenter Pro 535
+        <OPTION VALUE="DWC Pro 610">Document WorkCenter Pro 610
+        <OPTION VALUE="DocuTech 90">DocuTech 90/NS
+        <OPTION VALUE="DocuTech 135">DocuTech 135/NS
+        <OPTION VALUE="DocuTech 6135">DocuTech 6135
+        <OPTION VALUE="DocuTech NPS">DocuTech NPS
+        <OPTION VALUE="DocuPrint NPS">DocuPrint NPS
+        <OPTION VALUE="Fiery">Fiery
+        <OPTION VALUE="HomeCentre">HomeCentre
+        <OPTION VALUE="ServeWare">ServeWare
+        <OPTION VALUE="Splash">Splash
+        <OPTION VALUE="SX1000 Pro">SX1000 Pro/D
+        <OPTION VALUE="SX3000">SX3000
+        <OPTION VALUE="XJ4C">XJ4C
+        <OPTION VALUE="XJ4257">XJ4257
+        <OPTION VALUE="Xerox 4003">Xerox 4003
+        <OPTION VALUE="Xerox 4004">Xerox 4004
+        <OPTION VALUE="Xerox 4050">Xerox 4050
+        <OPTION VALUE="Xerox 4213">Xerox 4213
+        <OPTION VALUE="Xerox 8808">Xerox 8808
+        <OPTION VALUE="Xerox 8812">Xerox 8812
+        <OPTION VALUE="Xerox 8830">Xerox 8830
+        <OPTION VALUE="Xerox 8840D">Xerox 8840D
+        <OPTION VALUE="Xerox 8845">Xerox 8845
+        <OPTION VALUE="Xerox 2230ij">Xerox 2230ij
+        <OPTION VALUE="Xerox 2240ij">Xerox 2240ij
+        <OPTION VALUE="Xerox 4250">Xerox 4250
+        <OPTION VALUE="Xerox 4505">Xerox 4505
+        <OPTION VALUE="Xerox 4508">Xerox 4508
+        <OPTION VALUE="Xerox 4510">Xerox 4510
+        <OPTION VALUE="Xerox 4520">Xerox 4520
+        <OPTION VALUE="XPrint 4915">XPrint 4915
+        <OPTION VALUE="XPrint 4920">XPrint 4920
+        <OPTION VALUE="XPrint 4925">XPrint 4925
+
+  </SELECT>
+  </TD>
+</TR>
+<TR>
+  <TD WIDTH=250 ALIGN=RIGHT>
+  <SELECT NAME="OS">
+        <OPTION VALUE="All Systems">Operating System
+        <OPTION VALUE="All Systems">All Systems
+        <OPTION VALUE="Windows 3.x">Windows 3.x
+        <OPTION VALUE="Windows 95">Windows 95
+        <OPTION VALUE="Windows NT 3.1">Windows NT 3.1
+        <OPTION VALUE="Windows NT 3.5x">Windows NT 3.5x
+        <OPTION VALUE="Windows NT 4.0">Windows NT 4.0
+        <OPTION VALUE="Macintosh 7">Macintosh 7
+        <OPTION VALUE="IBM OS/2">IBM OS/2
+        <OPTION VALUE="IBM AS/400">IBM AS/400
+        <OPTION VALUE="MS-DOS">MS-DOS
+        <OPTION VALUE="UNIX">UNIX
+  </SELECT>
+  </TD>
+</TR>
+<TR>
+  <TD WIDTH=250 ALIGN=RIGHT>
+  <SELECT NAME="LANG">
+   <OPTION VALUE="All Languages">Language
+   <OPTION VALUE="All Languages">All Languages
+   <OPTION VALUE="US English">US English
+   <OPTION VALUE="UK English">UK English   
+   <OPTION VALUE="Espanol">Espanol
+   <OPTION VALUE="Francais">Francais
+   <OPTION VALUE="Deutsch">Deutsch
+   <OPTION VALUE="Italiano">Italiano
+   <OPTION VALUE="Portugues">Portugues
+   <OPTION VALUE="Norwegian">Norwegian
+   <OPTION VALUE="Finnish">Finnish
+   <OPTION VALUE="Danish">Danish
+   <OPTION VALUE="Dutch">Dutch
+   <OPTION VALUE="Swedish">Swedish
+  </SELECT>
+  </TD>
+</TR>
+<TR>
+ <TD WIDTH=250 ALIGN=RIGHT>
+ <INPUT TYPE="SUBMIT" NAME="BUTTON_VALUE" VALUE="Search">
+</TABLE>
+</FORM>
+</TD>
+</TR>
+</TABLE>
+
+<HR SIZE=4>
+<A NAME="other"><IMG SRC="/drivers/images/more.gif" ALT="Need more Help?" BORDER=0 HEIGHT=73 
+WIDTH=216>
+<BR>
+To get a driver or a PPD that is not available on this web site:</A>
+<UL>
+  <LI> Browse our FTP site at <A HREF="ftp://ftp.xerox.com/pub/drivers/">ftp.xerox.com</A>.
+  <LI> CompuServe users:  Go XEROX, then choose either the Office Solutions Forum, or the Production Printing Forum.
+  <LI> Xerox Documentation & Software Services (XDSS) offers sale of  additional
+drivers.  Call or fax your request, US only please.
+        <DL>
+         <DT><DD> Telephone: (800) 327-9753</DD></DT>
+         <DT><DD> Facsimile: &nbsp; (310) 333-7982</DD></DT>
+        </DL>
+  <LI> You can download them from BBS at (310) 333-2660.
+  <LI> Contact your local Xerox Office for both US and non-US customers.
+</UL>
+</P>
+<CENTER>
+<A HREF="/xps"><IMG SRC="/drivers/images/info.gif" ALT="need product information?" BORDER=0></A>
+</CENTER>
+</TD>
+</TR>
+</TABLE>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<!---Bottom Button Bar--->
+<TR>
+<TD VALIGN="TOP" WIDTH="600">
+<HR SIZE=4>
+
+<FONT SIZE=-2>
+<P>Copyright &copy; Xerox Corporation 1997. All rights reserved. XEROX&reg;, The Document Company&reg; and the stylized X are trademarks of XEROX CORPORATION. Product and service names profiled herein are trademarks of Xerox Corporation. Any other named products profiled herein are trademarks of their respective companies.</P>
+</FONT>
+</TD>
+</TR>
+</TABLE>
+
+</BODY>
+</HTML>

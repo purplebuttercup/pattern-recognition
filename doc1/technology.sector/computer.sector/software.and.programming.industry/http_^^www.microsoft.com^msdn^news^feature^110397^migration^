@@ -1,0 +1,277 @@
+<!DOCTYPE htm PUBLIC "-//W3C//DTD htm 3.2 Final//EN">
+
+<html>
+<HEAD>
+	<TITLE>MSDN Online</TITLE>
+<STYLE  TYPE="text/css">
+<!--
+.rightnav { font-size: 85% }
+-->
+</STYLE>
+<META NAME="DESCRIPTION" CONTENT="MSDN Online Buzz Page"> 
+<META NAME="MS.LOCALE" CONTENT="EN-US">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso8859-1">
+</HEAD>
+
+<BODY bgcolor="#FFFFFF" text="#000000" link="#CC3300" vlink="#999966" leftmargin=0 topmargin=0>
+<font face="georgia, verdana" size=2>
+<!--TOOLBAR_START-->
+<TABLE WIDTH="100%" CELLPADDING=0 CELLSPACING=0 BORDER=0>
+    <TR>
+    <TD WIDTH=500 ROWSPAN=2 VALIGN=TOP><NOBR><FONT FACE="Arial, Helvetica" SIZE=1><A HREF="/" TARGET="_top"><IMG SRC="/library/images/gifs/toolbar/home.gif" WIDTH=103 HEIGHT=21 ALT="Microsoft Home" BORDER=0></A><A HREF="/products/default.asp?divisionid=2" TARGET="_top"><IMG SRC="/library/images/gifs/toolbar/prod.gif" WIDTH=81 HEIGHT=21 ALT="Products" BORDER=0></A><A HREF="/search/default.asp?SPath=\products\developer\devonly\prodinfo\msdnprod&SName=MSDN" target="_top"><IMG SRC="/library/images/gifs/toolbar/search.gif" WIDTH=68 HEIGHT=21 ALT="Search" BORDER=0></A><A HREF="/support/" TARGET="_top"><IMG SRC="/library/images/gifs/toolbar/support.gif" WIDTH=74 HEIGHT=21 ALT="Support" BORDER=0></A><A HREF="/referral/default.asp?divisionid=2" TARGET="_top"><IMG SRC="/library/images/gifs/toolbar/shop.gif" WIDTH=55 HEIGHT=21 ALT="Shop" BORDER=0></A><A HREF="/regwiz/regwiz.asp" TARGET="_top"><IMG SRC="/library/images/gifs/toolbar/write.gif" WIDTH=78 HEIGHT=21 ALT="Write Us" BORDER=0></A><IMG SRC="/library/images/gifs/toolbar/spacer.gif" WIDTH=49 HEIGHT=21 ALT="" BORDER=0></FONT></NOBR></TD>
+
+    <TD BGCOLOR="#000000" WIDTH="100%" HEIGHT=20>&nbsp;</TD>
+    <TD WIDTH=91 ROWSPAN=2 ALIGN=RIGHT VALIGN=TOP><FONT FACE="Arial, Helvetica" SIZE=1><A HREF="/" TARGET="_top"><IMG SRC="/library/images/gifs/toolbar/msft.gif" WIDTH=91 HEIGHT=21 ALT="Microsoft Home" BORDER=0></A></FONT></TD>
+    </TR>
+	<TR>
+    <TD BGCOLOR="#FFFFFF" WIDTH="100%" HEIGHT=1>
+    </TD>
+    </TR>
+</TABLE>
+<!--TOOLBAR_END-->
+
+<table width="100%" cellspacing=0 cellpadding=0 border=0>
+	<TR>
+		<TD COLSPAN=3 valign=bottom width=183><img src="/msdn/art/m1.gif" width=183 height=46 border=0 alt="MSDN Online"></td>
+		<td colspan=4 valign=bottom height=48><a href="/msdn/"><img src="/msdn/art/h_buzz_s.gif" width=27 height=36 border=0 alt="Top News, Hot Columns"></a><img src="/msdn/art/spacer.gif" width=5 height=1 border=0 alt=" "><a href="/msdn/news/feature/111797/default.htm"><img src="/msdn/art/h_feat_b.gif" width=146 height=36 border=0 alt="Our Featured Theme"></a><img src="/msdn/art/spacer.gif" width=5 height=1 border=0 alt=" "><a href="/msdn/archive/"><img src="/msdn/art/h_arch_s.gif" width=43 height=36 border=0 alt="Archived Buzz, Features"></a></td>
+		<td valign=bottom>
+			<font face="georgia, verdana" size=1 color="#808080">
+				November 20, 1997<BR>
+				<img src="/msdn/art/spacer.gif" width=125 height=5 border=0 alt=" "></font></td>
+	</tr>
+
+	<TR>
+		<TD bgcolor="#CCCC99" rowspan=3 valign=top width=157 height="100%">
+<!--START TOC-->
+			<img src="/msdn/art/m2.gif" width=157 height=27 border=0 alt="MSDN logo"><BR>
+                        							
+			<a href="/msdn/" border=no><img src="/msdn/art/m3home.gif" width=157 height=13 border=0 alt="Home"></a><BR>
+			<img src="/msdn/art/spacer.gif" width=1 height=3 border=0 alt=""><BR>
+			<a href="/msdn/join/" border=no><img src="/msdn/art/t_join.gif" width=157 height=20 border=0 alt="Join MSDN"></a><BR>
+			<a href="/msdn/services/" border=no><img src="/msdn/art/t_member.gif" width=157 height=14 border=0 alt="Member Services"></a><BR>
+			<a href="/isapi/goprem.asp?TARGET=/msdn/library/?FinishURL=/msdn/library/"><img src="/msdn/art/t_lib.gif" width=157 height=14 border=0 alt="MSDN library online"></a><BR>
+			<a href="/msdn/downloads/"><img src="/msdn/art/t_down.gif" width=157 height=14 border=0 alt="Downloads"></a><BR>					
+			<a href="/msdn/products/"><img src="/msdn/art/t_prod.gif" width=138 height=14 border=0 alt="Products"></a><IFRAME WIDTH=7 HEIGHT=14 FRAMEBORDER="NO" SCROLLING="NO" bgcolor="#CCCC99" SRC="/msdn/prodframe.htm"></IFRAME><BR>			
+			<a href="/msdn/techsite/"><img src="/msdn/art/t_tech.gif" width=138 height=14 border=0 alt="Technologies"></a><IFRAME WIDTH=7 HEIGHT=14 FRAMEBORDER="NO" SCROLLING="NO" bgcolor="#CCCC99" SRC="/msdn/techframe.htm"></IFRAME><BR>			
+			<a href="/hwdev/"><img src="/msdn/art/t_hwdev.gif" width=157 height=14 border=0 alt="Hardware Development"></a><BR>
+<a href="/msdn/sdk/"><img src="/msdn/art/t_sdk.gif" width=157 height=14 border=0 alt="Microsoft SDKs"></a><BR>
+
+			
+			<img src="/msdn/art/t_resrc.gif" width=157 height=23 border=0 alt="heading: resources"><BR>
+			<a href="/visualtools/"><img src="/msdn/art/t_strat.gif" width=157 height=14 border=0 alt="Development Strategies"></a><BR>
+                        <a href="/msdn/usergroup/"><img src="/msdn/art/t_user.gif" width=157 height=14 border=0 alt="MSDN User Group Program"></a><br>
+			<a href="/msdn/events/"><img src="/msdn/art/t_events.gif" width=157 height=14 border=0 alt="Events and Seminars"></a><BR>
+			<a href="/msdn/related/"><img src="/msdn/art/t_sites.gif" width=157 height=14 border=0 alt="Related Sites"></a><br>
+                        <a href="/msdn/bookmag/"><img src="/msdn/art/t_books.gif" width=157 height=14 border=0 alt="Books"></a><BR>
+			<a href="/msdn/training/"><img src="/msdn/art/t_train.gif" width=157 height=14 border=0 alt="Training"></a><BR>
+			<a href="/msdn/thirdparty/"><img src="/msdn/art/t_contrl.gif" width=157 height=14 border=0 alt="Controls and Components"></a><BR>
+			<a href="/msdn/newsgroups/"><img src="/msdn/art/t_newsgr.gif" width=157 height=14 border=0 alt="Newsgroups"></a><BR>
+			
+			
+			<img src="/msdn/art/t_devprg.gif" width=157 height=23 border=0 alt="Heading: Developer Programs"><BR>
+			<a href="/sitebuilder/"><img src="/msdn/art/t_sbn.gif" width=157 height=14 border=0 alt="site builder network"></a><BR>
+			<a href="/mcsp/"><img src="/msdn/art/t_sp.gif" width=157 height=14 border=0 alt="solution provider"></a><BR>
+			<a href="/msdn/isv/"><img src="/msdn/art/t_isv.gif" width=157 height=14 border=0 alt="Microsoft ISV program"></a><BR>
+			
+			
+			<img src="/msdn/art/spacer.gif" width=150 height=9 border=0 alt=""><BR>
+			<a href="/msdn/intl/"><img src="/msdn/art/t_intern.gif" width=157 height=14 border=0 alt="International Sites"></a><BR>
+			<img src="/msdn/art/spacer.gif" width=150 height=3 border=0 alt=""><BR>
+			<a href="/msdn/findit/"><img src="/msdn/art/t_findit.gif" width=157 height=14 border=0 alt="Can't find it?"></a><BR>
+<!--END TOC-->
+		</td>
+		<td rowspan="3" valign="top" width=2 bgcolor="#000000">
+			<img src="/msdn/art/m4.gif" width=2 height=31 border=0 alt=" "><BR>
+		</td>
+		<td rowspan="3" valign="top" width=24>
+			<img src="/msdn/art/m5.gif" width=24 height=29 border=0 alt=" "><br>
+		</td>
+
+		<TD colspan=5 bgcolor="#FF3300"><img src="/msdn/art/spacer.gif" width=2 height=1 border=0 alt=" "></td>
+	</tr>
+
+	<tr>
+		<TD colspan=5><img src="/msdn/art/spacer.gif" width=2 height=3 border=0 alt=""></td>
+	</tr>
+	
+<!-- ******************** -->	
+<!--  THE CENTER COLUMN   -->
+<!-- ******************** -->	
+
+	<TR>
+		<td valign=top height="100%">
+
+			<TABLE WIDTH="100%" BORDER=0 cellpadding=3>
+		<tr>
+			<TD valign=top><font face="georgia, verdana" size="2">
+
+<H3>Migrating Your Applications to Windows NT 5.0</H3>
+
+Migration isn't always a smooth process, despite what the ducks say.<p>
+
+Sometimes you migrate your operating system, but your applications head south.<p>
+
+Well, that's what we're here to prevent. This Feature provides links to all our material about migrating applications, including documents and sample code for migration DLLs.<p>
+
+To start off, if you want a quick outline of our plans, you can skim through this <a HREF="/msdn/news/feature/110397/ppt1/default.htm">PowerPoint Presentation on Migrating Applications</a>.<p>
+
+The presentation talks about migration DLLs, which are the key to making migrations work. Migration DLLs make calls to the Migration Extension Interface. This is an extension to Windows Setup that ensures that your application will work correctly after an end user installs Windows NT 5.0 over Windows 9x.<p>
+
+For more information, read or download the 33-page <a HREF=" /msdn/news/feature/110397/Migration/migext.htm">Migration Extension Interface Reference</A>. It discusses the migration process, and describes how to write and test a Migration DLL. <p>
+
+By the way, although we're primarily addressing Windows 95 applications, the explanations here may apply to a few Windows 98 apps,  too, so we're going to use the term Windows 9x, to be clear.<p>
+
+Why is all this necessary? Because your end users will often want to keep the contents of their hard drives intact when they upgrade to Windows NT 5.0 They won't want to reinstall all their applications.<p>
+
+But that doesn't always work. Applications don't always behave the same way in two operating systems. Some write to different registry locations in Windows 9x and NT. Some install different run-time files. And some make Windows 9x calls that aren't available on NT.<p>
+
+</FONT>
+			</TD>
+			<TD valign=top width=227><font face="georgia, verdana" size="2">
+
+<P><img src="/msdn/news/feature/110397/migration.gif" width=225 height=156 border=0 alt="Migrate to Windows NT 5.0">
+
+<P>
+
+For more information on the potential problems, check this <a HREF="/msdn/news/feature/110397/migration/kbarticles.htm">list of Knowledge Base articles</a>.<p>
+
+Ready for some samples? We have two sets of Zipped files. The first, <a HREF="/msdn/news/feature/110397/migration/pview.zip">pview.zip</A>, migrates pview.exe from Windows 9x to NT 5.0. The second, <a HREF="/msdn/news/feature/110397/migration/scrnsave.zip">scrnsave.zip</A>, migrates the Windows 95 screen savers, such as Flying Windows and Marquee. Both packages include heavily commented source code for the Migration DLLs.<p>
+
+Once you're ready to start writing migration DLLs, you might find these two tools helpful:<p>
+
+<a HREF="/msdn/news/feature/110397/migration/sysdiff.zip">Sysdiff.exe</A> lets you compare files and registry settings for a freshly installation application versus one that moved to NT 5.0 without being reinstalled.<p>
+
+<a HREF="http://www.zdnet.com/wsources/content/1097/s_cp.html">Registry Monitor</A>, from Windows Sources magazine, offers a real-time display of how an application interfaces with the registry.<p>
+
+Got more questions? Read our <a HREF="/msdn/news/feature/110397/migration/migrationfaq.htm">FAQ file</A>, or check the <a HREF="http://www.microsoft.com/windows/thirdparty/winlogo/enterprise/roadmap2.htm">NT/Windows 98 logo requirements</A>.<p>
+
+<P>By the way, if this is your first visit to our redesigned MSDN Online, this is our new Features section. In this area, we'll be giving you in-depth looks at specific topics or themes. Sometimes we'll focus on a technology, such as Internet Explorer 4.0 or Windows CE. Sometimes we'll give you detailed coverage of shows or conferences such as, Comdex or the Microsoft Professional Developers Conference.
+
+
+
+			</font>
+			</TD>
+
+		</TR>
+				<TR>
+					<td COLSPAN=2>
+<P>&nbsp;<BR>
+<font face="verdana, arial, helvetica" size=1><A href="/misc/cpyright.htm">(c) 1997 Microsoft Corporation. All rights reserved. Terms of Use.</A></FONT>
+					</td>
+				</TR>
+	</TABLE>
+
+		</TD>
+
+<!-- ******************** -->	
+<!--  END CENTER COLUMN   -->
+<!-- ******************** -->	
+
+		<td width=3>
+			<img src="/msdn/art/spacer.gif" width=3 height=1 border=0 alt=" ">
+		</td>		
+		
+		<td bgcolor="#666633" width=1>
+			<img src="/msdn/art/spacer.gif" width="1" height="1" border="0">
+		</td>
+		
+		<td width=6>
+			<img src="/msdn/art/spacer.gif" width=3 height=1 border=0 alt=" ">
+		</td>
+		
+<!-- ******************** -->	
+<!--  THE RIGHT HAND TOC  -->
+<!-- ******************** -->
+				
+<td width=125 valign="top">
+
+	
+			<font face="georgia, verdana" color="#000000" size=2>
+		
+<SPAN CLASS=rightnav>
+<img src="/msdn/art/ch_feat.gif" width=124 height=16 border=0 alt="Feature Stories">	
+
+<P><A HREF="/msdn/news/feature/111797/default.htm">Go to COMDEX</A><BR>
+<A HREF="/msdn/news/feature/110397/dhtml/">Go to DHTML</A>
+
+<P><img src="/msdn/news/feature/110397/migrationbanner.gif" width=124 height=16 border=0 alt="Migration Feature"><p>
+
+<p><b>Overview</b>
+<br>Migrating your apps without breaking them<p>
+
+<P><img src="/msdn/art/gr_new.gif" Width="33" Height="18"><br>
+<A HREF="/msdn/news/feature/110397/migration/swenNT5.htm">Why you should care</A><BR>
+The what's, why's, and how's of migration.
+
+
+<P><a HREF="/msdn/news/feature/110397/ppt1/">Migrating Your Applications</a><br>A PowerPoint presentation<p>
+
+<a HREF=" /msdn/news/feature/110397/Migration/migext.htm">Migration Extension Interface</a><br>A Reference paper<p>
+
+<a HREF="/msdn/news/feature/110397/migration/kbarticles.htm">From the KnowledgeBase</a><br>Relevant articles<p>
+
+<a HREF="/msdn/news/feature/110397/migration/pview.zip">PVIEW DLL</A><br>Migration DLL sample code<p>
+
+<a HREF="/msdn/news/feature/110397/migration/scrnsave.zip">SCRNSAVE DLL</A><br>Migration DLL sample code<p>
+
+<P><a HREF="/msdn/news/feature/110397/migration/sysdiff.zip">SYSDIFF App</A>
+<BR>Setup Comparison tool<p>
+
+<P><a HREF="http://www.zdnet.com/wsources/content/1097/s_cp.html">Registry Monitor</A>
+<BR>ZDNet Free Tool<p>
+
+<P><a HREF="http://www.microsoft.com/windows/thirdparty/winlogo/enterprise/roadmap2.htm">Logo Requirements</A>
+<BR>For Windows 98 and NT 5.0<p>
+
+<P><img src="/msdn/news/feature/110397/dhtmlbanner.gif" width=124 height=16 border=0 alt="DHTML Feature">
+
+<P><a HREF="/msdn/news/feature/110397/dhtml/">Overview</A>
+<BR>Learn about DHTML
+
+<P><a HREF="/msdn/news/drgui/110397.htm">Dr. GUI on DHTML</A><BR>The doctor explains it for you
+
+<P><A HREF="/msdn/news/feature/110397/dhtml/dhtmldna.htm">DHTML and the Big Picture</A><BR>DHTML's place in Windows DNA
+
+<P><A HREF="/sitebuilder/">Data Binding</A>
+<BR>The DHTML Dude's column
+
+<P><a HREF="/msdn/news/feature/110397/dhtml/barta.htm">Working with databases</A>
+<br>A book excerpt
+
+<P><a HREF="/msdn/news/feature/110397/dhtml/homer.htm">Manipulating Page Content</A>
+<br>A book excerpt
+
+<P><a HREF="/intranet/applications/apps-f.htm">DHTML samples</a>
+<br>From out Intranet Service Center
+
+
+  </SPAN>
+ </font>
+</td>
+		
+<!-- ******************** -->	
+<!--  END RIGHT HAND TOC  -->
+<!-- ******************** -->
+
+	</TR>		
+</table>
+
+</font>
+</BODY>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

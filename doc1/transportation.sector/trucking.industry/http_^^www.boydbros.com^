@@ -1,0 +1,114 @@
+Server: IBM Internet Connection Server/4.0
+Date: Thursday, 20-Nov-97 15:44:50 GMT
+Content-Type: text/html
+Content-Length: 5277
+Last-Modified: Tuesday, 18-Mar-97 14:17:52 GMT
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<html>
+
+<head>
+<SYTLE>
+<!--
+	BODY  {font: 9pt Arial; color: 336699}
+	A:link {font: 10pt Arial;  color: FFFFFF; font-weight:bold}
+	A:visited {font: 10pt Arial; color: 0000cc; font-weight:bold}
+	STRONG {font: 16pt Arial; color: 990000; text-decoration:none}
+	BIG {font: 12pt Arial; font-weight:bold}
+        H1 {font: 24pt Arial; color: 990000}
+        H2 {font: 18pt Arial; color: 400080}
+        H3 {font: 14pt Arial; color: 400080}
+        H4 {font: 12pt Arial; color: 400080}
+-->
+</STYLE>
+<META HTTP-EQUIV="Description" NAME="Description" CONTENT="Boyd Bros. Trans., On-Line Job Applications, Info about Boyd.">
+<META HTTP-EQUIV="Keywords" NAME="Keywords" CONTENT="web, transportation, truck, job, career, wortz, os2, warp,  ">
+<META NAME="Author" CONTENT="Chris Wortz">
+<TITLE>Boyd Bros. Transportation Front Page</TITLE>
+</head>
+
+<frameset rows="30%,70%" frameborder="0" framespacing="0"
+border="no">
+    <frame src="FTOP.htm" name="banner" scrolling="no"
+    noresize>
+    <frameset cols="24%,76%" frameborder="0" framespacing="0" border="NO">
+        <frame src="framenu.htm" name="contents" noresize>
+        <frame src="ffrntpag.htm" name="main">
+    </frameset>
+    <noframes>
+
+</HEAD>
+<BODY BACKGROUND="bluebar.gif" TEXT="#000000" LINK="0000ff" VLINK="000099" OnLoad="doClock()" CLASS="BodyDef">
+<IMG SRC="top.gif" ALT="Welcome to Boyd Bros. Transportation" BORDER="0">
+<BR>
+<BR>
+<TABLE BORDER="0" cellpadding="0" cellspacing="0">
+<TR>
+<TD VALIGN="TOP">
+<H2>Boyd Bros. Transportation Inc. announces pay increase.</H2>
+Boyd Bros. Transportation, Inc., one of the nations largest flatbed carriers, has announced an increase in pay for its driving force.  Under Boyd's new pay plan a one year driver will be paid 32 cents per mile while the new pay scale tops out at 36 cents per mile.
+<P>
+Founded in 1956, Boyd Bros. Transportation Inc. currently has 575 trucks in its fleet and operates primarily in the eastern half of the U.S. with terminals in Clayton and Birmingham,Al., Atlanta, Ga., and Greenville, Ms.
+</P>
+<P>
+<I>Released on: January 9, 1997</I>
+<HR>
+</P>
+<H2>We Do the Right Thing Right, the First Time</H2>
+Boyd Brothers specializes in time sensitive flatbed freight moving in the Eastern 2/3 of the United States.  When you trust Boyd Brothers with your freight, not only do you get the best drivers in the industry, but also the best customer support available.  We have technology that lets you know where your shipment is 24 hours a day, 7 days a week, and dedicated customer service representatives ready to assist your transportation needs.  Boyd Brothers is prepared to do what we say we will do; that is, provide the best service available to our customers, allowing you to provide the best service to yours.
+<HR>
+<STRONG>Our Mission</STRONG>
+<HR>
+<P><BIG>Boyd Brothers Transportation</BIG> will be the recognized Leader in the flatbed
+industry by providing the best Service.  We will grow the company
+aggressively, providing an excellent return to our stockholders.</P>
+<BIG>WE WILL:</BIG>
+<UL>
+<LI>Operate safely and legally.
+</LI>
+<LI>Meet or exceed all agreed upon commitments to all internal and external customers.
+</LI>
+<LI>Continually improve service, cost management, and productivity through innovation and the use of technology.
+</LI>
+<LI>Hire, develop, train, invest in, empower, recognize, and trust committed, competent associates.
+</LI>
+<LI>Do what we say we will do.
+</LI>
+</UL>
+<HR>
+<P ALIGN="center"><A HREF="http://www.qualcomm.com"><IMG SRC="qclogos.gif" ALT="Qualcomm Home Page" BORDER="0"></A><BR>
+Boyd constantly monitors the status of our fleet with Communications Technology provided by Qualcomm.
+<BR>
+<A HREF="http://www.qualcomm.com/ProdTech/Omni/prodtech/omnisys.html">Take a look at Qualcomm's OmniTracs</A></P>
+<HR>
+<HR WIDTH="440">
+<center><A HREF="http://www.microsoft.com/ie/ie.htm"><IMG SRC="ie_animated.gif" WIDTH="88" HEIGHT="31" ALT="Microsoft Internet Explorer" BORDER="0"></A><A HREF="http://www.pointcast.com"><IMG SRC="getpnt.gif" ALT="PointCast" WIDTH="88" HEIGHT="31" BORDER="0"></A><A HREF="http://www.ibm.com"><IMG SRC="os2.gif" ALT="OS/2 Warp" WIDTH="88" HEIGHT="31" BORDER="0"></A><A HREF="http://home.netscape.com"><IMG SRC="netnow3.gif" ALT="NetScape" WIDTH="88" HEIGHT="31" BORDER="0"></A><A HREF="http://www.nasdaq.com"><IMG SRC="nlogo.gif" WIDTH="88" HEIGHT="31" BORDER="0"></A></center>
+<HR WIDTH="440">
+<CENTER><H2>Other Transportation Links</H2></CENTER>
+<P ALIGN="center"><A HREF="http://www.roadsites.com"><IMG SRC="rsnlink.gif" ALT="Link to RoadSite" BORDER="0"></A></P>
+<P ALIGN="center"><A HREF="http://www.truck.com"><IMG SRC="zigi.gif" ALT="Link to Truck.COM" BORDER="0"></A></P>
+<HR WIDTH="400">
+<P ALIGN="center"><IMG SRC="/cgi-bin/counter?df=count.dat&amp;dd=C&amp;beep=1&amp;ft=1 " ALIGN="absmiddle"><BR>
+<CITATION>Site Last Updated:
+<!--# timefmt="%d-%b-%Y" -->
+13-Mar-1997
+</CITATION></P>
+
+</TD>
+</TR>
+</TABLE>
+<BR>
+<SCRIPT language="JavaScript">
+	function doClock() {
+		window.setTimeout( "doClock()", 1000 );
+		today = new Date();
+		self.status = today.toString();    
+}
+</script>    
+
+
+
+    </noframes>
+</frameset>
+</html>

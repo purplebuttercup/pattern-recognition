@@ -1,0 +1,54 @@
+Date: Thu, 20 Nov 1997 21:21:58 GMT
+Server: Apache/1.0.5
+Content-type: text/html
+Content-length: 2051
+Last-modified: Wed, 08 Jan 1997 17:55:02 GMT
+
+<HTML>
+<HEAD>
+<TITLE>product lines</TITLE>
+</HEAD>
+
+<BODY BACKGROUND="../images/aep-back.jpg" BGCOLOR="#FFFFFF" LINK="#000080" VLINK="#808080">
+
+<IMG SRC="../images/product-logo.gif" ALT="******[ AEP Product Lines ]******" WIDTH="500" HEIGHT="41" BORDER="0"><P>
+
+<TABLE WIDTH=550 BORDER=0>
+<TR VALIGN=TOP>
+<TD>
+
+<IMG SRC="../images/poly-film.gif" ALT="Polyethylene Film... The Widest Selection... The Best Service"><P>
+
+<IMG SRC="../images/blue-bar.gif" ALT="______________________________________________________________"><P>
+
+<FONT SIZE="+2"><B>
+<IMG SRC="../images/green-bullet.gif" ALT="--"> <A HREF="industrial-films.html">Industrial Films</A><BR>
+<IMG SRC="../images/green-bullet.gif" ALT="--"> <A HREF="stretch-films.html">Stretch Films</A><BR>
+<IMG SRC="../images/green-bullet.gif" ALT="--"> <A HREF="ag-films.html">Agricultural Films</A><BR>
+<IMG SRC="../images/green-bullet.gif" ALT="--"> <A HREF="can-box-films.html">Can and Box Liners</A><BR>
+<IMG SRC="../images/green-bullet.gif" ALT="--"> <A HREF="coex-product.html">Co-Extruded Product</A><BR>
+</B></FONT>
+
+</TD>
+</TR>
+</TABLE><BR>
+
+<IMG SRC="../images/blank.gif" ALT="______________________________________________________________"><BR>
+
+<A HREF="http://www.aepind.com/imagemaps/toolbar.map"><IMG SRC="../images/aep-toolbar-prod.gif" USEMAP="#TOOLBAR" ALT="" BORDER="0" ISMAP></A><P>
+
+<FONT SIZE="-1"><A HREF="../">home</A> | <A HREF="../products/">products</A> | <A HREF="../about/">about</A> | <A HREF="../newsletters/">news</A> | <A HREF="../financial/">financial</A> | <A HREF="../contact/">contact</A></FONT><P>
+
+<FONT SIZE="1">Copyright © 1997 - AEP Industries, Inc.</FONT>
+
+<MAP NAME="TOOLBAR">
+	<AREA SHAPE=RECT COORDS="0,2, 57,28" HREF="../">
+	<AREA SHAPE=RECT COORDS="59,2, 160,28" HREF="../products/">
+	<AREA SHAPE=RECT COORDS="162,2, 235,28" HREF="../about/">
+	<AREA SHAPE=RECT COORDS="237,2, 299,28" HREF="../newsletters/">
+	<AREA SHAPE=RECT COORDS="301,2, 410,28" HREF="../financial/">
+	<AREA SHAPE=RECT COORDS="412,2, 499,28" HREF="../contact/">
+</MAP>
+
+</BODY>
+</HTML>

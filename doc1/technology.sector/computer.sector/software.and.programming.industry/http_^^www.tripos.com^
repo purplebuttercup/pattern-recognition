@@ -1,0 +1,26 @@
+Date: Fri, 21 Nov 1997 05:10:24 GMT
+Server: Apache/1.2.1
+Last-Modified: Fri, 22 Aug 1997 20:28:37 GMT
+ETag: "fd3-247-33fdf675"
+Content-Length: 583
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+<HTML>
+
+<TITLE>tripos, inc.</TITLE>
+
+<FRAMESET ROWS="110, *" FRAMEBORDER="NO" BORDER="0" FRAMESPACING="0" MARGINWIDTH="0" MARGINHEIGHT="0" RESIZE="0">
+
+<FRAME SRC="imgbar1.html" NAME="nav" FRAMEBORDER="NO" BORDER="0" FRAMESPACING="0"  SCROLLING="NO" MARGINWIDTH="0" MARGINHEIGHT="0" RESIZE="0">
+
+<FRAME SRC="tripostxt.html" NAME="base" FRAMEBORDER="YES" BORDER="2" FRAMESPACING="0"  MARGINWIDTH="8" MARGINHEIGHT="0" BGCOLOR="#FFFFFF" RESIZE="0">
+
+</FRAMESET>
+
+<NOFRAME>
+    Your browser is not able to display frames, please follow
+<a href="simplehome.html">this link</a>.
+
+</HTML> 

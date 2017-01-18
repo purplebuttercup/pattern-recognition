@@ -1,0 +1,55 @@
+Server: Netscape-Enterprise/2.0a
+Date: Fri, 21 Nov 1997 02:15:24 GMT
+Accept-ranges: bytes
+Last-modified: Wed, 14 May 1997 22:37:53 GMT
+Content-length: 2598
+Content-type: text/html
+
+<HTML>
+<HEAD>
+  <META NAME="GENERATOR" CONTENT="Adobe PageMill 2.0 Mac">
+  <TITLE>Odetics Home Page</TITLE>
+</HEAD>
+<BODY BGCOLOR="#ffffff">
+
+<P><CENTER><TABLE WIDTH="250" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+<TR>
+<TD WIDTH="50%" VALIGN="TOP"><P><CENTER><TABLE WIDTH="100" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+<TR>
+<TD WIDTH="50%"><IMG SRC="images/1odeti.gif" WIDTH="256" HEIGHT="78" ALIGN="BOTTOM" NATURALSIZEFLAG="3" ALT="Welcome to Odetics"></TD>
+<TD WIDTH="50%"><IMG SRC="images/1cs.gif" WIDTH="84" HEIGHT="78" ALIGN="BOTTOM" NATURALSIZEFLAG="3" ALT=" "></TD></TR>
+<TR>
+<TD WIDTH="50%"><IMG SRC="images/1digi.gif" WIDTH="256" HEIGHT="86" ALIGN="BOTTOM" NATURALSIZEFLAG="3" ALT="We are digital data management Products..."></TD>
+<TD WIDTH="50%"><A HREF="huh.html"><IMG SRC="images/1huh.gif" WIDTH="84" HEIGHT="86" ALIGN="BOTTOM" NATURALSIZEFLAG="3" ALT="Huh?" BORDER="0"></A></TD></TR>
+</TABLE>
+</CENTER></P>
+
+<P><CENTER><IMG SRC="images/thinrule.gif" WIDTH="350" HEIGHT="3" NATURALSIZEFLAG="0" ALIGN="BOTTOM"> <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+<TR>
+<TD WIDTH="100%"><P><CENTER>&nbsp;*<A HREF="newproducts.html">New Products</A>*</CENTER></TD></TR>
+<TR>
+<TD WIDTH="100%"><P><CENTER><A HREF="huh.html">Products</A> | <A HREF="finance/index.html">Financial</A>
+| <A HREF="news/index.html">News</A> | <A HREF="jobs/index.html">Jobline</A>
+| <A HREF="addresses.html">Contacts</A> | <A HREF="genfeedback.html">Feedback
+</A></CENTER></TD></TR>
+</TABLE>
+<IMG SRC="images/thinrule.gif" WIDTH="350" HEIGHT="3" ALIGN="BOTTOM" NATURALSIZEFLAG="3"> <FONT SIZE="-1">&copy;Copyright
+1995, 97 Odetics Inc. All rights reserved.</FONT></CENTER></TD>
+<TD WIDTH="50%" VALIGN="TOP"><TABLE WIDTH="100" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+<TR>
+<TD WIDTH="100%"><A HREF="newproducts.html"><IMG SRC="images/mnewproducts2.gif" WIDTH="129" HEIGHT="31" ALIGN="BOTTOM" NATURALSIZEFLAG="3" BORDER="0" ALT="menu"></A></TD></TR>
+<TR>
+<TD WIDTH="100%"><MAP NAME="all">
+    <AREA SHAPE="rect" COORDS="3,122,127,146" HREF="genfeedback.html">
+    <AREA SHAPE="rect" COORDS="3,94,126,122" HREF="addresses.html">
+    <AREA SHAPE="rect" COORDS="3,70,128,95" HREF="jobs/index.html">
+    <AREA SHAPE="rect" COORDS="2,46,128,71" HREF="news/index.html">
+    <AREA SHAPE="rect" COORDS="2,24,127,47" HREF="finance/index.html">
+    <AREA SHAPE="rect" COORDS="2,1,128,24" HREF="huh.html">
+</MAP><IMG SRC="images/all.gif" WIDTH="128" HEIGHT="149" ALIGN="BOTTOM" NATURALSIZEFLAG="3" USEMAP="#all" ISMAP ALT="menu" BORDER="0"></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</CENTER>
+</BODY>
+</HTML>

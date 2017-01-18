@@ -1,0 +1,20 @@
+Server: Netscape-Enterprise/2.01
+Date: Tue, 11 Nov 1997 03:40:47 GMT
+Accept-ranges: bytes
+Last-modified: Tue, 04 Nov 1997 16:24:06 GMT
+Content-length: 449
+Content-type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>Pfizer Career Opportunities</TITLE>
+<META NAME="Author" content="Booz-Allen">
+<META NAME="KeyWords" content="Pfizer,PfizerWeb,Job,Career,Opportunity,">
+</HEAD>
+<FRAMESET COLS="29%,*">
+    <FRAME SRC="menu.html" NAME="Menu" MARGINWIDTH="10" MARGINHEIGHT="10" SCROLLING="AUTO">
+    <FRAME SRC="fulfillyour.html" NAME="Body" MARGINWIDTH="10" MARGINHEIGHT="10" SCROLLING="AUTO">
+</FRAMESET>
+<BODY BGCOLOR="#FFFFFF">
+</BODY>
+</HTML>

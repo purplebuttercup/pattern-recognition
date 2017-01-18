@@ -1,0 +1,163 @@
+Server: Microsoft-IIS/4.0
+Date: Thu, 18 Dec 1997 12:50:08 GMT
+Content-Type: text/html
+
+<HTML><HEAD>	<META name="description" content="For all of your checking account needs, come to Crestar. Whether you need business or personal checking accounts, interest checking, check safekeeping or overdraft protection, Crestar has it all.">	<META name="keywords" content="key account, checking account, regular checking, business, personal, money market, special offers, check safekeeping, interest checking, budget checking, account management">	<META Name="author"  Content= "lg">	<META Name="resource-type"  Content="document">	<META Name="copyright"  Content="1997 Crestar Bank">	<META Name="distribution" Content="global">	<TITLE>Crestar Bank - Check Our Checking</TITLE>	<script language="JavaScript">
+
+<!--
+agent = navigator.userAgent
+
+browserVer = 2;
+
+if (agent.substring(0,7) == "Mozilla"){
+
+    if (parseInt(agent.substring(8,9)) >= 3) {browserVer = 1;}
+
+}
+
+
+if (browserVer == 1) {
+
+	bankonline_white = new Image(135, 15);
+	bankonline_white.src = "../images_nav/bankonline_white.gif";
+	bankonline_y = new Image(135, 15);
+	bankonline_y.src = "../images_nav/bankonline_y.gif";
+
+	bank24_white = new Image(135, 15);
+	bank24_white.src = "../images_nav/bank24_white.gif";
+	bank24_y = new Image(135, 15);
+	bank24_y.src = "../images_nav/bank24_y.gif";
+
+	borrow_white = new Image(135, 15);
+	borrow_white.src = "../images_nav/borrow_white.gif";
+	borrow_y = new Image(135, 15);
+	borrow_y.src = "../images_nav/borrow_y.gif";
+
+	budchecking_white = new Image(135, 15);
+	budchecking_white.src = "../images_nav/budchecking_white.gif";
+	budchecking_y = new Image(135, 15);
+	budchecking_y.src = "../images_nav/budchecking_y.gif";
+
+	busaccounts_white = new Image(135, 15);
+	busaccounts_white.src = "../images_nav/busaccounts_white.gif";
+	busaccounts_y = new Image(135, 15);
+	busaccounts_y.src = "../images_nav/busaccounts_y.gif";
+
+	checking_white = new Image(135, 15);
+	checking_white.src = "../images_nav/checking_white.gif";
+	checking_y = new Image(135, 15);
+	checking_y.src = "../images_nav/checking_y.gif";
+
+	communicate_white = new Image(135, 15);
+	communicate_white.src = "../images_nav/communicate_white.gif";
+	communicate_y = new Image(135, 15);
+	communicate_y.src = "../images_nav/communicate_y.gif";
+
+	checksafe_white = new Image(135, 15);
+	checksafe_white.src = "../images_nav/checksafe_white.gif";
+	checksafe_y = new Image(135, 15);
+	checksafe_y.src = "../images_nav/checksafe_y.gif";
+
+	discover_white = new Image(135, 15);
+	discover_white.src = "../images_nav/discover_white.gif";
+	discover_y = new Image(135, 15);
+	discover_y.src = "../images_nav/discover_y.gif";
+
+	explorebb_white = new Image(135, 15);
+	explorebb_white.src = "../images_nav/explorebb_white.gif";
+	explorebb_y = new Image(135, 15);
+	explorebb_y.src = "../images_nav/explorebb_y.gif";
+
+	home_white = new Image(135, 15);
+	home_white.src = "../images_nav/home_white.gif";
+	home_y = new Image(135, 15);
+	home_y.src = "../images_nav/home_y.gif";
+
+	intchecking_white = new Image(135, 15);
+	intchecking_white.src = "../images_nav/intchecking_white.gif";
+	intchecking_y = new Image(135, 15);
+	intchecking_y.src = "../images_nav/intchecking_y.gif";
+
+	keyaccounts_white = new Image(135, 15);
+	keyaccounts_white.src = "../images_nav/keyaccounts_white.gif";
+	keyaccounts_y = new Image(135, 15);
+	keyaccounts_y.src = "../images_nav/keyaccounts_y.gif";
+
+	insure_white = new Image(135, 15);
+	insure_white.src = "../images_nav/insure_white.gif";
+	insure_y = new Image(135, 15);
+	insure_y.src = "../images_nav/insure_y.gif";
+
+	manageacct_white = new Image(135, 15);
+	manageacct_white.src = "../images_nav/manageacct_white.gif";
+	manageacct_y = new Image(135, 15);
+	manageacct_y.src = "../images_nav/manageacct_y.gif";
+
+	invest_white = new Image(135, 15);
+	invest_white.src = "../images_nav/invest_white.gif";
+	invest_y = new Image(135, 15);
+	invest_y.src = "../images_nav/invest_y.gif";
+
+	save_white = new Image(135, 15);
+	save_white.src = "../images_nav/save_white.gif";
+	save_y = new Image(135, 15);
+	save_y.src = "../images_nav/save_y.gif";
+
+	selfservice_white = new Image(135, 15);
+	selfservice_white.src = "../images_nav/selfservice_white.gif";
+	selfservice_y = new Image(135, 15);
+	selfservice_y.src = "../images_nav/selfservice_y.gif";
+
+	sitemap_white = new Image(135, 15);
+	sitemap_white.src = "../images_nav/sitemap_white.gif";
+	sitemap_y = new Image(135, 15);
+	sitemap_y.src = "../images_nav/sitemap_y.gif";
+
+	specialoffers_white = new Image(135, 15);
+	specialoffers_white.src = "../images_nav/specialoffers_white.gif";
+	specialoffers_y = new Image(135, 15);
+	specialoffers_y.src = "../images_nav/specialoffers_y.gif";
+
+	moneycard_white = new Image(135, 15);
+	moneycard_white.src = "../images_nav/moneycard_white.gif";
+	moneycard_y = new Image(135, 15);
+	moneycard_y.src = "../images_nav/moneycard_y.gif";
+
+	overdraft_white = new Image(135, 15);
+	overdraft_white.src = "../images_nav/overdraft_white.gif";
+	overdraft_y = new Image(135, 15);
+	overdraft_y.src = "../images_nav/overdraft_y.gif";
+
+	regchecking_white = new Image(135, 15);
+	regchecking_white.src = "../images_nav/regchecking_white.gif";
+	regchecking_y = new Image(135, 15);
+	regchecking_y.src = "../images_nav/regchecking_y.gif";
+
+	youbebanker_white = new Image(135, 15);
+	youbebanker_white.src = "../images_nav/youbebanker_white.gif";
+	youbebanker_y = new Image(135, 15);
+	youbebanker_y.src = "../images_nav/youbebanker_y.gif";
+
+	callback_white = new Image(135, 60);
+	callback_white.src = "../images_nav/callback_white.gif";
+	callback_y = new Image(135, 60);
+	callback_y.src = "../images_nav/callback_y.gif";
+
+	backtotop_white = new Image(135, 15);
+	backtotop_white.src = "../images_nav/backtotop_white.gif";
+	backtotop_y = new Image(135, 15);
+	backtotop_y.src = "../images_nav/backtotop_y.gif";
+}
+
+function hiLite(imgDocID,imgObjName) {
+
+	if (browserVer == 1) {
+
+		document.images[imgDocID].src = eval(imgObjName + ".src");
+	}
+
+}
+//-->
+
+</script>
+</HEAD><BODY BGCOLOR="#FFFFFF" LINK="000099" ALINK="#FFFFFF" VLINK="#666666" BACKGROUND="../images/standard_bg.gif" topmargin=0><a name=top></a><TABLE CELLPADDING=0 BORDER=0 WIDTH=600>	<TR><TD BGCOLOR="#FF0000" HEIGHT=25 COLSPAN=2><IMG SRC="../images/logo.gif"></TD></TR>	<TR><TD WIDTH=150 FONT COLOR="#ffffff" VALIGN=TOP>		<IMG SRC="../images_nav/checking_y.gif" width=135 height=15 alt="Current Section: Check Our Checking" vspace=3><br>		<A HREF="key_acct.stm" onMouseOver="hiLite('keyaccounts_white','keyaccounts_y'); window.status='Link to Key Accounts'; return true;" onMouseOut="hiLite('keyaccounts_white','keyaccounts_white');"><IMG SRC="../images_nav/keyaccounts_white.gif" border=0 name="keyaccounts_white" width=135 height=15 alt="Link: Key Accounts"></A><br>		<A HREF="yourselection.stm" onMouseOver="hiLite('youbebanker_white','youbebanker_y'); window.status='Link to You Be The Banker'; return true;" onMouseOut="hiLite('youbebanker_white','youbebanker_white');"><IMG SRC="../images_nav/youbebanker_white.gif" border=0 name="youbebanker_white" width=135 height=15 alt="Link: You Be The Banker"></A><br>		<A HREF="specials.stm" onMouseOver="hiLite('specialoffers_white','specialoffers_y'); window.status='Link to Special Offers'; return true;" onMouseOut="hiLite('specialoffers_white','specialoffers_white');"><IMG SRC="../images_nav/specialoffers_white.gif" border=0 name="specialoffers_white" width=135 height=15 alt="Link: Special Offers"></A><br>		<A HREF="reg_check.stm" onMouseOver="hiLite('regchecking_white','regchecking_y'); window.status='Link to Regular Checking'; return true;" onMouseOut="hiLite('regchecking_white','regchecking_white');"><IMG SRC="../images_nav/regchecking_white.gif" border=0 name="regchecking_white" width=135 height=15 alt="Link: Regular Checking"></A><br>		<A HREF="interest_check.stm" onMouseOver="hiLite('intchecking_white','intchecking_y'); window.status='Link to Interest Checking'; return true;" onMouseOut="hiLite('intchecking_white','intchecking_white');"><IMG SRC="../images_nav/intchecking_white.gif" border=0 name="intchecking_white" width=135 height=15 alt="Link: Interest Checking"></A><br>		<A HREF="budget.stm" onMouseOver="hiLite('budchecking_white','budchecking_y'); window.status='Link to Budget Checking'; return true;" onMouseOut="hiLite('budchecking_white','budchecking_white');"><IMG SRC="../images_nav/budchecking_white.gif" border=0 name="budchecking_white" width=135 height=15 alt="Link: Budget Checking"></A><br>		<A HREF="selfserv.stm" onMouseOver="hiLite('selfservice_white','selfservice_y'); window.status='Link to Self Service Checking'; return true;" onMouseOut="hiLite('selfservice_white','selfservice_white');"><IMG SRC="../images_nav/selfservice_white.gif" border=0 name="selfservice_white" width=135 height=15 alt="Link: Self Service Checking"></A><br>		<A HREF="safekeeping.stm" onMouseOver="hiLite('checksafe_white','checksafe_y'); window.status='Link to Check Safekeeping'; return true;" onMouseOut="hiLite('checksafe_white','checksafe_white');"><IMG SRC="../images_nav/checksafe_white.gif" border=0 name="checksafe_white" width=135 height=15 alt="Link: Check Safekeeping"></A><br>		<A HREF="overdraft.stm" onMouseOver="hiLite('overdraft_white','overdraft_y'); window.status='Link to Overdraft Protection'; return true;" onMouseOut="hiLite('overdraft_white','overdraft_white');"><IMG SRC="../images_nav/overdraft_white.gif" border=0 name="overdraft_white" width=135 height=15 alt="Link: Overdraft Protection"></A><br>		<A HREF="acct_mgmt.stm" onMouseOver="hiLite('manageacct_white','manageacct_y'); window.status='Link to Account Management'; return true;" onMouseOut="hiLite('manageacct_white','manageacct_white');"><IMG SRC="../images_nav/manageacct_white.gif" border=0 name="manageacct_white" width=135 height=15 alt="Link: Account Management"></A><br>		<A HREF="../bank24/moneycard.stm" onMouseOver="hiLite('moneycard_white','moneycard_y'); window.status='Link to Crestar MoneyCard'; return true;" onMouseOut="hiLite('moneycard_white','moneycard_white');"><IMG SRC="../images_nav/moneycard_white.gif" border=0 name="moneycard_white" width=135 height=15 alt="Link: Crestar MoneyCard"></A><br>		<A HREF="../explorebb/deposit.stm" onMouseOver="hiLite('busaccounts_white','busaccounts_y'); window.status='Link to Business Accounts'; return true;" onMouseOut="hiLite('busaccounts_white','busaccounts_white');"><IMG SRC="../images_nav/busaccounts_white.gif" border=0 name="busaccounts_white" width=135 height=15 alt="Link: Business Accounts"></A><br>		<IMG SRC="../images_nav/black_15x135.gif" border=0 width=135 height=15><br>		<A HREF="../bankonline/" onMouseOver="hiLite('bankonline_white','bankonline_y'); window.status='Link to Bank Online'; return true;" onMouseOut="hiLite('bankonline_white','bankonline_white');"><IMG SRC="../images_nav/bankonline_white.gif" border=0 name="bankonline_white" width=135 height=15 alt="Link: Bank Online"></A><br>		<A HREF="../save/" onMouseOver="hiLite('save_white','save_y'); window.status='Link to Save'; return true;" onMouseOut="hiLite('save_white','save_white');"><IMG SRC="../images_nav/save_white.gif" border=0 name="save_white" width=135 height=15 alt="Link: Save"></A><br>		<A HREF="../borrow/" onMouseOver="hiLite('borrow_white','borrow_y'); window.status='Link to Borrow'; return true;" onMouseOut="hiLite('borrow_white','borrow_white');"><IMG SRC="../images_nav/borrow_white.gif" border=0 name="borrow_white" width=135 height=15></A><br>		<A HREF="../invest/" onMouseOver="hiLite('invest_white','invest_y'); window.status='Link to Invest'; return true;" onMouseOut="hiLite('invest_white','invest_white');"><IMG SRC="../images_nav/invest_white.gif" border=0 name="invest_white" width=135 height=15 alt="Link: Invest"></A><br>		<A HREF="../explorebb/" onMouseOver="hiLite('explorebb_white','explorebb_y'); window.status='Link to Explore Business Banking'; return true;" onMouseOut="hiLite('explorebb_white','explorebb_white');"><IMG SRC="../images_nav/explorebb_white.gif" border=0 name="explorebb_white" width=135 height=15 alt="Link: Explore Business Banking"></A><br>		<A HREF="../insure/" onMouseOver="hiLite('insure_white','insure_y'); window.status='Link to Insure'; return true;" onMouseOut="hiLite('insure_white','insure_white');"><IMG SRC="../images_nav/insure_white.gif" border=0 name="insure_white" width=135 height=15 alt="Link: Insure"></A><br>		<A HREF="../bank24/" onMouseOver="hiLite('bank24_white','bank24_y'); window.status='Link to Bank 24 Hours'; return true;" onMouseOut="hiLite('bank24_white','bank24_white');"><IMG SRC="../images_nav/bank24_white.gif" border=0 name="bank24_white" width=135 height=15 alt="Link: Bank 24hours"></A><br>		<A HREF="../communicate/" onMouseOver="hiLite('communicate_white','communicate_y'); window.status='Link to Communicate'; return true;" onMouseOut="hiLite('communicate_white','communicate_white');"><IMG SRC="../images_nav/communicate_white.gif" border=0 name="communicate_white" width=135 height=15 alt="Link: Communicate"></A><br>		<A HREF="../discover/" onMouseOver="hiLite('discover_white','discover_y'); window.status='Link to Discover'; return true;" onMouseOut="hiLite('discover_white','discover_white');"><IMG SRC="../images_nav/discover_white.gif" border=0 name="discover_white" width=135 height=15 alt="Link: Discover Crestar"></A><br>		<A HREF="../sitemap/" onMouseOver="hiLite('sitemap_white','sitemap_y'); window.status='Link to Site Map'; return true;" onMouseOut="hiLite('sitemap_white','sitemap_white');"><IMG SRC="../images_nav/sitemap_white.gif" border=0 name="sitemap_white" width=135 height=15 alt="Link: Sitemap"></A><br>		<A HREF="../index.html" onMouseOver="hiLite('home_white','home_y'); window.status='Link to Home'; return true;" onMouseOut="hiLite('home_white','home_white');"><IMG SRC="../images_nav/home_white.gif" border=0 name="home_white" width=135 height=15 alt="Link: Return Home"></A><br>		<A HREF="http://speakwithagent.att.net/cgi-bin/welcome?SN=crestar+bank&amp;SC=default" onMouseOver="hiLite('callback_white','callback_y'); window.status='Link to Instant Callback'; return true;" onMouseOut="hiLite('callback_white','callback_white');"><IMG SRC="../images_nav/callback_white.gif" border=0 name="callback_white" width=135 height=60 alt="Link: Instant Callback" vspace=8></A><br>		</TD>	<td ROWSPAN=2>			<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0>		<TR><TD VALIGN=TOP><IMG SRC="../images/checking_sidebar.gif" ALT="Check Our Checking" ALIGN=LEFT WIDTH="39" HEIGHT="366" HSPACE="5"><IMG SRC="../images/checking_tt.gif" ALT="Explore our checking" WIDTH="352" HEIGHT="32" VSPACE="5"><p><IMG SRC="../images/checking_manonphone.jpg" ALT="Man on Phone" ALIGN=RIGHT WIDTH="150" HEIGHT="150" HSPACE="5"><IMG SRC="../images/drop_T.gif" ALT="C" ALIGN=LEFT WIDTH="18" HEIGHT="28"><font face="arial,helvetica" size=-1 color="ff0000">he Crestar Key Account&reg;.</font> <font face="arial,helvetica" size=-1>Avoid monthly service charges and get a whole lot more! Combine the balances of your Crestar accounts to avoid monthly service charges and get the flexibility to reduce fees on the other banking services you want most. <A HREF="key_acct.stm">Here's how.</A> </font></P><p><IMG SRC="../images/drop_B.gif" ALT="B" ALIGN=LEFT WIDTH="18" HEIGHT="28" BORDER="0"><font face="arial,helvetica" size=-1 color="ff0000">uilding Your Own Checking Account.</font> <font face="arial,helvetica" size=-1>Not too many banks let you pick the features of your personal checking account. Yes,  you still have to put money in it before you can write the checks, but we're working on it. To help us recommend a Crestar checking account that is right for you, <A HREF="yourselection.stm">please answer a few questions</A>.</font></TD></TR>		<TR>			<TD valign=top><IMG SRC="../images/checking_checkbook.gif" ALT="checkbood" ALIGN=LEFT WIDTH="184" HEIGHT="180" HSPACE="6"><font face="arial,helvetica" size=-1>Learn about the checking option that suits your needs:<UL TYPE=SQUARE>	<LI><A HREF="reg_check.stm">Regular Checking</A>	<LI><A HREF="interest_check.stm">Interest Checking</A>	<LI><A HREF="budget.stm">Budget Checking</A>	<LI><A HREF="selfserv.stm">Self-service Checking</A>	<LI><A HREF="key_acct.stm">Key Accounts</A></UL><br><br><P>Hear about some special services from Crestar Checking:</P><UL TYPE=SQUARE>	<LI><A HREF="safekeeping.stm">Check Safekeeping</A>	<LI><A HREF="overdraft.stm">Overdraft Protection Service</A>	<LI><A HREF="yourselection.stm">You Be the Banker</A>	<LI><A HREF="../bank24/moneycard.stm">Crestar MoneyCard</A></UL><FONT SIZE="-1" FACE="arial, helvetica"> Crestar checking accounts offers these valuable services:<UL TYPE=SQUARE>       	<LI>FDIC coverage up to $100,000 per depositor;        	<LI>24-hour access to account information and the ability to transfer funds by phone with Express Touch-Tone Service;        	<LI>A Crestar MoneyCard or Premier MoneyCard for easy access to your account;        	<LI>A variety of overdraft protection options;        	<LI>Free Crestar PC Banking Online Account Access (usage required);        	<LI>Automatic bill payment and direct deposit services;        	</UL></TD></TR><TR>	<TD VALIGN=TOP>	<FONT SIZE="-1" FACE="arial, helvetica"><UL TYPE=SQUARE>		<LI>An easy-to-read and easy-to-balance monthly statement;        	<LI>Check Safekeeping;        	<LI>Discounted instalment loan rates when payments are made automatically and conveniently from your Crestar Checking account; and        		       		<LI>Our exclusive Crestar Service Guarantee. If you're not satisfied with any Crestar checking account within three months of opening, we refund twice       		<LI>the amount of any monthly service charges you may have paid.       		</UL> <P>Applying for your checking account at Crestar is as easy as picking up the phone. Just call 1-800-CRESTAR 24 hours a day; we're always here.</P></font>	</TD></TR--></td></TR></TABLE>				</td></tr>		<TR><TD VALIGN=BOTTOM><A HREF="#top" onMouseOver="hiLite('backtotop_white','backtotop_y'); window.status='Link to Top'; return true;" onMouseOut="hiLite('backtotop_white','backtotop_white');"><IMG SRC="../images_nav/backtotop_white.gif" ALT="Link: Back to Top" WIDTH="135" HEIGHT="15" BORDER="0" name="backtotop_white"></a><br><IMG SRC="../images_nav/copyright.gif" alt="Copyright 1997 Crestar Bank" border=0></TD></TR></TABLE></BODY></HTML>

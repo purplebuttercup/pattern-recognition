@@ -1,0 +1,136 @@
+Server: Netscape-Enterprise/2.01
+Date: Fri, 21 Nov 1997 04:56:03 GMT
+Accept-ranges: bytes
+Last-modified: Thu, 20 Nov 1997 17:38:05 GMT
+Content-length: 6714
+Content-type: text/html
+
+<HTML>
+<HEAD><TITLE>International Rectifier - General Product Information - Powertrain</TITLE>
+<TITLE>International Rectifier, Powertrain, Power Semiconductor</TITLE>
+<TITLE>International Rectifier - General Product Information - Powertrain</TITLE>
+
+<BASE HREF="http://www.irf.com/">
+
+<META  name="description" content="International Rectifier - Celebrating 50 years as the Power Semiconductor Leader.">
+<META  name="keywords" content="International Rectifier, Powertrain, Power Semiconductor">
+<head keywords="International Rectifier, Powertrain, Power Semiconductor">
+<!-- International Rectifier, Powertrain, Power Semiconductor" -->
+</HEAD>
+<BODY BACKGROUND="graphics/50back.gif" TEXT="#000000" LINK="#400080" VLINK="#404040">
+
+<map name="irnav">
+<area shape="rect" coords="0,0,57,24" href="search/">
+<area shape="rect" coords="83,0,153,23" href="product-info/">
+<area shape="rect" coords="182,0,241,23" href="whats-new/">
+<area shape="rect" coords="274,0,334,24" href="aboutir-info/">
+<area shape="rect" coords="367,0,429,24" href="whoto-call/">
+<area shape="default" nohref>
+</map>
+
+<P>
+
+<table cellpadding=0 cellspacing=0 width=580>
+<tr><td><IMG SRC="graphics/spacer.gif" ALT="IR" WIDTH=72 HEIGHT=1></td>
+<td><IMG SRC="graphics/irlogo.gif" ALT="IR Logo" WIDTH=135 HEIGHT=50></td>
+<td><IMG SRC="graphics/pic89.gif" ALT="Powertrain - the Complete Solution" WIDTH=371 HEIGHT=61></td>
+<td rowspan=2>
+<IMG SRC="graphics/diode.gif" ALT="diode image" WIDTH=56 HEIGHT=95 ALIGN=right>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<IMG SRC="graphics/redspc.gif" ALT="Red Spaces" WIDTH=75 HEIGHT=27 ALIGN=left>
+<IMG SRC="graphics/irnav.gif" ALT="Navigational Bar" WIDTH=430 HEIGHT=25 ALIGN=left usemap="#irnav" border="off">
+</td>
+</tr>
+</table>
+<TABLE>
+<TR>
+<TD ROWSPAN=2 WIDTH=10><BR></TD>
+<TD ROWSPAN=2 WIDTH=110 VALIGN="TOP">
+<NOBR><A HREF="product-info/topical.htm"><IMG SRC="graphics/genprod.gif" ALT="General Product Information" WIDTH=68 HEIGHT=46 BORDER="OFF"></A>
+<IMG SRC="graphics/arrow.gif" ALT="You Are Here" WIDTH=26 HEIGHT=22 ALIGN=ABSMIDDLE></NOBR><BR>
+<A HREF="technical-info/"><IMG SRC="graphics/techinfo.gif" ALT="Technical Information" WIDTH=67 HEIGHT=48 BORDER="OFF"></A><BR>
+<A HREF="product-info/shortform/"><IMG SRC="graphics/shortform.gif" ALT="Short Form Catalog" WIDTH=69 HEIGHT=47 BORDER="OFF"></A><BR>
+<A HREF="product-info/navigator/"><IMG SRC="graphics/navigator.gif" ALT="Navigator" WIDTH=69 HEIGHT=28 BORDER="OFF"></A><BR>
+<A HREF="product-info/datasheets.htm"><IMG SRC="graphics/datasheets.gif" ALT="Datasheets" WIDTH=71 HEIGHT=28 BORDER="OFF"></A><BR>
+<A HREF="product-info/models/"><IMG SRC="graphics/models.gif" ALT="Spice & Saber Models" WIDTH=67 HEIGHT=46 BORDER="OFF"></A><BR>
+<A HREF="product-info/reliability/"><IMG SRC="graphics/reliability.gif" ALT="Reliability Reports" WIDTH=69 HEIGHT=47 BORDER="OFF"></A><BR>
+</TD>
+<TD WIDTH=460 COLSPAN=2 VALIGN="TOP"><P><CENTER>
+<a href="/product-info/powirtrain/pwrtrain.pdf">
+<IMG SRC="/graphics/powertrain.gif" ALT="powIRtrain" WIDTH=276 HEIGHT=67></a></CENTER>
+<P>Design Kits, integrated power stages, power modules, assemblies and HVIC
+drivers are now available. The initial kits are the IRPT1053,
+IRPT1056, IRPT2051 and IRPT5051 covering 1 to 15HP (0.75 to 11Kw).
+ The design kits not only include the complete hardware for the
+power stage of an AC motor drive; they also include the complete
+design details for you to copy in whole or part. Operating instructions,
+electrical schematic, bill of materials, mechanical layout, guidelines
+for customizing the board layout, and even the Gerber files on
+diskette are of course included.  Look for more Pow<I>IR</I>train<font size=-2><sup>TM</sup></font>
+product family releases later in the year as detailed in the availability
+matrix also included in the Design Kit.  Use the "Contact IR" button above
+to contact the local Sales Rep or Sales Office in your area for Design Kit Sales
+Information.
+<BR>
+<P>
+We at International Rectifier are committed to being your partner
+in business and providing you with the innovation and support
+required in today's competitive global business environment. International
+Rectifier's semiconductor products are built to the highest quality
+standards, and over the last 50 years have achieved an outstanding
+reputation for reliability. We are confident that you will find
+this same level of quality and reliability in the Pow<I>IR</I>train<font size=-2><sup>TM</sup></font>
+family of system solutions and products.<BR>
+<P>
+Thomas Kaporch<BR>
+Director of Marketing, Motor Drives<P>
+For more information, see the related Pow<I>IR</I>train<font size=-2><sup>TM</sup></font> article. 
+<a href="/product-info/powirtrain/pwrtrain.pdf">
+<IMG SRC="/images/pdficon.gif" ALT="Pdficon" WIDTH=28 HEIGHT=31></a> and 
+<a href="product-info/powirtrain/brochure1.htm">brochure</a>
+</FONT>
+</TD>
+</TR>
+</TABLE>
+<TABLE WIDTH=580>
+<TR><TD COLSPAN=2 WIDTH=580><HR></TD></TR>
+<TR><TD WIDTH=75 VALIGN="TOP">
+<FONT COLOR="#FF0000"><CENTER><EM>Design<BR>Info</EM></CENTER></FONT></TD>
+<TD WIDTH=505 VALIGN="TOP">
+<A HREF="technical-info/whitepaper/pwtindmot.pdf"><IMG SRC="/images/pdficon.gif" ALT="Pdficon" WIDTH=28 HEIGHT=31>
+Design and Implementation of Compact, Plug & Play Power and Drive for AC Induction Motors</a>
+
+</TD>
+</TR>
+</TABLE>
+
+<TABLE WIDTH=580>
+<TR><TD COLSPAN=2 WIDTH=580><HR></TD></TR>
+<TR>
+<TD WIDTH=75 VALIGN="TOP"><FONT COLOR="#FF0000"><CENTER><EM>News<BR>Releases</EM></CENTER></FONT></TD>
+<TD WIDTH=505 VALIGN="TOP">
+New Powirtrain Subsystems available for 1.5- and 7.5-HP AC Motors <a href="/whats-new/nr060497.html">(June 04, 1997)</a><P>
+International Rectifier's Pow<I>IR</I>train<font size=-2><sup>TM</sup></font> Design Kits Save Time and Money in AC Motor Drive Engineering <a href="whats-new/nrapr02.html">(April 2, 1997)</a>
+</TD>
+</TR>
+</TABLE>
+<TABLE WIDTH=580>
+<TR><TD COLSPAN=3 WIDTH=580><HR></TD></TR>
+<TR><TD WIDTH=75 VALIGN="TOP"><FONT COLOR="#FF0000"><CENTER><EM>PowIRtrain<BR>Quick<BR>Links</EM></CENTER></FONT></TD>
+<TD WIDTH=90 VALIGN="TOP">
+<A HREF="product-info/datasheets.htm"><IMG SRC="graphics/datasheets.gif" ALT="Datasheets" WIDTH=71 HEIGHT=28 BORDER="OFF"></A></TD>
+<TD WIDTH=415 VALIGN="TOP">
+<A HREF="product-info/datasheets/powirtrain.htm"><IMG SRC="/images/pdficon.gif" ALT="Pdficon" WIDTH=28 HEIGHT=31></a>
+Pow<I>IR</I>train<font size=-2><sup>TM</sup></font> Datasheet Listing
+</TD>
+</TR>
+</TABLE>
+<IMG SRC="graphics/redspc.gif" ALT="Red Spaces" WIDTH=75 HEIGHT=27>
+<a href="http://www.irf.com/"><IMG SRC="graphics/home.gif" ALT="Home Page" WIDTH=111 HEIGHT=25 BORDER="OFF"></A>
+</BODY>
+</HTML>
+
+

@@ -1,0 +1,11 @@
+WWW Alert:  Redirection response from server is not handled by this client
+Date: Thursday, 18-Dec-97 10:59:22 GMT
+Server: NCSA/SMI-1.0
+MIME-version: 1.0
+Location: http://www.painewebber.com:80/Employment/
+Content-type: text/html
+
+<HEAD><TITLE>Document moved</TITLE></HEAD>
+<BODY><H1>Document moved</H1>
+This document has moved <A HREF="http://www.painewebber.com:80/Employment/">here</A>.<P>
+</BODY>

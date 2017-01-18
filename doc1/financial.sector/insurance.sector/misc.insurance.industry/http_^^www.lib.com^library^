@@ -1,0 +1,71 @@
+Server: Netscape-FastTrack/2.0
+Date: Thu, 18 Dec 1997 10:00:14 GMT
+Accept-ranges: bytes
+Last-modified: Wed, 17 Dec 1997 20:15:05 GMT
+Content-length: 3018
+Content-type: text/html
+
+<HTML><HEAD>
+<!-- $RCSfile: library.html,v $ -->
+<!-- $Revision: 1.9 $ -->
+<!-- $Date: 1997/06/17 15:42:21 $ -->
+
+<TITLE>Liberty Financial Online Library</TITLE>
+</HEAD>
+<body BACKGROUND="../gif/newback.gif">
+<table width=600 cellspacing=0>
+<TR>
+<TD width=135 align=left valign=top>
+<IMG SRC="../gif/topllogo.gif"><P>
+<a href="/financial.html"><IMG SRC="../gif/but1.gif" border="0"></A><BR>
+<spacer type=vertical size=5>
+<a href="http://www.keyport.com"><IMG SRC="../gif/but2.gif" border="0"></A><BR>
+<spacer type=vertical size=5>
+<a href="http://www.steinroe.com"><IMG SRC="../gif/but3.gif" border="0"></A><BR>
+<spacer type=vertical size=5>
+<a href="http://www.younginvestor.com"><IMG SRC="../gif/but4.gif" border="0"></A><BR>
+<spacer type=vertical size=5>
+<IMG SRC="../gif/but5.gif" border="0"><BR>
+<spacer type=vertical size=5>
+<a href="/lrelease.html"><IMG SRC="../gif/but6.gif" border="0"></A><BR>
+<spacer type=vertical size=5>
+<a href=mailto:comments_lib@lib.com><IMG SRC="../gif/but7.gif" border="0"></A><BR>
+<spacer type=vertical size=5>
+</TD>
+<TD Width=470 valign=top>
+<center><IMG SRC="../gif/hdlib.gif"></center>
+<center><H2>Welcome to the Liberty Online Library</center></H2>
+<A HREF="../map/books.map"><IMG SRC="../gif/booksmap.gif" ALT="Imagemap" WIDTH=450 HEIGHT=267 BORDER=0 ISMAP></A>
+Liberty Financial is committed to educating individuals about money and investments, and providing them with the information needed to make confident investment decisions.  Whether you are an expert in the field of investments or a novice, Liberty Financial's Online Library will give you the answers and insight into some of today's most frequently asked investment questions. <P> 
+<hr>
+<strong>Liberty Financial has created many of its files in Adobe's Portable Document File (PDF) format.  For more information on PDF files, visit Liberty Financial's <a href="/tools.html"> Online Tools page</a>.</strong> <P>
+<hr>
+<P ALIGN="center"><A HREF="/library/Econlib.html">[The Economy]</a>
+<A HREF="/library/Genlib.html">[General Investing]</a> 
+<A HREF="/library/Retirelib.html">[Retirement Planning]</a>  
+<A HREF="/library/Taxlib.html">[Tax Tips]</a><br>
+<A HREF="/library/Fundslib.html">[Mutual Funds]</a> 
+<A HREF="/library/Annlib.html">[Annuities]</a>  
+<A HREF="/library/Assetlib.html">[Asset Allocation]</a> 
+<A HREF="/library/YIlib.html">[Young Investor]</a> <br> 
+<A HREF="#other">[Other Investing Sites]</a></P>
+<HR>
+<P>
+<center>
+<a href="/financial.html">Liberty Financial Companies</A> | 
+<a href="http://www.keyport.com">Keyport Life</A> |
+<a href="http://www.steinroe.com">Stein Roe & Farnham</A><BR>
+<a href="http://www.younginvestor.com">Young Investor</A> | 
+Library |
+<a href="/lrelease.html">Press Releases </A> |
+<a href=mailto:comments_lib@lib.com>Contact Us</A> |
+<a href="http://www.lib.com">Liberty Homepage</A>
+</center>
+<HR>
+<HR>
+<H6>Copyright &copy 1997, Liberty Financial Companies, Inc. 600 Atlantic Avenue, Boston, Massachusetts, USA. 617-722-6000</H6>
+</table>
+</tr>
+</td>
+</body>
+</html>

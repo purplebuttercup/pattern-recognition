@@ -1,0 +1,90 @@
+Server: Netscape-Enterprise/3.0D
+Date: Mon, 17 Nov 1997 16:56:19 GMT
+Content-type: text/html
+Last-modified: Thu, 16 Oct 1997 13:28:17 GMT
+Content-length: 2946
+Accept-ranges: bytes
+
+<HTML>
+<HEAD><TITLE>Welcome to FedEx</TITLE>
+
+
+</HEAD>
+
+<BODY BGCOLOR="#000000" TEXT="#BDB9AD" LINK="#DE5208" VLINK="#9425E6">
+
+<CENTER>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="468"><TR><TD><A HREF="/images/maintop.map"><IMG BORDER=0 SRC="/images/maintop.gif" WIDTH="468" HEIGHT="81" ALT="Try the future of shipping - interNetShip." USEMAP="#maintop" ISMAP></A><BR><A HREF="/images/main2.map"><IMG BORDER=0 SRC="/images/main2.gif" WIDTH="468" HEIGHT="319" ALT="Welcome to FedEx - if you can't view this graphic, please use the text menu at the bottom of the page." USEMAP="#main2map" ISMAP></A></TD></TR></TABLE>
+
+<P>
+
+<MAP NAME="maintop">
+<AREA SHAPE=rect HREF="/ship_it.html" COORDS="10,35, 127,70">
+</MAP>
+
+
+<MAP NAME="main2map">
+<AREA SHAPE=rect HREF="/svcs_online.html" COORDS="46,143, 175,170">
+<AREA SHAPE=rect HREF="/dw_software.html" COORDS="46,171, 175,197">
+<AREA SHAPE=rect HREF="/info_central.html" COORDS="46,198, 175,224">
+<AREA SHAPE=rect HREF="/pr/" COORDS="46,224, 175,251">
+<AREA SHAPE=rect HREF="/help.html" COORDS="46,252, 175,278">
+<AREA SHAPE=rect HREF="/track_it.html" COORDS="204,269, 272,319">
+<AREA SHAPE=rect HREF="/cgi-bin/rate?entry=us.us" COORDS="273,269, 338,319">
+<AREA SHAPE=rect HREF="https://www.fedex.com/cgi-bin/ship_it/interNetShip" COORDS="339,269, 401,319">
+<AREA SHAPE=rect HREF="/dropoff/" COORDS="402,269, 468,319">
+<AREA SHAPE=rect HREF="http://www.fedex.ca" COORDS="373,6, 468,19">
+<AREA SHAPE=rect HREF="/apac/" COORDS="373,20, 468,32">
+<AREA SHAPE=rect HREF="/emea/euro/" COORDS="373,33, 468,45">
+<AREA SHAPE=rect HREF="/emea/africa/" COORDS="373,46, 468,58">
+<AREA SHAPE=rect HREF="/emea/mei/" COORDS="373,59, 468,71">
+<AREA SHAPE=rect HREF="/intlL.html" COORDS="373,72, 468,84">
+</MAP>
+
+
+<A HREF="/cgi-bin/redirect?class=ads&message=Home+Page,FedEx+interNetShip+with+Ship+Alert+ad+(breakthrough.gif)&url=http://www.fedex.com/ship_it.html">
+<IMG BORDER=0 SRC="/images/marquees/breakthrough.gif" WIDTH="396" HEIGHT="60" ALT="FedEx interNetShip with Ship Alert(TM)"></A><BR>
+
+<P>
+<A HREF="/svcs_online.html">
+<FONT SIZE="-1">SERVICES ONLINE</FONT></A> | 
+
+<A HREF="/dw_software.html">
+<FONT SIZE="-1">FREE SOFTWARE</FONT></A> | 
+
+<A HREF="/info_central.html">
+<FONT SIZE="-1">INFO CENTRAL</FONT></A> | 
+
+<A HREF="/pr/">
+<FONT SIZE="-1">WHAT'S NEW</FONT></A> | 
+
+<A HREF="/help.html">
+<FONT SIZE="-1">HELP/SEARCH</FONT></A><BR>
+
+<A HREF="/track_it.html">
+<FONT SIZE="-1">TRACKING</FONT></A> | 
+
+<A HREF="/cgi-bin/rate?entry=us.us">
+<FONT SIZE="-1">RATE FINDER</FONT></A> | 
+
+<A HREF="https://www.fedex.com/cgi-bin/ship_it/interNetShip">
+<FONT SIZE="-1">SHIPPING</FONT></A> | 
+
+<A HREF="/dropoff/">
+<FONT SIZE="-1">DROPOFF LOCATOR</FONT></A>
+
+
+<P>
+<A HREF="/email-form.html">
+Your Comments and Suggestions Welcomed!</A><BR>
+<BR>
+
+<FONT SIZE="-1">
+All contents <A HREF="/copyright.html">Copyright &copy; 1995-1997, FedEx</A>. All Rights Reserved.
+</FONT>
+
+</CENTER>
+
+</BODY>
+</HTML>	

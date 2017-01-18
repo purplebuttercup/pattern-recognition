@@ -1,0 +1,100 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 18 Dec 1997 10:53:15 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Thu, 30 Oct 1997 20:07:19 GMT
+Content-Length: 3963
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="description"
+content="20th Century Insurance is a leading automobile insurance provider, offering high-quality and low-cost insurance to qualifying drivers in California and Arizona.">
+<meta name="keywords"
+content="insurance, reinsurance, insure, insurer, insured, protection, coverage, auto, automobile,
+property, risk, underwrite, underwriter, underwritten, premium, rate, agent, broker, carrier, personal watercraft, policy, quote">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>20th Century Industries - Home Page</title>
+<!---------------------Begin Body Definition------------------->
+</head>
+
+<body background="paper.gif" bgcolor="#FFFFFF"
+text="#000000" link="#41613E" vlink="#87269C" alink="#EE0000">
+<!-------------------------Begin Table Definition-------------------------------><div align="center"><center>
+
+<table border="0">
+    <tr>
+        <td align="center" valign="top" width="590" height="150"><p
+        align="center"><img src="header.gif"
+        alt="20th Century Industries" width="590" height="89"><br>
+        <img src="headtext.gif" width="362"
+        height="51"> </p>
+        </td>
+    </tr>
+    <tr>
+        <td height="30">&nbsp;</td>
+    </tr>
+    <tr>
+        <td><!----------------------Nested Table-------------> <div align="center"><center><table border="0">
+            <tr>
+                <td width="170">&nbsp;</td>
+                <td width="250" height="60"><a href="about.htm"><img
+                src="btAbout.GIF" alt="About Our Company"
+                border="0" width="240" height="37"></a> </td>
+                <td width="170">&nbsp;</td>
+            </tr>
+            <tr>
+                <td width="170">&nbsp;</td>
+                <td width="250" height="60"><a href="invest.htm"><img
+                src="btInvest.GIF" alt="Investor Information"
+                border="0" width="240" height="37"></a> </td>
+                <td width="170">&nbsp;</td>
+            </tr>
+            <tr>
+                <td width="170">&nbsp;</td>
+                <td width="250" height="60"><a
+                href="polsvcs/custsvc.htm"><img
+                src="btCaCustSvc.GIF"
+                alt="California Customer Service" border="0"
+                width="240" height="37"></a> </td>
+                <td width="170">&nbsp;</td>
+            </tr>
+            <tr>
+                <td width="170">&nbsp;</td>
+                <td width="250" height="60"><a
+                href="/scripts/rfq.asp"><img src="btCaRfq.GIF"
+                alt="California Quote Request" border="0"
+                width="240" height="37"></a> </td>
+                <td width="170">&nbsp;</td>
+            </tr>
+            <tr>
+                <td width="170">&nbsp;</td>
+                <td width="250" height="60"><a href="qualify.htm"><img
+                src="btAzRfq.GIF" alt="Arizona Quote Request"
+                border="0" width="240" height="37"></a> </td>
+                <td width="170">&nbsp;</td>
+            </tr>
+        </table>
+        </center></div><p><!-----------------------End Nested Table-------------> </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" height="100">
+	<a href="about.htm"><font size="2"><i>About Our Company</i></font></a>
+		<font size="2"><i> | </i></font>
+	<a href="invest.htm"><font size="2"><i>Investor Information</i></font></a>
+		<font size="2"><i> | </i></font>
+	<a href="/polsvcs/custsvc.htm"><font size="2"><i>Customer Services</i></font></a>
+		<br>
+        <a href="rfq.htm"><font size="2"><i>California Quotation Request</i></font></a>
+		<font size="2"><i> | </i></font>
+	<a href="qualify.htm"><font size="2"><i>Arizona Quotation Request</i></font></a>
+	</td>
+    </tr>
+</table>
+</center></div>
+</body>
+</html>

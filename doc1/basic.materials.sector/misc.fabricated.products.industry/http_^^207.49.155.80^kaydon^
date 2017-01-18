@@ -1,0 +1,34 @@
+Server: WebSTAR
+MIME-Version: 1.0
+Content-type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML><!----Made by Site Dynamics------><!----Made by Site Dynamics------>
+<HEAD>
+<TITLE>Kaydon Corporation</TITLE>
+</HEAD>
+
+<body background="Graphics/TitlePageBackGround.gif" ALINK="#ff00ff" VLINK="#000000">
+
+<center>
+<A HREF="KaydonFrontPage.map"><IMG SRC="Graphics/FrontPage.jpg" LOWSRC="Graphics/FrontPageBW.jpg" BORDER=NONE ISMAP></A>
+</center>
+
+<P><hr>
+<center>
+<A HREF="/kaydon/bearings/default.htm">Bearings</A> | <A HREF="/kaydon/iti/default.htm">ITI</a> | <A HREF="/kaydon/fluid/default.htm">Fluid Power</A> | <A HREF="/kaydon/cooper/default.htm">Cooper Split Bearings</A> | <A HREF="/kaydon/ringseal/default.htm"> Rings & Seals</A> | <A HREF="/kaydon/electro/default.htm">Electro-Tec</A> | 
+<A HREF="/kaydon/filtration/default.htm">Filtration</A>
+</center>
+
+
+<hr>
+<center>&copy;Copyright 1996-1997, Kaydon Corporation</center>
+<hr>
+<center>
+<a href="http://home.netscape.com/comprod/mirror/index.html"><img src="Graphics/Netscape.gif" border=none></A><p>
+This site is optimized for Netscape Navigator 2.0.<br>
+ Click on the logo to download Netscape Navigator 2.0. </center>
+
+</FOOT>
+
+</HTML>

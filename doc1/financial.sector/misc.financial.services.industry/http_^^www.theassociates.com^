@@ -1,0 +1,106 @@
+Date: Thu, 18 Dec 1997 11:39:37 GMT
+Server: WebSitePro/2.0.36e
+Accept-ranges: bytes
+Content-type: text/html
+Last-modified: Wed, 17 Dec 1997 20:37:28 GMT
+Content-length: 5072
+
+<html>
+
+<head><title>The Associates Home Page</title></head>
+
+<body bgcolor=#ffffff link=#0097c6 vlink=#cf2c32>
+
+<center>
+
+<table width=500>
+<tr>
+<td align=center>
+<img src="images/homelogo.gif" border=0><br>
+<img src="images/homebuttons.gif" border=0 usemap="#associateshome">
+</td>
+</tr>
+
+<tr><td><br>
+<font face="arial" size=4>
+
+Welcome to the world of The Associates!  We are a 
+leading provider of financial services to 
+consumers and businesses throughout the United 
+States and internationally.  We are the nation's 
+second largest independent finance company, and we 
+are dedicated to serving the financial needs of 
+our customers.<p>
+
+<a href="corp/hot/"><img border=0 align=right src="images/whatshot.gif"></a>We help consumers meet their financial needs through a variety of products, including home equity-secured loans, personal loans, retail sales financing and credit card financing.<p>
+
+Our commercial services include transportation, industrial and communications equipment financing and leasing, as well as a variety of specialized programs for businesses of all sizes.<p>
+
+<a href="corp/overview/">The Associates</a> has more than 1,950 consumer branches and commercial finance offices to meet your needs.  And, beyond our domestic borders, we offer an array of services through offices in <a href="corp/international/index.html#japan">Japan</a>, <a href="corp/international/index.html#canada">Canada</a>, <a href="corp/international/index.html#mexico">Mexico</a>, <a href="corp/international/index.html#puertorico">Puerto Rico</a> and the <a href="corp/international/index.html#uk">United Kingdom</a>. Click here to view our <a href=http://www.reportgallery.com/associates/>1996 Annual Report</a>.<p>
+
+</td></tr>
+</table><blockquote>
+<hr>
+<font face="arial" size=4>
+<A HREF="http://www.anbcards.com"><H2>Credit Cards</H2></A>
+<A HREF="http://www.anbcards.com/choose2.html">Choosing the Right Credit Card</a><br>
+<A HREF="http://www.anbcards.com/services2.html">Cardholder Services</a><br>
+<A HREF="http://www.anbcards.com/portfolio2.html">Card Portfolio</a><br>
+<A HREF="http://www.anbcards.com/sitemap2.html">Site Map</a><br>
+<p><hr width=450>
+<A HREF="consumer/"><H2>Consumer Financial Services</H2></A>
+
+<A HREF="http://www.fcf.com/we_offer.html">Mortgages</a><br>
+<A HREF="consumer/equity.html">Home Equity Lending</a><br>
+<A HREF="consumer/loans.html">Personal Loans</a><br>
+<A HREF="consumer/home.html">Home Improvement Loans</a><br>
+<A HREF="consumer/usauto.html">United States Auto Club/Motoring Division</a><br>
+<A HREF="consumer/manuf.html">Manufactured Housing Financing</a><br>
+<A HREF="consumer/affil.html">The Associates Family of Companies</A><p>
+<hr width=450>
+
+<A HREF="commercial/"><H2>Commercial Finance and Leasing</H2></A>
+
+<A HREF="http://www.usfleetleasing.com">Auto, Light- and Medium-Duty Truck Fleet Management</a><br>
+<A HREF="commercial/truck.html">Transportation Financing and Services</a><br>
+<A HREF="commercial/equip.html">Equipment Financing and Services</A><br>
+<A HREF="commercial/sba.html">Small Business Loans</A><BR>
+<A HREF="commercial/muni.html">Municipal Financing Services</A><BR>
+<A HREF="http://www.fcf.com/lendspcl.html">Mortgage Brokerage</A><br>
+<A HREF="commercial/manuf.html">Manufactured Housing Dealer Financing</A><br>
+<A HREF="http://www.armsg.com/">Relocation and Mortgage Services Group</a><p>
+<hr width=450>
+<h4>
+<a href="corp/international/">International Operations</a> |
+<a href="corp/overview/">Company Profile</a> |
+<a href="corp/press/">News Releases</a> |
+<a href="investor/">Investor Relations</a> |
+<a href="corp/hot/">What's Hot</a> |
+<a href="comments.html">Comments on our Web Site</a><p>
+</h4><hr>
+<font size=-1>
+All contents of this website are protected copyright works of Associates First Capital Corporation.  All rights reserved.<p>
+
+The Associates and the triangular A logo are registered <a href="trademarks.html">service marks</a>.
+</font>
+
+</center>
+<MAP NAME="associateshome">
+<!-- #$-:Image Map file created by Map THIS! -->
+<!-- #$-:Map THIS! free image map editor by Todd C. Wilson -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:1.30 -->
+<!-- #$AUTHOR:Tom Howard -->
+<!-- #$DATE:Wed Sep 17 10:10:41 1997 -->
+<!-- #$PATH:C:\associates\theassociates\images\ -->
+<!-- #$GIF:homebuttons.GIF -->
+<AREA SHAPE=RECT COORDS="75,1,212,74" HREF="consumer/" ALT="Consumer Financial Services">
+<AREA SHAPE=RECT COORDS="215,12,351,75" HREF="http://www.anbcards.com" ALT="Associates National Bank">
+<AREA SHAPE=RECT COORDS="353,0,485,74" HREF="commercial/" ALT="Commercial Financial Services">
+<AREA SHAPE=RECT COORDS="415,77,548,138" HREF="investor/" ALT="Investor Relations">
+<AREA SHAPE=RECT COORDS="281,77,413,139" HREF="corp/press/" ALT="Press Releases">
+<AREA SHAPE=RECT COORDS="145,77,278,140" HREF="corp/international/" ALT="International">
+<AREA SHAPE=RECT COORDS="8,77,142,139" HREF="corp/overview/" ALT="Company Overview">
+</MAP></body>
+</html>
+

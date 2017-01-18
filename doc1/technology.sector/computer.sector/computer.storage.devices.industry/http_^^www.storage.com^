@@ -1,0 +1,105 @@
+Date: Fri, 21 Nov 1997 03:37:05 GMT
+Server: Apache/1.1.3
+Content-type: text/html
+
+<HTML>
+
+<!-- AUTHOR: Salah A. Khairy -->
+<!-- E-MAIL: skhairy@storage.com -->
+<!-- CREATED: May 1997 -->
+<!-- REVISED: November 1997 -->
+<!-- FILE: index.html-->
+<!-- PURPOSE: Home Page -->
+
+<HEAD>
+<TITLE> Storage Computer Corporation Home Page </TITLE> </HEAD>
+
+<BODY BGCOLOR="#FFFFFF">
+
+<MAP NAME="map1">
+<AREA SHAPE="rect" COORDS="0,0,120,24" HREF="/storage-bin/constructor?options=n&file=news">
+<AREA SHAPE="rect" COORDS="0,30,120,54" HREF="/storage-bin/constructor?options=n&file=company">
+<AREA SHAPE="rect" COORDS="0,60,120,84" HREF="/storage-bin/constructor?options=n&file=products">
+<AREA SHAPE="rect" COORDS="0,90,120,114" HREF="/storage-bin/constructor?options=n&file=contact">
+<AREA SHAPE="rect" COORDS="0,120,120,144" HREF="/storage-bin/constructor?options=n&file=customers">
+<AREA SHAPE="rect" COORDS="0,150,120,174" HREF="/storage-bin/constructor?options=n&file=fin">
+<AREA SHAPE="rect" COORDS="0,180,120,204" HREF="/storage-bin/constructor?options=n&file=papers">
+<AREA SHAPE="rect" COORDS="0,210,120,234" HREF="/storage-bin/constructor?options=n&file=contents">
+</MAP>
+
+<CENTER>
+<TABLE>
+<TR>
+<TD>
+<IMG SRC="/images/all.gif" ALIGN="left" BORDER="0" USEMAP="#map1"> </TD>
+
+<TD>
+<CENTER>
+<P>
+<IMG SRC="/images/htag_2c.gif" ALT="Storage Computer&#174; Corporation" ALT="Storage Computer&#174; Corporation"> </P> <BR>
+
+<P>
+<FONT SIZE=+1 COLOR="#CC6600"> More than ever before, your business demands a whole new approach to storage.  <BR> <BR>
+The <B> StorageSuite</B><SUP><SMALL>TM </SMALL> </SUP> from Storage Computer offers the only enterprise-class storage services designed specifically for open systems. </FONT> </P> <BR>
+
+</CENTER> </TD> </TR>
+</TABLE> </CENTER>
+
+<TABLE> 
+<TR>
+<TD>&nbsp;&nbsp;&nbsp;</TD>
+<TD> </TD> </TR>
+<TR>
+<TD> </TD>
+<TD>
+<TABLE>
+<TR>
+<TD>
+<CENTER>
+<A HREF="/storage-bin/constructor?options=n&file=news"> News </A> |
+<A HREF="/storage-bin/constructor?options=n&file=company"> Company </A> |
+<A HREF="/storage-bin/constructor?options=n&file=products"> Products </A> |
+<A HREF="/storage-bin/constructor?options=n&file=contact"> Contact </A> |
+<A HREF="/storage-bin/constructor?options=n&file=customers"> Customers </A> |
+<A HREF="/storage-bin/constructor?options=n&file=fin"> Financials </A> |
+<A HREF="/storage-bin/constructor?options=n&file=papers"> Papers </A> <BR>
+<FONT COLOR="#FF6347"> Home </FONT> |
+<A HREF="/storage-bin/constructor?options=n&file=contents"> Site Contents </A>
+</CENTER> </TD> </TR>
+</TABLE> </TD> </TR> </TABLE>
+
+<HR SIZE=2>
+
+<TABLE>
+<TR>
+<TD>&nbsp;&nbsp;&nbsp;</TD>
+<TD> If you prefer to navigate our site using <FONT SIZE=+2> frames, </FONT> please use the panel below. </TD> </TR>
+<TR>
+<TD> </TD>
+<TD>
+<TABLE>
+<TR>
+<TD>
+<CENTER>
+<A HREF="/storage-bin/constructor?options=f&file=news"> News </A> |
+<A HREF="/storage-bin/constructor?options=f&file=company"> Company </A> |
+<A HREF="/storage-bin/constructor?options=f&file=products"> Products </A> |
+<A HREF="/storage-bin/constructor?options=f&file=contact"> Contact </A> |
+<A HREF="/storage-bin/constructor?options=f&file=customers"> Customers </A> |
+<A HREF="/storage-bin/constructor?options=f&file=fin"> Financials </A> |
+<A HREF="/storage-bin/constructor?options=f&file=papers"> Papers </A> <BR>
+<FONT COLOR="#FF6347"> Home </FONT> |
+<A HREF="/storage-bin/constructor?options=f&file=contents"> Site Contents </A>
+</CENTER> </TD> </TR>
+</TABLE> </TD> </TR>
+</TABLE> <BR>
+
+<HR SIZE=2>
+
+<FONT SIZE=-1> These pages are brought to you by Storage Computer Corporation. Your thoughts are important to us.  Please e-mail your feedback to <A HREF="mailto:webmaster@storage.com"> webmaster@storage.com </A> </FONT>
+
+<P>
+<FONT SIZE=-1> November 1997 </FONT> </P>
+
+</BODY>
+</HTML>

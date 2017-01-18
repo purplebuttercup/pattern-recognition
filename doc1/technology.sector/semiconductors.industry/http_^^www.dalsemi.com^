@@ -1,0 +1,99 @@
+Server: Netscape-Enterprise/2.01
+Date: Fri, 21 Nov 1997 04:57:39 GMT
+Accept-ranges: bytes
+Last-modified: Fri, 14 Nov 1997 15:44:57 GMT
+Content-length: 5329
+Content-type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+
+<HTML>
+<HEAD>
+<TITLE>Dallas Semiconductor Corp: Home Page</TITLE>
+<META NAME="description" CONTENT="Dallas Semiconductor designs, manufacturers and markets electronic chips and chip-based subsystems.  The Company's direct sales force and distribution network sell to original equipment manufacturers in personal computers and workstations, scientific and medical equipment, industrial controls, automatic identification, telecommunications, consumer and other markets.">
+<META NAME="keywords" CONTENT="year 2000, Dallas Semiconductor, decoder ring, products, technical support, press releases, product announcements, company, employment, finance, investor relations, sales, contact information, data sheets, app notes, quality, safety, ftp archive, designers, tech briefs">
+</HEAD>
+<BODY BGCOLOR="FFFFFF" LINK="2d8c84" VLINK="2d8c84">
+
+<CENTER>
+<TABLE BORDER=0  CELLPADDING=0>
+<TR><TD colspan=2><IMG SRC="/icons/dallas.gif" WIDTH=403 Height=100 BORDER=0 ALT="Dallas Semiconductor Corporation">
+<A HREF="/Prod_info/Time_Keep/y2k.html"><IMG SRC="/icons/y2000.gif" WIDTH=148 HEIGHT=100 BORDER=0 ALT="It's Coming! January 2000"></A></TD></TR>
+<TR><TD ALIGN=CENTER><A HREF="News_Center/New_Products/1997/2118m.html">
+<IMG SRC="/icons/2118.jpg" WIDTH=150 HEIGHT=135 ALIGN=CENTER BORDER=0 ALT="DS2118M Ultra2 LVD/SE SCSI Terminator"></A><BR>
+<FONT FACE="Arial" COLOR=#2d8c84><B>Terminate your new LVD problems:<BR>
+DS2118M Ultra2 LVD/SE SCSI Terminator</B></FONT></TD>
+
+<TD VALIGN=CENTER ALIGN=CENTER><IMG SRC="/icons/newshead.gif" WIDTH=178 HEIGHT=19 ALT="News Flash">
+<P><A HREF="News_Center/Press_Releases/1997/3q97div.pdf"><FONT SIZE=2 COLOR=171774 FACE="Arial"><B><U>Dallas Semiconductor Corporation<BR>Declares Quarterly Dividend</A></FONT>
+<P><A HREF="News_Center/Press_Releases/1997/3q97.pdf"><FONT SIZE=2 COLOR=171774 FACE="Arial"><B><U>Dallas Semiconductor Corporation Reports<BR>Record Sales and Earnings for 3Q97</A></FONT>
+
+<P><CENTER>
+<A HREF="http://www.pathfinder.com/@@zEzF@AQAxhQpnGLt/fortune/1997/971013/jav.html">
+<FONT SIZE="2" COLOR="#171774" FACE="arial"><B><U>Java Meets the Decoder Ring
+<BR>in Fortune Magazine</U></B></FONT></A>
+<P><IMG SRC="/icons/ringsmall.gif" WIDTH=83 HEIGHT=79 BORDER=0 ALT="ibutton ring"></CENTER></TD></TR>
+
+<TR><TD></TD><TD></TD></TR>
+<TR><TD COLSPAN=2>
+<MAP NAME="sitemap">
+<AREA SHAPE="RECT" COORDS="179,5,509,49" HREF="http://www.ibutton.com" onMouseOver="status='iButton Web Site' ;return true">
+<AREA SHAPE="RECT" COORDS="37,14,130,43" HREF="SiteMap/index.html" onMouseOver="status='Dallas Semiconductor Site Map' ;return true">
+</MAP>
+<IMG SRC="icons/ibutton.gif" BORDER=0 USEMAP="#sitemap">
+</TD></TR>
+
+<TR><TD ALIGN=TOP><A HREF="Prod_info/index.html">
+<IMG SRC="/icons/bullgrn.gif" WIDTH=221 HEIGHT=24  BORDER=0 ALT="Products"></A>
+<BR><A HREF="Prod_info/Tech_Support.html">
+<IMG SRC="/icons/bullyel.gif" WIDTH=221 HEIGHT=25  BORDER=0 ALT="Technical Support"></A>
+<BR><A HREF="News_Center/index.html">
+<IMG SRC="/icons/bullblgrn.gif"  WIDTH=221 HEIGHT=34  BORDER=0 ALT="Press Releases & Product Announcements"></A>
+<BR><A HREF="info/index.html">
+<IMG SRC="/icons/bullbl.gif"  WIDTH=221 HEIGHT=24  BORDER=0 ALT="Company & Employment"></A>
+<BR><A HREF="info/index.html">
+<IMG SRC="/icons/bullred.gif"  WIDTH=229 HEIGHT=26  BORDER=0 ALT="Finance"></A>
+<BR><A HREF="Sales/index.html">
+<IMG  SRC="/icons/bullorg.gif"  WIDTH=221 HEIGHT=24  BORDER=0 ALT="Sales & Contact Information"></A>
+<BR><A HREF="DocControl/index.html">
+<IMG  SRC="/icons/bullprp.gif"  WIDTH=221 HEIGHT=27  BORDER=0 ALT="Data Sheets & Application Notes"></A>
+<BR><A HREF="Prod_info/Safety/index.html">
+<IMG  SRC="/icons/bullorg1.gif"  WIDTH=144 HEIGHT=27  BORDER=0 ALT="Quality & Safety"></A>
+<BR><A HREF="ftp://ftp.dalsemi.com/pub">
+<IMG  SRC="/icons/bulldkbl.gif"  WIDTH=221 HEIGHT=23  BORDER=0 ALT="Anonymous FTP Archive"></A></TD>
+
+<TD VALIGN=TOP>
+<IMG SRC="/icons/feature.gif"  WIDTH=272 HEIGHT=48  BORDER=0  ALT="Featured Products">
+<BR><FONT FACE="Arial" SIZE=2>
+<UL><B>
+<A HREF="News_Center/New_Products/1997/75.html">DS75 2-Wire Thermal Watchdog</A>
+<P><A HREF="News_Center/New_Products/1997/1315.html">DS1315 Phantom Time Chip</A>
+<P><A HREF="News_Center/New_Products/1997/powercap.html">PowerCap&#153; NV SRAM and Timekeeping Module</A>
+<P><A HREF="News_Center/New_Products/1997/2118m.html">DS2118M Ultra2 LVD/SE SCSI Terminator</A>
+</B></UL></FONT>
+
+<P><IMG SRC="/icons/designers.gif"  WIDTH=272 HEIGHT=49  BORDER=0  ALT="Help for Designers">
+
+<BR><FONT FACE="Arial" SIZE=2>
+<UL><B>
+<A HREF="TechBriefs/index.html">Tech Briefs: How-To Articles</A>
+<P><A HREF="Prod_info/Sil_Timed/guide.html">Real Designers Don't Use Delay Lines:
+<BR>Guide to Silicon Timed Circuits</A>
+<P><A HREF="Prod_info/Resource/index.html">Resource:  Product News<BR>for Design Engineers</A>
+</B></UL></FONT>
+</TD></TR>
+
+<TR><TD COLSPAN=2><IMG SRC="/icons/line.gif" WIDTH=592 HEIGHT=13  BORDER=0 ALT="Horizontal Rule"></TD></TR>
+
+<TR VALIGN=TOP>
+<TD ALIGN=LEFT><FONT SIZE=-1>
+PowerCap is a trademark of Dallas Semiconductor.
+<BR>Problems or comments?
+<BR><A HREF="mailto:webmaster@dalsemi.com"><I>webmaster@dalsemi.com</I></A></FONT></TD>
+<TD ALIGN=RIGHT><FONT SIZE=-1>Copyright &copy; 1997 
+<BR>Dallas Semiconductor Corp.</FONT></TD></TR>
+</TABLE></CENTER>
+
+</BODY>
+</HTML>
+

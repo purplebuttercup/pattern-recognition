@@ -1,0 +1,94 @@
+Server: Microsoft-IIS/4.0
+Content-Location: http://207.226.167.70/index.html
+Date: Thu, 18 Dec 1997 12:47:34 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Tue, 09 Dec 1997 17:36:30 GMT
+ETag: "7e422fcc84bd1:102c"
+Content-Length: 5371
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+
+<TITLE>Welcome to Crestar Bank</TITLE>
+
+<META NAME="generator" CONTENT="BBEdit 4.5">
+<META NAME="description" CONTENT="Welcome to Crestar Bank! Our web site includes information about savings accounts, checking accounts, business finance, international banking, insurance, investing, loans and credit, and much more. For quicker access to Crestar Internet Banking, use our quick link to sign in.">
+<META NAME="keywords" CONTENT="save, crestar bank, finance, banking, money, checks, deposit, credit, loan, borrow, atm, debit, insurance, invest, students, business, international, personal, cash, accounting">
+<META NAME="author" CONTENT="WLW">
+<META NAME="copyright" CONTENT="1997 Crestar Bank">
+
+
+</HEAD>
+<BODY bgcolor=ffffff vlink=999999>
+<script Language = "javascript">
+
+<!-- 
+
+var agent = navigator.userAgent;
+
+var version = 0;
+
+var index = 0;
+
+
+
+index = agent.indexOf("MSIE");
+if( index != -1 ){version = agent.substring( index + 5, index + 9);}
+else {
+
+	index = agent.indexOf("Mozilla");
+
+	if( index != -1 ){
+
+		version = agent.substring( index + 8, index + 12);
+
+	}
+
+}
+
+if( parseFloat(version) > 3.0 ){ window.location = "javaindex.html";}
+
+// -->
+
+</script>
+<center>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="600" border=0>
+	<TR><TD WIDTH=600 colspan=2><IMG SRC="images/logo.gif" ALT="Crestar Bank" WIDTH="600" HEIGHT="25" BORDER="0"></td></tR>
+	<tr><td width=380 align=center valign=top><br>
+		<table width=375 cellpadding=0 cellspacing=0 border=0>
+			<tr><td rowspan=4><IMG SRC="images_hp/hpimg_invest.jpg" ALT="Crestar Bank Online" WIDTH="117" HEIGHT="150" BORDER="0" name="hp_UpperLeft"></td>
+				<td colspan=2><a href="bankonline/"><IMG SRC="images_hp/hpbt_bankonline.gif" ALT="Link to: Bank Online" WIDTH="112" HEIGHT="25" VSPACE=3 BORDER="0" name="bankonline"></a></td></tr>
+			<tr><td colspan=2><a href="explorebb/"><IMG SRC="images_hp/hpbt_explorebb.gif" ALT="Link to: Explore Business Banking" WIDTH="231" HEIGHT="25"  VSPACE=3 BORDER="0" name="explorebb"></a></td></tr>
+			<tr><td><a href="borrow/"><IMG SRC="images_hp/hpbt_borrow.gif" ALT="Link to: Borrow" WIDTH="66" HEIGHT="25"  VSPACE=3 BORDER="0" name="borrow"></a></td></tR>
+			<tr><td valign=top><a href="save/"><IMG SRC="images_hp/hpbt_save.gif" ALT="Link to: Save" WIDTH="47" HEIGHT="25" BORDER="0" VSPACE="5" name="save"></a></td>
+				<td valign=bottom align=right rowspan=6><IMG SRC="images_hp/hpimg_person1.jpg" alt="Welcome to Crestar Bank"></td></tr>
+			<tr><td colspan=2><a href="checking/"><IMG SRC="images_hp/hpbt_checking.gif" ALT="Link to: Check Our Checking" WIDTH="176" HEIGHT="25"  VSPACE=3 BORDER="0" name="checking"></a></td></tr>
+			<tr><td colspan=2><a href="bank24/"><IMG SRC="images_hp/hpbt_bank24.gif" ALT="Link to: Bank 24hours" WIDTH="125" HEIGHT="25"  VSPACE=3 BORDER="0" name="bank24"></a></td></tr>
+			<tr><td colspan=2><a href="invest/"><IMG SRC="images_hp/hpbt_invest.gif" ALT="Link to: Invest" WIDTH="62" HEIGHT="25"  VSPACE=3 BORDER="0" name="invest"></a></td></tr>
+			<tr><td colspan=2><a href="insure/"><IMG SRC="images_hp/hpbt_insure.gif" ALT="Link to: Insure" WIDTH="62" HEIGHT="25"  VSPACE=3 BORDER="0" name="insure"></a></td></tr>
+			<tr><td colspan=2><img src="images_hp/hpimg_quote1.gif" alt=""></td></tr>
+			<tr><td colspan=3 align=right><FONT SIZE=-1 FACE="arial,helvetica">&copy; 1997 Crestar Bank. Member FDIC.</font></td></tr>
+		</table></td>
+		<td align=center valign=top><br>
+			<table cellpadding=0 cellspacing=0 border=0 width=190>
+			<tr><td><font face="arial,helvetica"><a href="news/guarantee.stm" onMouseOver="window.status='Click for details...';return true"><IMG SRC="images/guarantee.gif" WIDTH="197" vspace=5 HEIGHT="71" BORDER="0" alt="Guaranteed Satifaction or get Cash Back"></a></FONT></td></tr>
+			<tr><td><a href="scripts/browser.pl"><IMG SRC="images_hp/shpbt_signin.gif" ALT="Link to: Crestar Internet Banking Sign In" WIDTH="192" HEIGHT="26" BORDER="0" VSPACE="5" name="signin"></a></td></tr>
+			<tr><td><font face="arial,helvetica" SIZE=-1>Shortcut to <a href="scripts/browser.pl">Crestar Internet Banking</a>.<br></font></td></tr>
+			<tr><td><a href="communicate/"><IMG SRC="images_hp/shpbt_communicate.gif" ALT="Link to: Communicate" WIDTH="192" HEIGHT="27" BORDER="0" VSPACE="5" name="communicate"></a></td></tr>
+			<tr><td><font face="arial,helvetica" SIZE=-1>A good relationship is built upon solid <a href="communicate/">communication</a>. Start a friendship, start a dialog.</font><br></td></tr>
+			<tr><td><a href="discover/"><IMG SRC="images_hp/shpbt_discover.gif" ALT="Link to: Discover Crestar" WIDTH="192" HEIGHT="27" BORDER="0" VSPACE="5" name="discover"></a></td></tr>
+			<tr><td><font face="arial,helvetica" SIZE=-1>Need to find the <a href="discover/branches.stm">nearest branch</a>, or just want to know more <a href="discover/aboutus.stm">about us</a>?<br></font></td></tr>
+			<tr><td><a href="sitemap/"><IMG SRC="images_hp/shpbt_sitemap.gif" ALT="Link to: Site Map" WIDTH="192" HEIGHT="27" BORDER="0" VSPACE="5" name="sitemap"></a></td></tr>
+			<tr><td><font face="arial,helvetica" SIZE=-1>Need help finding a page on our site? Use our <a href="sitemap/index.stm#map">site map</a>, or just <a href="sitemap/index.stm#search">search</a> for it?<br><br></font></td></tr>
+			</table>		
+		</td>
+	</tr>
+</TABLE>
+
+</center>
+
+</BODY>
+</HTML>

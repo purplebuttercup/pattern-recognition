@@ -1,0 +1,67 @@
+Server: Netscape-Commerce/1.12
+Date: Thursday, 18-Dec-97 11:38:54 GMT
+Content-type: text/html
+
+<HTML>
+<HEAD>
+  <TITLE>Dreyfus - Family of Funds</TITLE>
+</HEAD>
+<BODY BGCOLOR="#cc9933" LINK="#660000" ALINK="#003333" VLINK="#003333" 
+BACKGROUND="../shared/products/bckgrnds/products.gif">
+
+<MAP NAME="home_pro">
+    <AREA SHAPE="rect" COORDS="4,5,76,94" HREF="../../">
+</MAP>
+
+<MAP NAME="top">
+    <AREA SHAPE="rect" COORDS="288,17,333,46" HREF="../potpourr/contact/">
+    <AREA SHAPE="rect" COORDS="227,18,267,42" HREF="../potpourr/search/">
+    <AREA SHAPE="rect" COORDS="154,17,215,42" HREF="../potpourr/">
+    <AREA SHAPE="rect" COORDS="79,16,139,43" HREF="../assist/">
+    <AREA SHAPE="rect" COORDS="15,15,68,42" HREF="../products/">
+</MAP>
+
+<TABLE WIDTH="592" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+<TR>
+<TD WIDTH="2"><!-- &nbsp;&nbsp; --></TD>
+<TD WIDTH="82" VALIGN="TOP"><IMG SRC="../shared/products/home_pro.gif" WIDTH="82" HEIGHT="126" ALIGN= "BOTTOM" NATURALSIZEFLAG="3" USEMAP="#home_pro" ISMAP BORDER="0"></TD>
+<TD WIDTH="508" VALIGN="TOP"><P>
+
+<TABLE WIDTH="508" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+<TR>
+<TD WIDTH="331" VALIGN="TOP">
+<IMG SRC="../shared/products/top/top_lion.gif" WIDTH="331" HEIGHT="58" ALIGN="BOTTOM" NATURALSIZEFLAG="3" USEMAP="#top" ISMAP BORDER="0"></TD>
+<TD WIDTH="177" VALIGN="TOP">
+<IMG SRC="../shared/products/lion/section.gif" WIDTH="177" HEIGHT="58" ALIGN="BOTTOM" NATURALSIZEFLAG="3" BORDER="0"></TD></TR></TABLE></P>
+<CENTER>
+<EMBED SRC="Dreyfus.dcr" WIDTH="430" HEIGHT="290" BGCOLOR="#cc9933" PALETTE="BACKGROUND" ALIGN="MIDDLE">
+</CENTER>
+
+<IMG SRC="../shared/products/divider.gif" WIDTH="508" HEIGHT="10" ALIGN="BOTTOM" NATURALSIZEFLAG="3" BORDER="0">
+<BLOCKQUOTE>
+Is your curiosity piqued? Read more about The <A HREF="../products/lion/">Lion Account</A> online.<BR>
+If you are ready for an information kit, including a Prospectus, order one now online or call 1-800-The-Lion ext. 6501. The Prospectus contains more complete information including charges and expenses. Please read it carefully before you invest.
+</BLOCKQUOTE>
+
+<IMG SRC="../shared/products/divider.gif" WIDTH="508" HEIGHT="10" ALIGN="BOTTOM" NATURALSIZEFLAG="3" BORDER="0">
+
+<P ALIGN=CENTER><A HREF="../products/"><FONT SIZE=-1>PRODUCTS</FONT></A><FONT SIZE=-1>: | <A HREF="../products/mf/">Mutual Funds</A> |<A HREF="../products/lion/"> Lion Account</A><SUP><FONT SIZE=-2>SM</FONT></SUP></FONT><BR>
+<FONT SIZE=-1><A HREF="../products/annuity/">Variable Annuity</A></FONT>
+| <FONT SIZE=-1><A HREF="../products/retire/">Retirement Products</A>
+| <A HREF="../products/more/">More</A> | <A HREF="../products/prices/nav-retail.html">Daily
+Numbers</A></FONT></TD></TR>
+
+</TABLE>
+<BR>
+
+<TABLE WIDTH="592" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+<TR>
+<TD WIDTH="2"><!-- &nbsp;&nbsp; --></TD>
+<TD WIDTH="590" VALIGN="TOP"><IMG SRC="../shared/products/bottom.gif" WIDTH="590" HEIGHT="6" ALIGN="BOTTOM" NATURALSIZEFLAG="3"></TD>
+</TR>
+</TABLE>
+
+</TD></TR>
+</TABLE>
+</BODY>
+</HTML>

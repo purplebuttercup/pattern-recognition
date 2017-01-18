@@ -1,0 +1,140 @@
+Server: Netscape-Enterprise/2.0c
+Date: Thu, 20 Nov 1997 16:34:15 GMT
+Accept-ranges: bytes
+Last-modified: Tue, 11 Nov 1997 20:21:53 GMT
+Content-length: 5376
+Content-type: text/html
+
+<HTML><HEAD><TITLE>Consolidated Freightways</TITLE></HEAD>
+
+<!--<BODY BGCOLOR="#ffffff">-->
+
+<BODY BGCOLOR="#ffffff" onLoad = timerONE=window.setTimeout('scrollit_r2l(100)',500);>
+
+<SCRIPT LANGUAGE="JavaScript">
+
+
+
+ <!-- Beginning of JavaScript Applet -------------------
+
+/* Copyright (C)1996 Web Integration Systems, Inc. DBA Websys, Inc.
+   All Rights Reserved.   This applet can be re-used or modified, if credit is given in the source code. We will not be held responsible for any unwanted effects due to the usage of this applet or any derivative.  No warrantees for usability for any specific application are given or implied. Chris Skinner, January 30th, 1996.*/
+
+function scrollit_r2l(seed)
+
+
+{
+        var m1  = "Direct CANADA Service - ";
+        var m2  = "To All The Places ";
+        var m3  = "You Need To Grow - ";
+        var m4  = "Call 1-800-543-9942 today.";
+        var msg=m1+m2+m3+m4;
+        var out = " ";
+        var c   = 5;
+        if (seed > 100) {
+                seed--;
+                var cmd="scrollit_r2l(" + seed + ")";
+                timerTwo=window.setTimeout(cmd,100);
+        }
+        else if (seed <= 100 && seed > 0) {
+                for (c=0 ; c < seed ; c++) {
+                        out+=" ";
+                }
+                out+=msg;
+                seed--;
+                var cmd="scrollit_r2l(" + seed + ")";
+                    window.status=out;
+               timerTwo=window.setTimeout(cmd,100);
+        }
+        else if (seed <= 0) {
+                if (-seed < msg.length) {
+                        out+=msg.substring(-seed,msg.length);
+                        seed--;
+                        var cmd="scrollit_r2l(" + seed + ")";
+                        window.status=out;
+                        timerTwo=window.setTimeout(cmd,100);
+                }
+                else {
+                        window.status=" ";
+timerTwo=window.setTimeout("scrollit_r2l(100)",75);
+                }
+        }
+}
+// -- End of JavaScript code ----------------> 
+
+
+</SCRIPT> 
+<CENTER><MAP NAME="cfbanner_top.map">
+
+<AREA SHAPE=RECT COORDS="9,1 243,19" HREF="about/about.html">
+
+<AREA SHAPE=RECT COORDS="241,20 317,39" HREF="siteMap/siteMap.html">
+</MAP></CENTER>
+
+<center><map name="cfbanner_new.map">
+<AREA SHAPE=RECT COORDS="0,0 144,105" HREF="newatCF/index.html">
+</MAP></CENTER>
+
+<center><map name="cfbanner_bottom.map">
+<AREA SHAPE=rect COORDS="244,5 480,77" HREF="services/ptair/index.html">
+<AREA SHAPE=rect COORDS="244,89 480,162" HREF="survey_internet/index.html">
+
+<AREA SHAPE=RECT COORDS="12,9 241,37" HREF="services/services.html">
+<AREA SHAPE=POLY COORDS="92,39 20,131 20,175 142,176 241,128 240,35 92,39" HREF="services/services.html">
+
+<AREA SHAPE=RECT COORDS="7,334 217,360" HREF="faq/faq.html">
+
+<AREA SHAPE=RECT COORDS="6,360 219,393" HREF="technology/technology.html">
+
+<AREA SHAPE=RECT COORDS="224,334 445,359" HREF="news/news.html">
+
+<AREA SHAPE=RECT COORDS="225,362 395,388" HREF="about/employment/employment.html">
+
+<AREA SHAPE=RECT COORDS="106,205 187,254" HREF="shipmgmt/shipmgmt.html">
+<AREA SHAPE=RECT COORDS="59,258 221,300" HREF="shipmgmt/shipmgmt.html">
+
+<AREA SHAPE=poly COORDS="221,161 221,304 289,301 356,218 354,157 221,161" HREF="coverage/coverage.html">
+<AREA SHAPE=RECT COORDS="356,161 439,217" HREF="coverage/coverage.html">
+
+</MAP></CENTER>
+<center>
+<table width=480 border=0 cellpadding=0 cellspacing=0>
+<tr>
+        <td colspan=2><img src="images/cfbanner_top.gif" width=336 height=67 border=0 usemap="#cfbanner_top.map"></td></tr>
+<tr>
+        <td><img src="images/cfbanner_mid.gif" width=243 height=54 border=0></td>
+        <td><a href="newatCF/index.html"><img src="images/wn_bulb4.gif" width=237 height=54 border=0></a></td></tr>
+<tr>
+        <td colspan=2><img src="images/cfbanner_bot.gif" width=480 height=404 border=0 usemap="#cfbanner_bottom.map"></td></tr>
+</table>
+</center>
+<P>
+<CENTER>This site is optimized for <BR><A HREF="http://home.netscape.com/">Netscape Navigator</A> version 2.01 or later.
+<BR>
+<A HREF="http://home.netscape.com/"><IMG SRC="images/Netnow.gif" ALT="Get Netscape  Now!" BORDER=0 WIDTH=88 HEIGHT=31></A>
+<P>
+<FONT SIZE=-1>
+<NOBR><A HREF="about/about.html">About Consolidated Freightways</A> |</NOBR>
+<NOBR><A HREF="newatCF/index.html">What's New at CF</A> |</NOBR>
+<NOBR><A HREF="survey_internet/index.html">Customer Survey</A> |</NOBR>
+<NOBR><A HREF="services/services.html">Freight Transportation Services</A> |</NOBR><br>
+<NOBR><A HREF="coverage/coverage.html">Worldwide Service Coverage</A> |</NOBR>
+<NOBR><A HREF="technology/technology.html">Advanced Transportation Technology</A> |</NOBR>
+<NOBR><A HREF="news/news.html">CF News</A> |</NOBR><BR>
+<NOBR><A HREF="faq/faq.html">CF FAQs</A> |</NOBR>
+<NOBR><A HREF="siteMap/siteMap.html">Site Map</A> |</NOBR>
+<NOBR><A HREF="shipmgmt/shipmgmt.html">Shipping Management and Tracking Center</A> |</NOBR>
+<A HREF="about/employment/employment.html">Career Opportunities</A></NOBR>
+</FONT>
+<P align="center">
+<font size=-1>
+<STRONG>&#169 1997 Consolidated Freightways, All Rights Reserved.</STRONG>
+<br>
+Consolidated Freightways' logos, trademarks and company names 
+<br>may not be used, 
+for any purpose, without prior permission.
+
+
+</font>
+</center>
+<p><p></BODY></HTML>

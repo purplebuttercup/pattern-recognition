@@ -1,0 +1,115 @@
+Date: Thu, 20 Nov 1997 20:06:05 GMT
+Server: Apache/1.2.1
+Connection: close
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>
+Explore
+</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" >
+
+<table cellspacing=0 cellpadding=0 border=0>
+<tr><td colspan=2><A href="/cgi-bin/imagemap.pl/secsec.map/tigQPnglumx"><img src = "/imgs/brady/redesignedgraphics/secsec.gif" border = "0" ISMAP width = "582" height = "89" alt = "brady_sub"></A></td></tr>
+<tr><td valign=top width=140>
+		<table width=140 cellspacing=0 cellpadding=0 border=0>
+		<tr><td><img src = "/imgs//brady/redesignedgraphics/leftbar.gif" border = "0" width = "114" height = "30" alt = "Blank grey"></td></tr>
+		<TR><TD><A href="/cgi-bin/genobject/document_1_1_103/tigQPnglumx"><img src = "/imgs/brady/redesignedgraphics/leftnews.gif" border = "0" width = "114" height = "30" alt = "News"></a></TD></TR>
+		<!-- TR><TD>< if($Session{'base_2'}eq "SESSION/base_2_3"){ link_object('depart_trade_shows', present('GRAPHIC/leftbar'));}else{link_object('article_gen_html_2_1', present('GRAPHIC/leftbar')); }></TD></TR -->
+                <TR><TD><A href="/cgi-bin/genobject/dept_our_company/tigQPnglumx"><img src = "/imgs/brady/redesignedgraphics/leftcompany.gif" border = "0" width = "114" height = "30" alt = "Our Company"></a></TD></TR>
+		<TR><TD><A href="/cgi-bin/genobject/department_class_3/tigQPnglumx"><img src = "/imgs/brady/redesignedgraphics/leftprod.gif" border = "0" width = "114" height = "30" alt = "Products"></a></TD></TR>
+		<TR><TD><A href="/cgi-bin/genobject/depart_tech_support/tigQPnglumx"><img src = "/imgs/brady/redesignedgraphics/lefttech.gif" border = "0" width = "114" height = "30" alt = "Tech Support"></a></TD></TR>
+		<!-- TR><TD>< link_object('depart_our_distr', present('GRAPHIC/leftdistrib'))></TD></TR -->
+		<TR><TD><A href="/cgi-bin/genobject/dept_bus_unit_locator/tigQPnglumx"><img src = "/imgs/brady/redesignedgraphics/leftloc.gif" border = "0" width = "114" height = "30" alt = "Locations"></a></TD></TR>
+		<TR><TD><A href="/cgi-bin/genobject/partners_1/tigQPnglumx"><img src = "/imgs/brady/redesignedgraphics/leftpartners.gif" border = "0" width = "114" height = "30" alt = "Partners"></a></TD></TR>
+		<TR><TD><A href="/cgi-bin/genobject/dept_financial_information/tigQPnglumx"><img src = "/imgs/brady/redesignedgraphics/leftfinancial.gif" border = "0" width = "114" height = "30" alt = "Financial"></a></TD></TR>
+		<TR><TD><A href="/cgi-bin/genobject/depart_job_opp/tigQPnglumx"><img src = "/imgs/brady/redesignedgraphics/leftemploy.gif" border = "0" width = "114" height = "30" alt = "Employment"></a></TD></TR>
+		<!-- TR><TD>< link_object('depart_compl_alliance', present('GRAPHIC/leftcompliance'))></TD></TR -->
+		<tr><td><IMG SRC="/imgs/brady/redesignedgraphics/leftbar.gif" WIDTH="114" HEIGHT="300"></td></tr>
+                <tr><td valign=top><IMG SRC="/imgs/brady/redesignedgraphics/copy.gif" WIDTH="114" HEIGHT="88" alt="Copyright 1996 WH Brady Co."></td>
+		</table>
+</td><td align=left valign=top><BR><BR>
+<!-- Through this section, you will be LEAVING the W.H. Brady Co. Website.  If you haven't done so already, please BOOKMARK this site and return to see us again soon! -->
+<P>
+
+<!-- this is so super annoying ...
+<a href="/cgi-bin/genobject/index" onMouseover="alert('You are now LEAVING the W.H.Brady Co. Website.  If you haven\'t done so already, please BOOKMARK this site NOW and return to see us again soon!')">
+Please bookmark the W.H. Brady site before leaving us!</A> 
+-->
+
+<CENTER><B></B>
+</CENTER>
+<B></B>
+<DL>
+<DT><A href="/cgi-bin/genobject/department_special__12_1/tigQPnglumx?m2=Products+m1=graphics+cwd=/dot_matrix_products">Dot Matrix Products</A>
+<DD>Over 500 parts for a wide variety of applications plus a complete range of software, ribbons, and printers.
+<DT><A href="/cgi-bin/genobject/department_special__12_1/tigQPnglumx?m2=Products+m1=graphics+cwd=/general_labeling">General Labeling Products</A>
+<DD>Write-on labels, tamper seals, inspection arrows and various masks for the electronic and electrical industries.
+<DT><A href="/cgi-bin/genobject/department_special__12_1/tigQPnglumx?m2=Products+m1=graphics+cwd=/general_wire_marking">General Wire Marking Products</A>
+<DD>A variety of wire marker cards, books, conduit and voltage markers, plus hot stampers and bulk tubing.
+<DT><A href="/cgi-bin/genobject/department_special__12_1/tigQPnglumx?m2=Products+m1=graphics+cwd=/laserprint">Laser Printing Products</A>
+<DD>The LaserTab(tm) line and custom labels.
+<DT><A href="/cgi-bin/genobject/department_special__12_1/tigQPnglumx?m2=Products+m1=graphics+cwd=/portable_printing">Portable Printing Systems</A>
+<DD>Printing systems that create labels on site, on time, and on demand.
+<DT><A href="/cgi-bin/genobject/department_special__12_1/tigQPnglumx?m2=Products+m1=graphics+cwd=/software">Software</A>
+<DD>Printing Software in MS-DOS and Windows.
+<DT><A href="/cgi-bin/genobject/department_special__12_1/tigQPnglumx?m2=Products+m1=graphics+cwd=/technical_data">Technical Data</A>
+<DD>Summarized Technical Data.
+<DT><A href="/cgi-bin/genobject/department_special__12_1/tigQPnglumx?m2=Products+m1=graphics+cwd=/thermal_transfer">Thermal Transfer Products</A>
+<DD>Brady offers a complete, fully tested thermal transfer printing system that includes labels, printers, software and ribbons.
+</DL>
+
+
+<HR WIDTH= 84%>
+
+<P><BR>
+Contact us through our <A href="/cgi-bin/genobject/department_special__10_1/tigQPnglumx">feedback form</a> for general comments/suggestions or our <A href="/cgi-bin/genobject/department_special__10_2/tigQPnglumx">technical support form</a> for product support.  
+<P><BR>
+<CENTER>
+<A href="/cgi-bin/genobject/index/tigQPnglumx"><img src = "/imgs/brady/newbradygraphics/homebutton.gif" border = "0" width = "46" height = "88" alt = "Home"></a>
+
+</CENTER>
+
+
+
+<!-- IMG SRC="http://www.whbrady.com/imgs/brady/redesignedgraphics/homebutton.gif" WIDTH="46" HEIGHT="88" -->
+
+</td>
+</tr>
+<tr><td valign=top><! IMG SRC="http://www.whbrady.com/imgs/brady/redesignedgraphics/copy.gif" WIDTH="136" HEIGHT="88" alt="Copyright 1996 WH Brady Co."></td>
+<td align=center></td></tr>
+</table>
+
+
+
+
+<hr>
+
+
+
+<MAP NAME=main>
+<AREA SHAPE=rect COORDS="0,70,96,89" href="/cgi-bin/genobject/department_special__feedback/tigQPnglumx">
+<AREA SHAPE=rect COORDS="95,71,151,89" href="/cgi-bin/genobject/department_special__12_1/tigQPnglumx?m2=References+m1=graphics+cwd=/">
+<AREA SHAPE=rect COORDS="149,71,202,89" href="/cgi-bin/genobject/department_class_2/tigQPnglumx">
+<AREA SHAPE=rect COORDS="200,71,263,89" href="/cgi-bin/genobject/sitemap/tigQPnglumx">
+<AREA SHAPE=rect COORDS="261,71,330,89" href="/cgi-bin/genobject/department_special__10_1/tigQPnglumx">
+<AREA SHAPE=rect COORDS="329,71,386,89" href="/cgi-bin/WebX.cgi/tigQPnglumx?Brady">
+<AREA SHAPE=rect COORDS="385,71,454,89" href="/cgi-bin/genobject/depart_download/tigQPnglumx">
+<AREA SHAPE=rect COORDS="453,71,519,89" href="/cgi-bin/genobject/department_class_1/tigQPnglumx">
+<AREA SHAPE=rect COORDS="518,71,581,89" href="/cgi-bin/genobject/index/tigQPnglumx">
+<AREA SHAPE=default href="/cgi-bin/genobject/index/tigQPnglumx">
+</MAP>
+
+
+<p>
+<!-- <P><BR>
+Contact us through our <A href="/cgi-bin/genobject/department_special__10_1/tigQPnglumx">feedback form</a> for general comments/suggestions or our <A href="/cgi-bin/genobject/department_special__10_2/tigQPnglumx">technical support form</a> for product support.  
+<P><BR> -->
+
+<center>
+<! link_object('index',present('GRAPHIC/homebutton'))>
+</center>
+</BODY>
+</HTML>

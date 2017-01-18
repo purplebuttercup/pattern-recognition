@@ -1,0 +1,28 @@
+Date: Sun, 16 Nov 1997 18:05:38 GMT
+Server: NeoWebScript/2.2 Apache/1.2.1
+Connection: close
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+    <TITLE>Newfield Exploration Company</TITLE>
+</HEAD>
+<BODY BGCOLOR="#ffffff">
+<P><CENTER></CENTER>
+<H2><CENTER>Welcome To<BR>
+<IMG SRC="horiz.gif" WIDTH="403" HEIGHT="8" ALIGN=bottom NATURALSIZEFLAG=
+"3"><BR><br>
+<IMG SRC="nftypelarge.jpg"><BR>
+<IMG SRC="nfburstlarge2.jpg"><BR>
+Exploration Company<BR><br>
+<IMG SRC="horiz.gif" WIDTH="403" HEIGHT="8" ALIGN=bottom NATURALSIZEFLAG=
+"3"></CENTER>
+</H2>
+<H4><CENTER>An independent oil &amp; gas company focused in the Gulf of
+Mexico</CENTER>
+</H4>
+<br>
+<br><center>
+<a href="main.html">Newfield Main Menu</a><br></center>
+</BODY>
+</HTML>

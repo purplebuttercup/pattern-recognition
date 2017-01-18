@@ -1,0 +1,455 @@
+Date: Wed, 19 Nov 1997 23:30:55 GMT
+Server: Apache/1.2.0
+Connection: close
+Content-Type: text/html
+
+<HTML>
+  <HEAD>
+    <TITLE>
+      Phillips Petroleum Company: Home Page
+    </TITLE>
+    <META HTTP-EQUIV="Content-Type" CONTENT="text/html">
+    <META NAME="generator" CONTENT="Press Release Management System 1.0.06 (revision 97.07.18)">
+    <META NAME="description" Content="Current & historical information about Phillips Petroleum Company, a worldwide mareter. Including: Product information, annual report, stock quotes, news releases and community environmental educational programs.">
+    <META NAME="keywords" Content="oil, petroleum, plastics, Phillips, 66, gasoline, exploration, refining, gas, ehtylene">
+  </HEAD>
+
+  <BODY BGCOLOR="#FFFFFF">
+    <center><TABLE BORDER="0" WIDTH="580">
+      <TR>
+        <TD>
+          <CENTER>
+            <IMG
+              SRC="icons/type2.gif"
+              WIDTH="250"
+              HEIGHT="53"
+              ALT="Phillips Petroleum-The Performance Company-For All The Miles To Come">
+
+            <BR>
+            <H3>
+              <EM>
+                Down the road... and around the world you're likely to see the familiar
+                red and white Phillips 66 shield, the symbol of performance.
+              </EM>
+            </H3>
+
+            <IMG
+              SRC="icons/typelowr.gif"
+              WIDTH="166"
+              HEIGHT="57">
+          </CENTER>
+        </TD>
+
+        <TD>
+          <!--
+            This is a server-side imagemap converted
+            to client-side by Mapedit. As a demonstration, this
+            document also contains an inline image with an
+            appropriate USEMAP attribute referring to the map.
+            To use this map in another document, just paste the
+            map into that document and set the USEMAP attribute
+            for the appropriate inline image.          -->
+
+          <IMG
+            SRC="icons/66web.gif"
+            WIDTH="280"
+            HEIGHT="280"
+            USEMAP="#66WEB"
+            BORDER="0">
+
+          <MAP NAME="66WEB">
+            <AREA SHAPE="rect" ALT="Our Citizenship" COORDS="142,21,258,135" HREF="citizen.html">
+            <AREA SHAPE="rect" COORDS="15,19,131,135"   HREF="products.html">
+            <AREA SHAPE="rect" COORDS="141,142,257,260" HREF="business.html">
+            <AREA SHAPE="rect" COORDS="15,142,131,258"  HREF="company.html">
+            <AREA SHAPE="rect" COORDS="0,0,279,279"     HREF="index.shtml">
+          </MAP>
+        </TD>
+      </TR>
+    </TABLE></center>
+
+    <!--<P ALIGN="center"></P>-->
+    <!--WEB SITE SECTION DESCRIPTIONS-->
+    <CENTER>
+      <P>
+      <IMG
+        SRC="icons/chr.gif"
+        WIDTH="580"
+        HEIGHT="11">
+    </CENTER>
+      <P>
+
+    <CENTER><TABLE BORDER="0" WIDTH="580">
+ 	<TR>
+        <TD WIDTH="275" VALIGN="top">
+		
+          <DL>
+            <DT>
+              <A HREF="company.html">
+                <IMG
+                  SRC="icons/bul3.gif"
+                  WIDTH="27"
+                  HEIGHT="34"
+                  BORDER=0
+                  ALIGN="absmiddle"
+                  HSPACE="4">
+
+                <STRONG>OUR COMPANY.</STRONG></A>
+
+              <IMG
+                SRC="icons/logo59.gif"
+                WIDTH="65"
+                HEIGHT="54"
+                HSPACE="15"
+				BORDER=0
+				VALIGN="TOP">
+
+            <DD>
+              Find out more about who we are, check on how we're doing financially and learn about new developments.
+			  <p>
+              <IMG SRC="icons/new.gif">
+              Visit our <A HREF="http://www.corporate-ir.net/asp/ir_site.asp?ticker=p">Investor Information Center</a>
+              <BR>
+              <BR>
+            <DT>
+              <A HREF="business.html">
+                <IMG
+                  SRC="icons/bul4.gif"
+                  WIDTH="25"
+                  HEIGHT="25"
+                  BORDER="0"
+                  HSPACE="5"
+                  ALIGN="absmiddle">
+
+                <STRONG>OUR KEY BUSINESSES.</STRONG></A>
+
+            <DD>
+              We're really four companies linked strongly together. Take a look
+              at our major areas of activity around the world.
+              <BR>
+              <BR>
+
+            <DT>
+              <A HREF="products.html">
+                <IMG
+                  SRC="icons/bul2.gif"
+                  WIDTH=25
+                  HEIGHT=25
+                  BORDER=0
+                  HSPACE=5
+                  ALIGN="absmiddle">
+
+                <STRONG>OUR PRODUCTS &amp; SERVICES.</STRONG></A>
+
+            <DD>
+              Millions are familiar with our SuperClean gasoline and TropArtic
+              motor oil. But did you know Phillips is also one of the nation's
+              leading producers of plastics?
+              <BR>
+              <BR>
+
+            <DT>
+              <A HREF="citizen.html">
+                <IMG
+                  SRC="icons/bul1.gif"
+                  WIDTH="30"
+                  HEIGHT="33"
+                  BORDER="0"
+                  HSPACE="3"
+                  ALIGN="absmiddle">
+
+                <STRONG>OUR CITIZENSHIP.</STRONG></A>
+
+            <DD>
+              We've made a commitment to improving the quality of life wherever
+              we operate. Here's how we're following through.
+              <BR>
+              <P>
+                <IMG
+                  SRC="icons/gray.gif"
+                  WIDTH="250"
+                  HEIGHT="1"
+                  BORDER="0">
+                <BR>
+                <A HREF="maureen/index.html">
+                  <IMG SRC="icons/tmbinfield.jpg"
+                    HEIGHT=50
+                    WIDTH=130
+                    BORDER="0"
+                    ALIGN="left"
+					HSPACE="2">
+
+                  <FONT SIZE="-1">
+                    <B>
+                      Phillips Petroleum
+                      <BR>
+                      Maureen Platform For Sale
+                    </B>
+                  </FONT></A>
+
+                <BR>
+                <BR>
+
+                <IMG
+                  SRC="icons/dot_clea.gif"
+                  HEIGHT="5"
+                  WIDTH="5"
+                  BORDER="0">
+
+            <DD>
+              <A HREF="http://www.jobweb.org/employer/phill.htm">
+                <!-- was 52 x 52 -->
+                <!--
+                <IMG SRC="icons/employicon.gif"
+                  HEIGHT=50
+                  WIDTH=130
+                  BORDER="0"
+                  ALIGN="right"
+                  VALIGN="top">
+                -->
+                <B>DOMESTIC</b>
+                <FONT SIZE="-1">
+                  <B>
+                    Job Opportunities At
+                    <BR>
+                    Phillips Petroleum Company
+                  </B>
+                </FONT></A>
+          </DL>
+        </TD>
+
+        <!--GREY VERTICAL DIVIDER LINE-->
+
+        <TD ALIGN="center" VALIGN="top">
+          <IMG
+            SRC="icons/gray.gif"
+            WIDTH="1"
+            HEIGHT="600">
+        </TD>
+
+        <!--SITE DETOURS SECTION-->
+        <TD WIDTH="300" ALIGN="left" VALIGN="top">
+          <A HREF="news/index.shtml">
+            <IMG
+              SRC="icons/done2.gif"
+              WIDTH="180"
+              HEIGHT="53"
+              BORDER=0></A>
+
+          <!--<IMG
+            SRC="icons/dot_clea.gif"
+            HEIGHT="53"
+            WIDTH="40"
+            BORDER=0>-->
+
+          <DL>
+            <DT>
+              <A HREF="creditcard/index.shtml">
+                <IMG
+                  SRC="icons/credicon.gif"
+                  HEIGHT=52
+                  WIDTH=52
+                  ALIGN="left"
+                  HSPACE="7"
+                  BORDER="0"></A>
+
+				<!--<DD>-->
+					<FONT SIZE="-1">
+						<STRONG>
+							CREDIT CARD APPLICATION<BR>
+							Now you can apply for a Phillips Credit Card On-line!</STRONG>
+					</FONT>
+						<BR CLEAR="ALL">
+						<BR CLEAR="ALL">
+
+            <DT>
+			 <A HREF="http://seweb2.phillips66.com/p66mkt/location.nsf">
+              <IMG
+                SRC="icons/gasicon1.jpg"
+                HEIGHT=52
+                WIDTH=52
+                ALIGN="left"
+                HSPACE="7"
+                BORDER="0"></a>
+
+            <!--<DD>-->
+              <FONT SIZE="-1">
+                <STRONG>
+                  STATION LOCATOR
+                  <BR>
+					Use Station Locator to find the Phillips 66 nearest you.
+				</STRONG>
+              </FONT>
+              <BR CLEAR="all">
+              <BR CLEAR="all">
+
+
+            <DT>
+              <A HREF="hes96/hesreport.html">
+                <IMG
+                  SRC="icons/hesicon.gif"
+                  WIDTH="52"
+                  HEIGHT="50"
+                  ALIGN="left"
+                  HSPACE="7"
+                  BORDER="0"></A>
+
+            <!--<DD>-->
+              <FONT SIZE="-1">
+                <STRONG>
+                  HEALTH, ENVIRONMENT AND SAFETY
+                  <BR>
+                  Visit our new HES section.
+                </STRONG>
+              </FONT>
+              <BR CLEAR="all">
+              <BR CLEAR="all">
+
+            <DT>
+              <A HREF="frank.html">
+                <IMG
+                  SRC="icons/det250.gif"
+                  WIDTH="52"
+                  HEIGHT="50"
+                  ALIGN="left"
+                  HSPACE="7"
+                  BORDER="0"></A>
+
+            <!--<DD>-->
+              <FONT SIZE="-1">
+                <STRONG>
+                  HISTORICAL DETOUR
+                  <BR>
+                  Click wherever you see this icon for interesting facts about our history.
+                </STRONG>
+              </FONT>
+              <BR CLEAR="all">
+              <BR CLEAR="all">
+
+
+            <DT>
+              <A HREF="tech.html">
+                <IMG
+                  SRC="icons/techlgo.gif"
+                  WIDTH="52"
+                  HEIGHT="52"
+                  ALIGN="left"
+                  HSPACE="7"
+                  BORDER="0"></A>
+
+            <!--<DD>-->
+              <FONT SIZE="-1">
+                <STRONG>
+                  TECHNOLOGICAL INNOVATIONS
+                  <BR>
+                  This icon will lead you to information about exciting new technology.
+                </STRONG>
+              </FONT>
+              <BR CLEAR="all">
+              <BR CLEAR="all">
+
+            <DT>
+              <A HREF="prodcrb1.html">
+                <IMG
+                  SRC="icons/cleanwt.gif"
+                  HEIGHT="51"
+                  WIDTH="52"
+                  ALIGN="left"
+                  HSPACE="7"
+                  BORDER="0"></A>
+
+            <!--<DD>-->
+              <FONT SIZE="-1">
+                <STRONG>
+                  CLEANER PRODUCTS
+                  <BR>
+                  See how we're working to improve our environment.
+                </STRONG>
+              </FONT>
+              <BR CLEAR="all">
+
+          </DL>
+        </TD>
+      </TR>
+    </TABLE></CENTER>
+
+    <P>
+    <CENTER>
+      <IMG
+        SRC="icons/ghr.gif"
+        WIDTH="580"
+        HEIGHT="11">
+      <BR CLEAR="all">
+
+      <!--WHATS NEW SECTION-->
+      <IMG
+        SRC="icons/new.gif"
+        WIDTH="37"
+        HEIGHT="21"
+        ALT="NEW">
+    </CENTER>
+
+    <TABLE WIDTH="580" ALIGN="center">
+      <TR>
+        <TD WIDTH="10%">
+          &nbsp;
+        </TD>
+
+        <TD>
+            <FONT SIZE="-1">
+              <DL COMPACT>
+                <A HREF="pressrel/rel142.html">
+                  <DT><FONT SIZE="-2">11/18/97</FONT>
+                  Phillips Signs Letter of Intent To Buy Interest In El Paso Pipeline System
+                </A>
+                <BR>
+                <A HREF="pressrel/rel141.html">
+                  <DT><FONT SIZE="-2">11/17/97</FONT>
+                  Phillips, Qatar Sign Joint-Venture Agreement For Petrochemical Complex
+                </A>
+                <BR>
+                <A HREF="pressrel/rel140.html">
+                  <DT><FONT SIZE="-2">11/17/97</FONT>
+                  Phillips to Construct Metallocene Compound Plant
+                </A>
+                <BR>
+                <A HREF="pressrel/rel139.html">
+                  <DT><FONT SIZE="-2">11/06/97</FONT>
+                  Phillips Finds Oil in China's Bohai Bay
+                </A>
+                <BR>
+
+              </DL>
+            </FONT>
+
+
+        </TD>
+      </TR>
+    </TABLE>
+
+    <CENTER>
+      <P>
+      <IMG
+        SRC="icons/ghr.gif"
+        WIDTH="580"
+        HEIGHT="11">
+      <BR>
+
+      <!--FOOTER STARTS HERE-->
+      <FONT SIZE=-1>
+        <P>
+        Please send your comments to our <A HREF="wmastrp.html">Webmaster</A>.
+        <P>
+        Copyright 1996 Phillips Petroleum Company. All rights reserved.
+        <BR>
+          Updated 11/18/97
+
+        <BR>
+        <BR>
+        Multimedia by <A HREF="http://www.wiltel.net">WilTel Internet Services</A>
+        <P>
+        &nbsp;
+      </FONT>
+    </CENTER>
+  </BODY>
+</HTML>

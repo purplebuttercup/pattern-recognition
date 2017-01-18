@@ -1,0 +1,44 @@
+Server: Netscape-Enterprise/2.0a
+Date: Thu, 20 Nov 1997 00:04:50 GMT
+Content-type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//SoftQuad//DTD HoTMetaL PRO 4.0::19970916::extensions to HTML 4.0//EN"
+ "hmpro4.dtd">
+
+<HTML>
+  
+  <HEAD>
+    <TITLE>Norsk Hydro ASA</TITLE>
+    <META HTTP-EQUIV="PICS-Label" 
+    CONTENT='(PICS-1.0 "http://www.rsac.org/ratingsv01.html" l gen true comment "RSACi North America Server" by "kai.roer@ios.hydro.com" for "http://www.hydro.com" on "1996.04.04T08:15-0500" exp "1997.07.01T08:15-0500" r (n 0 s 0 v 0 l 0))'>
+
+<!-- BASE HREF="http://www.hydro.com/" -->
+    
+    
+<!-- inkluderer base href, slik at sidene kan testes pÔ internserver, og alltid
+fungere pÔ ekstern -->
+    
+    
+  </HEAD>
+  
+  <FRAMESET COLS="103,*" BORDER="1">
+  <FRAME SRC="left_frame.html" NAME="meny" SCROLLING="auto" MARGINHEIGHT="10" 
+  MARGINWIDTH="0" NORESIZE="NORESIZE">
+  <FRAME SRC="index4.html" NAME="main" SCROLLING="auto" MARGINHEIGHT="10" 
+  MARGINWIDTH="5"></FRAMESET>
+  <NOFRAME><BODY BGCOLOR="#ffffff">
+    
+    <H2>Welcome to Norsk Hydro</H2>
+    
+    <P>These pages uses Frames to show the contents. Please update your browser
+      to one who lets you view frames and Java. </P>
+    
+    <P><A HREF="http://www.netscape.com">Netscape</A> and
+      <A HREF="http://www.microsoft.com/ie/ie.htm">Microsoft Internet Explorer</A>
+      both supports frames. We recommend that you use one of these. </P>
+    
+    <P>Please mail any comments to
+      <A HREF="mailto:webmaster@hda.hydro.com?subjet=HydroÇs Webpages">Webmaster@hda.hydro.com</A>.
+        </P>
+  </BODY></NOFRAME>
+</HTML>

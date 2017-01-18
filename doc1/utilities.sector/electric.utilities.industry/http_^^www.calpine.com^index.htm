@@ -1,0 +1,41 @@
+Server: Microsoft-IIS/2.0
+Date: Thu, 18 Dec 1997 20:43:36 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Wed, 09 Jul 1997 15:16:37 GMT
+Content-Length: 1223
+
+<HTML>
+<HEAD>
+   <TITLE>Calpine Homepage</TITLE>
+   <!-- META HTTP-EQUIV="Content-Type" CONTENTS="text/html;charset=English" -->
+   <!-- META HTTP-EQUIV="Content-Type" CONTENTS="charset=English" -->
+<script language="javascript">
+<!--
+var ap_vinfo = navigator.appVersion;
+var ap_ver   = ap_vinfo.substring(0,ap_vinfo.indexOf('('));
+var os_name  = ap_vinfo.substring(ap_vinfo.indexOf('(')+1,ap_vinfo.indexOf(';'));
+function linktoremote (p, h, u)
+{
+   msg = "http://www.calpine.com/";
+   msg = msg+"?ptcl="+ p;
+   msg = msg+"&hstf="+ top.location.host;
+   msg = msg+"&hstt="+ h;
+   msg = msg+"&url="+ u;
+   msg = msg+"&os="+ os_name;
+   msg = msg+"&ap="+ navigator.appName + "%20" + ap_ver;
+   top.location.href=msg;
+}
+// -->
+</script>
+<FRAMESET FRAMEBORDER="no" border=0 framespacing=0 cols="140,*">
+<frame src="sidebar-old.htm" NORESIZE MARGINWIDTH=0 SCROLLING="no" MARGINHEIGHT=0 name="Menu Choice">
+<frame src="main.htm" NORESIZE SCROLLING="auto" MARGINWIDTH=0 MARGINHEIGHT=0 name="Gateway page">
+</FRAMESET>
+</head>
+<body bgcolor=#000000>
+<center>
+<img  src="/cgi-bin/Count.cgi?ft=0|frgb=69;139;50|tr=0|trgb=0;0;0|wxh=15;20|md=8|dd=B|st=5|sh=0|df=index.dat">
+</center>
+</BODY>
+</HTML>

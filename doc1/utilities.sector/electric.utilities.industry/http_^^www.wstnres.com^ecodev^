@@ -1,0 +1,284 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 18 Dec 1997 20:53:12 GMT
+Content-Type: text/html
+
+<html>
+<head>
+<title>Western Resources: Economic Development</title>
+</head>
+<!-- Insert text, vlink, link, and td bgcolor below. -->
+<!-- then save this file as "header.txt" in the appropriate directory. -->
+
+<body bgcolor="ffffff" text="000000">
+<table border=0 cellpadding=0 cellspacing=0>
+
+<!-- ****** here's where the header picture goes ****** -->
+<!-- Codes:
+	we = Westar Energy
+	ws = Westar Security
+	wg = Wing Group
+	uo = Utility Operations
+	fi = Financial Information
+	sh = Shareowner Services
+	wn = What's News
+	bp = Bulk Power Sales
+	ev = Environmental
+	en = Employee News
+	ir = Investment Recovery
+-->
+<!-- ****** When changing the filename & sidebar color below, do not allow the
+            line to wrap.   The line must remain intact. ****** -->
+            
+<!--  In this instance there is no picture -->
+
+<td width=150 valign=top bgcolor="009999"><table border=0 cellpadding=0 cellspacing=0><td height=153 width=150><br></td></table>
+
+<br>
+<center>
+<table border=0 width=120>
+
+<!-- ****** insert sidebar links below ****** -->
+
+<td align=right><font size=3><b><a href="ksvstats.stm">Kansas Vital Statistics</a></b></font></td><tr><td height=20 colspan=2><br></td><tr>
+<td align=right><font size=3><b><a href="#incentives">Business Incentives</a></b></font></td><tr><td height=20 colspan=2><br></td><tr>
+<td align=right><font size=3><b><a href="plastic.stm">Plastic Manufacturers</a></b></font></td><tr><td height=20 colspan=2><br></td><tr>
+<td align=right><font size=3><b><a href="food.stm">Food Processing Companies</a></b></font></td><tr><td height=20 colspan=2><br></td><tr>
+<td align=right><font size=3><b><a href="machine.stm">Machine Tool Manufacturers</a></b></font></td><tr><td height=20 colspan=2><br></td><tr>
+<td align=right><font size=3><b><a href="/entrance.html">Home</a></b></font></td><tr><td height=20 colspan=2><br></td><tr>
+<td align=center valign=bottom><a href="/entrance.html"><img border=0 src="http://www.wstnres.com/images/uo_wrstar.gif" width=100></a></td>
+
+<!-- ****** end of sidebar links ****** -->
+
+</table>
+</center>
+</td>
+<td valign=top width=488 bgcolor="ffffff">
+
+<!-- ****** here's where the header graphic goes ****** -->
+<!-- Codes:
+	we = Westar Energy
+	ws = Westar Security
+	wg = Wing Group
+	uo = Utility Operations
+	fi = Financial Information
+	sh = Shareowner Services
+	wn = What's News
+	bp = Bulk Power Sales
+	ev = Environmental
+	en = Employee News
+	ir = Investment Recovery
+	ed = Economic Development
+-->
+	
+<img border=0 src="images/ed_head.gif" alt="Economic Development">
+<p>
+<blockquote>
+
+<!-- ****** insert content of page below ****** -->
+
+
+<h3>Discover Why There's No Place Like Kansas</h3>
+
+Kansas offers abundant natural resources, affordable land, and hard-
+working people.  Our air is clean.  We have cultural, topographical 
+and recreational diversity and excellent educational resources.<p>
+
+Kansas is the home of Western Resources.  As the parent to two 
+utility companies -- KPL and KGE -- Western Resources supplies 
+this region with electricity and natural gas.  We offer competitive 
+electric rates and natural gas rates among the lowest in the nation.
+<p>
+
+Follow these links for more information on:
+<ul>
+<a href="#incentives">Business Incentives</a><br>
+<a href="#serve">Businesses We Serve</a><br>
+<a href="ksvstats.stm">Kansas Vital Statistics</a><br>
+<a href="#visit">Come Visit</a>
+</ul>
+<p>
+<b>No Place Offers A More Productive Work Force</b><br>
+
+Kansas is a right-to-work state and Kansas workers are known for 
+their strong work ethic and high productivity.  The state ranks 2nd 
+in the nation in human resources education and skill levels.  And we 
+have better than an 80% high school graduation rate.
+<p>
+Operating Costs/Cost of Living
+
+Kansas has the 7th lowest average cost of living in the U.S. The 
+construction cost index is 15% below the national average. And 
+Kansas industrial land prices/rents are lower than almost every city 
+in the 126 top markets.
+<p>
+
+<b>No Energy Like Our Energy - KPL and KGE</b><br>
+
+Total net electric generating capacity -- 4,985 megawatts.<br>
+Capacity above peaks loads -- 23%<br>
+Electric service system reliability rate -- 99.99%<br>
+Stable and reliable energy supply well into the future<p>
+
+<a name="incentives">
+<br>
+<b>Financial Incentives</b>
+<p>
+
+Save on electric and natural gas costs for five years with KPL/KGE 
+Electric and Natural Gas Business Incentive Plans. First year savings 
+are:
+<ul>
+<a href="bus.stm#KPL">25% on net KPL electric costs</a><br>
+<a href="bus.stm#KGE">50% on KGE electric capacity charges</a><br>
+<a href="bus.stm#GAS">50% on natural gas transportation costs</a><p>
+</ul>
+
+Kansas and Oklahoma, and many Western Resources' communities
+offer a number of business incentives.  These include:<ul>
+High Performance Incentive Program<br>
+Enterprise zones<br>
+Job expansion & investment credits<br>
+Inventory tax exemption<br>
+Property tax exemption<br>
+Tax credit for research<br>
+Tax credit for daycare facilities<br>
+Venture capital tax credit<br>
+Local seed capital pool tax credit<br>
+Foreign-trade zones<p>
+</ul>
+
+<a name="serve">
+<br>
+<b>No Place Puts You in Better Company</b>
+<p>
+
+Some of America's most successful firms call the Western Resources 
+service territory home.<br>
+<center>
+<table border=1 cellspacing=3 cellpadding=3>
+
+<tr>
+<td width=100>Hallmark</td>
+<td width=100>Beech Aircraft</td>
+<td width=100>Boeing</td>
+</tr>
+
+<tr>
+<td>Goodyear</td>
+<td>Cessna</td>
+<td>Learjet</td>
+</tr>
+
+<tr>
+<td>Phillips 66</td>
+<td>Owens-Corning </td>
+<td>Bendix/King </td>
+</tr>
+
+<tr>
+<td>General Motors</td>
+<td>Coleman</td>
+<td>Sprint</td>
+</tr>
+
+<tr>
+<td>Texaco</td>
+<td>Vulcan</td>
+<td>Farmland</td>
+</tr>
+
+<tr>
+<td>Superior Wheel</td>
+<td>Santa Fe</td>
+<td>Exide</td>
+</tr>
+
+<tr>
+<td>Payless Shoesource </td>
+<td>Philips Lighting</td>
+<td>Pizza Hut</td>
+</tr>
+
+<tr>
+<td>Cargill/Excel</td>
+<td>Doskocil</td>
+<td>IBP</td>
+</tr>
+
+<tr>
+<td>Quaker Oats</td>
+<td>Frito Lay</td>
+</tr>
+
+</table>
+</center>
+<p>
+
+Other local firms include:<ul>
+<a href="plastic.stm">Plastic Manufacturers</a><br>
+<a href="food.stm">Food Processing Companies</a><br>
+<a href="machine.stm">Machine Tool Manufacturers</a><p>
+</ul>
+<p>
+
+<a name="visit">
+<br>
+<b>You're Invited to Visit</b>
+<p>
+
+Western Resources territory offers your business the advantages you 
+need to compete in today's marketplace - efficient and economical 
+transportation, tax incentives, reliable energy sources, an educated 
+and hard-working labor force, state-of-the-art telecommunications 
+links, close proximity to a network of suppliers and much more.<p>
+
+You're invited to see what Kansas has to offer to your business.  
+Contact us and we will provide confidential site selection assistance, 
+energy studies and cost comparisons.  We are ready to assist and 
+make contacts with local chambers of commerce, state economic 
+development organizations, transportation companies and others.<p>
+
+Contact:<ul>
+Western Resources<br>
+Economic Development Dept.<br>
+818 Kansas Avenue<br>
+Topeka, Kansas  66612<br>
+Telephone:	1-(800) 666-9497<br>
+Fax:	1-(800) 999-7329<br>
+<a href="mailto:ecodevo@wstnres.com">ecodevo@wstnres.com</a>
+</ul>
+
+
+<!-- ****** end of body content ****** -->
+
+</blockquote>
+<p>
+<center>
+
+<hr width=95%>
+
+<p>
+
+<font size=-2>
+
+<a href="/westar/energy/">Westar Energy</a> |
+
+<a href="/westar/security">Westar Security</a> |
+
+<a href="/utility/">Utility Operations</a> |
+
+<a href="/financial/">Financial Information</a> |
+
+<a href="/news/">What's News</a> |
+
+<a href="/employee/">Employee News</a> | 
+
+<a href="/">Home</a>
+
+</center>
+
+
+</font>
+</td></table>
+</body>
+</html>

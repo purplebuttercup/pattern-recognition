@@ -1,0 +1,299 @@
+Server: Netscape-Enterprise/2.01
+Date: Thu, 20 Nov 1997 16:07:14 GMT
+Content-type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 3.0//EN">
+<HTML>
+
+<!-- 
+RAMWORKS DHH HEADER
+Dynamic Document Handler v2.1
+Copyright 1996 RAMWORKS / All rights reserved
+Note: Do NOT change section headers.
+
+PROJECT SPECIFICATIONS
+DocNAME: fixed
+RefPath: /development/csx
+ServURL: www.ramworks.com
+HTMLVer: 3.02
+DevPlat: Win95
+SerPlat: SPARC/Solaris v2.4
+WebPlat: NS Commerce v1.13
+HTMLRef: index.htm (Parent Frame)
+ApplRef: TBD
+ClnNAME: CSX Corporate (70016a)
+DevNAME: JDT/GBR/CTT
+
+REVISION TRACKING
+v2.0 (07.23.97) DT
+-->
+
+<HEAD>
+<TITLE>CSX Corporation</TITLE>
+
+<!-- section a: meta tags                -->
+<META HTTP-EQUIV="Content-Type"
+CONTENT="text/html; charset=iso-8859-1">
+<META NAME="description" CONTENT="CSX Corporation is a Fortune 500 transportation company providing rail, intermodal, container-shipping, barging and contract logistics services worldwide">
+<META NAME="keywords" CONTENT="CSX, transportation, corporation, railroad, commerce, industry, train, website, business, money, intermodal, global marketplace, trucks, ships, barges, technology, logistics, shipping solutions, CSX Transportation, CSX Intermodal, Sea-Land, American Commercial Lines, Customized Transporation, Greenbrier, CSXT, CSXI, CTI, ACL, container shipping, Conrail acquisition, TWSNet, e-commerce, CSX Technology, freight, warehousing, distribution, Fortune 500, containerized distribution, CSX Express, shareholder, investor, customer, Yukon Pacific Corporation, NDX Intermodal, Connections, SEC, Press releases, media kit, stb application, solutions, case studies, stock quotes, annual reports, financials, fact sheets, executive bios, international, cargo, quarterly flash, merger, conrail, sealand, norfolk, employment, freight transporter, transportation specialists, innovation, US tranportation company">
+<META NAME="author" CONTENT="RAMWORKS, www.ramworks.com, 904-778-8568">
+<META NAME="job" CONTENT="CSX Corporation 70016A">
+
+<!--section b2: javascript (optional)   -->
+
+<SCRIPT LANGUAGE="JavaScript">
+//<!--hide script from older browsers
+
+
+browserName = navigator.appName;
+version = "";
+browserVer = parseInt(navigator.appVersion);
+if (browserName == "Microsoft Internet Explorer")
+    window.location = "index2.htm";
+function img_act(imgName){}
+function img_inact(imgName){}
+function mast_act(imgName){}
+function mast_inact(imgName){}
+function over(imgName){}
+function out(imgName){}
+//-->
+</SCRIPT>
+
+<SCRIPT LANGUAGE="JavaScript1.1">
+//<!--hide script from older browsers
+    browserName = navigator.appName;
+     version = "";
+     browserVer = parseInt(navigator.appVersion);
+
+    if (browserName == "Netscape" && browserVer >=3)
+     {  version = "good";
+        //pre-cache graphics
+ 
+        cus_s = new Image(172,16);
+        cus_s.src = "graphics/t/cus_s.gif";
+        cus_f = new Image(172,16);
+        cus_f.src = "graphics/t/cus.gif";
+        cus_d = new Image(384,50);
+        cus_d.src = "graphics/t/cus_d2.gif";
+        inv_s = new Image(172,16);
+        inv_s.src = "graphics/t/inv_s.gif";
+        inv_f = new Image(172,16);
+        inv_f.src = "graphics/t/inv.gif";
+        inv_d = new Image(384,50);
+        inv_d.src = "graphics/t/inv_d2.gif";
+        med_s = new Image(172,16);
+        med_s.src = "graphics/t/med_s.gif";
+        med_f = new Image(172,16);
+        med_f.src = "graphics/t/med.gif";
+        med_d = new Image(384,50);
+        med_d.src = "graphics/t/med_d2.gif";
+
+        ndxbutton = new Image(128,128);
+        ndxbutton.src = "graphics/csxmap/ndx.gif";
+        ndxbuttonout = new Image(128,128);
+        ndxbuttonout.src = "graphics/csxmap/map3.gif";
+        aclbutton = new Image(128,128);
+        aclbutton.src = "graphics/csxmap/acl.gif";
+        aclbuttonout = new Image (128,128);
+        aclbuttonout.src = "graphics/csxmap/map6.gif";
+        sealbutton = new Image(128,128);
+        sealbutton.src = "graphics/csxmap/seal.gif";
+        sealbuttonout = new Image(128,128);
+        sealbuttonout.src = "graphics/csxmap/map4.gif";
+        csxtbutton = new Image(128,128);
+        csxtbutton.src = "graphics/csxmap/csxt.gif";
+        csxtbuttonout = new Image(128,128);
+        csxtbuttonout.src = "graphics/csxmap/map1.gif";
+        csxibutton = new Image(128,128);
+        csxibutton.src = "graphics/csxmap/csxi.gif";
+        csxibuttonout = new Image(128,128);
+        csxibuttonout.src = "graphics/csxmap/map2.gif";
+        ctibutton = new Image(128,128);
+        ctibutton.src = "graphics/csxmap/cti.gif";
+        ctibuttonout = new Image(128,128);
+        ctibuttonout.src = "graphics/csxmap/map7.gif";
+        
+        spacer = new Image(608,16);
+        spacer.src = "graphics/spacer608.gif";
+    }
+ 
+ function img_act(imgName)
+ {  if (version=="good")
+    {   imgOn = eval(imgName + "_s.src");
+        document[imgName].src = imgOn;
+        descrimgOn = eval(imgName + "_d.src");
+        document["desc"].src = descrimgOn;
+    }
+ }
+ function img_inact(imgName)
+ {  if (version=="good")
+    {   document[imgName].src = eval(imgName + "_f.src");
+        document["desc"].src = "graphics/story.gif";
+    }
+ }
+ function mast_act(imgName)
+ {  if (version=="good")
+    {   imgOn = eval(imgName + "_1.src");
+        document[imgName].src = imgOn;
+        arrowimgOn = eval(imgName + "_a.src");
+        document["arrows"].src = arrowimgOn;
+    }
+ }
+ function mast_inact(imgName)
+ {  if (version=="good")
+    {   imgOff = eval(imgName + "_0.src");
+        document[imgName].src = imgOff;
+        document["arrows"].src = "graphics/c/subarrows.gif";
+    }
+ }
+ function showCard()
+ {       window.open("mission1.htm", "missionWindow","scrollbars=false,width=300,height=200");
+ }
+ function over(imgName)
+ {
+ if (version == "good")
+ {
+    imgOver = eval(imgName + ".src");
+    document[imgName].src = imgOver;
+ }
+ }
+ function out(imgName)
+ {
+    if (version == "good")
+    document[imgName].src = eval(imgName + "out.src");
+ }
+//end hide script from older browsers -->
+</SCRIPT>
+
+
+     
+ </HEAD>
+
+<!--section b3: frames setup (optional) -->
+<!--section c: background parameters    -->
+
+<BODY TEXT="#000000" vlink="#333366" alink="#FFCC33" link="#3300FF"  BGCOLOR="#FFFFFF">
+
+<MAP NAME="fun">
+<area shape="rect" coords="22,0,74,14" href="help/index.htm">
+<area shape="rect" coords="22,15,74,29" href="search.htm">
+<area shape="rect" coords="22,30,74,45" href="map.htm">
+<area shape="rect" coords="75,0,127,14" href="faqs.htm">
+<area shape="rect" coords="75,15,127,29" href="jobs.htm">
+<area shape="rect" coords="75,30,127,45" href="contact.htm">
+</MAP>
+
+<MAP NAME="cpyright">
+<area shape="rect" coords="152,11,247,25" href="contact_analog.htm">
+<area shape="rect" coords="293,11,349,26" href="contact.htm">
+</MAP>
+
+<MAP NAME="subs_menu">
+<area shape="circle" coords="27,225,13" href="bridge_green.htm">
+<area shape="circle" coords="71,190,13" href="bridge_cti.htm">
+<area shape="circle" coords="27,155,14" href="bridge_csxi.htm">
+<area shape="circle" coords="28,88,15" href="bridge_seal.htm">
+<area shape="circle" coords="70,121,14" href="bridge_acl.htm">
+<area shape="circle" coords="71,56,14" href="bridge_csxt.htm">
+<area shape="circle" coords="29,26,13" href="bridge_csx.htm">
+</MAP>
+
+<!-- section d: header graphics          -->
+<A NAME="top">
+<CENTER>
+<TABLE CELLPADDING=0 CELLSPACING=0 WIDTH=608 BORDER=0>
+    <TR>
+        <TD COLSPAN=5 WIDTH=608><NOBR><IMG SRC="graphics/csx_id.gif" WIDTH=96 HEIGHT=50 BORDER=0 ALT="CSX Corporation"><IMG NAME="desc" SRC="graphics/story.gif" WIDTH=384 HEIGHT=50 BORDER=0 ALT=""></A><IMG SRC="graphics/fun1.gif" WIDTH=128 HEIGHT=50 BORDER=0 ALT="" USEMAP=#fun></NOBR></TD>
+    </TR>
+    <TR>
+        <TD WIDTH=92><IMG SRC="graphics/t_pick.gif" WIDTH=92 HEIGHT=16 BORDER=0 ALT="pick a topic"></TD>
+        <TD WIDTH=172><A HREF="cus/index.htm" TITLE="CSX for customers" onMouseover="img_act('cus'); window.status='solutions and services for CSX business';return true;" onMouseout="img_inact('cus')"><IMG NAME="cus" SRC="graphics/t/cus.gif" BORDER=0 ALT="solutions and services for CSX business unit customers" WIDTH=172 HEIGHT=16></A></TD>
+        <TD WIDTH=172><A HREF="inv/index.htm" TITLE="CSX for investors" onMouseover="img_act('inv'); window.status='stock quotes, annual reports, and analysis';return true;" onMouseout="img_inact('inv')"><IMG NAME="inv" SRC="graphics/t/inv.gif" BORDER=0 ALT="stock quotes, annual reports, and analysis" WIDTH=172 HEIGHT=16></A></TD>
+        <TD WIDTH=172><A HREF="med/index.htm" TITLE="CSX for the media" onMouseover="img_act('med'); window.status='press releases, fact sheets, and subscribe to the CSX Express';return true;" onMouseout="img_inact('med')"><IMG NAME="med" SRC="graphics/t/med.gif" BORDER=0 ALT="press releases, fact sheets, and subscribe to the CSX Express" WIDTH=172 HEIGHT=16></A></TD>
+    </TR>
+</TABLE>
+
+
+<!-- begin table--->
+
+<TABLE CELLPADDING=0 CELLSPACING=0 WIDTH=608 BORDER=0>
+    <TR>
+        <TD ROWSPAN=3 WIDTH=96 HEIGHT=256><IMG SRC="graphics/subs_menu.gif" WIDTH=96 HEIGHT=256 BORDER=0 ALT="function imagemap" USEMAP=#subs_menu></TD><TD ROWSPAN=3 WIDTH=12 HEIGHT=256><IMG NAME="arrows" SRC="graphics/c/subarrows.gif" WIDTH=12 HEIGHT=256 BORDER=0 ALT=""></TD>
+        <TD WIDTH=128 HEIGHT=128><A HREF="cus/case_csxt.htm" onMouseOver="over('csxtbutton');" onMouseOut="out('csxtbutton');"><IMG SRC="graphics/csxmap/map1.gif" name="csxtbutton" WIDTH=128 HEIGHT=128 border=0 ALT=""></TD><TD WIDTH=128 HEIGHT=128><A HREF="bridge_csxi.htm" onMouseOver="over('csxibutton');" onMouseOut="out('csxibutton');"><IMG SRC="graphics/csxmap/map2.gif" name="csxibutton" WIDTH=128 HEIGHT=128 border=0 ALT=""></TD><TD WIDTH=128 HEIGHT=128 valign=top><A HREF="cus/case_ndx.htm" onMouseOver="over('ndxbutton');" onMouseOut="out('ndxbutton');"><IMG SRC="graphics/csxmap/map3.gif" name="ndxbutton" WIDTH=128 HEIGHT=128 border=0 ALT=""></A></TD><TD WIDTH=128 HEIGHT=128><A HREF="cus/case_seal.htm" onMouseOver="over('sealbutton');" onMouseOut="out('sealbutton');"><IMG SRC="graphics/csxmap/map4.gif" name="sealbutton" WIDTH=128 HEIGHT=128 border=0 ALT=""></TD>
+    </TR>
+    <TR>
+        <TD WIDTH=128 HEIGHT=128><a href=med/conrail_acq.htm><IMG SRC="graphics/csxmap/anim_conrail.gif" WIDTH=128 HEIGHT=128 border=0 ALT=""></a></TD><TD WIDTH=128 HEIGHT=128><A HREF="cus/case_acl.htm" onMouseOver="over('aclbutton');" onMouseOut="out('aclbutton');"><IMG SRC="graphics/csxmap/map6.gif" name="aclbutton" WIDTH=128 HEIGHT=128 border=0 ALT=""></TD><TD WIDTH=128 HEIGHT=128><A HREF="cus/case_cti.htm" onMouseOver="over('ctibutton');" onMouseOut="out('ctibutton');"><IMG SRC="graphics/csxmap/map7.gif" name="ctibutton" WIDTH=128 HEIGHT=128 border=0 ALT=""></TD><TD WIDTH=128 HEIGHT=128><IMG SRC="graphics/csxmap/map8.gif" WIDTH=128 HEIGHT=128 border=0 ALT=""></TD>
+    </TR>
+</TABLE>
+
+<!---end table-->
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="608">
+    <TR>
+        <TD><img src="graphics/blkspacer.gif" width="608" height="1"></TD>
+    </TR>
+</TABLE>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="608">
+    <TR>
+        <TD WIDTH="96" VALIGN="top"><A HREF="med/xpress.htm"><IMG SRC="graphics/express.gif" WIDTH="96" HEIGHT="25" BORDER="0" ALT="CSX Express"></A></TD>
+        <TD><CENTER>
+            <TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="512">
+                <TR>
+                    <TD VALIGN="middle" COLSPAN="5" WIDTH="512"><NOBR><IMG SRC="graphics/java_bumper_left.gif" WIDTH="32" HEIGHT="16">
+
+<APPLET CODE="UrlSlider.class" CODEBASE="java" WIDTH=440 HEIGHT=16 VALIGN=MIDDLE>
+	<PARAM NAME=text1 VALUE="Acquisition will bring rail superhighway, safer roads to Chicago area">
+	<PARAM NAME=url1 VALUE="http://www.csxt.com/docs/press/chicago11_7_97.html">
+	<PARAM NAME=statustext1 VALUE="chicago">
+
+	<PARAM NAME=text2 VALUE="Fogarty named Commercial Board chairman">
+	<PARAM NAME=url2 VALUE="www.csx.com/med/press/cboard11_20_97.htm">
+	<PARAM NAME=statustext2 VALUE="fogarty">
+
+	<PARAM NAME=text3 VALUE="CSX hails state support for Conrail acquisition">
+	<PARAM NAME=url3 VALUE="http://www.csx.com/med/press/state11_20_97.htm">
+	<PARAM NAME=statustext3 VALUE="conrail">
+
+
+	<PARAM NAME=textred VALUE="65">
+	<PARAM NAME=textgreen VALUE="105">
+	<PARAM NAME=textblue VALUE="225">
+
+	<PARAM NAME=bgimage VALUE="bg.jpg">
+
+	<PARAM NAME=linkred VALUE="255">
+	<PARAM NAME=linkgreen VALUE="0">
+	<PARAM NAME=linkblue VALUE="0">
+
+	<PARAM NAME=texttype VALUE="0">
+	<PARAM NAME=delay VALUE="5">
+	<PARAM NAME=xadd VALUE="-1">
+	<PARAM NAME=yadd VALUE="0">
+
+	<PARAM NAME=textsize VALUE="12">
+	<PARAM NAME=textfont VALUE="Helvetica">
+</APPLET>
+
+
+<IMG SRC="graphics/java_bumper_right.gif" WIDTH="32" HEIGHT="16"></NOBR></TD>
+                </TR>
+            </TABLE>
+        </CENTER></TD>
+    </TR>
+</TABLE>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="608">
+    <TR>
+        <TD><IMG SRC="graphics/blkspacer.gif" WIDTH="608" HEIGHT="1"></TD>
+    </TR>
+    <TR>
+        <TD ALIGN="right" VALIGN="top"><A HREF="contact_analog.htm"><IMG SRC="graphics/copyright.gif" WIDTH="349" HEIGHT="26" BORDER="0" usemap="#cpyright" ALT="All contents copyright 1996,1997 CSX Corporation. All rights reserved."></A></TD>
+    </TR>
+    <TR>
+        <TD ALIGN="right" VALIGN="top"><HR SIZE="1"><A HREF="http://home.netscape.com/comprod/mirror/client_download.html"><IMG SRC="graphics/netscape.gif" WIDTH="88" HEIGHT="31" ALT="get netscape now" BORDER="0" HSPACE="10" VSPACE="2"></A>&nbsp;<A HREF="http://www.microsoft.com/ie/default.asp"><IMG SRC="graphics/explorer.gif" WIDTH="88" HEIGHT="31" ALT="get internet explorer" BORDER="0" HSPACE="10" VSPACE="2"></A><BR><FONT SIZE="2" FACE="Arial, Helvetica">This site is optimized for version 3.0 of <A HREF="http://home.netscape.com/comprod/mirror/client_download.html">Netscape Navigator</A> or <A HREF="http://www.microsoft.com/ie/default.asp">Microsoft Internet Explorer</A>. Please download and install them on your machine before proceeding. If you are still experiencing difficulties with viewing this site, please refer to our <B><A HREF="help/index.htm">navigation help screen</A></B> or our <B><A HREF="help/faq_tech.htm">technical support FAQ</A></B>.</FONT><BR></TD>
+    </TR>
+</TABLE>
+</CENTER>
+</BODY>
+</HTML>

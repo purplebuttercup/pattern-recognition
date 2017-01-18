@@ -1,0 +1,129 @@
+Server: Netscape-Enterprise/2.01
+Date: Fri, 21 Nov 1997 04:56:28 GMT
+Last-modified: Thu, 25 Sep 1997 16:44:14 GMT
+Content-length: 5780
+Content-type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Millipore - There's a new cutting edge that enables pure processes</title>
+</head>
+
+<body background="images/newbg3.GIF" bgcolor="#FFFFFF">
+<script language="JavaScript">
+/* This code is Copyright (c) 1996 Nick Heinle and Athenia Associates,
+* all rights reserved. In order to receive the right to license this 
+* code for use on your site the original code must be copied from the 
+* Web site webreference.com/javascript/. License is granted to user to 
+* reuse this code on their own Web site if and only if this entire copyright 
+* notice is included. Code written by Nick Heinle of webreference.com. 
+*/browserName = navigator.appName;browserVer = parseInt(navigator.appVersion);
+
+if (browserName == "Netscape" && browserVer >= 3) version = "n3";
+else version = "n2";
+if (version == "n3")
+
+{	menu1on = new Image(74, 17);   menu1on.src = "images/filt-red.gif";
+	menu2on = new Image(93, 17);   menu2on.src = "images/pur-red.GIF";
+	menu3on = new Image(77, 19);   menu3on.src = "images/disp-red.GIF";
+	menu4on = new Image(40, 17);   menu4on.src = "images/flow-red.GIF";
+	menu5on = new Image(70, 17);   menu5on.src = "images/pres-red.GIF";
+	menu6on = new Image(133, 17);   menu6on.src = "images/vac-red.GIF"
+	menu7on = new Image(440, 187);   menu7on.src = "images/gifan.gif";
+	menu8on = new Image(200, 26);   menu8on.src = "images/copy-c1-red.GIF"
+
+	menu1off = new Image(74, 17);  menu1off.src = "images/filt.gif";
+	menu2off = new Image(93, 17);  menu2off.src = "images/pur.gif";
+	menu3off = new Image(77, 19);  menu3off.src = "images/disp.gif";
+	menu4off = new Image(40, 17);  menu4off.src = "images/flow.gif";
+	menu5off = new Image(70, 17);  menu5off.src = "images/pres.gif";
+	menu6off = new Image(133, 17);  menu6off.src = "images/vac.gif";
+	menu7off = new Image(440, 187);  menu7off.src = "images/gifan.gif";
+	menu8off = new Image(200, 26);  menu8off.src = "images/copy-c1.gif";}
+
+function img_act(imgName) 
+{       if (version == "n3") 
+{               imgOn = eval(imgName + "on.src");        
+document [imgName].src = imgOn; }}function img_inact(imgName)
+{      if (version == "n3") 
+{        imgOff = eval(imgName + "off.src");        document [imgName].src = imgOff;    }}
+
+</script>
+
+<P><A HREF="http://www.milipore.com/sitemap/homebanner.map"><IMG SRC="http://www.millipore.com/sitemap/homebanner.gif"
+ALIGN="BOTTOM" ISMAP BORDER="0"></A></P>
+
+<p><img src="images/tag-futmd.gif" width="552"
+height="33"></p>
+
+<table border="0" cellpadding="0" cellspacing="0" width="600">
+    <tr>
+        <td align="right" width="415"><img
+        src="images/newsaw.gif" width="440" height="187"></td>
+        <td valign="top" width="30"><img src="images/line2.gif"
+        width="5" height="205"></td>
+        <td width="120" 1"><a href="filtra.html"
+        onmouseover="img_act('menu1');self.status='The Cutting Edge of Filtration'; 
+	return true"
+        onmouseout="img_inact('menu1');self.status=''; 
+	return true"><img
+        src="images/filt.gif" alt="Filtration" border="0"
+        width="74" height="17" name="menu1"></a> <p><a
+        href="pur.html"
+        onmouseover="img_act('menu2');self.status='The Cutting Edge of Purification'; 
+	return true"
+        onmouseout="img_inact('menu2');self.status=''; 
+	return true"><img
+        src="images/pur.gif" alt="Purification" border="0"
+        width="93" height="17" name="menu2"></a></p>
+        <p><a href="disp.html"
+        onmouseover="img_act('menu3');self.status='The Cutting Edge of Dispense'; 
+	return true"
+        onmouseout="img_inact('menu3');self.status=''; 
+	return true"><img
+        src="images/disp.gif" alt="Dispense" border="0"
+        width="77" height="19" name="menu3"></a></p>
+        <p><a href="flow.html"
+        onmouseover="img_act('menu4');self.status='The Cutting Edge of Flow'; 
+	return true"
+        onmouseout="img_inact('menu4');self.status=''; 
+	return true"><img
+        src="images/flow.gif" alt="Flow" border="0" width="40"
+        height="17" name="menu4"></a></p>
+        <p><a href="pres.html"
+        onmouseover="img_act('menu5');self.status='The Cutting Edge of Pressure'; 
+	return true"
+        onmouseout="img_inact('menu5');self.status=''; 
+	return true"><img
+        src="images/pres.gif" alt="Flow" border="0" width="70"
+        height="17" name="menu5"></a></p>
+        <p><a href="vac.html"
+        onmouseover="img_act('menu6');self.status='The Cutting Edge of Vacuum Control'; 
+	return true"
+        onmouseout="img_inact('menu6');self.status=''; 
+	return true"><img
+        src="images/vac.gif" alt="Vacuum" border="0" width="133"
+        height="17" name="menu6"></a></p>
+        </td>
+    </tr>
+</table>
+
+<p><img src="images/copy-a.gif" width="599" height="23"><br>
+<img src="images/copy-b.gif" width="409" height="27"><a
+href="http://www.millipore.com/sitemap/sitemapsemi.html"
+onmouseover="img_act('menu8');self.status='Get the Whole Story'; 
+	return true"
+onmouseout="img_inact('menu8');self.status=''; 
+	return true"><img
+src="images/copy-c1.gif" alt="Whole story" border="0" width="200"
+height="26" name="menu8"></a></p>
+
+<p>&nbsp;</p>
+</body>
+</html>
+<table><tr><td><A HREF="http://www.millipore.com/sitemap/banner.map"><IMG SRC="http://www.millipore.com/sitemap/banner.gif" WIDTH="596" HEIGHT="14" ALIGN="BOTTOM" NATURALSIZEFLAG= "3" ISMAP border="0"></A><p align="right"><font size=-3><i>Last Modified September 25, 1997</i><BR><a href="http://millispider.millipore.com/corporate/trademrk/">Legal/Trademarks</a></font></td></tr></table>

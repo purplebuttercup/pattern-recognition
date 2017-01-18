@@ -1,0 +1,10 @@
+WWW Alert:  Redirection response from server is not handled by this client
+Date: Fri, 21 Nov 1997 02:29:59 GMT
+Server: Apache/1.1.3
+Location: http://www.digital.com/flash/f179/
+Content-type: text/html
+
+<HEAD><TITLE>Document moved</TITLE></HEAD>
+<BODY><H1>Document moved</H1>
+The document has moved <A HREF="http://www.digital.com/flash/f179/">here</A>.<P>
+</BODY>

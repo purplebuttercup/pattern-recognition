@@ -1,0 +1,88 @@
+Date: Thu, 20 Nov 1997 23:30:16 GMT
+Server: Apache/1.2.4
+Last-Modified: Mon, 28 Jul 1997 14:47:14 GMT
+ETag: "5479a-d21-33dcb0f2"
+Content-Length: 3361
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 3.0//EN" "html.dtd">
+<!------------------------------------------------------------------------------------------------>
+<!- © Copyright 1996 Quality Graphics & Marketing [QGM] ->
+<!- All Rights Reserved        http://www.qgm.com   ->
+<!------------------------------------------------------------------------------------------------>
+<!- This source document may not be reproduced or distributed ->
+<!- without the express written consent of QGM ->
+<!------------------------------------------------------------------------------------------------>
+<HTML>
+<HEAD>
+<TITLE>Wyman-Gordon</TITLE>
+</HEAD>
+<BODY BGCOLOR="#000080" LINK="#FEFFFF" VLINK="#C0C0C0" ALINK="#FF0000" TEXT="#FEFFFF">
+<A NAME="top"></A>
+<CENTER>
+
+<TABLE BORDER=3 CELLPADDING=0 CELLSPACING=0>
+<TR><TD><IMG SRC="art/logo2.gif" ALT="[Wyman-Gordon Logo]" WIDTH=327 HEIGHT=89></TD>
+</TR></TABLE></CENTER>
+
+<CENTER>
+<TABLE BORDER=0 CELLSPACING=1 CELLPADDING=7 WIDTH=90%>
+
+<TR>
+<TD ALIGN=CENTER><A HREF="structur/index.html"><IMG SRC="art/struct2.gif" WIDTH=119 HEIGHT=99 BORDER=0></A></TD>
+<TD></TD>
+<TD ALIGN=CENTER><A HREF="turbine/index.html"><IMG SRC="art/turbine2.gif" WIDTH=113 HEIGHT=100 BORDER=0><BR></A></TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP ALIGN=CENTER><STRONG><A HREF="structur/index.html">A<FONT  SIZE=-1>EROSPACE</FONT><BR>S<FONT  SIZE=-1>TRUCTURAL</FONT><BR>P<FONT  SIZE=-1>RODUCTS</FONT></A></STRONG></TD>
+
+<TD ALIGN=CENTER><A HREF="company/index.html"><IMG SRC="art/company2.gif" WIDTH=98 HEIGHT=90 border=0></A></TD>
+
+<TD VALIGN=TOP ALIGN=CENTER><STRONG><A HREF="turbine/index.html">A<FONT  SIZE=-1>EROSPACE</FONT><BR>T<FONT  SIZE=-1>URBINE</FONT><BR>P<FONT  SIZE=-1>RODUCTS</FONT></A></STRONG></TD>
+</TR>
+
+<TR>
+<TD ALIGN=CENTER><A HREF="power/index.html"><IMG SRC="art/energy2.gif" WIDTH=110 HEIGHT=100 BORDER=0 ALIGN=TOP></A></TD>
+
+<TD VALIGN=TOP ALIGN=CENTER><STRONG><A HREF="company/index.html">C<FONT  SIZE=-1>OMPANY</FONT><BR>I<FONT  SIZE=-1>NFORMATION</FONT></A></STRONG></TD>
+
+
+<TD ALIGN=CENTER><A HREF="perform/index.html"><IMG SRC="art/perform2.gif" WIDTH=149 HEIGHT=91 BORDER=0 ALIGN=TOP></A></TD>
+
+</TR>
+
+<TR>
+<TD VALIGN=TOP ALIGN=CENTER><STRONG><A HREF="power/index.html">P<FONT  SIZE=-1>OWER &</FONT> E<FONT  SIZE=-1>NERGY</FONT><BR>P<FONT  SIZE=-1>RODUCTS</FONT></A></STRONG></TD>
+
+<TD><BR></TD>
+
+<TD VALIGN=TOP ALIGN=CENTER><STRONG><A HREF="perform/index.html">P<FONT  SIZE=-1>ERFORMANCE</FONT><BR>P<FONT  SIZE=-1>RODUCTS</FONT></A></STRONG></TD>
+
+</TR>
+
+</TABLE>
+
+</CENTER>
+
+<P>
+<HR WIDTH=90% SIZE=3><P>
+<CENTER><TABLE BORDER=0 CELLPADDING=0 CELLSPACING=10 WIDTH=60%>
+<TR><TD><A HREF="company/news/airshow.html"><IMG SRC="art/smalplaq.jpg" ALT="Paris Air Show Plaque" WIDTH=118 HEIGHT=166 BORDER=2></A></TD>
+<TD><FONT  SIZE=+1><B><A HREF="company/news/airshow2.html">Wyman-Gordon Exhibits Topflight Technology</A><FONT  COLOR=#00FFFF> in Aerospace Metals 
+Engineering at the 1997 Paris Air Show!</FONT></B></FONT></TD>
+</TR></TABLE></CENTER>
+
+
+
+<br>
+<CENTER><HR WIDTH=75% ALIGN=center SIZE=3><FONT SIZE=-2>
+Professional Web Site Development & Maintenance by <a href="http://www.qgm.com/"><em>QGM</em></a><BR>
+All information copyright ©1996 <A HREF="http://www.qgm.com">QGM</A> & Wyman-Gordon Co.</FONT><FONT SIZE=3>
+<HR WIDTH=75% ALIGN=center SIZE=3></CENTER>
+<P>
+<IMG SRC="/cgi-sys/Count.cgi?sh=0|df=wgc-home">
+</BODY>
+</HTML>

@@ -1,0 +1,90 @@
+Server: Netscape-Enterprise/2.01
+Date: Fri, 21 Nov 1997 05:34:18 GMT
+Content-type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>Database Programming and Design: "Bringing Oracle Management Down to Earth"</TITLE>
+</HEAD>
+<BODY BGCOLOR="#ffffff" LINK="#010D9B" VLINK="#006633">
+<CENTER>
+<TABLE BORDER=0 WIDTH=600 CELLPADDING=0 CELLSPACING=0>
+<TR><TD COLSPAN=2><IMG SRC="/mc-icons/logo1.gif" BORDER=0 WIDTH=126 HEIGHT=36 ALT="PLATINUM"><IMG SRC="/mc-icons/articles.gif" BORDER=0 WIDTH=324 HEIGHT=36 ALT="Article"><A HREF="/index.html"><IMG SRC="/mc-icons/home.gif" BORDER=0 WIDTH=150 HEIGHT=36 ALT="Home"></A><BR><IMG SRC="/mc-icons/logo2.gif" BORDER=0 WIDTH=126 HEIGHT=22 ALT="technology, inc."><A HREF="/new.htm"><IMG SRC="/mc-icons/news1.gif" BORDER=0 WIDTH=42 HEIGHT=22 ALT="News"></A><A HREF="/products/products.htm"><IMG SRC="/mc-icons/product2.gif" BORDER=0 WIDTH=124 HEIGHT=22 ALT="Products & Services"></A><A HREF="/tech/tech.htm"><IMG SRC="/mc-icons/support1.gif" BORDER=0 WIDTH=54 HEIGHT=22 ALT="Support"></A><A HREF="/Architext/gsearch.htm"><IMG SRC="/mc-icons/search1.gif" BORDER=0 WIDTH=36 HEIGHT=22 ALT="Find"></A><A HREF="/corp/about.htm"><IMG SRC="/mc-icons/corp1.gif" BORDER=0 WIDTH=68 HEIGHT=22 ALT="Corporate"></A><A HREF="/world.htm"><IMG SRC="/mc-icons/world1.gif" BORDER=0 WIDTH=76 HEIGHT=22 ALT="Worldwide"></A><A HREF="/mail.htm"><IMG SRC="/mc-icons/contact1.gif" BORDER=0 WIDTH=74 HEIGHT=22 ALT="Contact Us"></A>
+</TD></TR>
+<TR><TD COLSPAN=2 WIDTH=600 HEIGHT=15></TD></TR>
+<TR><TD VALIGN=top WIDTH=126>
+<FONT SIZE=2 FACE="Arial"><A HREF="/products/dba/desdbaps.htm">PLATINUM<BR>Desktop DBA</A><BR>
+<IMG SRC="/mc-icons/wspace.gif" WIDTH=126 HEIGHT=1 BORDER=0 ALT=" ">
+<BR>&nbsp;<BR>
+</TD>
+
+<TD VALIGN=top>
+<IMG SRC="/mc-icons/r_dbpd.gif" WIDTH=263 HEIGHT=102 ALT="Database Programming and Design" BORDER=0>
+<BR>&nbsp;<BR>
+<FONT SIZE=2 FACE="Arial">
+
+<FONT SIZE="4">
+Bringing Oracle Management Down to Earth<BR>
+<FONT SIZE=2><B>Third-party tools pack a punch missing from OEM</B></FONT>
+</FONT>
+<BR>&nbsp;<BR>
+
+<I>By Robin Schumacher</I>
+<BR>&nbsp;<BR>
+As more Oracle databases take charge of server machines, be they Unix or NT, one thing is certain: The complexity of managing them is a challenge. Thanks to a range of tunable parameters and advanced SQL features and extensions, Oracle can bewilder even the seasoned DBA. To cope, administrators look for tools to help bear the burden of day-to-day management, as well as assist in the monitoring and troubleshooting of escalating database problems. Although Oracle offers the Oracle Enterprise Manager (OEM) suite of products, systems professionals still look to third-party vendors to provide functionality unavailable in OEM. 
+<BR>&nbsp;<BR>
+Two vendors in particular &#151; PLATINUM <I>technology</I> and Embarcadero Technologies &#151; have solid reputations for providing powerful yet easy-to-use products that make the Oracle management process as smooth as possible. PLATINUM's Desktop DBA has already found its way onto many DBA desktops, and Embarcadero has recently forayed into the Oracle world with its DBArtisan tool for Oracle, which builds on the company's celebrated version for Sybase and Microsoft SQL Server. A short while ago, both companies released updated versions of their products, and I was able to get a preview of what they had kept under wraps for so long.
+<BR>&nbsp;<BR>
+<FONT SIZE="3"><B>Desktop DBA 4.0</B></FONT><BR>
+<B>PLATINUM <I>technology</I></B>
+<BR>
+Many DBAs use Desktop DBA to manage their databases across the enterprise, and, without question, those using earlier versions will be quite pleased with the tool's new touches. In contrast to the OEM approach, which supports Oracle databases only, PLATINUM realizes that today's DBAs must tackle an array of database products. Thus the company has given Desktop DBA the ability to manage not only databases from Oracle, but others from Sybase, Microsoft, and Informix as well.
+<BR>&nbsp;<BR>
+PLATINUM has always impressed me with the quality of its products, education, and support, so I was eager to see the latest version of its tool. Desktop DBA was originally developed by Datura Corp. (which was acquired by PLATINUM in 1994); at press time, the most current release was 4.0.3. To test the product, I used a Compaq Pentium 120 MHz machine loaded with 64MB of RAM running Windows NT 4.0, as well as a 133 MHz Pentium machine running Windows 95 with 32MB of RAM. The installation of the product went very smoothly; Desktop DBA uses about 14MB of disk space. In addition to installing the product, a setup routine must be performed for each database instance against which you'll use Desktop DBA. This routine primarily consists of running a setup program that creates an Oracle user and various owned views and synonyms.
+<BR>&nbsp;<BR>
+I was pleased with the new face PLATINUM has put on 4.0. Gone is the gray, "rainy-day-in-Seattle" interface; in its place is a much improved, more colorful DBMS explorer (see Figure 1). Within the explorer, DBAs can register the various database servers with which they work. When a database is registered (by supplying a server name, ID, password, and connect string), you can use PLATINUM's native drivers to connect to your servers and get to work.
+<BR>&nbsp;<BR>
+<CENTER>
+<IMG SRC="/mc-icons/r_dbpd2.gif" WIDTH=400 HEIGHT=361 BORDER=0 ALT="Desktop DBA Interface"><BR>
+<I>Figure 1: Desktop DBA interface</I>
+<BR>&nbsp;<BR></CENTER>
+<B>Taking Care of Business</B><BR>
+For handling the everyday physical DBA duties, Desktop DBA packs a good punch. Administrators can connect to multiple Oracle instances and easily handle things like object creation, space management, and security. While I found the initial interface to be much improved over 3.0, I encountered the same old-fashioned dialog boxes loaded with buttons for managing various object properties. Although it's not the most elegant approach to GUI design (I prefer the tab-style interface), there is nothing wrong with this style at all; it's very functional and easy to use. The one thing that isn't so functional is the tiny, hard-to-read windows in some of the object dialogs that present object names. PLATINUM has fixed this problem in some parts of Desktop DBA, but other areas remain untouched.
+<BR>&nbsp;<BR>
+One unique feature of Desktop DBA is the ability to drag and drop objects among Oracle instances. This function works nicely when the same tablespaces and users exist in the two databases; it will aid DBAs who move objects from test to production databases that are similar in nature. Unfortunately, I found that problems occur when the databases differ. PLATINUM now prompts you to specify information during the drag operation &#151; such as the new owner of the object in question &#151; but doesn't provide the same dialog for a new tablespace. I found that if a tablespace in a target database doesn't have the same name as in the source, Desktop DBA produces one error message stating that it can't find the tablespace and another message saying that the operation completed successfully when it actually didn't. This problem can be easily fixed by allowing the specification of a new tablespace. The drag-and-drop operations worked flawlessly, however, when I dragged Oracle tables to a Microsoft SQL Server database &#151; a benefit that anyone involved in those types of database migrations will appreciate.
+<BR>&nbsp;<BR>
+Another reason Desktop DBA is nice to have around is for the help it provides with extended table alters. Many DBAs get requests to insert columns in the middle of a table or perform other difficult operations that affect a table and its dependencies. I've used the tool many times to perform these extended operations, and, without a doubt, it's saved me a lot of time. However, caution is in order here: You must log in as the owner of the objects being altered and not as SYSTEM or another user, or the alter will fail. PLATINUM may eventually want to take the stance that Embarcadero has taken with DBArtisan and disable extended table alterations when the logged-on user doesn't match the owner of the objects being altered.
+<BR>&nbsp;<BR>
+In addition to providing object management, PLATINUM offers a number of other useful features. Recently, my shop installed a new version of PeopleSoft's financial package, so we had to compare the database structure with the new one to see what changed. Fortunately, we were able to use Desktop DBA's Compare Database function to examine the two databases for differences. Other utilities provided in Desktop DBA include effective graphical methods of loading and unloading data, and a facility for extracting database DDL that is difficult to use but works fine when you get the hang of it. 
+<BR>&nbsp;<BR>
+<B>What's Missing?</B><BR>
+PLATINUM has put together an excellent tool, but there's always room for improvement. I found a couple of the newer Oracle features missing from the product such as the ability to create bitmap indexes. In addition, other functionality &#151; such as the capacity to shrink rollback segments, alter a tablespace's underlying data files to autoextend, and resize an existing tablespace's data files &#151; was absent. For data loads, the ability to specify parallel and direct path loads would be welcome because these two options can drastically reduce load times. Fortunately, PLATINUM has included some of the new Oracle functions, such as the ability to rebuild indexes and deallocate unused space for tables and indexes, both of which are useful. Furthermore, sources at PLATINUM tell me that other 7.3 features not included in the 4.0 release will be present in 4.1 (now in beta).
+<BR>&nbsp;<BR>
+Other functions that would be helpful include an EXPLAIN function for the SQL editor and more statistical information regarding the health of a database. PLATINUM may be holding off in this area because they have other products that specialize in database and application tuning (SQL-Spy and Plan Analyzer, respectively), but it has put a few useful monitoring functions into Desktop DBA. For example, DBAs now have the ability to view a user's connection for details such as I/O statistics and personal hit ratios.
+<BR>&nbsp;<BR>
+I found the stability of Desktop DBA to be quite good, although I encountered a few general failures under NT 4.0 when exporting tables. These experiences were few and far between, however, and I found that, overall, the tool operated smoothly.<BR>&nbsp;<BR>
+In terms of support, I contacted PLATINUM on one occasion to report a problem I found in an extended table alter experiment and was impressed with the attention I received. Support is a sore issue with me on many of the products our company owns, but PLATINUM has always been great. Using their normal support channels, I was quickly put in touch with an engineer who was able to duplicate my problem and log it as a bug. Then I received something I didn't expect: a call from a Desktop DBA developer to thank me for finding the problem. He also reported the problem had been corrected and the version in which the fix would appear. This level of support is rare &#151; and impressive. 
+<BR>&nbsp;<BR>
+<B>Support for Oracle8</B><BR>
+With Oracle8 now a reality, when will Desktop DBA support for Oracle8 be available? Sources at PLATINUM tell me that version 4.1 of the tool will have much more support for many 7.3 features and be will compatible with Oracle8; no support, however, will exist for new object/relational aspects such as partitioning, objects, and so on. PLATINUM was vague about when Desktop DBA would support Oracle8 completely, telling me only that the fourth quarter is a possibility.
+<BR>&nbsp;<BR>
+<B>The Long and the Short</B><BR>
+PLATINUM has brought a lot to the table with its latest offering of Desktop DBA, and I'm confident that users won't be disappointed. To stay ahead of Oracle's OEM products, PLATINUM is working hard to provide things that make your life easier, and, although I found a few flaws in the product, I have no doubt that the company will make the necessary adjustments to keep the tool top-notch. If you're looking for a single product to manage your heterogeneous database environment, check out the latest version of Desktop DBA. At only $995 per user for a single database vendor, you'll find it a bargain over the time and effort you'd invest without it.
+<BR>&nbsp;<BR>
+<I>Robin Schumacher is a senior DBA and developer for Louisville Gas & Electric in Kentucky and a principal at
+Advanced Computer Designs. He's also the coauthor of </I>The PowerBuilder 5.0 Developer's Resource<I> (Prentice Hall,
+1997). You can reach Robin via email at <A HREF="mailto:robins@ka.net">robins@ka.net</A>.</I>
+<BR>&nbsp;<BR>
+<FONT SIZE=1>
+Reprinted with permission from <I><A HREF="http://www.dbpd.com">Database Programming & Design</A>,</I> October 1997.
+<BR>&nbsp;<BR>
+<FONT SIZE=1>All prices based in US terms only. Pricing varies with configuration and processor class/group.</FONT>
+</FONT>
+</FONT></FONT>
+<BR>&nbsp;<BR>
+<FONT SIZE=1><A HREF="/copyrght.htm">&copy; 1995, 1997</A> PLATINUM <I>technology, inc</I>. All rights reserved.<BR>800-442-6861&nbsp;&nbsp;&nbsp;630-620-5000&nbsp;&nbsp;&nbsp;Fax: 630-691-0718</FONT>
+<BR>
+<IMG SRC="/mc-icons/wspace.gif" WIDTH=474 HEIGHT=1 BORDER=0 ALT=" ">
+<!--posted 11/13/97-->
+</TD></TR></TABLE>
+</CENTER></BODY></HTML>

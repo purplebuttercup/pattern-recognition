@@ -1,0 +1,173 @@
+Server: Netscape-Enterprise/2.01
+Date: Thu, 18 Dec 1997 13:07:27 GMT
+Accept-ranges: bytes
+Last-modified: Thu, 09 Oct 1997 15:53:12 GMT
+Content-length: 4718
+Content-type: text/html
+
+<html>
+<head>
+<title>Welcome to Wachovia!</title>
+</head>
+
+<body bgcolor="FFFFFF" 
+	background="./images/tile.gif" 
+	text=000066 
+	link=CC0000 
+	alink=CC0000 
+	vlink=CC0000>
+
+<table width=550 border=0>
+
+<tr><td colspan=2>
+<p>
+<!-- WACHOVIA BANNER GRAPHIC -->
+<img src="images/headerhm.gif"
+	width=549
+	height=63
+	border=0
+	alt="Wachovia">
+<br>
+
+<!-- BEGIN JAVA TICKER AREA -->
+<applet 
+ code=NavigatorTicker11.class
+ width=540
+ height=26
+ codebase="java/">
+<param name=count value=5>
+<param name=msg0 value="    Welcome to Wachovia!     \\Welcome to Wachovia!"> 
+<param name=msg1 value="    ~ Create the right investment mix with Wachovia 
+	Investments.     \\http://www.wachovia.com/personal/InvCen.htm">
+<param name=msg2 value="    ~ Wachovia Credit Cards -- 3 plan choices, 3 low 
+	rates.     \\http://www.wachovia.com/personal/choosecc.html">
+<param name=msg3 value="    ~ What's your risk tolerance?     
+	\\http://www.wachovia.com/personal/form.html">
+<param name=msg4 value="    ~ Browse Wachovia's Business Direction newsletter.     \\http://www.wachovia.com/business/busdir.html">
+<param name=speed value=5>
+<param name=txtco value=0,102,153>
+<param name=bgco value=255,255,255>
+<param name=linkco value=204,0,0>
+
+<a href="http://www.wachovia.com/personal/InvCen.htm">
+<img src="images/java.gif" 
+        width=540 
+        height=26
+        border=0 
+        alt="Welcome to Wachovia!"></a>
+
+</applet>
+</p>
+<!-- END JAVA TICKER AREA -->
+</td></tr>
+
+<tr><td width=160 valign=top>
+<!-- SIDE NAVIGATIONAL GRAPHIC -->
+<img src="images/sidebar1.gif"
+	width=160
+	height=252
+	border=0
+	alt="Navigational Graphic"
+	usemap="#sidebar">
+</td>
+
+<td width=390 valign=top>
+<!-- ANIMATED GIF -->
+<img src="images/photos.gif"
+	width=148
+	height=118
+	align=right
+	border=0>
+
+<!-- FEATURED ITEMS -->
+<p>
+<pre> </pre>
+</p>
+
+
+<p>
+<font face="Arial, Helvetica"><b>
+<li>Online Investing is now available through 
+<a href="./pcaccess/">Wachovia PC Access&reg;</a>.<br>
+</b></font>
+<i>You can place trades, get quotes, obtain research, set up portfolios, 
+check balances and more. The best part is there is no charge for using PC 
+Access online investing and you save 20% off our already discounted commissions 
+on stock and option trades! 
+</p>
+
+<p>
+<font face="Arial, Helvetica"><b><p>
+<li>Are you thinking about buying or refinancing a home?<br></b></font>
+<i>We can help you choose the <a href="personal/mortgage/index.html">home 
+loan</a> that's right for you.  And, with Decision Now <sup>sm</sup> you can 
+get an answer on your loan at the time you apply.</i>
+</p>
+
+
+<p>
+<font face="Arial, Helvetica"><b>
+<li>Need helpful hints for smoothly running your business?<br></b></font>
+<i>Set a positive course by browsing the <a 
+href="business/busdir.html">Wachovia <b>Business Direction</b></a> 
+newsletter.</i>
+</p>
+
+<p>
+<font face="Arial, Helvetica"><b>
+<li>Are you interested in career opportunities at Wachovia?<br></b></font>
+<i>We are <a href="about/spirit.html">hiring talented and enthusiastic 
+staff</a> for locations throughout the Southeast.</i>
+</p>
+
+
+<img src="images/spacer.gif"
+	width=390
+	height=3
+	border=0>
+</td></tr>
+
+<!-- PHONE NUMBER -->
+<tr><td colspan=2>
+<a href="about/phone.html"><img src="images/phone1.gif"
+	width=544
+	height=16
+	border=0
+	alt="Wachovia On-Call(SM); 1-800-WACHOVIA"></a>
+</td></tr>
+
+<!-- COPYRIGHT -->
+<tr><td colspan=2>
+<font size=-1>&#169; Wachovia Corporation 1997</font>
+</td></tr>
+
+</table>
+
+
+<!-- MAP FOR SIDE NAVIGATIONAL GRAPHIC -->
+<map name="sidebar">
+<area shape=rect coords="0,0,160,31" href="financial/"
+		onMouseOver="window.status='Keeping informed is key to staying ahead of the competition.';return true">
+<area shape=rect coords="0,32,160,90" href="personal/"
+		onMouseOver="window.status='When it comes to things that involve money, most people know what they want.';return true">
+<area shape=rect coords="0,91,160,143" href="business/"
+		onMouseOver="window.status='Our goal is to be the bank of choice for your business.';return true">
+<area shape=rect coords="0,144,160,199" href="corporate/"
+		onMouseOver="window.status='Wachovia is committed to building a financial partnership with your company.';return true">
+<area shape=rect coords="0,200,160,252" href="about/"
+		onMouseOver="window.status='Wachovia Corporation has been serving your financial needs for more than 100 years.';return true">
+</map>
+
+<p>
+<a href="./financial/index.html"> News</a> | 
+<a href="./personal/index.html">Personal Solutions</a> | 
+<a href="./business/index.html">Business Banking</a> | 
+<a href="./corporate/index.html">Services for Corporations</a> | 
+<a href="./about/index.html">About Us</a> | 
+<a href="./index.html">Home</a>
+</p>
+
+
+</body>
+<!-- (c) Proxicom 1997 -->
+</html>

@@ -1,0 +1,208 @@
+Server: Microsoft-IIS/2.0
+Date: Mon, 29 Dec 1997 20:55:10 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Wed, 26 Nov 1997 18:29:17 GMT
+Content-Length: 9611
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<title>PSW Technologies - Business Systems</title>
+<meta name="description"
+content="Managed software services for custom development, integration, and consulting on object oriented, intranet, and distributed computing needs.">
+<meta name="keywords"
+content="object oriented, distributed computing, internet, intranet, CORBA, DCOM, DCE, Java, C++">
+<meta name="FORMATTER" content="Microsoft FrontPage 2.0">
+</head>
+
+<frameset rows="87,*" cols="190,*" border="0" frameborder="0"
+framespacing="0">
+    <frame src="pswlogo.htm" name="pswlogoframe" scrolling="no"
+    noresize frameborder="no" marginwidth="0" marginheight="0">
+    <frame src="bslogo.htm" name="bslogoframe" scrolling="no"
+    noresize frameborder="no" marginwidth="0" marginheight="0">
+    <frameset rows="90,*" border="0" frameborder="0"
+    framespacing="0">
+        <frame src="bslinks.htm" name="bslinksframe"
+        scrolling="no" noresize frameborder="no">
+        <frame src="quote1.htm" name="bsquotesframe"
+        frameborder="no" marginwidth="10" marginheight="10">
+    </frameset>
+    <frame src="bsintro.htm" name="bsmainframe" frameborder="no"
+    marginwidth="16" marginheight="10">
+    <noframes>
+    <body bgcolor="#FFFFFF">
+    <!--webbot bot="Include" u-include="bsaltset.htm" tag="BODY"
+    startspan --><script language="JavaScript"><!--
+
+       browserName = navigator.appName;
+       browserVer = parseInt(navigator.appVersion);
+		 browserAgent = navigator.userAgent;
+		 version = "unknown"
+       if (browserName == "Netscape" && browserVer >= 3) version = "n3";
+		 if (browserAgent !="") {
+			if (browserAgent.indexOf("MSIE") > -1 ) version = "i3";
+			}       
+              if (version == "n3") {
+               toc1on = new Image();
+               toc1on.src = "images/news-on.gif";
+               toc2on = new Image();
+               toc2on.src = "images/customers-on.gif";
+               toc3on = new Image();
+               toc3on.src = "images/services-on.gif";
+               toc4on = new Image();
+               toc4on.src = "images/partners-on.gif";
+               toc5on = new Image();
+               toc5on.src = "images/demos-on.gif";
+
+               toc1off = new Image();
+               toc1off.src = "images/news-off.gif";
+               toc2off = new Image();
+               toc2off.src = "images/customers-off.gif";
+               toc3off = new Image();
+               toc3off.src = "images/services-off.gif";
+               toc4off = new Image();
+               toc4off.src = "images/partners-off.gif";
+               toc5off = new Image();
+               toc5off.src = "images/demos-off.gif";
+}
+
+       function img_act(imgName) {
+               if (version == "n3") {
+               imgOn = eval(imgName + "on.src");
+               document [imgName].src = imgOn;
+               }
+       }
+
+       function img_inact(imgName) {
+               if (version == "n3") {
+               imgOff = eval(imgName + "off.src");
+               document [imgName].src = imgOff;
+               }
+       }
+// --></script><table
+    border="0" cellpadding="2" cellspacing="0">
+        <tr>
+            <td width="190" bgcolor="#000000"><img
+            src="images/pswlogowitonblk.gif" width="190"
+            height="80"></td>
+            <td><img src="images/bslogo5.gif" width="360"
+            height="47"><br>
+<A HREF="bsnews.htm"
+onMouseover = "img_act('toc1')" 
+ onMouseout = "img_inact('toc1')">
+<IMG BORDER = 0 NAME = "toc1" src="images/news-off.gif"
+ALT="News" BORDER="0"></A><A HREF="bscust.htm"
+onMouseover = "img_act('toc2')" 
+ onMouseout = "img_inact('toc2')"><IMG BORDER = 0 NAME = "toc2" src="images/customers-off.gif"
+ALT="Customers" BORDER="0"></A><A HREF="bsservices.htm"
+onMouseover = "img_act('toc3')" 
+ onMouseout = "img_inact('toc3')"><IMG BORDER = 0 NAME = "toc3" src="images/services-off.gif"
+ALT="Services" BORDER="0"></A><A HREF="bspartners.htm"
+onMouseover = "img_act('toc4')" 
+ onMouseout = "img_inact('toc4')"><IMG BORDER = 0 NAME = "toc4" src="images/partners-off.gif"
+ALT="Partners" BORDER="0"></A><A HREF="bsdemos.htm"
+onMouseover = "img_act('toc5')" 
+ onMouseout = "img_inact('toc5')"><IMG BORDER = 0 NAME = "toc5" src="images/demos-off.gif"
+ALT="Demos" BORDER="0"></A>            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="190" bgcolor="#000000"><a
+            href="http://www.pswtech.com" target="_top"><img
+            src="images/pswmain.gif" border="0" width="152"
+            height="16"></a><br>
+            <a href="search.htm" target="bsmainframe"><img
+            src="images/search.gif" border="0" width="152"
+            height="16"></a><br>
+            <a href="feedback.htm" target="bsmainframe"><img
+            src="images/contactus.gif" border="0" width="152"
+            height="18"></a><p><font color="#FFFFFF">&quot;The
+            Genova methodology, combined with the skills and
+            experience of PSW's consultants, provide an optimal
+            approach for the development of core corporate
+            business systems.&quot; </font><font color="#FF0000">-
+            Mitchell Kramer, Patricia Seybold Group</font></p>
+            </td>
+            <td rowspan="2"><h2>Overview</h2>
+            <p>The Business Systems Solutions Group of PSW
+            provides custom software and system integration
+            services. Through PSW's Software R&amp;D Group, we
+            achieve a 6-12 month lead in understanding what
+            technologies will be available, what works and what
+            doesn't, and how they may change the development
+            lifecycle approach. Armed with this advance knowledge
+            and using our proven <a href="genova.htm">Genova<font
+            size="1"><sup>TM</sup></font></a> Methodologies, we
+            reduce the risk and schedule of enterprise efforts
+            utilizing the latest technologies. </p>
+            <p>By having a proven approach to the people,
+            process, technology and tools that advanced
+            technologies require, we partner with you to address
+            the challenges which face any custom business system
+            development and deployment project. We create timely,
+            custom software solutions - mirroring <em>your</em>
+            business model - that integrate the latest
+            distributed computing, object-oriented and Web-based
+            technologies.</p>
+            <p>Explore what other <a href="bscust.htm"
+            target="bsmainframe">customers</a> have to say about
+            PSW Technologies. <a href="feedback.htm"
+            target="bsmainframe">Invite us in</a> to discuss your
+            current problems, and how together we can use our
+            technology expertise and <a
+            href="http://www.pswtech.com/genmain.html"
+            target="bsmainframe">tailored project methodologies</a>
+            to position your IT to help you to grow your
+            business.</p>
+            <p>We're not just different from the consultants
+            you've used before - we're better.</p>
+            <hr>
+            <p align="center"><a href="bsintro.htm"
+            target="bsmainframe"><font size="2">Introduction</font></a><font
+            size="2"> | </font><a href="bsnews.htm"
+            target="bsmainframe"><font size="2">News</font></a><font
+            size="2"> | </font><a href="bsservices.htm"
+            target="bsmainframe"><font size="2">Services</font></a><font
+            size="2"> | </font><a href="bscust.htm"
+            target="bsmainframe"><font size="2">Customers</font></a><font
+            size="2"> | </font><a href="bspartners.htm"
+            target="bsmainframe"><font size="2">Partners</font></a><font
+            size="2"> | </font><a href="bsdemos.htm"
+            target="bsmainframe"><font size="2">Demos</font></a></p>
+            <p><font size="2">Our customized software solutions
+            can help make IT your competitive advantage. To learn
+            more, contact Mike McCown, VP of Marketing, or send
+            email to </font><a href="feedback.htm"
+            target="bsmainframe"><font size="2">marketing@pswtech.com</font></a><font
+            size="2">.</font></p>
+            <p align="center"><font size="1"><strong><img
+            src="images/pswlogo_m.gif"><br>
+            PSW Technologies, Inc. <br>
+            6300 Bridgepoint Pkwy. <br>
+            Building 3, Suite 200 <br>
+            Austin, Texas 78730<br>
+            (512) 343-6666 <br>
+            </strong>For more information on PSW Technologies,
+            contact us at </font><a href="feedback.htm"
+            target="_self"><font size="1">info@pswtech.com</font></a><br>
+            <font size="1">Please send questions, problems, or
+            suggested improvements to</font> <a
+            href="mailto:info@pswtech.com"><font size="1">info@pswtech.com</font></a></p>
+            <p align="center"><font size="1">©1997 PSW
+            Technologies, Inc. All Rights Reserved.</font></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="190" bgcolor="#000000">&nbsp;</td>
+        </tr>
+    </table>
+    <!--webbot bot="Include" endspan i-checksum="22831" -->
+    </body>
+    </noframes>
+</frameset>
+</html>

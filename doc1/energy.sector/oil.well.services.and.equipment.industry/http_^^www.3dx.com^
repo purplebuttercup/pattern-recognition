@@ -1,0 +1,62 @@
+Date: Wed, 19 Nov 1997 22:57:27 GMT
+Server: Apache/1.2.0
+Last-Modified: Sun, 22 Jun 1997 18:38:08 GMT
+ETag: "44a4-918-33ad7110"
+Content-Length: 2328
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+
+<title>3DX Technologies Inc.</title>
+
+<body background="images/backgrounds/water_2.gif" link="purple" vlink="purple" bgcolor="000099">
+
+<center>
+<table width="540">
+<td width="540">
+<table width="540">
+	<td width="145" valign="top">
+		<img src="images/leftnav_med.jpg" border=0 width="125" height="305" usemap="#leftnav_2_med">
+	</td>
+	<td width="*" valign="top" align="middle">
+		<img src="images/3dxlogo_center_med.jpg" border="0" width="161" height="168">
+		<P><br><P>
+		<img src="images/3dxlogo_med.jpg" border="0" width="139" height="90">
+	</td>
+	<td width="185">
+		<img src="images/rightnav_med.jpg" width="164" height="302" usemap="#rightnav_2_med" border=0>
+	</td>
+</table>
+</center>
+<p>
+<center><font size="+1" color="yellow">3DX Technologies Inc., 12012 Wickchester, Suite 250, Houston, Texas  77079, U.S.A.<br> Phone: 281.579.3398</center>
+<P>
+<P>
+<P>
+<center><FONT  SIZE=-1>This page has been accessed <a href="http://www.siteflow.com/hvb2d/stats.cgi?3dx">
+<img src="http://www.siteflow.com/hvb2d/counter.cgi?3dx" border=0></a>
+times since June 12, 1997.</FONT></center><p>
+<center><FONT  SIZE=-2>Click <a href="http://www.siteflow.com">here</a> to get your own free web counter.
+</table>
+<map name="leftnav_2_med">
+<area shape="rect" alt="Welcome to 3dx" coords="1,6,123,47" href="html/welcome.html">
+<area shape="rect" alt="About 3dx" coords="1,52,125,93" href="html/about.html">
+<area shape="rect" alt="Current Activities and Statistics  " coords="2,98,177,161" href="html/current.html">
+<area shape="rect" alt="Downloads" coords="3,167,169,211" href="html/downloads.html">
+<area shape="rect" alt="Technology Used by 3dx" coords="5,235,168,290" href="html/technology.html">
+<area shape="default" nohref>
+</map>
+<map name="rightnav_2_med">
+<area shape="rect" alt="3dx Business Philosophy" coords="14,6,159,70" href="html/3dx.html">
+<area shape="rect" alt="Investor Relations" coords="22,72,158,137" href="html/investor.html">
+<area shape="rect" alt="Career Opportunities" coords="7,141,151,207" href="html/career.html">
+<area shape="rect" alt="Global Links" coords="9,210,153,256" href="html/global.html">
+<area shape="rect" alt="Contact Us" coords="26,258,157,296" href="html/contact.html">
+<area shape="default" nohref>
+</map>
+</BODY>
+</HTML>
+

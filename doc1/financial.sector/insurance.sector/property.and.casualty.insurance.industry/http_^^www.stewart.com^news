@@ -1,0 +1,9 @@
+WWW Alert:  Redirection response from server is not handled by this client
+Location: http://199.253.17.6/news/
+Server: Microsoft-IIS/3.0
+Content-Type: text/html
+Content-Length: 150
+
+<head><title>Document moved</title></head>
+<body><h1>Object Moved</h1>This document may be found <a HREF="http://199.253.17.6/news/">here</a></body>
+

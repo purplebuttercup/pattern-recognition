@@ -1,0 +1,35 @@
+Date: Thu, 20 Nov 1997 16:32:56 GMT
+Server: Apache/1.2b7 PHP/FI-2.0b12
+Connection: close
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>USA Truck, Inc.'s Home Page</TITLE>
+</HEAD>
+<BODY >
+<center>
+<h3><IMG  src="logo.jpg" align="middle" border =0><br><p><p>
+The<emp> PRIDE</emp> is in our Performance<p></h3>
+<hr>
+<H7><B>USA Truck, Inc. </B></h7><br>
+<H7>P.O. Box 449<BR>
+3108 Industrial Park Rd.<BR>
+Van Buren, AR  72956<BR>
+Voice:(501)471-2500<BR>
+Fax  :(501)471-2577<BR>
+email:<A href="mailto: usatruck@usa-truck.com">usatruck@usa-truck.com</A><BR>
+NASDAQ: USAK<br>
+</center><hr>
+<A HREF="info.htm"><img src="info.jpg" align="middle">USA Truck </a>is a medium haul, common and contract carrier...<br>
+<A HREF="map.htm"><img src="map.jpg" align="middle">Available Trucks </a>- Truck availability and who to call. <blink><b>Updated Daily on Weekdays</b></blink><br>
+<A HREF="fin.htm"><img src="fin.jpg" align="middle">Financial Information </a>including Annual Reports, 10Ks, and the latest press releases<br>
+<A HREF="rate.htm" align="right"><img src="rate.jpg" align="middle">Freight Rate Information </a>What to expect<br>
+<A HREF="job.htm"><img src="job.jpg" align="middle">Employment Opportunities </a>How to join the "Pride" at USA Truck,Inc.<br>
+
+<BR><P></H3><HR>
+<center><H6>Send comments to:<A href="mailto: usatruck@usa-truck.com">usatruck@usa-truck.com</center></a><p>
+<center><h7><a href="copyrigh.htm">Trademark & Disclaimer Information</h7></center></a><br><p>
+</BODY>
+</HTML>
+

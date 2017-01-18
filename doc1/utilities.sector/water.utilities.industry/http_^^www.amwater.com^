@@ -1,0 +1,19 @@
+Date: Thu, 18 Dec 1997 22:02:33 GMT
+Server: Apache/1.2.1
+Last-Modified: Tue, 22 Jul 1997 14:34:11 GMT
+ETag: "54484-ef-33d4c4e3"
+Content-Length: 239
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>American Water Works Company, Inc.</TITLE>
+</HEAD>
+
+<FRAMESET COLS="135,*">
+			<FRAME SRC="menu.html" Name="menu" SCROLLING=NO NORESIZE>
+			<FRAME SRC=" welcome.html" NAME="viewer" SCROLLING=YES>
+			</FRAMESET>
+</HTML>

@@ -1,0 +1,26 @@
+Date: Fri, 21 Nov 1997 02:24:31 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 18 Sep 1997 04:45:50 GMT
+Content-length: 448
+
+ 
+ 
+ <HTML>
+<HEAD><TITLE>BroadBand Technologies</TITLE>
+
+
+</HEAD>
+<FRAMESET COLS="144,*" FRAMESPACING=0 FRAMEBORDER=NO BORDER=0>
+
+<FRAME SRC="leftframe.html" NAME="leftframe" NORESIZE SCROLLING="NO" MARGINWIDTH=0 MARGINHEIGHT=0>
+
+<FRAME SRC="bbt.html" NAME="bbt" SCROLLING="AUTO" MARGINWIDTH=0 MARGINHEIGHT=0>
+
+</FRAMESET>
+<BODY><!-- BEGIN BODY HEADER SECTION --><!-- BEGIN MAIN BODY SECTION -->
+
+
+
+
+<!-- BEGIN BODY FOOTER SECTION --></BODY></HTML>

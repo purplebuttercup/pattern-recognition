@@ -1,0 +1,170 @@
+Server: Netscape-Enterprise/2.01
+Date: Fri, 21 Nov 1997 04:56:29 GMT
+Accept-ranges: bytes
+Last-modified: Thu, 20 Nov 1997 17:37:22 GMT
+Content-length: 11620
+Content-type: text/html
+
+<HTML>
+<HEAD><TITLE>International Rectifier - General Product Information - HEXFET</TITLE>
+<TITLE>International Rectifier, HEXFET, Power Semiconductor gen v</TITLE>
+<TITLE>International Rectifier - General Product Information - HEXFET</TITLE>
+
+<BASE HREF="http://www.irf.com/">
+
+<META  name="description" content="International Rectifier - Celebrating 50 years as the Power Semiconductor Leader.">
+<META  name="keywords" content="International Rectifier, HEXFET, Power Semiconductor gen v">
+<head keywords="International Rectifier, HEXFET, Power Semiconductor gen v">
+<!-- International Rectifier, HEXFET, Power Semiconductor gen v -->
+</HEAD>
+<BODY BACKGROUND="graphics/50back.gif" TEXT="#000000" LINK="#400080" VLINK="#404040">
+
+<map name="irnav">
+<area shape="rect" coords="0,0,57,24" href="search/">
+<area shape="rect" coords="83,0,153,23" href="product-info/">
+<area shape="rect" coords="182,0,241,23" href="whats-new/">
+<area shape="rect" coords="274,0,334,24" href="aboutir-info/">
+<area shape="rect" coords="367,0,429,24" href="whoto-call/">
+<area shape="default" nohref>
+</map>
+
+<P>
+
+<table cellpadding=0 cellspacing=0 width=580>
+<tr><td><IMG SRC="graphics/spacer.gif" ALT="IR" WIDTH=72 HEIGHT=1></td>
+<td><IMG SRC="graphics/irlogo.gif" ALT="IR Logo" WIDTH=135 HEIGHT=50></td>
+<td><IMG SRC="graphics/prodinfo.gif" ALT="Product Information" WIDTH=317 HEIGHT=61></td>
+<td rowspan=2>
+<IMG SRC="graphics/diode.gif" ALT="diode image" WIDTH=56 HEIGHT=95 ALIGN=right>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<IMG SRC="graphics/redspc.gif" ALT="Red Spaces" WIDTH=75 HEIGHT=27 ALIGN=left>
+<IMG SRC="graphics/irnav.gif" ALT="Navigational Bar" WIDTH=430 HEIGHT=25 ALIGN=left usemap="#irnav" border="off">
+</td>
+</tr>
+</table>
+<TABLE>
+<TR>
+<TD ROWSPAN=2 WIDTH=10><BR></TD>
+<TD ROWSPAN=2 WIDTH=110 VALIGN="TOP">
+<NOBR><A HREF="product-info/topical.htm"><IMG SRC="graphics/genprod.gif" ALT="General Product Information" WIDTH=68 HEIGHT=46 BORDER="OFF"></A>
+<IMG SRC="graphics/arrow.gif" ALT="You Are Here" WIDTH=26 HEIGHT=22 ALIGN=ABSMIDDLE></NOBR><BR>
+<A HREF="technical-info/"><IMG SRC="graphics/techinfo.gif" ALT="Technical Information" WIDTH=67 HEIGHT=48 BORDER="OFF"></A><BR>
+<A HREF="product-info/shortform/"><IMG SRC="graphics/shortform.gif" ALT="Short Form Catalog" WIDTH=69 HEIGHT=47 BORDER="OFF"></A><BR>
+<A HREF="product-info/navigator/"><IMG SRC="graphics/navigator.gif" ALT="Navigator" WIDTH=69 HEIGHT=28 BORDER="OFF"></A><BR>
+<A HREF="product-info/datasheets.htm"><IMG SRC="graphics/datasheets.gif" ALT="Datasheets" WIDTH=71 HEIGHT=28 BORDER="OFF"></A><BR>
+<A HREF="product-info/models/"><IMG SRC="graphics/models.gif" ALT="Spice & Saber Models" WIDTH=67 HEIGHT=46 BORDER="OFF"></A><BR>
+<A HREF="product-info/reliability/"><IMG SRC="graphics/reliability.gif" ALT="Reliability Reports" WIDTH=69 HEIGHT=47 BORDER="OFF"></A><BR>
+</TD>
+<TD WIDTH=200 VALIGN="MIDDLE">
+IR's HEXFET<sup>&reg;</sup> brand of power MOSFETs set the standard for the industry in
+power switching characteristics and ratings, product quality and reliability,
+and breadth of line.<p>
+</TD>
+<TD WIDTH=260 VALIGN="TOP"><IMG SRC="graphics/hexfet1.jpg" ALT="HEXFET Low Charge">
+</TD>
+</TR>
+<TR>
+<TD WIDTH=200 VALIGN="TOP"><IMG SRC="graphics/hexfetv.jpg" ALT="hexfetv.jpg - 7.3 K">
+</TD>
+<TD WIDTH=260 VALIGN="MIDDLE">
+Standard HEXFET<sup>&reg;</sup> devices are recognized as the most rugged
+power MOSFETs in the industry, which translates into less external protection
+circuitry and more ease of use in motor control and power conversion
+applications for the commercial, industrial and military markets.<p>
+<DL><font size=-2 color="#CC0000">NEW</font></I>
+product selection utilities from IR.
+<LI><a href="product-info/hexfet/navhexfet.pdf">HEXFET<sup>&reg;</sup> Navigator</a>
+<LI><a href="product-info/hexfet/navmodule.pdf">Module Navigator</a>
+<LI><a href="product-info/hexfet/to220to247.pdf">TO-220 Full Pak & TO-247 Leadform Options</a></dl> 
+<P> 		
+</TD>
+</TR>
+</TABLE>
+<TABLE WIDTH=580>
+<TR><TD COLSPAN=2><HR></TD></TR>
+<TR><TD WIDTH=75 VALIGN="TOP"><FONT COLOR="#FF0000"><CENTER><EM>News<BR>Releases</EM></CENTER></FONT></TD>
+<TD WIDTH=505 VALIGN="TOP">
+International Rectifier's New Pentium II Power Supply Design & 20V Power MOSFETs Reduce Cost by 30% Without Sacrificing Performance <a href="whats-new/nr090897.html">(September 8,1997)</a><P>
+International Rectifier's New 75V and 150V HEXFET<sup>&reg;</sup>  Power MOSFETs Offer New Options for Optimizing Power Conversion Systems <a href="whats-new/nr031797.html">(March 17, 1997)</a><P>
+International Rectifier Launches Line of Low Charge HEXFET<sup>&reg;</sup> Power MOSFETs <a href="whats-new/nrjan29.html">(January 29, 1997)</a><P>
+International Rectifier's New Miniature 6-Pin Package Targets the Portable Electronics Market <a href="whats-new/nrjan10.html">(January 10, 1997)</a><P>
+International Rectifier Develops New Generation of Thyristors in Plastic Packages <a href="whats-new/nrnov27.html">(November 27, 1996)</a><P>
+International Rectifier Offers Generation 5 HEXFET<sup>&reg;</sup> in Popular D-Pak Outline (November 20, 1996)</a><P>
+International Rectifier Adds Two New N-Channel Devices  <a href="whats-new/nrnov20.html"><a href="whats-new/nrjul16.htm">(July 16, 1996).</a><P>
+International Rectifier Extends MOSFET Offering Through Rochester Electronics <A HREF="whats-new/nrmay29.html">(May 29, 1996).</a><P>
+International Rectifier Launches New FETKY<font size=-2><sup>TM</sup></font> Technology For High Density Power Converters <A HREF="whats-new/nrmay13.html">(May 13, 1996).</a><P>
+New Generation 5 HEXFET<SUP>&reg;</SUP> Offers Up To 80% Better On-Resistance Performance in SOT-223 Surface-Mount Package <A HREF="whats-new/nrmay1.html">(May 1, 1996).</a><P>
+Fifth Generation International Rectifier HEXFET<sup>&reg;</sup> Sets New Performance Benchmarks <A HREF="whats-new/fifgen.html">(January 5, 1996).</a><P>
+Industry's First Four-Mask Power MOSFET <A HREF="whats-new/fourmask/fourmask.html">(December 4, 1995).</a><P>
+International Rectifier Introduces Improved Hermetic Package For Expanded Family Of High Reliability HEXFETs <A HREF="whats-new/hermetric.html">(September 11, 1995).</a><P>
+</TD>
+</TR>
+</TABLE>
+<TABLE WIDTH=590>
+<TR><TD COLSPAN=2><HR></TD></TR>
+<TR><TD WIDTH=75 VALIGN="TOP"><FONT COLOR="#FF0000"><CENTER><EM>Tecnical<BR>Info</EM></CENTER></FONT></TD>
+<TD WIDTH=505 VALIGN="TOP">
+<a href="technical-info/appnotes/mosfet.pdf"><IMG SRC="/images/pdficon.gif" ALT="Pdficon" WIDTH=28 HEIGHT=31></a>
+<I><font size=-2 color="#CC0000">NEW</font></I> Technical Paper:  Power MOSFET Basics <BR>
+<a href="technical-info/appnotes/para.pdf"><IMG SRC="/images/pdficon.gif" ALT="Pdficon" WIDTH=28 HEIGHT=31></a>
+<I><font size=-2 color="#CC0000">NEW</font></I> Technical Paper:  Paralleling of Power MOSFETs for Higher Power Output<BR>
+<a href="product-info/datasheets/data/p6vrm1a.pdf"><IMG SRC="/images/pdficon.gif" ALT="Pdficon" WIDTH=28 HEIGHT=31></a>
+<I><font size=-2 color="#CC0000">NEW</font></I> Turnkey Pentium Pro Power Supply Specification <BR>
+<a href="product-info/reliability/rrhexfetm.pdf"><IMG SRC="/images/pdficon.gif" ALT="Pdficon" WIDTH=28 HEIGHT=31></a>
+<I><font size=-2 color="#CC0000">NEW</font></I> Small Outline SMD Reliability Report - Micro3, Micro6, Micro8, and SO-8 <BR>
+<IMG SRC="graphics/spacer.gif" ALT="IR" WIDTH=35 HEIGHT=1><I><font size=-2 color="#CC0000">NEW</font></I>
+<a href="product-info/reliability/">HEXFET Reliability Report - 53rd Edition</a><BR>
+<a href="technical-info/appnotes/an-936.pdf"><IMG SRC="/images/pdficon.gif" ALT="Pdficon" WIDTH=28 HEIGHT=31></a>
+<a href="technical-info/an936/an-936.htm">AN-936:</a> The Do's and Don'ts of Using MOS-Gated Transistors<BR>
+<a href="technical-info/appnotes/an-937.pdf"><IMG SRC="/images/pdficon.gif" ALT="Pdficon" WIDTH=28 HEIGHT=31></a>
+<a href="technical-info/an937/an-937.htm">AN-937:</a> Gate Drive Characteristics and Requirements for HEXFETs<BR>
+<a href="technical-info/appnotes/an-940.pdf"><IMG SRC="/images/pdficon.gif" ALT="Pdficon" WIDTH=28 HEIGHT=31></a>
+<a href="technical-info/an940/an-940.htm">AN-940:</a> How P-Channel HEXFETs Can Simplify Your Circuit<br>
+<a href="technical-info/appnotes/an-941.pdf"><IMG SRC="/images/pdficon.gif" ALT="Pdficon" WIDTH=28 HEIGHT=31></a>
+<a href="technical-info/an941/an-941.htm">AN-941:</a> Paralleling HEXFETs<br>
+<a href="technical-info/appnotes/an-944.pdf"><IMG SRC="/images/pdficon.gif" ALT="Pdficon" WIDTH=28 HEIGHT=31></a>
+<a href="technical-info/an944/an-944.htm">AN-944:</a> Use Gate Charge to Design the Gate Drive Circuit for Power MOSFETs and IGBTs<br>
+<a href="technical-info/appnotes/an-948.pdf"><IMG SRC="/images/pdficon.gif" ALT="Pdficon" WIDTH=28 HEIGHT=31></a>
+<a href="technical-info/an948/an-948.htm">AN-948:</a> Linear Power Amplifier Using Complementary HEXFETs<br>
+<a href="technical-info/appnotes/an-949.pdf"><IMG SRC="/images/pdficon.gif" ALT="Pdficon" WIDTH=28 HEIGHT=31></a>
+<a href="technical-info/an949/an-949.htm">AN-949:</a> Current Ratings of Power Semiconductors<br>
+<a href="technical-info/appnotes/an-950.pdf"><IMG SRC="/images/pdficon.gif" ALT="Pdficon" WIDTH=28 HEIGHT=31></a>
+<a href="technical-info/an950/an-950.htm">AN-950:</a> Transformer-Isolated Gate Driver Provides Very Large Duty Cycle Ratios<P>
+<a href="technical-info/an955/an-955.htm">AN-955:</a> Protecting IGBTs and MOSFETs from ESD<P>
+<a href="technical-info/appnotes/an-957.pdf"><IMG SRC="/images/pdficon.gif" ALT="Pdficon" WIDTH=28 HEIGH=31></a>
+<a href="technical-info/an957/an-957.htm">AN-957:</a> Measuring HEXFET<sup>&reg;</sup> Characteristics<P>
+<a href="technical-info/an986/an-986.htm">AN-986:</a> ESD Testing of MOS Gated Power Transistors<P>
+</TD>
+</TR>
+</TABLE>
+<TABLE WIDTH=590>
+<TR><TD COLSPAN=3><HR></TD></TR>
+<TR><TD WIDTH=75 VALIGN="TOP">
+<FONT COLOR="#FF0000"><CENTER><EM>HEXFET<sup>&reg;</sup><BR>Quick<BR>Links</EM></CENTER></FONT></TD>
+<TD WIDTH=90 VALIGN="TOP">
+<A HREF="product-info/datasheets.htm"><IMG SRC="graphics/datasheets.gif" ALT="Datasheets" WIDTH=71 HEIGHT=28 BORDER="OFF"></A>
+<A HREF="product-info/shortform/"><IMG SRC="graphics/shortform.gif" ALT="Short Form Catalog" WIDTH=69 HEIGHT=47 BORDER="OFF"></A></TD>
+<A HREF="product-info/models/"><IMG SRC="graphics/models.gif" ALT="Spice & Saber Models" WIDTH=67 HEIGHT=46 BORDER="OFF"></A>
+<A HREF="technical-info/analytical.htm"><IMG SRC="graphics/keyword.gif" ALT="Keyword Search" WIDTH=72 HEIGHT=51 BORDER="OFF"></A><P>
+<TD WIDTH=415 VALIGN="TOP">
+<DL><LI><A HREF="product-info/datasheets/hexfet.htm"><IMG SRC="/images/pdficon.gif" ALT="Pdficon" WIDTH=28 HEIGHT=31></a>HEXFET<sup>&reg;</sup>  Datasheet Listing
+<LI><A HREF="product-info/shortform/sfhexfet.pdf"><IMG SRC="/images/pdficon.gif" ALT="Pdficon" WIDTH=28 HEIGHT=31></a>
+HEXFET<sup>&reg;</sup> Short Form Catalog with hyperlinks<BR>get 
+<a href="http://www.adobe.com/prodindex/acrobat/readstep.html">
+Acrobat 3.0 Reader (Freeware)</a> now.</A>
+<LI><A HREF="product-info/models/spice/mosfet.htm">Spice files</a><LI><A HREF="product-info/models/saber/sabermos.htm">Saber Files</a><P>
+<LI><A HREF="product-info/hexfet.htm">HEXFET Analytical Index</a><LI><A HREF="product-info/igbt.htm">IGBT Analytical Index</a>
+<LI><A HREF="product-info/mgd.htm">MOSFET Gated Drivers Analytical Index</DL><P>
+</TD>
+</TR>
+</TABLE>
+<IMG SRC="graphics/redspc.gif" ALT="Red Spaces" WIDTH=75 HEIGHT=27>
+<a href="http://www.irf.com/"><IMG SRC="graphics/home.gif" ALT="Home Page" WIDTH=111 HEIGHT=25 BORDER="OFF"></A>
+</BODY>
+</HTML>
+
+
+

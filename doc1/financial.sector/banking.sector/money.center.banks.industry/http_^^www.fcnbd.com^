@@ -1,0 +1,236 @@
+Server: Netscape-Enterprise/2.01
+Date: Thu, 18 Dec 1997 12:29:54 GMT
+Content-type: text/html
+
+<HTML>
+<HEAD>
+
+<TITLE>First Chicago NBD</TITLE>
+
+
+</HEAD>
+
+
+<SCRIPT language="Javascript">
+
+browser_name = navigator.appName;
+browser_version = parseFloat(navigator.appVersion); 
+
+function turnon(x) {
+	if (browser_name == "Netscape" && browser_version >= 3.0 || browser_name == "MSIE" && browser_version >= 4.0) {
+		if (x == 24) {
+			document.con.src = "/images/homepage/con_on.gif";
+		}
+		if (x == 25) {
+			document.mm.src = "/images/homepage/mm_on.gif";
+		}
+		if (x == 26) {
+			document.fcnis.src = "/images/homepage/fcnis_on.gif";
+		}
+		if (x == 27) {
+			document.third.src = "/images/homepage/os_on.gif";
+		}
+		if (x == 28) {
+			document.ac.src = "/images/homepage/ac_on.gif";
+		}
+	}
+}
+
+function turnoff(x) {
+	if (browser_name == "Netscape" && browser_version >= 3.0) {
+		if (x == 24) {
+			document.con.src = "/images/homepage/con.gif";
+		}
+		if (x == 25) {
+			document.mm.src = "/images/homepage/mm.gif";
+		}
+		if (x == 26) {
+			document.fcnis.src = "/images/homepage/fcnis.gif";
+		}
+		if (x == 27) {
+			document.third.src = "/images/homepage/os.gif";
+		}
+		if (x == 28) {
+			document.ac.src = "/images/homepage/ac.gif";
+		}
+	}
+}
+
+</SCRIPT>
+
+
+<BODY LINK="#2A5CB3" VLINK="#6A6767" ALINK="#336633" TEXT="000000" BGCOLOR="#FFFFFF" BACKGROUND="/images/homepage/bkg.gif" MARGINHEIGHT="0">
+
+
+<MAP NAME ="map">
+	<AREA SHAPE ="RECT" HREF ="/fcnbd/corporate" COORDS ="0,0,76,30">
+	<AREA SHAPE ="RECT" HREF ="/research" COORDS ="78,0,160,30">
+	<AREA SHAPE ="RECT" HREF ="/cor/fcnbd/pr/pr.html" COORDS ="162,0,204,30">
+	<AREA SHAPE ="RECT" HREF ="/locator/locator.html" COORDS ="246,0,328,30">
+	<AREA SHAPE ="RECT" HREF ="/fcnbd/hr/index.shtml"  COORDS ="330,0,408,30">
+</MAP>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="610">
+<TR>
+	<TD COLSPAN="3" WIDTH="610" VALIGN="TOP" ALIGN="LEFT">
+	<IMG SRC="/images/homepage/mastleft.gif" ALIGN="TOP" WIDTH="200" HEIGHT="54" BORDER="0"><IMG SRC="/images/homepage/mastright.gif" USEMAP="#map" ALIGN="TOP" WIDTH="410" HEIGHT="54" BORDER="0"></TD></TR>
+
+<TR>
+	<TD WIDTH="25" VALIGN="TOP"><IMG SRC="/images/homepage/newtab.gif" WIDTH="25" HEIGHT="129" BORDER="0"></TD>
+
+	<TD WIDTH="170" VALIGN="TOP">
+		<TABLE WIDTH="170" CELLPADDING="0" CELLSPACING="0" BORDER="0">
+		<TR>
+			<TD WIDTH="21" VALIGN="TOP"><A HREF="http://www.connecthere.com"><IMG SRC="/images/homepage/button.gif" WIDTH="21" HEIGHT="35" BORDER="0"></A></TD>
+
+			<TD WIDTH="139" VALIGN="TOP"><A HREF="http://www.connecthere.com" onMouseOver = "turnon(24); window.status = 'Connect Here'; return true"; onMouseOut = "turnoff(24)"><IMG SRC="/images/homepage/con.gif" WIDTH="78" HEIGHT="34" BORDER="0" NAME="con"></A><BR>
+<FONT SIZE="-2" FACE="VERDANA, HELVETICA, ARIAL" COLOR="#FFFFFF">30 days of free Internet access with connections to news, weather, sports and more!</FONT><P><IMG SRC="/images/homepage/white.gif" WIDTH="139" HEIGHT="1" BORDER="0"></TD>
+
+			<TD WIDTH="10" VALIGN="BOTTOM"><IMG SRC="/images/homepage/white.gif" WIDTH="10" HEIGHT="1" BORDER="0"></TD></TR>
+
+		<TR>
+			<TD WIDTH="21" VALIGN="TOP"><A HREF="/midmarket/"><IMG SRC="/images/homepage/button.gif" WIDTH="21" HEIGHT="35" BORDER="0"></A></TD>
+
+			<TD WIDTH="139" VALIGN="TOP"><A HREF="/midmarket" onMouseOver = "turnon(25); window.status = 'Middle Market Banking'; return true"; onMouseOut = "turnoff(25)"><IMG SRC="/images/homepage/mm.gif" WIDTH="134" HEIGHT="34" BORDER="0" NAME="mm"></A><BR>
+<FONT SIZE="-2" FACE="VERDANA, HELVETICA, ARIAL" COLOR="#FFFFFF">Cash management services, investment products, and more.</FONT><P><IMG SRC="/images/homepage/white.gif" WIDTH="139" HEIGHT="1" BORDER="0"></TD>
+
+			<TD WIDTH="10" VALIGN="BOTTOM"><IMG SRC="/images/homepage/white.gif" WIDTH="10" HEIGHT="1" BORDER="0"></TD></TR>
+
+		<TR>
+			<TD WIDTH="21" VALIGN="TOP"><A HREF="/fcnis/docs/gateway.html"><IMG SRC="/images/homepage/button.gif" WIDTH="21" HEIGHT="35" BORDER="0"></A></TD>
+
+			<TD WIDTH="139" VALIGN="TOP"><A HREF="/fcnis/docs/gateway.html" onMouseOver = "turnon(26); window.status = 'Click here for Online Brokerage'; return true"; onMouseOut = "turnoff(26)"><IMG SRC="/images/homepage/fcnis.gif" WIDTH="69" HEIGHT="34" BORDER="0" NAME="fcnis"></A><BR>
+<FONT SIZE="-2" FACE="VERDANA, HELVETICA, ARIAL" COLOR="#FFFFFF">Around-the-clock trading, quotes, news and research.</FONT><P><IMG SRC="/images/homepage/white.gif" WIDTH="139" HEIGHT="1" BORDER="0"></TD>
+
+			<TD WIDTH="10" VALIGN="BOTTOM"><IMG SRC="/images/homepage/white.gif" WIDTH="10" HEIGHT="1" BORDER="0"></TD></TR>
+		
+		<TR>
+			<TD WIDTH="21" VALIGN="TOP"><A HREF="/store/"><IMG SRC="/images/homepage/button.gif" WIDTH="21" HEIGHT="35" BORDER="0"></A></TD>
+
+			<TD WIDTH="139" VALIGN="TOP"><A HREF="/store/" onMouseOver = "turnon(27); window.status = 'Online Store'; return true"; onMouseOut = "turnoff(27)"><IMG SRC="/images/homepage/os.gif" WIDTH="70" HEIGHT="34" BORDER="0" NAME="third"></A><BR>
+<FONT SIZE="-2" FACE="VERDANA, HELVETICA, ARIAL" COLOR="#FFFFFF">Holiday shopping for everyone on your list.</FONT><P><IMG SRC="/images/homepage/white.gif" WIDTH="139" HEIGHT="1" BORDER="0"></TD>
+
+			<TD WIDTH="10" VALIGN="BOTTOM"><IMG SRC="/images/homepage/white.gif" WIDTH="10" HEIGHT="1" BORDER="0"></TD></TR>
+
+		<TR>
+			<TD WIDTH="21" VALIGN="TOP"><A HREF="/personal/applications/app_center.shtml"><IMG SRC="/images/homepage/button.gif" WIDTH="21" HEIGHT="35" BORDER="0"></A></TD>
+
+			<TD WIDTH="139" VALIGN="TOP"><A HREF="/personal/applications/app_center.shtml" onMouseOver = "turnon(28); window.status = 'Online Applications'; return true"; onMouseOut = "turnoff(28)"><IMG SRC="/images/homepage/ac.gif" WIDTH="108" HEIGHT="34" BORDER="0" NAME="ac"></A><BR>
+<FONT SIZE="-2" FACE="VERDANA, HELVETICA, ARIAL" COLOR="#FFFFFF">Find online rates and applications for loans, mortgages, checking accounts and more!</FONT><P><IMG SRC="/images/homepage/white.gif" WIDTH="139" HEIGHT="1" BORDER="0"></TD>
+
+			<TD WIDTH="10" VALIGN="BOTTOM"><IMG SRC="/images/homepage/white.gif" WIDTH="10" HEIGHT="1" BORDER="0"></TD></TR></TABLE></TD>
+	
+	
+	<TD WIDTH="415" ALIGN="LEFT" VALIGN="TOP">
+		<TABLE WIDTH="415" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+
+
+		
+		<TR>
+
+		<TD WIDTH="390" ALIGN="RIGHT" VALIGN="BOTTOM" NOWRAP><A HREF="/personal"><IMG SRC="/images/homepage/pb.gif" WIDTH="250" HEIGHT="31" BORDER="0"></A><BR><A HREF="/personal"><IMG SRC="/images/homepage/pbbottom.gif" WIDTH="68" HEIGHT="23" BORDER="0" ALIGN="TOP"></A><BR>
+<IMG SRC="/images/homepage/purpline.gif" WIDTH="390" HEIGHT="8" BORDER="0"><IMG SRC="/images/homepage/white.gif" WIDTH="65" HEIGHT="1" BORDER="0"></TD>
+
+<TD WIDTH="25"></FORM><IMG SRC="/images/global/pix_trans.gif" WIDTH="25" HEIGHT="1" BORDER="0"></TD></TR>
+
+<TR>
+
+<TD WIDTH="390" ALIGN="RIGHT" VALIGN="BOTTOM" NOWRAP><FORM NAME="menu2" action="http://www.fcnbd.com/cgi-bin/autolink.pl" method="GET"><A HREF="/business/"><IMG SRC="/images/homepage/bb.gif" WIDTH="310" HEIGHT="33" BORDER="0"></A><BR>
+<INPUT TYPE="IMAGE" SRC="/images/homepage/go.gif" BORDER="0" ALIGN="TOP" WIDTH="22" HEIGHT="25"><SELECT NAME="urlname" onChange="window.open(this.options[this.selectedIndex].value,'_top')">
+<OPTION VALUE="http://www.fcnbd.com/business/" SELECTED>select from below 
+<OPTION>=======================
+<OPTION VALUE="http://www.fcnbd.com/bus/fcb/cdb/cdbintro.html">Community Development
+<OPTION VALUE="http://www.fcnbd.com/bus/fcb/cdb/cdbintro.html">--Banking
+<OPTION VALUE="http://www.fcnbd.com/cor/nbd/crspbank.html">Correspondent Banking
+<OPTION VALUE="http://www.fcnbd.com/business">Small Business
+</SELECT><A HREF="/business/"><IMG SRC="/images/homepage/bbbottom.gif" WIDTH="68" HEIGHT="23" BORDER="0" ALIGN="TOP"></A><BR>
+<IMG SRC="/images/homepage/purpline.gif" WIDTH="390" HEIGHT="8" BORDER="0"><IMG SRC="/images/homepage/white.gif" WIDTH="65" HEIGHT="1" BORDER="0"></TD>
+
+<TD WIDTH="25"></FORM><IMG SRC="/images/global/pix_trans.gif" WIDTH="25" HEIGHT="1" BORDER="0"></TD></TR>
+
+<TR>
+                        <TD WIDTH="390" ALIGN="RIGHT" VALIGN="BOTTOM"><FORM NAME="menu3" action="http://www.fcnbd.com/cgi-bin/autolink.pl" method="GET"><A HREF="/midmarket/"><IMG SRC="/images/homepage/mmb.gif" WIDTH="252" HEIGHT="32" BORDER="0"></A><BR>
+<INPUT TYPE="IMAGE" SRC="/images/homepage/go.gif" BORDER="0" ALIGN="TOP" WIDTH="22" HEIGHT="25"><SELECT NAME="urlname" onChange="window.open(this.options[this.selectedIndex].value,'_top')">
+<OPTION VALUE="http://www.fcnbd.com/midmarket" SELECTED>select from below 
+<OPTION>=======================
+<OPTION VALUE="http://www.anbchicago.com">American National
+<OPTION VALUE="http://www.anbchicago.com">--Bank (IL, WI)
+<OPTION VALUE="http://www.fcnbd.com/midmarket/nbdmmchoice.shtml">NBD Bank (IN, MI)
+</SELECT><A HREF="/midmarket/"><IMG SRC="/images/homepage/mmbbottom.gif" ALIGN="TOP" WIDTH="68" HEIGHT="23" BORDER="0"></A><BR>
+<IMG SRC="/images/homepage/purpline.gif" WIDTH="390" HEIGHT="8" BORDER="0"><IMG SRC="/images/homepage/white.gif" WIDTH="65" HEIGHT="1" BORDER="0"></TD>
+
+<TD WIDTH="25"></FORM><IMG SRC="/images/global/pix_trans.gif" WIDTH="25" HEIGHT="1" BORDER="0"></TD></TR>
+
+<TR>
+                        <TD WIDTH="390" ALIGN="RIGHT" VALIGN="BOTTOM" NOWRAP><FORM NAME="menu4" action="http://www.fcnbd.com/cgi-bin/autolink.pl" method="GET"><A HREF="/cor/cmenu.shtml"><IMG SRC="/images/homepage/ci.gif" WIDTH="220" HEIGHT="33" BORDER="0"></A><BR>
+<INPUT TYPE="IMAGE" SRC="/images/homepage/go.gif" BORDER="0" ALIGN="TOP" WIDTH="22" HEIGHT="25"><SELECT NAME="urlname" onChange="window.open(this.options[this.selectedIndex].value,'_top')">
+<OPTION VALUE="http://www.fcnbd.com/cor/cmenu.shtml" SELECTED>select from below 
+<OPTION>=======================
+<OPTION VALUE="http://www.fcnbd.com/cor/derivatives/derindex.html">Derivatives
+<OPTION VALUE="http://www.fcnbd.com/cor/fccm/research/HTML/index.htm">First Chicago Capital
+<OPTION VALUE="http://www.fcnbd.com/cor/fccm/research/HTML/index.htm">--Markets Research
+<OPTION VALUE="http://www.fcnbd.com/cor/fcf/fcfi_int.htm">First Chicago Futures
+<OPTION VALUE="http://www.fctc.com/">First Chicago Trust Co.
+<OPTION VALUE="http://globalcash.fcnbd.com/">Global Treasury
+<OPTION VALUE="http://www.fcnbd.com/corporate/ib/">International Banking
+<OPTION VALUE="http://www.fcnbd.com/corporate/srma/">Strategic Risk
+<OPTION VALUE="http://www.fcnbd.com/corporate/srma/index.shtml">--Management Advisory
+<OPTION VALUE="http://www.fcnbd.com/corporate/trust/index.shtml">Global Corporate Trust
+<OPTION VALUE="http://www.fcnbd.com/corporate/invest/index.shtml">Institutional Cash
+<OPTION VALUE="http://www.fcnbd.com/corporate/trust/index.shtml">--Investments
+</SELECT><A HREF="/cor/cmenu.shtml"><IMG SRC="/images/homepage/cibottom.gif" ALIGN="TOP" WIDTH="68" HEIGHT="23" BORDER="0"></A><BR>
+<IMG SRC="/images/homepage/purpline.gif" WIDTH="390" HEIGHT="8" BORDER="0"><IMG SRC="/images/homepage/white.gif" WIDTH="65" HEIGHT="1" BORDER="0"></TD>
+
+<TD WIDTH="25"></FORM><IMG SRC="/images/global/pix_trans.gif" WIDTH="25" HEIGHT="1" BORDER="0"></TD></TR></TABLE>
+
+<TABLE>
+		<TR>
+		
+		<TD WIDTH="15"><IMG SRC="/images/global/pix_trans.gif" WIDTH="15" HEIGHT="1" BORDER="0"></TD>
+		
+		<TD WIDTH="390" ALIGN="LEFT" VALIGN="TOP"><BR><a href="http://www.fcnbd.com/per/fcb/fcbinsure/fcbinsurance.html"><img src="/img/banners_rotate/insure/wtturn.gif" alt="Where to turn for auto insurance." border="0
+" align="middle" width="400" height="80"></a>
+<BR><BR><BR><FONT SIZE="-2" FACE="VERDANA, HELVETICA, ARIAL">Welcome to First Chicago NBD's home on the World Wide Web. No matter who you
+are -- a <A HREF="/cor/cmenu.shtml">large corporation</A>, a <A HREF="/midmarket/index.shtml">middle market business</A>, a <A HREF="/business/index.shtml">small business</A>, an <A HREF="/fcnis/docs/gateway.html">active investor</A>, a
+<A HREF="/personal">personal banking customer</A> -- access to financial news, research, information, interactive tools and online applications is just a click away. Take a look around
+-- we think you'll be pleasantly surprised at all we have to offer. And if
+you don't find something you need, be sure to <A HREF="/cor/email.html">let us know</A>.
+<P>
+&copy;1997 The First National Bank of Chicago and NBD Bank, Members FDIC and Equal Housing Lenders. All rights reserved.</FONT></UL></TD>
+
+<TD WIDTH="10"><IMG SRC="/images/global/pix_trans.gif" WIDTH="10" HEIGHT="1" BORDER="0"></TD></TR></TABLE></TD></TR></TABLE>
+
+<SCRIPT language='Javascript'>
+// <!--
+
+if (browser_name == "Netscape" && browser_version >= 3.0) {
+	aaa = new Image();
+	aaa.src = "/images/homepage/con_on.gif";
+	aab = new Image();
+	aab.src = "/images/homepage/mm_on.gif";
+	aac = new Image();
+	aac.src = "/images/homepage/fcnis_on.gif";
+	aad = new Image();
+	aad.src = "/images/homepage/os_on.gif";
+	aae = new Image();
+	aae.src = "/images/homepage/ac_on.gif";
+
+
+
+	con = new Image();
+	con.src = "/images/homepage/con.gif";
+	mm = new Image();
+	mm.src = "/images/homepage/mm.gif";
+	fcnis = new Image();
+	fcnis.src = "/images/homepage/fcnis.gif";
+	third = new Image();
+	third.src = "/images/homepage/os.gif";
+	ac = new Image();
+	ac.src = "/images/homepage/ac.gif";
+}
+
+// -->
+</SCRIPT>
+
+</BODY>
+</HTML>

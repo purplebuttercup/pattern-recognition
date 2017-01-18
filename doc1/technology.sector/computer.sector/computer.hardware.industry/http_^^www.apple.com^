@@ -1,0 +1,148 @@
+Server: Netscape-Enterprise/3.0
+Date: Fri, 21 Nov 1997 02:37:22 GMT
+Content-type: text/html
+Connection: close
+
+<HTML>
+<HEAD>
+
+<META NAME="Author.Corporate"		CONTENT="Apple Computer, Inc.">
+<LINK REL="Author.Corporate"		HREF="http://www.apple.com/">
+<META NAME="Publisher"				CONTENT="Apple Computer, Inc.">
+<LINK REL="Publisher"				HREF="mailto:webmaster@apple.com">
+<META NAME="Keywords"				CONTENT="Apple Computer, Inc., Computers, Computer Hardware, Power Macintosh, Software, Operating Systems, Mac OS, Newton">
+<META NAME="Description"			CONTENT="Visit www.apple.com for the latest news, the hottest products, and technical support resources from Apple Computer, Inc.">
+<META NAME="Date.Modified"			CONTENT="19971111">
+<META HTTP-EQUIV="Expires"			CONTENT="Mon, 03 Nov 1997 23:59:59+0100">
+
+<LINK REL="home"		HREF="http://www.apple.com/">
+<LINK REL="index"		HREF="http://www.apple.com/find/siteindex.html">
+<LINK REL="find"		HREF="http://www.apple.com/find/">
+<LINK REL="meta"		HREF="http://www.apple.com/standards/meta.html">
+
+
+	<TITLE>Apple Computer</TITLE>
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" LEFTMARGIN="8" TOPMARGIN="8">
+
+<TABLE WIDTH="600" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+
+<!-- * ROW 1 * -->
+	<TR VALIGN="top">
+
+	<!-- COLUMN 1:  APPLE -->
+		<TD WIDTH="300"><IMG SRC="/main/elements/spacer.gif" WIDTH="12" HEIGHT="1" ALT=""><IMG SRC="/main/elements/apple.gif" WIDTH="256" HEIGHT="225" ALT="Apple"><IMG SRC="/main/elements/spacer.gif" WIDTH="32" HEIGHT="1" ALT=""></TD>
+
+	<!-- COLUMN 2:  THINK DIFFERENT GRAPHIC -->
+		<TD WIDTH="300" ROWSPAN="2"><IMG SRC="/home/images/main/graham.jpg" WIDTH="300" HEIGHT="255" ALT="Think Different"></TD>
+	</TR>
+
+<!-- * ROW 2 * -->
+	<TR>
+
+	<!-- COLUMN 1:  DATE -->
+		<TD WIDTH="300" VALIGN="bottom"><IMG SRC="/main/elements/spacer.gif" WIDTH="14" HEIGHT="1" ALT=""><FONT FACE="Times" COLOR="999999">November 20, 1997</FONT></TD>
+
+	<!-- COLUMN 2:  (FROM ROW 1) -->
+	</TR>
+
+<!-- * ROW 3 * -->
+	<TR>
+
+	<!-- COLUMNS 1 - 2:  PROMO GRAPHICS, APPLE NAVIGATION, FIND, WORLDWIDE ACCESS & COPYRIGHT INFO -->
+		<TD WIDTH="600" COLSPAN="2">
+		<IMG SRC="/main/elements/spacer.gif" WIDTH="1" HEIGHT="3" ALT=""><BR>
+		<IMG SRC="/main/elements/rule.gif" WIDTH="600" HEIGHT="8" ALT=""><BR>
+		<IMG SRC="/main/elements/spacer.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		<IMG SRC="/main/elements/spacer.gif" WIDTH="29" HEIGHT="1" ALT=""><A HREF="/home/verydifferent/chip.html"><IMG SRC="/home/images/promos/cookie.gif" WIDTH="140" HEIGHT="130" BORDER="0" ALT="A very different chip."></A><IMG SRC="/main/elements/spacer.gif" WIDTH="30" HEIGHT="1" ALT=""><IMG SRC="/main/elements/blackline.gif" WIDTH="1" HEIGHT="130" ALT=""><IMG SRC="/main/elements/spacer.gif" WIDTH="30" HEIGHT="1" ALT=""><A HREF="/home/verydifferent/store.html"><IMG SRC="/home/images/promos/shoppingcart.gif" WIDTH="140" HEIGHT="130" BORDER="0" ALT="A very different store."></A><IMG SRC="/main/elements/spacer.gif" WIDTH="30" HEIGHT="1" ALT=""><IMG SRC="/main/elements/blackline.gif" WIDTH="1" HEIGHT="130" ALT=""><IMG SRC="/main/elements/spacer.gif" WIDTH="30" HEIGHT="1" ALT=""><A HREF="/home/verydifferent/factory.html"><IMG SRC="/home/images/promos/screwdriver.gif" WIDTH="140" HEIGHT="130" BORDER="0" ALT="A very different factory."></A><IMG SRC="/main/elements/spacer.gif" WIDTH="29" HEIGHT="1" ALT=""><BR>
+		<IMG SRC="/main/elements/spacer.gif" WIDTH="1" HEIGHT="6" ALT=""><BR>
+
+	<!-- APPLE NAVIGATION -->
+		<A HREF="/main/maps/navbar.map"><IMG SRC="/main/elements/navbar.gif" WIDTH="600" HEIGHT="38" BORDER="0" ALT="" ISMAP USEMAP="#navbar"></A><BR>
+			<MAP NAME="navbar">
+			<AREA SHAPE="rect" COORDS="0,0,84,37"		HREF="/store/">
+			<AREA SHAPE="rect" COORDS="84,0,192,18"		HREF="/hotnews/">
+			<AREA SHAPE="rect" COORDS="84,18,192,37"	HREF="/signmeup/">
+			<AREA SHAPE="rect" COORDS="192,0,300,18"	HREF="/products/">
+			<AREA SHAPE="rect" COORDS="192,18,300,37" 	HREF="/support/">
+			<AREA SHAPE="rect" COORDS="300,0,408,18"	HREF="/publishing/">
+			<AREA SHAPE="rect" COORDS="300,18,408,37"	HREF="/education/">
+			<AREA SHAPE="rect" COORDS="408,0,516,18"	HREF="/about/">
+			<AREA SHAPE="rect" COORDS="408,18,516,37"	HREF="/buy/">
+			<AREA SHAPE="rect" COORDS="516,0,599,37"	HREF="/">
+			</MAP>
+
+		<BR>
+
+	<!-- FIND FEATURE -->
+		<CENTER>
+		<FORM METHOD="POST" ACTION="http://search.apple.com/cgi-bin/nph-apple_search.pl">
+		<INPUT TYPE="hidden" NAME="qparser" VALUE="simple"><INPUT TYPE="hidden" NAME="POINTER" VALUE="FRONT">
+		<STRONG><A HREF="/find/">Find</A>:</STRONG><IMG SRC="/main/elements/spacer.gif" WIDTH="10" HEIGHT="1" ALT=""><INPUT TYPE="text" NAME="query" SIZE="20"><IMG SRC="/main/elements/spacer.gif" WIDTH="5" HEIGHT="1" ALT=""><INPUT TYPE="submit" NAME="buttonshort" VALUE="Shortcut"><IMG SRC="/main/elements/spacer.gif" WIDTH="3" HEIGHT="1" ALT=""><INPUT TYPE="submit" NAME="buttonsearch" VALUE="Search"><BR>
+		<BR><BR>
+		</FORM>
+
+	<!-- TEXT NAVIGATION -->
+		<FONT SIZE="-1">
+		<A HREF="/store/">The Apple Store</A> | <A HREF="/hotnews/">Hot News</A> | <A HREF="/signmeup/">Sign Me Up</A> | <A HREF="/products/">Products</A> | <A HREF="/support/">Support</A><BR>
+		<A HREF="/publishing/">Design &amp; Publishing</A> | <A HREF="/education/">Education</A> | <A HREF="/about/">About Apple</A> | <A HREF="/buy/">Where to Buy</A> | <A HREF="/">Home</A><BR>
+		<A HREF="/employment/">Job Opportunities at Apple</A><BR>
+		</FONT><BR>
+
+	<!-- WORLDWIDE PULL DOWN MENU -->
+		<FORM METHOD=POST ACTION="http://io.apple.com/cgi/nc/NetCloak.acgi$worldwide.html">
+		Visit other Apple sites around the world:
+				<SELECT NAME="newPage">
+				<OPTION SELECTED>Choose...
+				<OPTION>Asia
+				<OPTION>Australia
+				<OPTION>Belgium
+				<OPTION>Brazil
+				<OPTION>Canada
+				<OPTION>Chile
+				<OPTION>Croatia
+				<OPTION>Czech Republic
+				<OPTION>Denmark
+				<OPTION>Europe
+				<OPTION>Finland
+				<OPTION>France
+				<OPTION>Germany
+				<OPTION>Holland
+				<OPTION>Hong Kong
+				<OPTION>Hungary
+				<OPTION>Iceland
+				<OPTION>Italy
+				<OPTION>Japan
+				<OPTION>Latin America
+				<OPTION>Mexico
+				<OPTION>New Zealand
+				<OPTION>Norway
+				<OPTION>Poland
+				<OPTION>Slovakia
+				<OPTION>South Africa
+				<OPTION>Spain
+				<OPTION>Sweden
+				<OPTION>Switzerland
+				<OPTION>Taiwan
+				<OPTION>Turkey
+				<OPTION>UK &amp; Ireland
+				<OPTION>United States
+				</SELECT>
+				<INPUT TYPE="submit" VALUE="Go">
+		<BR><BR>
+
+	<!-- COPYRIGHT INFORMATION -->
+		<FONT SIZE="-1">
+		<A HREF="/find/contact.html">Contact Us</A><BR>
+		Copyright 1997 Apple Computer, Inc. <A HREF="/legal/">All rights reserved.</A>
+		</FONT>
+		</CENTER>
+		</FORM>
+
+		</TD>
+	</TR>
+
+</TABLE>
+</BODY>
+</HTML>

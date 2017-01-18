@@ -1,0 +1,59 @@
+Date: Thu, 18 Dec 1997 13:45:48 GMT
+Server: Apache/1.1.3
+Content-type: text/html
+Content-length: 1906
+Last-modified: Mon, 08 Dec 1997 18:39:18 GMT
+
+<HTML>
+<HEAD>
+<TITLE>The Columbia Bank (HomePage): Banking, Loans, Commercial, Personal, Credit, Holding Company, NASDAQ, Bancorp, Maryland</TITLE>
+
+<META Name="description" Content="Columbia Bancorp, headquartered in Columbia, Maryland is a bank holding company and parent company of The Columbia Bank, a commercial bank. The Columbia Bank currenty operates 11 banking offices and provides a full range of financial services to consumers and businesses. Columbia Bancorp's Common Stock is traded on the NASDAQ National Market tier of the NASDAQ Stock Market under the symbol CBMD.">
+
+<META Name="keywords" Content="Banking, Loans, Commercial, Personal, Credit, Holding Company, NASDAQ, Bancorp, Maryland">
+
+<BASE HREF="http://www.columbank.com/">
+</HEAD>
+
+<body  background="/images/greenback.gif">
+
+<TABLE WIDTH="100%" BORDER="0">
+<TR VALIGN="top">
+<TD WIDTH="145">
+
+<A HREF="/map/sidebar.map"><IMG Width=110 Height=300 SRC="/images/sidebar.gif" ISMAP border=0 ALT="Sidebar Directory Map"></a>
+
+<p>
+<A HREF="/html/vault.html"><IMG SRC="/images/vault_sm.gif" WIDTH="90" HEIGHT="89" ALT="'The Vault' Trivia Game" BORDER="0"></A>
+
+<P>
+<A HREF="/html/whatsnew.html#secure"><IMG SRC="/images/new_secure_apps.gif" width="109" height="92" alt="Secure Loan &amp; VISA Apps" BORDER="0"></A>
+</TD>
+<TD align="center">
+<img src="/images/smlogo.gif" WIDTH=400 HEIGHT=115 ALT="The Columbia Bank">
+<H5>MEMBER FDIC</H5>
+
+<p>
+<a href="http://www.nasdaq.com/scripts/html3/FQuote.idc?symname=cbmd">
+<img src="/images/nlogo.gif" ALT="NASDAQ Logo" border=0 WIDTH=80 HEIGHT=19></a>
+<BR>
+
+<p>
+<A HREF="/html/spec550.html"><IMG SRC="/images/spec550.gif" WIDTH="300" HEIGHT="388" BORDER="0"></A>
+
+<P>
+<A HREF="/html/pcbank.html"><img src="/images/pcbank.gif" width=410 height=50 border=0></A>
+
+
+<p>
+Created by <a href="http://www.dgl.com/">Damar Group, Ltd.</a>
+
+<p>
+Updated December 1997
+
+</TD>
+</TR>
+</TABLE>
+
+</BODY>
+</HTML>

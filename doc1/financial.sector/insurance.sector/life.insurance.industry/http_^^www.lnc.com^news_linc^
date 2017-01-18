@@ -1,0 +1,73 @@
+Server: Netscape-Enterprise/2.01
+Date: Thu, 18 Dec 1997 09:22:42 GMT
+Accept-ranges: bytes
+Last-modified: Wed, 29 Oct 1997 21:05:44 GMT
+Content-length: 1906
+Content-type: text/html
+
+<HTML> 
+<HEAD><TITLE>Lincoln National Corporation</TITLE></HEAD> 
+<BODY bgcolor="#ffffff"> 
+
+<!-- ---\/this table goes around everything on the page\/--- -->
+<center><table BORDER=0 WIDTH=620><TR><TD>
+<!-- ---/\is table goes around everything on the page/\- -->
+ 
+<center>
+<table border=0><tr>
+<td valign=top colspan=2><img src="../images/keylnc2.gif" alt="[KeyLNC]"></td>
+<td valign=top>&nbsp; &nbsp;<img src="../images/lnclogo.gif" alt="[Logo]"></td>
+</tr>
+<tr valign=top>
+<td valign=top align=right><img src="images/news_linc_text.gif" alt="[News Linc]"></td>
+<td valign=top align=left><img src="../images/keyboard.jpg" alt="[LNC]"></td>
+<td></td>
+</tr></table>
+<p>
+<font size=4>
+<a href="news_releases/">News Releases</a><br>
+<a href="message/">CEO Message</a><br>
+<a href="speeches/">Speeches</a><br>
+<a href="college.html">College Recruitment</a><br>
+<a href="web_resources.html">Web Resources</a>
+</font>
+<P>
+<table BORDER=0>
+<TR>
+<TD align="center" valign="bottom">
+<nobr>
+| <a href="/site_index.html">Index</a>
+| <a href="/family/">Family of Businesses</a> 
+| <a href="/services/">Products and Services</a>
+|</nobr>
+<br clear=all>
+<nobr>
+| <a href="/investor/">Investor Relations</a> 
+| <a href="/shareholder/">Shareholders Services</a>
+| <a href="/news_linc/">News Linc</a>
+| <a href="/fun_facts/">Fun Facts</a>
+|
+</nobr>
+<br clear=all>
+<nobr>
+| <a href="/public_involvement/">Corporate Public Involvement</a>
+| <a href="/museum/">The Lincoln Museum</a> 
+| <a href="/contact/">Contact Information</a> 
+|
+</nobr>
+</TD>
+<!-- ------------\/home button\/------------ -->
+<TD align="right" valign="top">
+<a href="/index.html"><img src="../images/home_white.jpg" alt="[Home]" border="0"></a>
+</TD>
+</TR>
+</table>
+
+</center>
+
+<!-- ---\/this table goes around everything on the page\/--- -->
+</TD></TR></table></center>
+<!-- ---/\This table goes around everything on the page/\--- -->
+
+</BODY> 
+</HTML> 

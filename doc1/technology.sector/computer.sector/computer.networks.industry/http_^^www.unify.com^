@@ -1,0 +1,161 @@
+Date: Fri, 21 Nov 1997 02:47:27 GMT
+Server: Apache/1.2.0
+Last-Modified: Tue, 18 Nov 1997 18:14:28 GMT
+ETag: "d202-1a5f-3471db04"
+Content-Length: 6751
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.01 [en] (Win95; U) [Netscape]">
+   <META NAME="DESCRIPTION" CONTENT="Unify provides application development solutions for high-end client/server and Internet Transaction Processing. Unify VISION generates IIOP-compliant Java applets which communicate with VISION's back-end partitioning, management and database services.">
+   <META NAME="KEYWORDS" CONTENT="VISION internet intranet transaction processing application management partitioning high-end development client/server tools Java Beans CORBA IIOP 4GL Web software object-oriented Tivoli BMC Forte NetDynamics Visigenic">
+   <META NAME="DISTRIBUTION" CONTENT="GLOBAL">
+   <TITLE>Welcome to Unify Corporation</TITLE>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000EE" VLINK="#551A8B" ALINK="#FF0000" TOPMARGIN="0">
+<A NAME="Top"></A>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 >
+<TR>
+<TD VALIGN=CENTER WIDTH="486">&nbsp;<A HREF="http:/index.html"><IMG SRC="/gifs/web_logo.gif" ALT="Unify Corporation" BORDER=0 ></A>&nbsp;</TD>
+
+<TD ALIGN=LEFT VALIGN=TOP WIDTH="368"><IMG USEMAP="#head" SRC="gifs/navbar.gif" BORDER=0>&nbsp;</TD>
+</TR>
+</TABLE>
+<MAP NAME="head">
+<AREA SHAPE="rect" COORDS="13,18,	46,25" HREF="/index.html">
+<AREA SHAPE="rect" COORDS="55,2,	97,8" HREF="/docsearch.html"	>
+<AREA SHAPE="rect" COORDS="114,0,	145,8" HREF="/docindex.html">
+<AREA SHAPE="rect" COORDS="163,2,	224,8" HREF="/contact.html"></MAP>
+
+<CENTER><IMG USEMAP="#home" SRC="gifs/homepage.gif" ALT="Welcome to Unify Corporation"  BORDER=0 >
+<MAP NAME="home">
+<AREA SHAPE="rect" COORDS="349,3,	495,200" HREF="/Product/product.html">
+<AREA SHAPE="rect" COORDS="273,74,	 334,81" HREF="/Product/product.html">
+<AREA SHAPE="rect" COORDS="34,55,	129,216" HREF="/overview.html">
+<AREA SHAPE="rect" COORDS="16,243,   63,352" HREF="/services.html">
+<AREA SHAPE="rect" COORDS="64,244,	206,317" HREF="/services.html">
+<AREA SHAPE="rect" COORDS="164,164,	290,257" HREF="/unifyworld.html">
+<AREA SHAPE="rect" COORDS="297,239,	488,275" HREF="/newsevents.html">
+<AREA SHAPE="rect" COORDS="317,324,	452,356" HREF="/Product/VisWebDS.html">
+<AREA SHAPE="rect" COORDS="222,344,	254,368" HREF="/choosing/index.html">
+<AREA SHAPE="rect" COORDS="232,377,	430,385" HREF="/choosing/index.html">
+<AREA SHAPE="rect" COORDS="123,358,	231,403" HREF="/Product/vis-ds.html"></MAP></CENTER>
+
+<BR><BR>
+
+<TABLE>
+<TR>
+<TD WIDTH="171"></TD>
+
+<TD WIDTH="511">
+
+<A NAME="presentation"></A>
+<H2>Who is Unify</H2>
+Unify Corporation develops, markets and supports advanced application 
+development environments for the development, deployment and management of 
+high-end, business-critical client/server and Web solutions. The Company's 
+flagship product, 
+<A HREF="/Product/vis-over.html">Unify VISION</A>, 
+combines a powerful and scalable client/server 
+architecture with a flexible and easy-to-use rapid application development 
+technology. Its built-in VISION/Web technology also gives VISION the ability 
+to automatically generate Java applets.
+
+Please take a few minutes to view our self-running presentation, 
+<A HREF="/Presentation/presindex.html">
+	"Unify: Providing Solutions for the Internet Age".</A>
+This overview of the Unify solution 
+includes information about our customers, partners and products. Hear first 
+hand what Unify customers and industry analysts think about our technology.
+<BR><BR><BR>
+
+<!-- <H2>HEADLINE NEWS</H2>  --><!-- <H2>Other News </H2> -->
+<H2>News & Events</H2>
+
+<UL>
+<A HREF="javapartner.htm">
+	<IMG SRC="/gifs/j2j.gif" HEIGHT="85" WIDTH="85" BORDER="0" ALIGN=MIDDLE>
+	<B><FONT SIZE="+1">Unify: A Partner in Java</FONT></B><P>
+	</A>
+
+<H3><A HREF="/WhPapers/unify_y2k.html">Unify and the Year 2000 Whitepaper</H3></A>
+</UL>
+
+<TABLE BORDER=0 CELLSPACING=0 >
+<TR>
+<TD><B><FONT SIZE=+1>Press Releases&nbsp;</FONT></B>&nbsp;
+<UL>
+<LI><A HREF="/press/mqseries.html">[10/13/97] Unify VISION &#153 To Support 
+	IBM's MQSeries Version 5 &#153 </A></LI>
+
+<LI><A HREF="/press/salvesen.html">[9/22/97] Unify Corporation Announces
+Management Changes</A></LI>
+
+<LI>
+<A HREF="/press/lockmart.html">[8/18/97] Unify VISION/Web
+Selected by U.S. Air Force and Lockheed Martin for Development of Internet-based
+Worldwide Command and Control Systems</A></LI>
+<BR>The $2.8 Million Contract Was Awarded on Strengths of Unify VISION
+Open Architecture and Superior Web-based development solutions&nbsp;
+
+<LI>
+<A HREF="/press/pioneer.html">[6/4/97] Unify Chosen by Pioneer Electronics&nbsp;</A></LI>
+
+<LI>
+<A HREF="/press/gartner.html">Unify Ranked as Most Visionary in New Gartner
+Group Internet Application Development Quadrant</A>&nbsp;</LI>
+
+</TR>
+</TABLE>
+
+</TD>
+
+<TD WIDTH="170"></TD>
+</TR>
+</TABLE>
+
+<P><A HREF="#Top">Top of Page</A>
+
+<P>
+<HR size="2">
+<CENTER><FONT SIZE=-1><A HREF="overview.html">Corporate Info</A> | 
+	<A HREF="/Product/product.html">Products</A> | 
+	<A HREF="newsevents.html">News &amp; Events</A> | 
+	<A HREF="services.html">Services &amp; Support</A> | 
+	<A HREF="unifyworld.html">Unify Planetwide</A> | 
+	<A HREF="index.html">Home Page</A> | 
+	<A HREF="docindex.html">Index</A> | 
+	<A HREF="docsearch.html">Search</A></FONT></CENTER>
+
+<CENTER><B><I><FONT SIZE=-1>Unify Corporation</FONT></I></B></CENTER>
+
+<CENTER><FONT SIZE=-1>Copyright 1995-97 Unify Corporation. All rights reserved.</FONT></CENTER>
+
+<CENTER><FONT SIZE=-1>Last Revised: 17-Nov-1997</FONT></CENTER>
+
+<CENTER><FONT SIZE=-1>If you have any questions, comments or suggestions
+regarding our World Wide Web site, please send them to: <A HREF="mailto:webmaster@unify.com">webmaster@unify.com</A></FONT></CENTER>
+
+<CENTER><FONT SIZE=-2>Unify Corporation, World Headquarters: 181 Metro
+Drive, 3rd Floor, San Jose, CA 95110 USA Phone: (408) 467-4500 Fax: (408)
+467-4511</FONT></CENTER>
+
+
+<P><B><FONT SIZE=-2>Trademark Information</FONT></B>
+<BR><FONT SIZE=-2>Unify, Unify VISION, VISION/Web, AppMan, ACCELL/SQL,
+Unify Dataserver, and the Unify logo are trademarks of Unify Corporation.
+All other brand or product names are trademarks of their respective owners.</FONT>
+<BR><FONT COLOR="#FFFFFF"><FONT SIZE=-1>NAME="DESCRIPTION" CONTENT="Unify
+provides application development solutions for high-end client/server and
+Internet Transaction Processing. Unify VISION generates IIOP-compliant
+Java applets which communicate with VISION's back-end partitioning, management
+and database services." NAME="KEYWORDS" CONTENT="VISION internet intranet
+transaction processing application management partitioning high-end development
+client/server tools Java Beans CORBA IIOP 4GL Web software object-oriented
+Tivoli BMC Forte NetDynamics Visigenic" NAME="DISTRIBUTION" CONTENT="GLOBAL"</FONT></FONT>
+</BODY>
+</HTML>

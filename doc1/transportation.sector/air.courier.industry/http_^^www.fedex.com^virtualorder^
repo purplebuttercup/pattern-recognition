@@ -1,0 +1,135 @@
+Server: Netscape-Enterprise/3.0F
+Date: Thu, 20 Nov 1997 17:05:11 GMT
+Content-type: text/html
+Last-modified: Fri, 20 Jun 1997 01:41:03 GMT
+Content-length: 7050
+Accept-ranges: bytes
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+  <head>
+    <title>FedEx VirtualOrder</title>
+  </head>
+
+  <body BGCOLOR="#D7C6B4" background="/images/virtualorder/spl_tile.gif" TEXT="#000000" LINK="#DE5208" VLINK="#9425E6">
+<MAP NAME="splash_map">
+<AREA SHAPE="RECT" COORDS="411,62,502,76" HREF="contact.html">
+<AREA SHAPE="RECT" COORDS="290,62,389,76" HREF="success_1.html">
+<AREA SHAPE="RECT" COORDS="99,62,267,76" HREF="about_1.html">
+<AREA SHAPE="RECT" COORDS="9,62,74,76" HREF="quick.html">
+</MAP>
+<CENTER>
+<IMG src="/images/virtualorder/spacer.gif" height=10 width=10><BR>
+<TABLE border=0 cellpadding=0 cellspacing=0 width=512>
+<TR>
+    <TD align=left valign=top colspan=3><A HREF="vo_splash.map"><IMG src="/images/virtualorder/spl_menu.jpg" width=512 height=140 ALT="FedEx VirtualOrder" USEMAP="#splash_map" ISMAP border=0></A></TD>
+</TR>
+<TR>
+    <TD align=left valign=top><BR><IMG src="/images/virtualorder/type_ani.gif" width=297 height=33 alt="Increase the size of your business without increasing the size of your business."></TD>
+    <TD width=22><IMG src="/images/virtualorder/spacer.gif" width=22 height=10></TD>
+    <TD align=right valign=top width=193><IMG src="/images/virtualorder/spl_anim.gif" width=193 height=49></TD>
+</TR>
+<TR>
+    <TD COLSPAN=3>
+<TABLE border=0 width=100% cellpadding=0 cellspacing=0>
+<TR>
+<TD width=12><IMG src="/images/virtualorder/spacer.gif" width=12 height=10></TD>
+ <TD><IMG src="/images/virtualorder/spacer.gif" width=1 height=48><BR CLEAR>
+<CENTER>
+<TABLE WIDTH=450><TR><TD COLSPAN=2><FONT SIZE="+1"><STRONG>Introducing the only electronic commerce solution that<BR>can do all this &#150; </STRONG></FONT></TD></TR>
+<TR VALIGN=TOP><TD ALIGN=RIGHT><IMG SRC="/images/virtualorder/triangle.gif"></TD><TD><FONT SIZE="+1">Attract new customers nationally and globally<BR></FONT></TD></TR>
+<TR VALIGN=TOP><TD ALIGN=RIGHT><IMG SRC="/images/virtualorder/triangle.gif"></TD><TD><FONT SIZE="+1">Take customer orders 24 hours a day, 7 days a week<BR></FONT></TD></TR>
+<TR VALIGN=TOP><TD ALIGN=RIGHT><IMG SRC="/images/virtualorder/triangle.gif"></TD><TD><FONT SIZE="+1">Process orders automatically</FONT><BR></TD></TR>
+<TR VALIGN=TOP><TD ALIGN=RIGHT><IMG SRC="/images/virtualorder/triangle.gif"></TD><TD><FONT SIZE="+1">Arrange for FedEx<FONT SIZE="-1">&#174;</FONT> shipping</FONT><BR></TD></TR>
+<TR VALIGN=TOP><TD ALIGN=RIGHT><IMG SRC="/images/virtualorder/triangle.gif"></TD><TD><FONT SIZE="+1">Provide access to FedEx shipment status 
+and answer customer queries<BR></FONT></TD></TR>
+<TR VALIGN=TOP><TD></TD><TD><FONT SIZE="+1"><STRONG>&#150; all on its own.</STRONG></FONT></TD></TR>
+</TABLE>
+</CENTER>
+<BR><BR><BR>
+<H3><FONT SIZE="+2">A</FONT>T <FONT SIZE="+2">F</FONT>ED<FONT SIZE="+2">E</FONT>X, <FONT SIZE="+2">W</FONT>E'RE <FONT SIZE="+2">E</FONT>XPERTS AT <FONT SIZE="+2">P</FONT>UTTING <FONT SIZE="+2">T</FONT>ECHNOLOGY TO <FONT SIZE="+2">W</FONT>ORK.</H3>
+<FONT SIZE="+1">
+<P>FedEx delivers over 2.5 million packages and conducts 45.5 million electronic transactions every day. So we know all about computer technology and information management. And we know firsthand how the power of technology can help a business grow.</P>
+<P>Now we've taken all our expertise and put it in one simple package that can help you expand your business without expanding your overhead, and give you access to some valuable business-building tools.</P>
+</FONT></TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+<FONT SIZE="-1"><P>This service is available in the United States and for U.S. Export only.</P></FONT>
+
+<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0" bgcolor="#000000">
+<TR>
+<TD WIDTH="100%" align=center><A href="quick.html"><IMG SRC="/images/virtualorder/quick2.gif" alt="QuickView" WIDTH="86" HEIGHT="16" border=0></A><a HREF="about_1.html"><IMG SRC="/images/virtualorder/about2.gif" alt="About FedEx VirtualOrder" WIDTH="163" HEIGHT="16" border=0></A><A href="success_1.html"><IMG SRC="/images/virtualorder/suc2.gif" alt="Success Stories" WIDTH="124" HEIGHT="16" border=0></A><A href="contact.html"><IMG SRC="/images/virtualorder/cont2.gif" alt="Contact FedEx" WIDTH="120" HEIGHT="16" border=0></A></TD>
+</TR>
+</TABLE>
+<BR><BR>
+<!-- start "/include/tan-navbar.ofi" -->
+<MAP NAME="navbar-tan">
+<AREA SHAPE="RECT" COORDS="425, 39, 465, 58" HREF="/dropoff/" ALT="Dropoff Locator">
+<AREA SHAPE="RECT" COORDS="417, 20, 437, 39" HREF="/dropoff/" ALT="Dropoff Locator">
+<AREA SHAPE="RECT" COORDS="382, 39, 421, 57" HREF="https://www.fedex.com/cgi-bin/ship_it/interNetShip" ALT="Shipping">
+<AREA SHAPE="RECT" COORDS="373, 21, 396, 39" HREF="https://www.fedex.com/cgi-bin/ship_it/interNetShip" ALT="Shipping">
+<AREA SHAPE="RECT" COORDS="339, 38, 372, 59" HREF="/cgi-bin/rate?entry=us.us" ALT="Rate Finder">
+<AREA SHAPE="RECT" COORDS="331, 20, 351, 38" HREF="/cgi-bin/rate?entry=us.us" ALT="Rate Finder">
+<AREA SHAPE="RECT" COORDS="296, 38, 336, 59" HREF="/track_it.html" ALT="Tracking">
+<AREA SHAPE="RECT" COORDS="287, 20, 310, 38" HREF="/track_it.html" ALT="Tracking">
+<AREA SHAPE="RECT" COORDS="252, 38, 287, 58" HREF="/help.html" ALT="Help/Search">
+<AREA SHAPE="RECT" COORDS="245, 21, 266, 39" HREF="/help.html" ALT="Help/Search">
+<AREA SHAPE="RECT" COORDS="210, 38, 246, 59" HREF="/pr/" ALT="What's New">
+<AREA SHAPE="RECT" COORDS="202, 20, 222, 38" HREF="/pr/" ALT="What's New">
+<AREA SHAPE="RECT" COORDS="166, 38, 203, 58" HREF="/info_central.html" ALT="Info Central">
+<AREA SHAPE="RECT" COORDS="159, 20, 178, 38" HREF="/info_central.html" ALT="Info Central">
+<AREA SHAPE="RECT" COORDS="123, 38, 165, 58" HREF="/dw_software.html" ALT="Free Software">
+<AREA SHAPE="RECT" COORDS="116, 20, 135, 38" HREF="/dw_software.html" ALT="Free Software">
+<AREA SHAPE="RECT" COORDS="81, 39, 120, 59" HREF="/svcs_online.html" ALT="Services Online">
+<AREA SHAPE="RECT" COORDS="73, 21, 91, 39" HREF="/svcs_online.html" ALT="Services Online">
+<AREA SHAPE="RECT" COORDS="3, 20, 49, 59" HREF="/index.html" ALT="Home">
+</MAP>
+ 
+<CENTER><A HREF="/images/navbar-tan.map"><IMG SRC="/images/navbar-tan.gif" WIDTH="468" HEIGHT="58" 
+ALT="Image map- See text navigation at the bottom" ISMAP USEMAP="#navbar-tan" BORDER="0"></A>
+<P>
+<A HREF="/email-form.html">
+Your Comments and Suggestions Welcomed!</A>
+</P>
+ 
+<P>
+<A HREF="/index.html">
+<FONT SIZE="-1">HOME</FONT></A> | 
+<A HREF="/svcs_online.html">
+<FONT SIZE="-1">SERVICES ONLINE</FONT></A> | 
+<A
+HREF="/dw_software.html">
+<FONT SIZE="-1">FREE SOFTWARE</FONT></A> | 
+ 
+<A HREF="/info_central.html">
+<FONT SIZE="-1">INFO CENTRAL</FONT></A> |
+ 
+<A
+HREF="/pr/">
+<FONT SIZE="-1">WHAT'S NEW</FONT></A><BR> 
+ 
+<A
+HREF="/help.html">
+<FONT SIZE="-1">HELP/SEARCH</FONT></A> | 
+ 
+<A HREF="/track_it.html">
+<FONT SIZE="-1">TRACKING</FONT></A> | 
+ 
+<A HREF="/cgi-bin/rate?entry=us.us">
+<FONT SIZE="-1">RATE FINDER</FONT></A> | 
+ 
+<A HREF="https://www.fedex.com/cgi-bin/ship_it/interNetShip">
+<FONT SIZE="-1">SHIPPING</FONT></A> | 
+ 
+<A HREF="/dropoff/">
+<FONT SIZE="-1">DROPOFF LOCATOR</FONT></A>
+</CENTER>
+
+<!-- end "/include/tan-navbar.ofi" -->
+</CENTER>
+  </body>
+</html>

@@ -1,0 +1,154 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Thursday, 18-Dec-97 20:39:20 GMT
+Content-Type: text/html
+Content-Length: 5643
+Last-Modified: Wednesday, 26-Nov-97 21:53:22 GMT
+
+<HTML>
+<HEAD>
+   <TITLE>Hawaiian Electric Industries, Inc.</TITLE>
+</HEAD>
+
+<BODY TEXT="#FFFFFF" BGCOLOR="#000000" LINK="#FFFF00" VLINK="#C0C0C0" ALINK="#C0FFC0">
+
+<SCRIPT language="JavaScript">
+<!--HIDE  
+  browserName = navigator.appName;
+  browserVer = parseInt(navigator.appVersion); 
+  if (browserVer >= 3) version = "n3"; 
+  else version = "n2"; 
+  if (version == "n3") {
+     toc1on = new Image();
+     toc1on.src = "a.hei.logo.s.gif";
+     toc2on = new Image(); 
+     toc2on.src = "a.heco.logo.s.gif";
+     toc3on = new Image(); 
+     toc3on.src = "a.asb.logo.s.gif";
+     toc4on = new Image(); 
+     toc4on.src = "a.htbyb.logo.s.gif";
+     toc5on = new Image(); 
+     toc5on.src = "a.heipc.logo.s.gif";
+     toc6on = new Image(); 
+     toc6on.src = "a.www.logo.s.gif";
+     toc7on = new Image(); 
+     toc7on.src = "a.malama.logo.s.gif";
+ 
+     toc1off = new Image(); 
+     toc1off.src = "hei.logo.s.gif";
+     toc2off = new Image(); 
+     toc2off.src = "heco.logo.s.gif"; 
+     toc3off = new Image(); 
+     toc3off.src = "asb.logo.s.gif";
+     toc4off = new Image(); 
+     toc4off.src = "htbyb.logo.s.gif";
+     toc5off = new Image(); 
+     toc5off.src = "heipc.logo.s.gif";
+     toc6off = new Image(); 
+     toc6off.src = "www.logo.s.gif";
+     toc7off = new Image(); 
+     toc7off.src = "malama.logo.s.gif";
+
+ 
+  }
+function img_act(imgName) {
+   if (version == "n3"){
+      imgOn = eval(imgName + "on.src");
+      document [imgName].src = imgOn;
+   }
+}
+function img_inact(imgName){
+   if (version == "n3") {
+      imgOff = eval(imgName + "off.src");
+      document [imgName].src = imgOff;
+   }
+}
+
+/* This code is Copyright (c) 1996 Nick Heinle and Athenia Associates,
+* all rights reserved. In order to receive the right to license this
+* code for use on your site the original code must be copied from the
+* Web site webreference.com/javascript/. License is granted to user to
+* reuse this code on their own Web site if and only if this entire copyright
+* notice is included. Code written by Nick Heinle of webreference.com.
+* Code modifications by webmaster@hei.com 1997
+*/
+
+//STOP HIDING -->
+</SCRIPT>
+
+<A HREF="http://heiweb.hei.com"><IMG SRC="hei.blksqr.gif" WIDTH="20" HEIGHT="20" BORDER=0></A>
+
+<CENTER>
+
+<PRE>
+
+
+</PRE>
+
+
+<IMG SRC="hei.main.jpg" ALT="HEI Main Image">
+
+<PRE> 
+
+</PRE>
+ 
+<IMG SRC="hei.bar.gif" ALT="HEI Bar"><P> 
+
+<NOBR>
+
+<A HREF="heicorp/heicorp.html" onmouseover="img_act('toc1'); window.status='HEI Corporate Pages - Annual Report Excerpts & Corporate Information';return true" onmouseout="img_inact('toc1')"><IMG SRC="hei.logo.s.gif" NAME="toc1" ALT="" ALIGN=CENTER BORDER=0></A>
+
+<A HREF="heco/heco.html" onmouseover="img_act('toc2')
+; window.status='Hawaiian Electric Company - Energy Tips, Electric Kitchen Recipes, Storm Tracks, and more...'; return true"
+ onmouseout="img_inact('toc2')"><IMG SRC="heco.logo.s.gif" NAME="toc2" ALT="" ALIGN=CENTER BORDER=0></A>
+
+<A HREF="asb/asb.html" onmouseover="img_act('toc3'); window.status='American Savings Bank - Financial Tips';return true"
+ onmouseout="img_inact('toc3')"><IMG SRC="asb.logo.s.gif" NAME="toc3" ALT="" ALIGN=CENTER BORDER=0></A>
+
+<A HREF="htbyb/htbyb.html" onmouseover="img_act('toc4'); window.status='Hawaiian Tug & Barge / Young Brothers - Tide Calendar and Newsletter';return true" onmouseout="img_inact('toc4')"><IMG SRC="htbyb.logo.s.gif" NAME="toc4" ALT="" ALIGN=CENTER BORDER=0></A>
+
+<A HREF="heipc/heipc.html" onmouseover="img_act('toc5'); window.status='HEI Power Corp.- Constructing Power Plants in the Pacific';return true"
+ onmouseout="img_inact('toc5')"><IMG SRC="heipc.logo.s.gif" NAME="toc5" ALT="" ALIGN=CENTER BORDER=0></A>
+
+<A HREF="malama/malama.html" onmouseover="img_act('toc7'); window.status='The Malama Group';return true"
+ onmouseout="img_inact('toc7')"><IMG SRC="malama.logo.s.gif" NAME="toc7" ALT="" ALIGN=CENTER BORDER=0></A>
+
+<A HREF="otherwww.html" onmouseover="img_act('toc6'); window.status='Useful WEB Resources - A collection of business related WEB sites and resources.';return true"
+ onmouseout="img_inact('toc6')"><IMG SRC="www.logo.s.gif" NAME="toc6" ALT="" ALIGN=CENTER BORDER=0></A>
+
+</NOBR>
+
+<P> 
+<FONT SIZE=-1>[</FONT><FONT SIZE=-1><A HREF="heicorp/heicorp.html">HEI Corporate</A></FONT><FONT SIZE=-1>] 
+[</FONT><FONT SIZE=-1><A HREF="heco/heco.html">Hawaiian Electric</A></FONT><FONT SIZE=-1>] 
+[</FONT><FONT SIZE=-1><A HREF="asb/asb.html">American Savings</A></FONT><FONT SIZE=-1>] [<A HREF="htbyb/htbyb.html">HTB Young Bros.</A></FONT><FONT SIZE=-1>] <BR> 
+[<A HREF="heipc/heipc.html">HEI Power Corp.</A></FONT> <FONT SIZE=-1>]     
+[<A HREF="malama/malama.html">Malama</A></FONT><FONT SIZE=-1>]
+[<A HREF="otherwww.html">Web Resources</A>]</FONT></P>
+
+<PRE> 
+</PRE> 
+<TABLE BORDER=5 CELLSPACING=5 CELLPADDING=10 WIDTH="90%" >
+<TR>
+<TD>
+<BLOCKQUOTE>
+<FONT SIZE=""><IMG SRC="hibiscus.gif" ALIGN="LEFT"> Corporate citizenship through community service and leadership is one of our core values which guide our decisions and actions.  Please visit our HEI employee supported <A HREF = "community/community.html">community organizations</A> and our <A HREF = "heicf/heicf.html">HEI Charitable Foundation</A> Web pages.</FONT> 
+</BLOCKQUOTE> 
+</TD>
+</TR>
+</TABLE>
+<PRE>
+</PRE>  
+<FONT SIZE=-1><TT>Questions, comments or problems regarding this WebSite: <A HREF="mailto:webmaster@hei.com">webmaster@hei.com</A><BR>
+Acceptable Internet use <A HREF="aup.html">guidelines</A><BR>
+WEB development <A HREF="credits.html">volunteers and contributors</A><P>
+&copy;1997 HAWAIIAN ELECTRIC INDUSTRIES, INC.</TT> All rights
+reserved.<BR>
+P.O. Box 730, Honolulu, HI  96808<BR>
+</FONT></P>
+
+</CENTER>
+
+</BODY>
+</HTML>
+

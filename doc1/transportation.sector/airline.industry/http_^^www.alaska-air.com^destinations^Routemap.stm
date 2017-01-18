@@ -1,0 +1,54 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 20 Nov 1997 15:59:29 GMT
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+  <TITLE>Route Map</TITLE>
+</HEAD>
+<BODY BACKGROUND="/shared/K_Background.gif">
+
+<TABLE BORDER="0" CELLPADDING="4" CELLSPACING="2">
+<TR>
+<TD><PRE>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</PRE>
+</TD>
+<TD><P><IMG SRC="T_RouteMap.gif" WIDTH="190" HEIGHT="36" NATURALSIZEFLAG="0"
+ALIGN="BOTTOM"></P>
+
+<P><IMG SRC="RouteMap.gif" WIDTH="480" HEIGHT="940" ALIGN="BOTTOM" NATURALSIZEFLAG=
+"3"><br>
+<P ALIGN=CENTER><HR WIDTH="65%">
+<P ALIGN=CENTER><FONT SIZE=-1>
+<A HREF="/contents.stm">Home</A>&nbsp;/&nbsp;
+<A HREF="http://207.108.221.3/rez/cgi-bin/Sched.acgi">
+Schedules</A>&nbsp;/&nbsp;
+<A HREF="http://207.108.221.3/rez/cgi-bin/Rez.acgi">
+Reservations</A>&nbsp;/&nbsp;
+<A HREF="/WebSpecials/start.asp">Web Specials</A>&nbsp;/&nbsp;
+<A HREF="/IT/IT.stm">Instant Travel</A>
+<BR>
+<A HREF="/easypak/qx_easypak.stm">EasyPAK Booklets</A>&nbsp;/&nbsp;
+<A HREF="/mileageplan/start.asp">Mileage Plan Account Info</A>&nbsp;/&nbsp;
+<A HREF="/Cargo/html/AS_QX_CargoIndex.stm">Cargo</A>
+<BR>
+<A HREF="/destinations/Routemap.stm">Route Map</A>&nbsp;/&nbsp;
+<A HREF="/AS_QX_VacationsIndex/AS_QX_VacationsIndex.stm">Vacations</A>&nbsp;/&nbsp;
+<A HREF="/destinations/destinations.stm">City Info</A>&nbsp;/&nbsp;
+<A HREF="/RussianFarEast/NewRussia.stm">Russia</A>&nbsp;/&nbsp;
+<A HREF="/CompanyInfo/Press/html/PressReleases.stm">Press Releases</A>
+<BR>
+<A HREF="/CompanyInfo/jobs/html/joblist.stm">Job Opportunities</A>&nbsp;/&nbsp;
+<A HREF="/help/faqs/html/faq.stm">FAQs</A>&nbsp;/&nbsp;
+<A HREF="/help/site/html/browsers.stm">Browsers</A>&nbsp;/&nbsp;
+<A HREF="/help/site/html/navigate.stm">Site Help</A></FONT>
+</P>
+
+
+<P ALIGN=CENTER>Alaska Airlines 1-800-ALASKA AIR (1-800-252-7522) <BR>
+Horizon Air 1-800-547-9308 <BR>
+URL: www.alaskaair.com or www.horizonair.com
+<!-- Content Table --></TD></TR>
+</TABLE>
+<!-- Page Table -->
+</BODY>
+</HTML>

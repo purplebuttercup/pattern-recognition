@@ -1,0 +1,124 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 20 Nov 1997 15:58:55 GMT
+Content-Type: text/html
+
+
+<HTML>
+<HEAD>
+
+<TITLE>How to Best View Our Site</TITLE>
+
+
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+
+
+<BR><BR><B><FONT SIZE=+1>B</FONT>ROWSER <FONT SIZE=+1>I</FONT>NFORMATION</B>
+
+<BR>
+<BR>
+<B>Gone Fishin'?</B>
+<P></P>
+Nothing is more frustrating than going to a store and finding it closed.  That's how we view our site whenever you are not able to use all of its award-winning features. This page will give you the "keys" to open our online services to you.  Once inside, please make yourself at home.
+<P></P>
+<B>Why doesn't it work?</B>
+<P></P>
+Our site uses certain features in order to bring you online reservations and electronic tickets.  Not all browsers support these features.  Below is a list of browsers we know work successfully with our site. We have also provided links to the sites where you can download the browsers we suggest.  
+<P></P>
+<B>Why isn't my browser listed?</B>
+<P></P>
+Just because your browser is not listed here does not mean it does not work. We have evaluated some of the most popular browsers and will continue to test and update our findings. If yours is not listed then give it a try.  We are told many browsers do work with our site. If you have experience with a particular browser please give us some feedback. 
+<P></P> If you do send us a note please include:<BR>
+<UL TYPE=disc>
+	<LI>browser name<BR>
+	<LI>browser version<BR>
+	<LI>type of computer<BR>
+	<LI>direct connect or on-line service (if so which one)<BR>
+	<LI>whether you purchased Instant Travel or just "held" a reservation
+</UL>
+<P></P>
+Based upon the overwhelming number of emails we  receive we are not able to reply to messages. Rest assured, we will make use of the information you provide.  
+<P></P>
+<P></P>
+<b>I've got a "preferred" browser and I still can't purchase a ticket?</b>
+<p>
+You may not be able to purchase a ticket for one of the following reasons:
+<UL TYPE=DISC>
+	<LI>Your browser does not support secure transactions (the MSIE and Netscape browsers listed below are OK, there may be others).
+	<LI>You are accessing our site from behind a firewall that does not permit secure sessions.
+	<LI>Your secure browser has version 3 of SSL (Secure Sockets Layer) turned on.  This can usually be disabled by editing your  security options under the browser options/preferences.
+</UL>
+<P>
+If none of the above apply to you and you still have problems purchasing please send us an email and provide as much information as possible.
+<P></P>
+<P></P>
+<b>Tech Talk</b>
+<P></P>
+For those of you who want to know what's in the back room here is a brief explanation of why some browsers work more successfully than others at our site.  
+<P></P>
+The functions that are best supported by the suggested browsers are:<BR>
+<UL TYPE=DISC>
+	<LI>tables<BR>
+	<LI>hidden text<BR>
+	<LI>height &amp; width tags<BR>
+	<LI>named graphics (buttons associated with CGIs)<BR>
+</UL>
+<P></P>
+If you know your browser supports these functions then you should be able to use our site.  If you can't, we want to hear about it. Please drop us a line.
+<P></P>
+<P></P>
+<b>On-Line Services</b>
+<P></P>
+Please give us feedback regarding your experience at our site if you have accessed it from an on-line service.  The bullets above (under "Why isn't my Browser Listed?") identify the type of information that would be helpful.  We value your input.
+<P></P>
+<P></P>
+Thanks!
+<P></P>
+<P></P>
+<A HREF="mailto:mark.guerette@alaskaair.com">Webmaster</A>
+<P></P>
+<P></P>
+All of the following Netscape and Microsoft browsers work at our site.
+<P></P>
+<B>Netscape 2.x &amp; 3.x</B>&nbsp;(Mac &amp; PC)<BR>
+<A HREF="http://www.netscape.com/comprod/mirror/client_download.html"> download Netscape software</A>
+<P></P>
+<B>Microsoft Internet Explorer 2.x &amp; 3.x</B>&nbsp;(Mac &amp; PC)<BR>
+<A HREF="http://www.microsoft.com/ie/download/"> download Microsoft software</A>
+<P></P>
+<P></P>
+<center>
+<HR align=center width=65%>
+
+<FONT SIZE=-1>
+<A HREF="/contents.stm">Home</A>&nbsp;/&nbsp;
+<A HREF="http://207.108.221.3/rez/cgi-bin/Sched.acgi">
+Schedules</A>&nbsp;/&nbsp;
+<A HREF="http://207.108.221.3/rez/cgi-bin/Rez.acgi">
+Reservations</A>&nbsp;/&nbsp;
+<A HREF="/WebSpecials/start.asp">Web Specials</A>&nbsp;/&nbsp;
+<A HREF="/IT/IT.stm">Instant Travel</A>
+<BR>
+<A HREF="/easypak/qx_easypak.stm">EasyPAK Booklets</A>&nbsp;/&nbsp;
+<A HREF="/mileageplan/start.asp">Mileage Plan Account Info</A>&nbsp;/&nbsp;
+<A HREF="/Cargo/html/AS_QX_CargoIndex.stm">Cargo</A>
+<BR>
+<A HREF="/destinations/Routemap.stm">Route Map</A>&nbsp;/&nbsp;
+<A HREF="/AS_QX_VacationsIndex/AS_QX_VacationsIndex.stm">Vacations</A>&nbsp;/&nbsp;
+<A HREF="/destinations/destinations.stm">City Info</A>&nbsp;/&nbsp;
+<A HREF="/RussianFarEast/NewRussia.stm">Russia</A>&nbsp;/&nbsp;
+<A HREF="/CompanyInfo/Press/html/PressReleases.stm">Press Releases</A>
+<BR>
+<A HREF="/CompanyInfo/jobs/html/joblist.stm">Job Opportunities</A>&nbsp;/&nbsp;
+<A HREF="/help/faqs/html/faq.stm">FAQs</A>&nbsp;/&nbsp;
+<A HREF="/help/site/html/browsers.stm">Browsers</A>&nbsp;/&nbsp;
+<A HREF="/help/site/html/navigate.stm">Site Help</A></FONT>
+
+<P>
+Comments:<A HREF="mailto:Distribution.Technologies@AlaskaAir.com">Supervisor, Distribution Technologies</A>
+<BR>Alaska Airlines 1-800-426-0333 &nbsp; Horizon Air 1-800-547-9308
+<br>
+URL: www.alaskaair.com or www.horizonair.com
+</center>
+</BODY>
+</HTML>

@@ -1,0 +1,10 @@
+WWW Alert:  Redirection response from server is not handled by this client
+Date: Thu, 20 Nov 1997 17:00:56 GMT
+Server: ISERVER/1.5.1
+Location: http://www.bocme.com/ipc/
+Content-type: text/html
+
+<HEAD><TITLE>Document moved</TITLE></HEAD>
+<BODY><H1>Document moved</H1>
+This document has permanently moved <A HREF="http://www.bocme.com/ipc/">here</A>.<P>
+</BODY>

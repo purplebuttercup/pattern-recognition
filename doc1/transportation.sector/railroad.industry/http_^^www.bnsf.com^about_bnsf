@@ -1,0 +1,9 @@
+WWW Alert:  Redirection response from server is not handled by this client
+Server: Netscape-Enterprise/2.01
+Date: Thu, 20 Nov 1997 16:11:55 GMT
+Location: http://www.bnsf.com/about_bnsf/
+Content-type: text/html
+Content-length: 217
+
+<HTML><HEAD><TITLE>Found</TITLE></HEAD><BODY><H1>Found</H1>
+This document has moved to a new <a href="http://www.bnsf.com/about_bnsf/">location</a>. Please update your documents and hotlists accordingly.</BODY></HTML>

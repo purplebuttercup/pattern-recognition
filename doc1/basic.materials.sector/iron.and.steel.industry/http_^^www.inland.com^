@@ -1,0 +1,53 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 20 Nov 1997 22:29:18 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Fri, 18 Jul 1997 18:21:26 GMT
+Content-Length: 2204
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; iso-8859-1">
+<title>ISI Home</title>
+<meta name="FORMATTER" content="Microsoft FrontPage 2.0">
+</head>
+
+<frameset rows="36,3,*%" border="0" frameborder="0"
+framespacing="0">
+    <frame src="isitop.htm" name="banner" marginwidth="1"
+    marginheight="1">
+    <frame src="topstrip.htm" name="topstrip" noresize border="0"
+    frameborder="0">
+    <frameset cols="128,*" border="0" frameborder="0"
+    framespacing="0">
+        <frame src="isitoc.htm" name="contents" noresize
+        border="0" frameborder="0" scrolling="no">
+        <frameset rows="*" border="0" frameborder="0"
+        framespacing="0">
+            <frame src="isimain.htm" name="MainFrame"
+            marginwidth="1" marginheight="1">
+        </frameset>
+        <noframes>
+        <body>
+        <p><!--webbot bot="PurpleText"
+        preview="The frameset on this page can be edited with the FrontPage Frames Wizard; use the Open or Open With option from the FrontPage Explorer's edit menu. This page must be saved to a web before you can edit it with the Frames Wizard. Browsers that don't support frames will display the contents of this page, without these instructions. Use the Frames Wizard to specify an alternate page for browsers without frames."
+        s-viewable=" " --> </p>
+        <p>This web page uses frames, but your browser doesn't
+        support them.</p>
+        </body>
+        </noframes>
+    </frameset>
+    <noframes>
+    <body>
+    <p><!--webbot bot="PurpleText"
+    preview="The frameset on this page can be edited with the FrontPage Frames Wizard; use the Open or Open With option from the FrontPage Explorer's edit menu. This page must be saved to a web before you can edit it with the Frames Wizard. Browsers that don't support frames will display the contents of this page, without these instructions. Use the Frames Wizard to specify an alternate page for browsers without frames."
+    s-viewable=" " --> </p>
+    <p>This web page uses frames, but your browser doesn't
+    support them.</p>
+    </body>
+    </noframes>
+</frameset>
+</html>

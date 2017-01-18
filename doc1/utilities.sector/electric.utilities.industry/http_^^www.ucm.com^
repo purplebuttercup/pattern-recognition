@@ -1,0 +1,87 @@
+Server: Netscape-Enterprise/2.0a
+Date: Thu, 18 Dec 1997 20:55:20 GMT
+Accept-ranges: bytes
+Last-modified: Thu, 18 Dec 1997 19:39:57 GMT
+Content-length: 3219
+Content-type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="description"
+content="Unicom Corporation, a company owned by approximately 200,000 shareholders, was incorporated in January 1994 and began operations on September 1, 1994. Unicom is the parent of subsidiaries Commonwealth Edison Company (ComEd), Unicom Technology Development Inc., Unicom Resources Inc. and Unicom Enterprises Inc., which in turn is the parent of Unicom Thermal Technologies Inc.">
+<meta name="keywords"
+content="Unicom, Commonwealth Edison, Unicom Thermal Technologies, ComEd, electric, utility, power, energy, nuclear, fossil, environment, generation, Illinois">
+<meta name="authoring.tool" content="HotDog">
+<meta name="distribution" content="global">
+<meta name="resource-type" content="document">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Unicom Home Page</title>
+</head>
+
+<body bgcolor="#000000" text="#D2AEFF" link="#FFFFFF"
+vlink="#FFFF00" alink="#FF0000">
+
+<p align="center"><img src="/ucm/info/homebord.gif"><br>
+<a href="../../../../ucm/info/holidays/holidays.htm"><img
+src="/ucm/info/lightsup.gif" border="0"></a><br>
+<a href="/cgi-bin/imagemap/ucm/info/ucmhome4.map"><img
+src="/ucm/info/ucmhome5.jpg" border="0" width="530" height="86"
+ismap></a> <br>
+Please read the <a href="/ucm/info/terms.htm">terms of use</a>
+before using this web site.<br>
+Use of this web site signifies your agreement with the terms of
+use.</p>
+
+<p align="center"><font size="2"><strong>Copyright 1995-1997 by
+Unicom. All Rights Reserved.</strong></font></p>
+
+<hr noshade>
+
+<h3><a name="Query"></a>To search the entire Unicom Web, type
+words into the white box below.</h3>
+
+<form action="/cgi-bin/AT-UCMsearch.cgi" method="POST">
+    <input type="hidden" name="sp" value="sp"><table border="0">
+        <tr>
+            <td><input type="text" size="50" name="search"> </td>
+            <td><input type="image" name="searchButton"
+            src="/ucm/info/srchbtn.gif" alt="Search"
+            align="bottom" border="0"></td>
+        </tr>
+    </table>
+</form>
+
+<h1><a href="http://www.excite.com/"><img
+src="/ucm/info/excite.gif" border="0"></a></h1>
+
+<hr noshade>
+
+<p>Welcome to the Unicom Home Page.<br>
+<br>
+Please send questions or feedback to:<br>
+Lucille Younger<br>
+<a href="mailto:comly@ccmail.ceco.com"><strong>comly@ccmail.ceco.com</strong></a>
+</p>
+
+<p>If you did not load the home page graphics, click on one of
+the section names below to obtain more information.</p>
+
+<ul>
+    <li><a href="../../../../ucm/info/pwerlnk1.htm">Power Links</a></li>
+    <li><a href="../../../../ucm/info/orgchart.htm">Corporate
+        Information</a></li>
+    <li><a href="/ucm/info/comed.htm">ComEd Information</a></li>
+    <li><a href="../../../../ucm/info/dereg/energize.htm">Energized
+        to Compete</a></li>
+    <li><a href="/ucm/info/consumer.htm">Consumer Information</a>
+    </li>
+    <li><a href="/ucm/info/whatsnew.htm">In the News</a> </li>
+    <li><a href="../../../../poweruniverse/universe.htm">Power
+        Universe</a></li>
+</ul>
+</body>
+</html>

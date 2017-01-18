@@ -1,0 +1,93 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 18 Dec 1997 20:52:32 GMT
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>Western Resources</TITLE>
+<link rev=made href="mailto:corpcom@wstnres.com">
+<!--Copyright 1996, BlairLake New Media. All Rights Reserved-->
+<!--http://www.blairlake.com-->
+<!--code abrams@blairlake.com-->
+<!--Version 2, Redesign 3/96-->
+</HEAD>
+
+<body bgcolor="#FFFFFF">
+<a NAME="top">
+
+<center>
+<img src="/images/wr_logo_on_white.gif" alt="Comments and Suggestions"></a>
+<br>
+
+</center>
+
+<blockquote>
+<blockquote>
+
+So that we may gain a better idea of who is visiting our Website, please complete the
+following
+information.  Please note that you will receive no unsolicited e-mail or other materials as
+a 
+result of providing this information, unless so desired.
+
+<form method=post action="http://www.blairlake.com/cgi-bin/wr_comments2">
+<!---<input type="hidden" name="template_pathname" value="/usr/servers/ns-home/t
+emplates/ram-autograph.tplt">-->
+
+<INPUT TYPE="hidden" NAME="to_address" VALUE="corpcom@wstnres.com">
+<INPUT TYPE="hidden" NAME="to_name" VALUE="Western Resources Comments">
+<input type="hidden" name="subject" value="Comments/Suggestions">
+
+<b>
+<pre>
+          Name<input name="from_name" size=40>
+ Email Address<input name="from_address" size=40>
+Street Address<input name="from_str_address" size=40>
+          City<input name="from_city" size=40>
+         State<input name="from_state" size=2 maxlength=2> Zip Code<input name="from_zip"
+maxlength=5 size=5>
+
+Are you a current Western Resources shareholder?   <INPUT TYPE="radio" NAME="shareholder"
+VALUE="Yes">Yes<INPUT TYPE="radio" NAME="shareholder" VALUE="No">No
+Are you a current Western Resources customer?      <INPUT TYPE="radio" NAME="customer"
+VALUE="Yes">Yes<INPUT TYPE="radio" NAME="customer" VALUE="No">No
+Do you wish to receive email about this site?      <INPUT TYPE="radio" NAME="want_email"
+VALUE="Yes">Yes<INPUT TYPE="radio" NAME="want_email" VALUE="No">No
+
+Comments/Suggestions:<br>   <textarea name="comment" rows=4 cols=60></textarea>
+
+<input type="submit" value="Enter Information"><input type="reset" value="Start Over">
+</pre>
+</b>
+<p>
+</form>
+
+</blockquote></blockquote>
+</ul>
+<center>
+
+<hr width=95%>
+
+<p>
+
+<font size=-2>
+
+<a href="/westar/energy/">Westar Energy</a> |
+
+<a href="/westar/security">Westar Security</a> |
+
+<a href="/utility/">Utility Operations</a> |
+
+<a href="/financial/">Financial Information</a> |
+
+<a href="/news/">What's News</a> |
+
+<a href="/employee/">Employee News</a> | 
+
+<a href="/">Home</a>
+
+</center>
+
+
+</body>
+</html>

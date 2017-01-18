@@ -1,0 +1,116 @@
+Date: Thu, 18 Dec 1997 19:55:48 GMT
+Server: Apache/1.2.4
+Connection: close
+Content-Type: text/html
+
+<HTML><TITLE>American Home Products</TITLE>
+
+<BODY BGCOLOR="#FFFFFF" TEXT="#322832" LINK="#C30000" VLINK="#6B5543" ALINK="#AD9C00" BACKGROUND="homebg.gif">
+
+
+<center>
+
+     	<img src="ahpctext.gif" alt="American Home Products Corporation" align="center" width="526" height="37" border="0">
+
+<p>
+
+<table border="0" cellpadding="0" cellspacing="0" width="509">
+<tr>
+	<td colspan=5><img src="main1b.jpg" width="509" height="98" border="0" USEMAP="#map1"></td>
+</tr>
+<tr>
+	<td><img src="main2.jpg" width="99" height="60" border="0" USEMAP="#map2"></td>
+	<td><a href="family.htm"><img src="familyani.gif" width="60" height="60" border="0"></a></td>
+	<td><img src="main4.jpg" width="189" height="60" border="0"></td>
+	<td><a href="invest.htm"><img src="main4b.jpg" width="60" height="60" border="0"></a></td>
+	<td><img src="main4c.jpg" width="101" height="60" border="0" USEMAP="#map4c"></td>
+</tr>
+<tr>
+	<td colspan="5"><img src="main5.jpg" width="509" height="30" border="0"></td>
+</tr>
+<tr>
+	<td colspan="3"><img src="main6.jpg" width="348" height="60" border="0" USEMAP="#map6"></td>
+	<td><a href="/cgi-bin/ahp/opendoor.cgi?products/productinfo.htm"><img src="productani.gif" width="60" height="60" border="0"></a></td>
+	<td><img src="main8.jpg" width="101" height="60" border="0" USEMAP="#map8"></td>
+</tr>
+<tr>
+	<td colspan="5"><img src="main9.jpg" width="509" height="10" border="0"></td>
+</tr>
+</table>
+</table>
+
+<p>
+
+<table border="0" align="center" width="500">
+<tr>
+        <td align=center valign=center width="150">
+	<a href="sitemap.htm">
+	<img src="smlink.gif" alt="Site Map" align="absmiddle" width="50" height="50" border=0></a>
+	</td>
+
+	<td align="center" valign="center" width="220"><font face="arial, helvetica" size="-1"><!--Last Updated December 8,1997--></font>
+	<a href="releases/wa_121097.htm">
+	<IMG SRC="newsbulletin.gif" alt="News Bulletin" align="middle" border=0></a>
+	</td>
+
+        <td align=center valign=center width="150">
+	<a href="search.htm">
+	<img src="sslink.gif" alt="Site Search" align="absmiddle" width="59" height="50" border=0></a>
+	</td>
+</tr>
+</table>
+
+<p>
+
+<table align=center border=0 width="575">
+<tr>
+	<td align=center valign=center>
+	<nobr><font face="arial, helvetica" size="-1">
+	<a href="ahp.htm">Home Page</a>  |
+	<a href="overview.htm">Overview</a>  |
+	<a href="family.htm">Companies</a>  |
+	<a href="r&d.htm">R&D</a>  |
+	<a href="news.htm">News</a>  |
+	<a href="invest.htm">Financial</a>  |
+	<a href="/cgi-bin/ahp/opendoor.cgi?products/productinfo.htm">Products</a> |
+       	<a href="sitemap.htm">Site Map</a>  |
+	<a href="search.htm">Site Search</a></nobr></nobr>
+	<p>
+	This Site contains information concerning AHP that may be useful to the
+	Company's customers, employees and shareholders as well as the
+	general public.  Use of this Site is subject to the <a href="copyright.htm">Internet Site
+	Notice/Disclaimer Form</a>, which you are urged to read prior to proceeding.
+	<p><br><p>
+	All contents Copyright &copy; 1997 American Home Products Corporation
+	</font>
+	</td>
+</tr>
+</table>
+
+</center>
+
+<MAP NAME="map1">
+<AREA SHAPE=POLY COORDS="12,25,98,26,100,7,160,7,161,68,98,68,99,53,15,53,12,25" HREF="overview.htm">
+<AREA SHAPE=POLY COORDS="348,8,409,8,410,25,495,25,495,54,411,54,411,69,348,69,348,8" HREF="news.htm">
+</MAP>
+
+<MAP NAME="map2">
+<AREA SHAPE=RECT COORDS="15,17,96,45" HREF="family.htm">
+</MAP>
+
+<MAP NAME="map4c">
+<AREA SHAPE=RECT COORDS="0,17,87,46" HREF="invest.htm">
+</MAP>
+
+<MAP NAME="map6">
+<AREA SHAPE=POLY COORDS="14,15,99,15,100,0,161,0,161,60,98,60,97,43,14,42,14,15" HREF="r&d.htm">
+</MAP>
+
+<MAP NAME="map8">
+<AREA SHAPE=RECT COORDS="0,15,87,45" HREF="/cgi-bin/ahp/opendoor.cgi?products/productinfo.htm">
+</MAP>
+
+</body></html>
+
+
+

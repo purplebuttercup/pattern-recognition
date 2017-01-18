@@ -1,0 +1,72 @@
+Server: Netscape-Enterprise/2.01
+Date: Thu, 18 Dec 1997 13:24:50 GMT
+Content-type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>Banco Santander - Página Principal</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" link="#000000" vlink="#ff0000">
+<center>
+<table align=center border=0 cellspacing=0 cellpadding=0 hspace= vsapce=0>
+	<tr>
+	<td valign=top align=left>
+<IMG SRC="images/bann.gif" ALT="Banco Santander" BORDER=0 width=551 height=59 ISMAP USEMAP=#cabecera hspace=0 valign=bottom vspace=0><br><IMG SRC="images/btones.gif" ALT="Banco Santander" BORDER=0 width=551 height=218 ISMAP USEMAP=#main hspace=0 valign=bottom vspace=0><br><nobr><IMG SRC="images/izqui.gif" ALT="Banco Santander - izq" BORDER=0 width=135 height=66 hspace=0 vspace=0><a href="acceso.html" onMouseOver="window.status='Acceso Gratis';return true"><IMG SRC="images/hpanima.gif" ALT="Acceso Gratis" BORDER=0 width=288 height=66 hspace=0 vspace=0></a><IMG SRC="images/derech.gif" ALT="Banco Santander - drcha" BORDER=0 width=128 height=66 hspace=0 vspace=0></nobr>
+	</td>
+	</tr>
+<tr><td>&nbsp;</td></tr>
+		<TR><TD ALIGN=CENTER><A HREF="http://www.unican.es/MASTERBAN/masterban.htm"><FONT SIZE=2><I>MASTER en Banca y Sistemas Financieros (97-98)</I></FONT></TD></TR>
+	<tr>
+	<td align=center >
+	<a  HREF="sec_tec97/index.html"><font size=0 color=000000>[ Info. Corporativa y Financiera ]</font></a>
+	<a href="banco.html"><font size=0 color=000000>[ El Banco en el mundo ]</font></a>
+	<a href="10años/index.html"><font size=0 color=000000>[ 10 Años ]</font></a>
+	<a HREF="productos/prinprod.html"><font size=0 color=000000>[ Productos ]</font></a>
+       <a href=servicios/pys-es2.html><font size=0 color=000000>[ Banca a distancia ]</font></a>
+       <a href=belec/><font size=0 color=000000>[ Banca Electrónica ]</font></a><br>
+	<a href="novedades.html"><font size=0 color=000000>[ Novedades ]</font></a>
+<a href="https://www.bancosantander.es/BV/index.html"> <font size=0 color=000000>[ Banca Supernet ]</font></a>
+	<a href="superplaza/plaza.html"><font size=0 color=000000>[ Superplaza Santander ]</font></a>
+	<a href="tesoreria/index.html"><font size=0 color=000000>[ Mercados Financieros ]</font></a>
+	<a href="acceso.html"><font size=0 color=000000>[ Acceso Gratis ]</font></a><br>
+	<a href="Architext/AT-Banco_Santanderquery.html"><font size=0 color=000000>[ Buscar ]</font></a>
+	<a href="https://www.bancosantander.es/superli97.html"><font size=0 color=000000>[ Contáctenos ]</font></a>
+	<a href="iindex.html"><font size=0 color=000000>[ English ]</font></a><p>
+<a href="copyright.html"><font size=0 color=000000>[ Aviso Legal ]</font></a>&nbsp;&nbsp;</td>
+
+</td>
+</tr>
+<tr><td align=center>
+<br>
+<table border=0><tr><!--<td align=center>
+	<a href="copyright.html"><font size=0 color=000000>[ Aviso Legal ]</font></a>&nbsp;&nbsp;</td>--><!--<td align=center valign= middle >
+	<a href="http://www.microsoft.com/spain/ie"><font size=0 color=000000>Se ve mejor con </font></a>&nbsp;&nbsp;</td>--><td>
+	<a href="http://www.microsoft.com/spain/ie"><img src="images/ie_stati.gif" width=88 height=31 alt="Explorer" border=0></a></td>
+        <td><a href="http://www.sun.com"><img src=images/logosun.gif height=32 width=88 alt=Sun border=0></a></td>
+        <td><a href="http://www.netscape.com"><img src=images/now30_bu.gif height=31 width=88 alt=Netscape border=0 ></a></td>
+ </tr><!--<tr><td colspan=3 align=center><a href="copyright.html"><font size=0 color=000000>[ Aviso Legal ]</font></a></td></tr>--></table></td></tr>
+</table>
+</center>
+<MAP NAME="cabecera">
+<AREA SHAPE=rect HREF="10años/index.html" COORDS="381,6,528,45">
+</MAP>
+
+<MAP NAME="main">
+<AREA SHAPE=rect HREF="sec_tec97/index.html" COORDS="11,14,254,33">
+<AREA SHAPE=rect HREF="banco.html" COORDS="11,39,254,58">
+<AREA SHAPE=rect HREF="tesoreria/index.html" COORDS="11,64,254,83">
+<AREA SHAPE=rect HREF="productos/prinprod.html" COORDS="11,89,254,108">
+<AREA SHAPE=rect HREF="servicios/pys-es2.html" COORDS="11,115,254,134">
+<AREA SHAPE=rect HREF="belec/" COORDS="11,140,254,159">
+<AREA SHAPE=rect HREF="superplaza/plaza.html" TARGET=_top COORDS="11,165,254,184">
+<AREA SHAPE=rect HREF="novedades.html" COORDS="11,190,254,209">
+<AREA SHAPE=rect HREF="https://www.bancosantander.es/BV/index.html" COORDS="320,16,542,117">
+<AREA SHAPE=rect HREF="Architext/AT-Banco_Santanderquery.html" COORDS="323,147,406,201">
+<AREA SHAPE=rect HREF="https://www.bancosantander.es/superli97.html" COORDS="425,146,528,201">
+</MAP>
+</BODY>
+</HTML>
+</HTML>
+
+<!--<a href="http://www.microsoft.com/spain/ie/"><font color=ffffff ><img src="images/ie_stati.gif" alt="Explorer" width=88 height=31 border=0></font></a><p>
+-->	

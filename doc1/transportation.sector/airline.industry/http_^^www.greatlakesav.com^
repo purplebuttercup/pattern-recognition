@@ -1,0 +1,25 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 20 Nov 1997 15:55:35 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Tue, 18 Nov 1997 14:22:24 GMT
+Content-Length: 614
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 3.0">
+<title>Welcome to Great Lakes Aviation, Ltd.</title>
+</head>
+
+<frameset framespacing="1" frameborder="0" border="false" cols="18%,82%">
+  <frame name="contents" target="main" src="TOC.htm" scrolling="yes">
+  <frame name="main" src="contents.htm" scrolling="yes">
+  <noframes>
+  <body style="border-left: medium none rgb(255,255,255)">
+  <p>This page uses frames, but your browser doesn't support them.</p>
+  </body>
+  </noframes>
+</frameset>
+</html>

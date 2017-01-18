@@ -1,0 +1,45 @@
+Date: Thu, 18 Dec 1997 10:24:02 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 1564
+Last-modified: Thu, 21 Aug 1997 18:49:48 GMT
+
+<HTML>
+<HEAD>
+    <TITLE>Loews Hotels Home Page</TITLE>
+</HEAD>
+<BODY BGCOLOR="#ffffff" TEXT="#16033a" ALINK="#bc0f00" VLINK="#e26704" 
+LINK="#077908">
+<CENTER><i><b>Welcome to Loews Hotels Online!<br>
+<a href="fast/">text-only fast-load version</a><br>
+<IMG SRC="Images/homepagemast.gif" WIDTH="471" HEIGHT="157" 
+ALIGN=bottom NATURALSIZEFLAG="3"><BR>
+<A HREF="hpgtexticona.map"><IMG BORDER=0 SRC="Images/hpgtexticona.gif" WIDTH="376" 
+HEIGHT="106" ALIGN=bottom NATURALSIZEFLAG="3" ismap></a><BR>
+<A HREF="hpgtexticonb.map"><IMG BORDER=0 SRC="Images/hpgtexticonb.gif" WIDTH="376" 
+HEIGHT="172" ALIGN=bottom NATURALSIZEFLAG="3" ismap></a><BR>
+<A HREF="hpgtexticonc.map"><IMG BORDER=0 SRC="Images/hpgtexticonc.gif" WIDTH="376" 
+HEIGHT="139" ALIGN=bottom NATURALSIZEFLAG="3" ismap></a></CENTER>
+<H5>
+<CENTER><BR>
+<BR>
+<BR>
+[ <A HREF="loewslistings.html">Hotel Locations</A> | 
+<A HREF="loewswhatsnews.html">What's New</A> | 
+<A HREF="loewsspecialoffersb.html">Special Offers</A> | 
+<A HREF="loewsprograms.html">Loews Programs</A> | 
+<A HREF="reserve.html">Reservations</A> | 
+<A HREF="information.html">Information</A> ]
+<BR>
+[<A HREF="edirectory/"> E-mail Directory</A>]
+</CENTER>
+
+</H5>
+<P><CENTER><IMG SRC="Images/loewslogo.gif" WIDTH="95" HEIGHT="26" 
+NATURALSIZEFLAG="0" ALIGN=bottom><IMG SRC="Images/spacer.gif" 
+WIDTH="12" HEIGHT="48" ALIGN=bottom NATURALSIZEFLAG="3">
+<VAR><KBD>&copy; 1996 Loews Hotels, All Rights
+Reserved</KBD></VAR><KBD> </KBD></CENTER>
+<center><h5>Web-Site hosted by <a href="http://ten-io.com/">TEN-IO</a></h5></center>
+</BODY>
+</HTML>

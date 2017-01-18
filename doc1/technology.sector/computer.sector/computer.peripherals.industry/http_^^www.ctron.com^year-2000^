@@ -1,0 +1,185 @@
+Date: Fri, 21 Nov 1997 03:01:14 GMT
+Server: Apache/1.2.4
+Connection: close
+Content-Type: text/html
+
+<html>
+<head><title>Cabletrons Commitment to Year 2000 Compliance</title>
+<base href="http://www.cabletron.com/year-2000/">
+</head>
+<body bgcolor="#ffffff">
+
+
+ <center><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>	<TR>		<TD align=center><img src="/header/ctron-logo.gif" WIDTH="113" HEIGHT="44" alt="Cabletron"></TD><TD align=right><img src="/header/generic-hdr.gif" WIDTH="206" HEIGHT="28" ALT="Cabletron Web">&nbsp;</TD>	</TR>	<TR valign=top>		<TD><nobr><a href="/"><img src="/header/home.gif" WIDTH="38" HEIGHT="20" ALT="Home" border=0></a><a href="/Search/"><img src="/header/search.gif" WIDTH="46" HEIGHT="20" ALT="Search" border=0></a><a href="/Talk-to-Us.html"><img src="/header/mail.gif" WIDTH="39" HEIGHT="20" ALT="Mail" border=0></a></nobr></td><td><nobr><A HREF="/products/"><img src="/header/products.gif" WIDTH="66" HEIGHT="20" BORDER="0" ALT="Products"></A><A HREF="/news/"><img src="/header/news.gif" WIDTH="41" HEIGHT="20" BORDER="0" ALT="News"></A><A HREF="/corporate/"><img src="/header/corporate.gif" WIDTH="65" HEIGHT="20" BORDER="0" ALT="Corporate"></A><A HREF="/support/"><img src="/header/support.gif" WIDTH="57" HEIGHT="20" BORDER="0" ALT="Support"></A><A HREF="/events/"><img src="/header/events.gif" WIDTH="45" HEIGHT="20" BORDER="0" ALT="Events"></A><A HREF="/programs/"><img src="/header/programs.gif" WIDTH="62" HEIGHT="20" BORDER="0" ALT="Programs"></A><A HREF="/world/"><img src="/header/international.gif" WIDTH="87" HEIGHT="20" BORDER="0" ALT="International"></A></nobr></TD>	</TR></TABLE></center><br>
+<!--   end of server header   -->
+
+
+
+<CENTER><H2>Cabletron's Commitment to Year 2000 Compliance</H2></CENTER>
+
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="6" > 
+        <TR>
+                <TD VALIGN=top>Cabletron understands the requirements of &quot;Year 2000 Compliance&quot;, and we are well on our way to finalizing the details that will ensure that end result. A Task Force has been appointed to address the specifications required to qualify/certify all hardware, firmware, and software.  Early evidence indicates that current Cabletron hardware and firmware are not affected or, if they are, that they will operate successfully beyond January 1, 2000 with no adverse effects. Our primary focus is on third-party suppliers who have provided us with products which we have integrated into our base designs or have offered as a free standing solution. 
+
+<P>Our goal is to have all products qualified, or identified as requiring further review, by August 1997.  The issues identified for further action will be fully addressed by August 1998 to assure full compliance by the beginning of 1999.  In the interim, for those customers who want a statement of intent, we offer our maintenance agreement as protection for all products purchased prior to the Year 2000.</TD> 
+      <TD VALIGN="TOP" BGCOLOR="#FFCC00"><img src="/images/yellow.gif" width=1 height=100 alt=""></TD>
+      <TD VALIGN=top>
+      
+      <FORM METHOD=Post ACTION="y2k_search.cgi">
+<table border cellpadding=6><tr><td><CENTER>
+<B>Search for Cabletron Product Year 2000<br>Compliance by Part Number</b><p>
+<INPUT size=15 NAME="part"><INPUT TYPE="submit" VALUE="Go"></CENTER>
+</td></tr></table>
+
+
+<ul>
+        <li><A HREF="y2k-benson.html">A Letter from Craig Benson</A>
+        <li><A HREF="#documentation">Cabletron Documentation</A>
+        <li><A HREF="faqs-2000.html">Cabletron's Year 2000 Compliance FAQs</A>
+        <LI><A HREF="#thirdparty">Third Party Vendors</A>
+        <li><A HREF="#additional">Additional Resources</A>
+       
+   
+    	<li><A NAME="download"></A><B>Download</B> the entire Year 2000<br>Product Compliance Matrix <br>
+        ( <!--88k <A HREF="matrix_download.zip">zip</A> file) <br>  -->
+        (354k <A HREF="ctron-y2k.xls">Excel</A> spreadsheet) 
+      
+</ul>
+
+<img src="/images/trans.gif" width=250 height=1 border=0 alt=""></TD>
+        </TR>
+</TABLE></FORM>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="6" >
+
+
+        <TR>
+                <TD COLSPAN=2 BGCOLOR="#003399"><A name="documentation"><IMG SRC="/images/blue.gif" WIDTH=600 HEIGHT=3></a></TD>
+        </TR>
+        <TR>
+                <TD VALIGN=TOP><FONT SIZE=+2>Cabletron Documentation</FONT><BR></TD>
+                <TD>
+                        <UL><LI><A HREF="policy-statement.html">Year 2000 Policy Statement</A></LI>
+                                <LI><A HREF="project-plan.html">Project Plan</A><BR></LI>
+                                <LI><A HREF="test-plan.html">Test Plan</A>
+
+                        </UL></TD>
+        </TR>
+        
+        
+        
+        
+        
+        
+        
+        <TR>
+                <TD COLSPAN=2 BGCOLOR="#003399"><A name="thirdparty"><IMG SRC="/images/blue.gif" WIDTH=600 HEIGHT=3></a></TD>
+        </TR>
+        <TR>
+                <TD VALIGN=TOP><FONT SIZE=+2>Compliance of Third Party Vendors</FONT><P>
+
+
+
+Cabletron Systems is making every effort to procure verification of 
+     Year 2000 Compliance for Third Party products resold by Cabletron.  
+     This has been a difficult process and unfortunately, while some 
+     Vendors offer extremely vague documentation, others have not provided 
+     Cabletron with such verification.  <P>
+
+     
+     Cabletron would like to assure its customers that we will continue to 
+     pursue this issue with our Third Party development partners, however 
+     Cabletron cannot be held responsible for developing upgrades for these 
+     products to become Year 2000 Compliant.  <P>
+
+     
+     Where available, Cabletron has provided web links to our Third Party 
+     development partners' web sites offering Year 2000 Compliance 
+     information.  If no information is available on the Vendor's web site, 
+     and Cabletron has received written verification, Cabletron has 
+     provided that verification here.  If this information is insufficient, 
+     Cabletron suggests that you pursue these issues directly with the 
+     vendor of the specified product.</TD>
+                <TD valign=top>
+ 
+
+<UL>
+<LI><A HREF="http://www.bmc.com/year2000/">BMC</A>
+<LI><A HREF="http://www.cisco.com/warp/public/752/y2000_ov.htm">Cisco</A>
+<LI><A HREF="third_party/#concord">Concord Communications</A>
+<LI><A HREF="third_party/#metrix">Metrix</A>
+<LI><A HREF="third_party/#netmetrix">NetMetrix</A>
+<LI><A HREF="http://www.novell.com/year2000/">Novell</A>
+<LI><A HREF="third_party/#optimal">Optimal Networks</A>
+
+</UL>
+                        </TD>
+        </TR>
+
+        <TR>
+                <TD COLSPAN=2 BGCOLOR="#003399"><A name="additional"><IMG SRC="/images/blue.gif" WIDTH=600 HEIGHT=3></a></TD>
+        </TR>
+        <TR>
+                <TD valign=top><FONT SIZE=+2>Additional Resources</FONT></TD>
+
+<TD>
+<UL>
+<LI><a href = "http://www.2k-times.com/y2kpaper.htm">Articles and Papers on Year 2000</A><BR></LI>
+<LI><a href = "http://www.icon.co.za/~forum/">Year 2000 Forum</A></LI>
+<LI><a href = "http://www8.zdnet.com/pcweek/news/0304/o07pyear.html">PC Week Articles</A><BR></LI>
+<LI><a href = "http://www8.zdnet.com/pcweek/news/0401/04e2000.html">More PC Week Articles</A><BR></LI>
+
+
+<LI><a href = "http://www.comlinks.com/">Comlinks Magazine</A><BR></LI>
+
+<LI><a href = "http://www.mitre.org/research/y2k/">The Mitre Corporation Y2K Home Page</A><BR></LI>
+<LI><a href = "http://www.software.org/">Software Productivity Consortium</A><BR></LI>
+<LI><a href = "http://www.year2000.com/">The Year 2000 Information Center</A><BR></LI>
+<LI><a href = "http://www.blackhawkis.com/year2000.html">BlackHawk Information Systems</A><BR></LI>
+<LI><a href = "http://www.year2000.com/vendors/visionet.html">Visionet Systems</A><BR></LI>
+<LI><a href = "http://www.dciexpo.com/2000AD/">Year 2000 Issues and Answers Conference</A><BR></LI>
+<LI><a href = "http://www.omicronet.com/spin/frit9605.htm">OMICRONet THE SPIN Magazine</A><BR></LI>
+<LI><a href = "infosphere.safb.af.mil/~jwid/fadl/world/isswrld.htm">Airforce Y2K Homepage</A><BR></LI>
+<LI><a href = "http://pw1.netcom.com/~wjcook/resource.html">Bill Cook's Y2K Resource Links</A><BR></LI>
+<LI><a href = "http://www.y2kinvestor.com/">Tony Keyes/Y2K Investor</A><BR></LI>
+<LI><a href = "web.idirect.com/%7Embsprog/nocost.html">Year2000 Information Network</A><BR></LI>
+<LI><a href = "http://www.solutionpoint.com/">Solution Point</A><BR></LI>
+<LI><a href = "http://www.itaa.org/year2000.html">ITAA Year 2000 Informational Resources</A><BR></LI>
+<LI><a href = "http://www.io.com/~deweerd/year2000">Index - Year 2000 Resource</A><BR></LI>
+<LI><a href = "http://www.nist.gov/y2k/">National Institute of Standards and Technology (NIST) Year 2000 - The Millennium Rollover</A><BR></LI>
+</TD></TR></TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--   start of server trailer   -->
+
+
+
+<hr><table border=0 cellspacing=0 cellpadding=0 width="100%"><tr valign=top><td><p><font size=-1><strong><A HREF="http://www.cabletron.com/Copyright.html" target="_top">
+Copyright</a> &#169;1995-1997 by Cabletron Systems</strong><br>
+Last modified Monday, 27-Oct-97 16:06 EST<br>http://www.cabletron.com/year-2000/<br></font></p></td><td><tt> &nbsp; </tt></td><td align=right valign=top>
+<table border=0 cellspacing=0 cellpadding=0><tr><td valign=top align=left>
+<p><font size=-1>
+Cabletron Systems<br>
+35 Industrial Way<br>
+Rochester, NH 03866 &nbsp;
+U.S.A.<br>
+Phone: +1 (603) 332-9400<br>
+Fax: +1 (603) 337-2211
+</font></p></td></tr></table></td></tr></table>
+</BODY></HTML>
+
+

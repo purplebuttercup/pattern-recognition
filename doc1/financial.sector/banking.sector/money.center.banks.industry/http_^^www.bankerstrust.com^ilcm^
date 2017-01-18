@@ -1,0 +1,19 @@
+Server: Netscape-Enterprise/2.01
+Date: Thu, 18 Dec 1997 10:52:52 GMT
+Accept-ranges: bytes
+Last-modified: Tue, 26 Aug 1997 22:34:47 GMT
+Content-length: 463
+Content-type: text/html
+
+<HTML> 
+<HEAD><TITLE>Bankers Trust Inflation Linked Capital Markets</TITLE>
+</HEAD>
+<a href="top"></a> 
+<FRAMESET ROWS="105, *" border=off>
+        <FRAME SRC="banner.htm" SCROLLING=NO MARGINHEIGHT=0 MARGINWIDTH=0>
+                <FRAMESET COLS="175,*">
+                        <FRAME SCROLLING=AUTO NAME="people" SRC="contacts.htm">
+                        <FRAME SCROLLING=AUTO NAME="workspace" SRC="intro.htm">
+                </FRAMESET>
+</FRAMESET>
+</HTML>

@@ -1,0 +1,265 @@
+Server: Microsoft-IIS/3.0
+Date: Fri, 21 Nov 1997 05:13:32 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Thu, 20 Nov 1997 19:35:27 GMT
+Content-Length: 8338
+
+<HTML>
+<HEAD>
+
+<script language="JavaScript">
+<!--
+
+function windowOpener(url)
+{msg=open(url,"DisplayWindow","toolbar=yes,directories=no,menubar=yes,scrollbars=yes");}
+
+var version = 0;
+
+// check for Netscape 3.0
+
+  if (navigator.userAgent.indexOf("Mozilla/3.0") != -1) 
+
+    { version = 3;	
+
+//set active and inactive images
+
+ active1 = new Image(75,75);
+ active1.src = "images/bkgd2.JPG";
+ inactive1 = new Image(75,75);
+ inactive1.src = "images/bkgd1.JPG";
+
+ active2 = new Image(75,75);
+ active2.src = "images/offices2.JPG";
+ inactive2 = new Image(75,75);
+ inactive2.src = "images/offices1.JPG";
+
+ active3 = new Image(75,75);
+ active3.src = "images/Cust2.JPG";
+ inactive3 = new Image(75,75);
+ inactive3.src = "images/Cust1.JPG";
+
+ active4 = new Image(75,75);
+ active4.src = "images/product2.JPG";
+ inactive4 = new Image(75,75);
+ inactive4.src = "images/product1.JPG";
+
+ active5 = new Image(75,75);
+ active5.src = "images/Ind2.JPG";
+ inactive5 = new Image(75,75);
+ inactive5.src = "images/Ind1.JPG";
+
+ active6 = new Image(75,75);
+ active6.src = "images/svc2.JPG";
+ inactive6 = new Image(75,75);
+ inactive6.src = "images/svc1.JPG";
+
+ active7 = new Image(75,75);
+ active7.src = "images/news2.JPG";
+ inactive7 = new Image(75,75);
+ inactive7.src = "images/news1.JPG";
+ 
+ active8 = new Image(75,75);
+ active8.src = "images/sched2.JPG";
+ inactive8 = new Image(75,75);
+ inactive8.src = "images/sched1.JPG";
+
+ active9 = new Image(75,75);
+ active9.src = "images/Jobs2.JPG";
+ inactive9 = new Image(75,75);
+ inactive9.src = "images/Jobs1.JPG";
+
+ active10 = new Image(75,75);
+ active10.src = "images/gus2.JPG";
+ inactive10 = new Image(75,75);
+ inactive10.src = "images/gus1.JPG";
+
+ active11 = new Image(75,75);
+ active11.src = "images/Links2.JPG";
+ inactive11 = new Image(75,75);
+ inactive11.src = "images/Links1.JPG";
+
+ active12 = new Image(75,75);
+ active12.src = "images/InvRl2.JPG";
+ inactive12 = new Image(75,75);
+ inactive12.src = "images/InvRl1.JPG"; }
+
+// check for Netscape 3.0
+
+ else if  (navigator.userAgent.indexOf ("MSIE") != -1) version = 2;
+
+ else if  (navigator.userAgent.indexOf ("Mozilla/2.0") != -1) version = 1;
+
+ else version = 0;
+
+//-->
+</script>
+
+<TITLE>Gensym Website</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<CENTER>
+<img align=top src="logo.gif" alt="Gensym"><br>
+<hr>
+<P>
+<h2>Welcome to Gensym On Line</h2>
+Gensym Corporation is a leading supplier of software and services for intelligent systems that help<br> organizations manage and optimize complex dynamic processes. Common applications include<br> quality management, process optimization, dynamic scheduling, network fault management,<br> energy and environmental management, and abnormal situation management. Fortune<br> magazine included Gensym on its list of "25 Cool Companies" and<br> Software magazine calls Gensym a "Company to Watch."<P>
+<hr>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="70%">
+
+<!--Change images using Mouseover and Mouseout Javascript events-->
+
+	<TR ALIGN=center>
+
+	<TD>
+
+		<a href="companybackground/companybackground.html" 
+
+		onMouseOver="if (version == 3) inactive1.src = active1.src; window.status='Company background'; return true" 
+
+		onMouseOut="inactive1.src='images/bkgd1.JPG'"><IMG name="inactive1" SRC="images/bkgd1.JPG" BORDER="0" ALT="Company background"></A>
+
+	</TD>
+
+	<TD>
+
+		<a href="officesworldwide/index.html" 
+
+		onMouseOver="if (version == 3) inactive2.src = active2.src; window.status='Gensym Offices worldwide'; return true" 
+
+		onMouseOut="inactive2.src='images/offices1.JPG'"><IMG name="inactive2" SRC="images/offices1.JPG" BORDER="0" ALT="Offices"></A>
+
+	</TD>
+
+	<TD>
+
+		<a href="customerstories/index.html" 
+
+		onMouseOver="if (version == 3) inactive3.src = active3.src; window.status='Customer Stories'; return true" 
+
+		onMouseOut="inactive3.src='images/Cust1.JPG'"><IMG name="inactive3" SRC="images/Cust1.JPG" BORDER="0" ALT="Customer stories"></A>
+
+	</TD>
+
+	<TR ALIGN=CENTER>
+	<TD>
+
+		<a href="products/overview.html" 
+
+		onMouseOver="if (version == 3) inactive4.src = active4.src; window.status='Product Overview'; return true" 
+
+		onMouseOut="inactive4.src='images/product1.JPG'"><IMG name="inactive4" SRC="images/product1.JPG" BORDER="0" ALT="Products"></A>
+
+	</TD>
+
+	<TD>
+
+		<a href="industriesserves/successstory.html" 
+
+		onMouseOver="if (version == 3) inactive5.src = active5.src; window.status='Industries Served'; return true" 
+
+		onMouseOut="inactive5.src='images/Ind1.JPG'"><IMG name="inactive5" SRC="images/Ind1.JPG" BORDER="0" ALT="Industries"></A>
+
+	</TD>
+
+	<TD>
+
+		<a href="services/service.html" 
+
+		onMouseOver="if (version == 3) inactive6.src = active6.src; window.status='Gensym Services'; return true" 
+
+		onMouseOut="inactive6.src='images/svc1.JPG'"><IMG name="inactive6" SRC="images/svc1.JPG" BORDER="0" ALT="Service"></A>
+
+	</TD>
+
+
+	<TR ALIGN=CENTER>
+	<TD>
+
+                <a href="recentnews/thenews.html"
+                 
+                onMouseOver="if (version == 3) inactive7.src = active7.src; window.status='Recent News/Press Releases'; return true"
+
+                onMouseOut="inactive7.src='images/news1.JPG'"><img name="inactive7" src="images/news1.JPG" BORDER="0" ALT="News"></a>
+	</TD>
+
+
+	<TD>
+        
+                <a href="scheduleevents/scheduleevents.html"
+                
+		onMouseOver="if (version == 3) inactive8.src = active8.src; window.status='Schedule of Events'; return true"
+
+
+                onMouseOut="inactive8.src='images/sched1.JPG'"><img name="inactive8" src="images/sched1.JPG" BORDER="0" ALT="Events"></a>
+
+
+	</TD>
+
+	
+	<TD>
+                 <a href="companycontacts/contactpeople.html"
+                 
+ 		 onMouseOver="if (version == 3) inactive9.src = active9.src; window.status='Jobs and Contacts'; return true"
+
+                 onMouseOut="inactive9.src='images/Jobs1.JPG'"><img name="inactive9" src="images/Jobs1.JPG" BORDER="0" ALT="Jobs"></a>
+
+	</TD>
+
+	<TR ALIGN=CENTER>
+	<TD>
+
+                 <a href="gus/index.htm"
+                 
+		 onMouseOver="if (version == 3) inactive10.src = active10.src; window.status='Gensym Users Society'; return true" 
+	
+                 onMouseOut="inactive10.src='images/gus1.JPG'"><img name="inactive10" src="images/gus1.JPG" BORDER="0" ALT="Gus"></a>
+	</TD>
+
+
+	<TD>
+        
+                  <a href="links.htm"
+                   
+		  onMouseOver="if (version == 3) inactive11.src = active11.src; window.status='Partner Links'; return true"
+
+                  onMouseOut="inactive11.src='images/Links1.JPG'"><img name="inactive11" src="images/Links1.JPG" BORDER="0" ALT="Links"></a>
+	</TD>
+	
+	<TD>
+
+                  <a href="investor/investor-relations.html"
+                  
+		  onMouseOver="if (version == 3) inactive12.src = active12.src; window.status='Investor Relations'; return true"
+
+                  onMouseOut="inactive12.src='images/InvRl1.JPG'"><img name="inactive12" src="images/InvRl1.JPG" BORDER="0" ALT="Investors"></a>
+
+	</TD>
+
+</TABLE>
+
+
+<P>
+<H6><A HREF="companybackground/companybackground.html"><B>Company Background</B\></A>
+| <A HREF="officesworldwide/index.html"><B>Offices Worldwide</B></A>
+| <A HREF="customerstories/index.html"><B>Customer Stories</B></A><BR>
+<A HREF="productoverview/overview.html"><B>Product Overview</B></A>
+| <A HREF="industriesserves/successstory.html"><B>Industries Served</B></A>
+| <A HREF="services/service.html"><B>Service & Support</B></A><BR>
+<A HREF="recentnews/thenews.html"><B>Recent News</B></A>
+| <A HREF="scheduleevents/scheduleevents.html"><B>Schedule of Events</B></A>
+| <A HREF="companycontacts/contactpeople.html"><B>Jobs/Contacts</B></A><BR>
+<A HREF="scheduleevents/gus.htm"><B>Gensym Users Society</B></A>
+| <A HREF="links.htm">Partners/Other Links</A>
+| <A HREF="investor/investor-relations.html">Investor Relations</A>
+</H6>
+
+
+<H6><a href="http://www.gensym.com" onclick="windowOpener('http://www.gensym.com/whats-new.html')"><img src="../gifs/new.gif" border=0>Updated November 21, 1997</h6></a>
+<h6>Enhanced for Netscape 3.0 and higher</h6>
+<h6>Entire contents &copy; 1997 Gensym Corporation. All rights reserved.</h6>
+</center>
+</BODY>
+</HTML>
+

@@ -1,0 +1,128 @@
+Server: Netscape-Enterprise/2.01
+Date: Fri, 21 Nov 1997 04:56:22 GMT
+Accept-ranges: bytes
+Last-modified: Tue, 18 Nov 1997 02:45:24 GMT
+Content-length: 7115
+Content-type: text/html
+
+<HTML>
+<HEAD><TITLE>International Rectifier - Power Solutions - Battery Management</TITLE>
+<TITLE>International Rectifier, Power Solutions, Battery Management, Semiconductor</TITLE>
+<TITLE>International Rectifier - Power Solutions - Battery Management</TITLE>
+
+<BASE HREF="http://www.irf.com/">
+
+<META  name="description" content="International Rectifier - Celebrating 50 years as the Power Semiconductor Leader.">
+<META  name="keywords" content="International Rectifier, Power Solutions, Battery Management, Semiconductor, ">
+<head keywords="International Rectifier, Power Solutions, Battery Management, Semiconductor">
+<!-- International Rectifier, Power Solutions, Battery Management, Semiconductor -->
+</HEAD>
+<BODY BACKGROUND="graphics/50back.gif" TEXT="#000000" LINK="#400080" VLINK="#404040">
+
+<map name="irnav">
+<area shape="rect" coords="0,0,57,24" href="search/">
+<area shape="rect" coords="83,0,153,23" href="product-info/">
+<area shape="rect" coords="182,0,241,23" href="whats-new/">
+<area shape="rect" coords="274,0,334,24" href="aboutir-info/">
+<area shape="rect" coords="367,0,429,24" href="whoto-call/">
+<area shape="default" nohref>
+</map>
+
+<P>
+
+<table cellpadding=0 cellspacing=0 width=580>
+<tr><td><IMG SRC="graphics/spacer.gif" ALT="IR" WIDTH=72 HEIGHT=1></td>
+<td><IMG SRC="graphics/irlogo.gif" ALT="IR Logo" WIDTH=135 HEIGHT=50></td>
+<td><IMG SRC="graphics/prodinfo.gif" ALT="Product Information" WIDTH=317 HEIGHT=61></td>
+<td rowspan=2>
+<IMG SRC="graphics/diode.gif" ALT="diode image" WIDTH=56 HEIGHT=95 ALIGN=right>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<IMG SRC="graphics/redspc.gif" ALT="Red Spaces" WIDTH=75 HEIGHT=27 ALIGN=left>
+<IMG SRC="graphics/irnav.gif" ALT="Navigational Bar" WIDTH=430 HEIGHT=25 ALIGN=left usemap="#irnav" border="off">
+</td>
+</tr>
+</table>
+<TABLE>
+<TR>
+<TD ROWSPAN=2 WIDTH=10><BR></TD>
+<TD ROWSPAN=2 WIDTH=110 VALIGN="TOP">
+<NOBR><A HREF="product-info/topical.htm"><IMG SRC="graphics/genprod.gif" ALT="General Product Information" WIDTH=68 HEIGHT=46 BORDER="OFF"></A>
+<IMG SRC="graphics/arrow.gif" ALT="You Are Here" WIDTH=26 HEIGHT=22 ALIGN=ABSMIDDLE></NOBR><BR>
+<A HREF="technical-info/"><IMG SRC="graphics/techinfo.gif" ALT="Technical Information" WIDTH=67 HEIGHT=48 BORDER="OFF"></A><BR>
+<A HREF="product-info/shortform/"><IMG SRC="graphics/shortform.gif" ALT="Short Form Catalog" WIDTH=69 HEIGHT=47 BORDER="OFF"></A><BR>
+<A HREF="product-info/navigator/"><IMG SRC="graphics/navigator.gif" ALT="Navigator" WIDTH=69 HEIGHT=28 BORDER="OFF"></A><BR>
+<A HREF="product-info/datasheets.htm"><IMG SRC="graphics/datasheets.gif" ALT="Datasheets" WIDTH=71 HEIGHT=28 BORDER="OFF"></A><BR>
+<A HREF="product-info/models/"><IMG SRC="graphics/models.gif" ALT="Spice & Saber Models" WIDTH=67 HEIGHT=46 BORDER="OFF"></A><BR>
+<A HREF="product-info/reliability/"><IMG SRC="graphics/reliability.gif" ALT="Reliability Reports" WIDTH=69 HEIGHT=47 BORDER="OFF"></A><BR>
+</TD>
+<TD WIDTH=460 COLSPAN=2 VALIGN="TOP"><H3><i>Power Semiconductors for Battery-Operated Electronics</i></H3><p>
+IR has staffed a new group to develop products to serve the needs of customers that design 
+portable, battery-operated electronics. This group, termed the Battery Management Group, is 
+delivering miniature and efficient power semiconductors that feature Generation 5 HEXFET<sup>®</sup> power 
+MOSFETs, low V<sub>f</sub> Schottky rectifiers and highly integrated solid-state relays. Increasingly, these 
+devices are developed as part of a complete power system design to speed your design cycles. 
+Whether you're looking for system solutions or a specific power device,  IR's Battery Management 
+Group will develop the products that will help you meet your design needs.<p>
+See below for related links to assist you with Design Support, News Releases and Quick Links to related
+Battery-Operated Electronic pages.
+</TD>
+</TR>
+</TABLE>
+<TABLE WIDTH=580>
+<TR><TD COLSPAN=2 WIDTH=580><HR></TD></TR>
+<TR>
+<TD WIDTH=75 VALIGN="TOP"><FONT COLOR="#FF0000"><CENTER><EM>Design<BR>Support</EM></CENTER></FONT></TD>
+<TD WIDTH=505 VALIGN="TOP">
+<a href="product-info/battman/irvrm2.pdf"><IMG SRC="/images/pdficon.gif" ALT="Pdficon" WIDTH=28 HEIGHT=31></A>
+<I><font size=-2 color="#CC0000">NEW</font></I> Turn key Pentium Pro Power Supply Specification <P>
+<!-- <a href="technical-info/designtp/dt97-1.pdf"><IMG SRC="/images/pdficon.gif" ALT="Pdficon" WIDTH=28 HEIGHT=31>
+<I> <font size=-2 color="#CC0000">NEW</font></I> Reducing Switching Losses in Portable DC/DC Converters</a><P>-->
+</TD>
+</TR>
+</TABLE>
+<TABLE WIDTH=580>
+<TR><TD COLSPAN=2 WIDTH=580><HR></TD></TR>
+<TR>
+<TD WIDTH=75 VALIGN="TOP"><FONT COLOR="#FF0000"><CENTER><EM>News<BR>Releases</EM></CENTER></FONT></TD>
+<TD WIDTH=505 VALIGN="TOP">
+International Rectifier's New Pentium II Power Supply Design & 20V Power MOSFETs Reduce Cost by 30% Without Sacrificing Performance <a href="whats-new/nr090897.html">(September 8,1997)</a><P>
+International Rectifier Offers a Complete Power Supply Solution for Pentium Pro<font size="-1"><sup>TM</sup></font> Microprocessors <a href="whats-new/nrmar26.html">(Mar 26, 1997)</a><P>
+International Rectifier Adds Two New Series of SO-8 Power MOSFETs for Portable Applications <a href="whats-new/nr022697.html">(February 26, 1997)</a><P>
+International Rectifier Announces Formation of New Battery Management Group <a href="whats-new/nraug6.html">(August 6, 1996).</a><BR><BR>
+International Rectifier Launches New FETKY Technology For High Density Power Converters <A HREF="whats-new/nrmay13.html">(May 13, 1996).</a><BR><BR>
+</TD>
+</TR>
+</TABLE>
+<TABLE WIDTH=580>
+<TR><TD COLSPAN=3 WIDTH=580><HR></TD></TR>
+<TR>
+<TD WIDTH=75 VALIGN="TOP">
+<FONT COLOR="#FF0000"><CENTER><EM>Battery<BR>Mgmt<BR>Quick<BR>Links</EM></CENTER></FONT></TD>
+<TD WIDTH=90 VALIGN="TOP">
+<FONT COLOR="#FF0000"><CENTER><EM>Product<BR>Selection<BR>Guides</EM></CENTER></FONT></TD>
+<TD WIDTH=415 VALIGN="TOP">FETKY
+<dl>
+<li><a href="product-info/fetky/">Fetky HEXFET<sup>&reg;</sup> Schottky co-pack</a>
+</dl>
+DISCRETE
+<dl><li><a href="product-info/shortform/portable/hexfet.htm">SO-8 HEXFET<sup>&reg;</sup> Power MOSFET</a>
+<li><a href="product-info/shortform/portable/sot223.htm">SO-223 HEXFET<sup>&reg;</sup> Power MOSFET Schottky Rectifier</a>
+<li><a href="product-info/shortform/portable/micro8.htm">Micro8 HEXFET<sup>&reg;</sup> Power MOSFET</a>
+<li><a href="product-info/shortform/portable/micro6.htm">Micro6 HEXFET<sup>&reg;</sup> Power MOSFET</a>
+<li><a href="product-info/shortform/portable/micro3.htm">Micro3 HEXFET<sup>&reg;</sup> Power MOSFET</a>
+<li><a href="product-info/shortform/portable/smb.htm">SMB Schottky Rectifier</a>
+<li><a href="product-info/shortform/portable/smc.htm">SMC Schottky Rectifier</a>
+<li><a href="product-info/shortform/portable/mer.htm">Micro-Electronic Relay</a>
+</dl>
+</TD>
+</TR>
+</TABLE>
+<IMG SRC="graphics/redspc.gif" ALT="Red Spaces" WIDTH=75 HEIGHT=27>
+<a href="http://www.irf.com/"><IMG SRC="graphics/home.gif" ALT="Home Page" WIDTH=111 HEIGHT=25 BORDER="OFF"></A>
+</BODY>
+</HTML>
+
+

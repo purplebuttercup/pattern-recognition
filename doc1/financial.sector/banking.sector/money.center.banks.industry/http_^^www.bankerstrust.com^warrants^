@@ -1,0 +1,19 @@
+Server: Netscape-Enterprise/2.01
+Date: Thu, 18 Dec 1997 10:52:53 GMT
+Accept-ranges: bytes
+Last-modified: Mon, 25 Aug 1997 20:21:38 GMT
+Content-length: 430
+Content-type: text/html
+
+<HTML> 
+<HEAD><title>Bankers Trust - Warrants</TITLE>
+</HEAD>
+<FRAMESET ROWS="105,*" border=off>
+        <FRAME name=banner SRC=banner.htm SCROLLING=NO MARGINHEIGHT=0 MARGINWIDTH=0>
+                <FRAMESET COLS="174,*">
+                        <FRAME SCROLLING=AUTO NAME="people" SRC="offices.htm">
+                        <FRAME SCROLLING=AUTO NAME="workspace" SRC="intro.htm">
+                </FRAMESET>
+</FRAMESET>
+</HTML>
+

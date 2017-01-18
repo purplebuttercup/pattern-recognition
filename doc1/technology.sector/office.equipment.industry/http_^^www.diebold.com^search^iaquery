@@ -1,0 +1,30 @@
+Server: Netscape-Enterprise/2.01
+Date: Fri, 21 Nov 1997 04:22:47 GMT
+Content-type: text/html
+
+<html>
+<head>
+<title>Diebold Inc. Search System</title>
+</head>
+<body background="">
+<img align=left src="/dbdlogo.gif" border=0 ><br clear=left>
+<br>
+<center><h1></h1></center>
+<hr size=4>
+To search for an article, choose a subject, then enter a single word, several words, or a phrase. You can get <a href="http://www.diebold.com/ui/usa/help.html">search tips,</a> or perform an <a href="http://www.diebold.com/search/iaquery?NS-query-pat=/usa/NS-advquery.pat&">advanced search.</a><p>
+<table cellpadding=5>
+<tr><td align=right><b>Subject: </b></td>
+<form method="post" action="http://www.diebold.com/search/iatoc">
+<input type="hidden" name="NS-search-type" value="Free text">
+<input type="hidden" name="NS-max-records" value="100">
+<td><select  name=NS-collection><OPTION SELECTED>All<OPTION>Direct Marketing</select></td></tr>
+<tr><td align=right><b>Search for: </b></td>
+<td align=left><input name="NS-query" size=40 value="">&nbsp&nbsp&nbsp&nbsp<input type="submit" value="Search"></td></tr>
+</form>
+</table>
+
+<hr>
+
+<h5>Copyright &#169; 1997 Diebold Inc. All Rights Reserved.</h5>
+</body>
+</html>

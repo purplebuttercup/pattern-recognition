@@ -1,0 +1,151 @@
+Server: Netscape-Communications/1.12
+Date: Thursday, 18-Dec-97 19:29:14 GMT
+Last-modified: Thursday, 11-Dec-97 16:32:56 GMT
+Content-length: 3159
+Content-type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>Eli Lilly and Company</TITLE>
+</HEAD>
+
+
+<!***Begin Header***>
+<BODY bgcolor="ffffff" link="0000aa" vlink="b60000">
+<center>
+<table width=530 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td colspan=2>
+<center>
+<a href="graphics/main_header.map"><img src="graphics/main_header.gif" ISMAP border=0 usemap="#main_header_map"></a><br>
+<MAP NAME="main_header_map">
+<AREA SHAPE=RECT COORDS="249,68,363,99" HREF="site_map.html">
+<AREA SHAPE=RECT COORDS="376,68,490,99" HREF="search.html">
+</MAP>
+</center>
+</td></tr>
+<!***End Header***>
+
+<tr>
+
+<td valign=top align=right width=225 nowrap> 
+
+<a href="graphics/main_buttons.map">
+<img src="graphics/main_buttons.gif" ISMAP border=0 usemap="#buttons"></a><br><br>
+
+<MAP NAME="buttons">
+<AREA SHAPE=RECT COORDS="22,14,260,58" HREF="diseases/">
+<AREA SHAPE=RECT COORDS="22,60,261,108" HREF="science/">
+<AREA SHAPE=RECT COORDS="21,110,263,156" HREF="company/">
+</MAP>
+
+<form method=post action="/cgi-bin/worldwide.cmd">
+<ul>
+<img src="graphics/lillyworld.gif" alt="Lilly Worldwide:"><br>
+<SELECT SIZE=1 NAME="country">
+<font size=-1>
+<OPTION SELECTED VALUE="other">Select a country
+<OPTION>Argentina
+<OPTION>Australia
+<OPTION>Austria
+<OPTION>Belgium
+<OPTION>Brazil
+<OPTION>Bulgaria
+<OPTION value="cis_russia">CIS/Russia
+<OPTION>Canada
+<OPTION>Chile
+<OPTION>China
+<OPTION>Colombia
+<OPTION>Costa Rica
+<OPTION value="cote_d_ivoire">Cote d' Ivoire
+<OPTION>Croatia
+<OPTION>Czech Republic
+<OPTION>Denmark
+<OPTION>Egypt
+<OPTION>Estonia
+<OPTION>Finland
+<OPTION>France
+<OPTION>Germany
+<OPTION>Greece
+<OPTION>Hong Kong
+<OPTION>Hungary
+<OPTION>India
+<OPTION>Indonesia
+<OPTION>Ireland
+<OPTION>Israel
+<OPTION>Italy
+<OPTION>Japan
+<OPTION>Kazakstan
+<OPTION>Kenya
+<OPTION>Korea
+<OPTION>Latvia
+<OPTION>Lebanon
+<OPTION>Lithuania
+<OPTION>Malaysia
+<OPTION>Mexico
+<OPTION>Morocco
+<OPTION>Netherlands
+<OPTION>New Zealand
+<OPTION>Norway
+<OPTION>Pakistan
+<OPTION>Peru
+<OPTION>Philippines
+<OPTION>Poland
+<OPTION>Portugal
+<OPTION>Puerto Rico
+<OPTION>Romania
+<OPTION>Saudi Arabia
+<OPTION>Singapore
+<OPTION>Slovak Republic
+<OPTION>Slovenia
+<OPTION>South Africa
+<OPTION>Southern Africa
+<OPTION>Spain
+<OPTION>Sweden
+<OPTION>Switzerland
+<OPTION>Taiwan
+<OPTION>Thailand
+<OPTION>Turkey
+<OPTION>Ukraine
+<OPTION>United Arab Emirates
+<OPTION>United Kingdom
+<OPTION value="usa">United States
+<OPTION>Uzbekistan
+<OPTION>Venezuela
+<OPTION>Vietnam
+<OPTION>West Indies Zone
+<OPTION>Yugoslavia
+</SELECT>&nbsp;&nbsp;<INPUT TYPE=IMAGE SRC="graphics/go.gif" BORDER=0 VALUE="Go!" ALT="Go!">
+</center>
+</form>
+</td>
+
+<td rowspan=2 width=262 nowrap valign=top align=left>
+<img src="graphics/collage.gif"><br>
+
+
+</td></tr>
+</table>
+
+<p><br>
+
+<center>
+<font size=-1>
+[ <a href="diseases/">Products and Diseases</a> | <a href="science/">Science and Technology</a> | <a href="company/">Company Information</a> ]
+</font>
+<center>
+<p>
+
+<!Begin Footer!>
+<center>
+<font size=-1>
+[ <a href="site_map.html">Site Map</a> | <a href="search.html">Search</a> ]
+</font>
+<a href="text_map.html"></a>
+</center>
+</body>
+<!End Footer!>
+<p>
+<center><font size=-2>
+<a href="/copyright.html" target="_top">Copyright</a> © 1997 Eli Lilly and Company</font>
+</body></html>

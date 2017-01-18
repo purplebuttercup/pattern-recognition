@@ -1,0 +1,63 @@
+Server: Netscape-Commerce/1.12
+Date: Thursday, 18-Dec-97 08:23:00 GMT
+Last-modified: Monday, 10-Nov-97 16:52:38 GMT
+Content-length: 2122
+Content-type: text/html
+
+<HTML>
+
+<TITLE>Countrywide Home Loans</TITLE>
+<META name="KEYWORDS" CONTENT="Countrywide, mortgage, mortgage loans, mortgage rates, mortgage calculator, home loan, home equity loan, mortgage lender, real estate loans, interest rates, HELOC,  loans, online mortgage, best loan rates, lowest mortgage rates, closing costs, loan applicationAPR">
+<META name="DESCRIPTION" CONTENT="The nation's largest independent mortgage lender. Pre-qualify for your potential maximum loan amount based on current interest rates and loan products with the Home Loan Wizard©. Complete your loan application on-line. Current customers can obtain existing loan information.">
+
+<FRAMESET  FRAMEBORDER="0" FRAMESPACING="0" BORDER="0" COLS="0,*">
+ <FRAME SCROLLING="no"
+  NAME="null"
+  SRC="/chl_home/nullframe.html"
+  MARGINWIDTH=0 
+
+	MARGINHEIGHT=0>
+
+<FRAME SCROLLING="yes" 
+
+	NAME="full"
+
+	SRC="/chl_home/chlframe.html" 
+
+	MARGINWIDTH=0 
+
+	MARGINHEIGHT=0>
+
+
+
+ 
+
+</frameset>
+
+<noframes>
+
+<BODY BGCOLOR="#ffffff">
+
+<IMG SRC="/chl_home/graphics/chl_gold.gif" WIDTH="241" HEIGHT="57" ALIGN="TOP" NATURALSIZEFLAG="3"><BR>
+<blockquote>
+<h2>America's Leading Independent Home Lender</h2>
+<blockquote>
+  <A HREF="/chl_home/solutions/solutions.cgi?from=default">Financing Solutions</a><br>
+Mortgages and equity lines<p>   
+  <A HREF="/cw_g/customers/customers.html">Customer Service</a><br>
+Loan information and services<p>
+
+  <A HREF="http://www1.countrywide.com/insurance/welcome.html" target=_top>Insurance Products</a><br>Home, life, annuity and more<p>
+  <A HREF="/cw_g/insidecw/insidecw.html">Corporate Information</a><br>Investors, careers, and news<p>
+   </blockquote>
+   <P><A HREF="/chl_home/legal.html"><IMG SRC="/chl_home/graphics/ehl_small.gif" WIDTH="27" HEIGHT="21" ALIGN="LEFT" NATURALSIZEFLAG=
+"3" border="0" hspace="5"> </a><FONT FACE="Arial,Helvetica" SIZE=-2>Equal Housing Lender. Copyright 1997 Countrywide Home Loans,
+Inc. Trade/service marks are the property of Countrywide Credit Industries,
+Inc., and/or its subsidiaries. Some products may not be available in
+all states. <BR>
+</FONT>
+</blockquote>
+</body>
+</noframes>
+
+</html>

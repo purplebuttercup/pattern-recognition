@@ -1,0 +1,125 @@
+Server: Netscape-Communications/1.1
+Date: Wednesday, 19-Nov-97 23:48:06 GMT
+Last-modified: Saturday, 15-Nov-97 01:11:10 GMT
+Content-length: 7777
+Content-type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 3.0//EN">
+<HTML>
+<HEAD>
+<TITLE>The World of Chevron</TITLE>
+</HEAD>
+<BODY background="common_graphics/hbg.gif" BGCOLOR=ffffff text=003366 link=003366 vlink=cc0000 alink=ffffff>
+<table border=0 cellpadding=0 cellspacing=0 align=left>
+<tr>
+<td width=145 valign="top">
+<IMG SRC=common_graphics/filldot.gif width=140 height=1>
+<IMG ALT="The World of Chevron" SRC="common_graphics/topbar.gif" align=top WIDTH=125 HEIGHT=92><br clear=all>
+<FONT COLOR=FFFFFF>
+<a href="about/index.html"><IMG ALT="About Chevron" SRC="common_graphics/aboutbar.gif" ALIGN=top border=0 WIDTH=125 HEIGHT=23></a><br clear=all>
+<a href="chevron_mall/index.html"><IMG ALT="Chevron Mall" SRC="common_graphics/mallbar.gif" ALIGN=top border=0 WIDTH=125 HEIGHT=23></a><br clear=all>
+<a href="community/index.html"><IMG ALT="Community" SRC="common_graphics/communitybar.gif" ALIGN=top border=0 WIDTH=125 HEIGHT=23></a><br clear=all>
+<a href="environment/index.html"><IMG ALT="Environment" SRC="common_graphics/environbar.gif" ALIGN=top border=0 WIDTH=125 HEIGHT=23></a><br clear=all>
+<a href="explore/index.html"><IMG ALT="Exploration Zone" SRC="common_graphics/explorebar.gif" ALIGN=top border=0 WIDTH=125 HEIGHT=23></a><br clear=all>
+<a href="finance/index.html"><IMG ALT="Finance" SRC="common_graphics/financebar.gif" ALIGN=top border=0 WIDTH=125 HEIGHT=23></a><br clear=all>
+<a href="newsvs/index.html"><IMG ALT="Newsroom" SRC="common_graphics/newsbar.gif" ALIGN=top border=0 WIDTH=125 HEIGHT=23></a><br clear=all>
+<a href="prodserv/index.html"><IMG ALT="Products and Services" SRC="common_graphics/productbar.gif" ALIGN=top border=0 WIDTH=125 HEIGHT=23></a><br clear=all>
+<a href="new/index.html"><IMG ALT="What's New?" SRC="common_graphics/whatsnew.gif" ALIGN=top border=0 WIDTH=125 HEIGHT=23></a><br clear=all>
+<a href="/Architext/AT-chevronquery.html"><IMG ALT="Search" SRC="common_graphics/searchbar.gif" ALIGN=top border=0 WIDTH=125 HEIGHT=23></a><br clear=all><P>
+<IMG ALT="Chevron" SRC="common_graphics/c_logo.gif" WIDTH=121 HEIGHT=36>
+</FONT>
+</td>
+<td>
+<A HREF="hhome.map"><img src="common_graphics/hhome5.gif" border=0 ismap usemap="#hhome5" WIDTH=536 HEIGHT=364></A>
+</td>
+</tr>
+</table>
+<BR CLEAR=all>
+<MAP NAME="hhome5">
+<AREA SHAPE="POLYGON" ALT="Environment" COORDS="34,1,168,0,167,69,99,69,96,27,36,26,34,1" HREF="environment/index.html" TARGET="">
+<AREA SHAPE="POLYGON" ALT="Newsroom" COORDS="189,0,343,1,341,28,251,33,247,104,194,105,189,0" HREF="newsvs/index.html" TARGET="">
+<AREA SHAPE="POLYGON" ALT="Finance" COORDS="342,39,415,38,416,109,346,110,342,39" HREF="finance/index.html" TARGET="">
+<AREA SHAPE="POLYGON" ALT="About Chevron" COORDS="435,79,514,77,520,180,393,184,391,130,426,125,435,79" HREF="about/index.html" TARGET="">
+<AREA SHAPE="POLYGON" ALT="Community" COORDS="274,148,385,151,386,183,406,185,405,210,427,213,423,233,328,260,322,179,282,177,274,148" HREF="community/index.html" TARGET="">
+<AREA SHAPE="POLYGON" ALT="Chevron Mall" COORDS="235,188,316,191,310,248,246,260,232,243,216,216,234,203,235,188" HREF="chevron_mall/index.html" TARGET="">
+<AREA SHAPE="POLYGON" ALT="Exploration Zone" COORDS="246,274,315,290,376,270,374,305,322,343,248,308,246,274" HREF="explore/index.html" TARGET="">
+<AREA SHAPE="POLYGON" ALT="Products and Services" COORDS="19,98,136,99,134,159,220,165,232,201,149,216,114,203,95,204,80,190,79,139,20,138,19,98" HREF="prodserv/index.html" TARGET="">
+<AREA SHAPE="DEFAULT" NOHREF>
+</MAP>
+<P>
+
+<TABLE border=0 cellpadding=0 cellspacing=0 width=600>
+<TR>
+	<TD><IMG SRC="common_graphics/indic.gif" WIDTH=254 HEIGHT=20></TD>
+	<TD><a href="new/index.html"><font face=times size=+2 color="#003366">WHAT'S NEW?</font></a></TD>
+</TR><TR>
+	<TD></TD><TD><font face=times size=+1>Recent updates to our site, including the newest additions to our toy car family.</font><BR>
+	<IMG SRC=common_graphics/filldot.gif HEIGHT=10 WIDTH=1></TD>
+</TR>
+<TR>
+	<TD><IMG SRC="common_graphics/indic.gif" WIDTH=254 HEIGHT=20></TD>
+	<TD><a href="about/index.html"><font face=times size=+2 color="#003366">ABOUT CHEVRON</font></a></TD>
+</TR><TR>
+	<TD></TD><TD><font face=times size=+1>Information about the primary business units of Chevron Corporation, as well as our college recruiting area.</font><BR>
+	<IMG SRC=common_graphics/filldot.gif HEIGHT=10 WIDTH=1></TD>
+</TR>
+<TR>
+	<TD><IMG SRC="common_graphics/indic.gif" WIDTH=254 HEIGHT=20></TD>
+	<TD><a href="chevron_mall/index.html"><font face=times size=+2 color="#003366">CHEVRON MALL</font></a></TD>
+</TR><TR>
+	<TD></TD><TD><font face=times size=+1>Stroll through the Chevron Mall for merchandise, games and fun items featuring the Toy Car collection and our famous Chevron hallmark.</font><BR>
+	<IMG SRC=common_graphics/filldot.gif HEIGHT=10 WIDTH=1></TD>
+</TR>
+<TR>
+	<TD><IMG SRC="common_graphics/indic.gif" WIDTH=254 HEIGHT=20></TD>
+	<TD><a href="community/index.html"><font face=times size=+2 color="#003366">COMMUNITY </font></a></TD>
+</TR><TR>
+	<TD></TD><TD><font face=times size=+1>Chevron's partnership with the community is illustrated in three key areas: education, the environment, and community services.</font><BR>
+	<IMG SRC=common_graphics/filldot.gif HEIGHT=10 WIDTH=1></TD>
+</TR>
+<TR>
+	<TD><IMG SRC="common_graphics/indic.gif" WIDTH=254 HEIGHT=20></TD>
+	<TD><a href="environment/index.html"><font face=times size=+2 color="#003366">ENVIRONMENT</font></a></TD>
+</TR><TR>
+	<TD></TD><TD><font face=times size=+1> Information about Chevron's environment, health and safety practices, our conservation program, and the stories featured in our People Do ads.</font><BR>
+	<IMG SRC=common_graphics/filldot.gif HEIGHT=10 WIDTH=1></TD>
+</TR>
+<TR>
+	<TD><IMG SRC="common_graphics/indic.gif" WIDTH=254 HEIGHT=20></TD>
+	<TD><a href="explore/index.html"><font face=times size=+2 color="#003366">EXPLORATION ZONE</font></a></TD>
+</TR><TR>
+	<TD></TD><TD><font face=times size=+1>An education primer about the history and operation of the oil industry.</font><BR>
+	<IMG SRC=common_graphics/filldot.gif HEIGHT=10 WIDTH=1></TD>
+</TR>
+<TR>
+	<TD><IMG SRC="common_graphics/indic.gif" WIDTH=254 HEIGHT=20></TD>
+	<TD><a href="finance/index.html"><font face=times size=+2 color="#003366">FINANCE </font></a></TD>
+</TR><TR>
+	<TD></TD><TD><font face=times size=+1>Comprehensive information for shareholders, analysts, and others interested in our financial performance.</font><BR>
+	<IMG SRC=common_graphics/filldot.gif HEIGHT=10 WIDTH=1></TD>
+</TR>
+<TR>
+	<TD><IMG SRC="common_graphics/indic.gif" WIDTH=254 HEIGHT=20></TD>
+	<TD><a href="newsvs/index.html"><font face=times size=+2 color="#003366">NEWSROOM</font></a></TD>
+</TR><TR>
+	<TD></TD><TD><font face=times size=+1>Chevron press releases and speeches.</font><BR>
+	<IMG SRC=common_graphics/filldot.gif HEIGHT=10 WIDTH=1></TD>
+</TR>
+<TR>
+	<TD><IMG SRC="common_graphics/indic.gif" WIDTH=254 HEIGHT=20></TD>
+	<TD><a href="prodserv/index.html"><font face=times size=+2 color="#003366">PRODUCTS & SERVICES</font></a></TD>
+</TR><TR>
+	<TD></TD><TD><font face=times size=+1>Information about Chevron's credit cards and Travel Club, our McDonald's alliance, FAQs about gasolines, our Techron additive and lubricants, and key technical bulletins.</font><BR>
+	<IMG SRC=common_graphics/filldot.gif HEIGHT=10 WIDTH=1></TD>
+</TR>
+<TR>
+	<TD><IMG SRC="common_graphics/indic.gif" WIDTH=254 HEIGHT=20></TD>
+	<TD><a href="new/about-ind.html"><font face=times size=+2 color="#003366">CONTACT &amp; SITE INFORMATION</font></a></TD>
+</TR><TR>
+	<TD></TD><TD><font face=times size=+1>Our E-mail and postal addresses, copyright information and technical information about our site.</font><BR>
+	<IMG SRC=common_graphics/filldot.gif HEIGHT=10 WIDTH=1></TD>
+</TR>
+</TABLE>
+<IMG ALT="Chevron" SRC="common_graphics/chev_logo.gif" WIDTH=400 HEIGHT=50>
+</BODY>
+</HTML>

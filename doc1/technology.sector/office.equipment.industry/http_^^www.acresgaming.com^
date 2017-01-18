@@ -1,0 +1,106 @@
+Date: Fri, 21 Nov 1997 04:13:49 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Wed, 29 Oct 1997 18:57:00 GMT
+Content-length: 4643
+
+<HTML>
+<HEAD>
+  <META NAME="GENERATOR" CONTENT="Adobe PageMill 2.0 Win">
+  <TITLE>Acres Gaming Homepage</TITLE>
+  <SCRIPT LANGUAGE="JavaScript">
+<!--HIDE
+var text =" "
+var sp= 120
+var t
+function scroll(){
+	clearTimeout(t)
+	text= "Welcome to Acres Gaming." +
+		"  Interested in a career in the Gaming Industry?" +
+		"  Check out our Jobs Page."
+		for (var i=0; i< sp; i++){
+	  text =" " + text
+       }bcroll()
+		       }	
+function bcroll(){
+	window.status= text
+	text=text.substring(1, text.length) + text.substring(0,1)
+	t=setTimeout("bcroll()", 100)
+                 }
+//--></SCRIPT>
+</HEAD>
+<BODY BACKGROUND="bluestrp.gif" onLoad="scroll()">
+
+<TABLE WIDTH="598" HEIGHT="166" BORDER="0" CELLSPACING="1" CELLPADDING=
+"0">
+<TR>
+<TD WIDTH="145" HEIGHT="165" VALIGN="TOP"><A NAME="anchor247471"></A></TD>
+<TD WIDTH="448" VALIGN="TOP"><IMG SRC="logo1.jpg" WIDTH="284" HEIGHT="154" ALIGN="BOTTOM" NATURALSIZEFLAG=
+"3" BORDER="0" ALT="Acres Gaming Logo"></TD></TR>
+</TABLE>
+<BR>
+<BR>
+<TABLE WIDTH="600" BORDER="0" CELLSPACING="1" CELLPADDING="0" HEIGHT="286">
+<TR>
+<TD WIDTH="145" HEIGHT="285" VALIGN="TOP"><P><MAP NAME="navigat9">
+    <AREA SHAPE="circle" COORDS="58,229,13" HREF="jobs.htm">
+    <AREA SHAPE="circle" COORDS="58,199,12" HREF="people.htm">
+    <AREA SHAPE="circle" COORDS="58,169,13" HREF="news.htm">
+    <AREA SHAPE="circle" COORDS="57,139,12" HREF="annual.htm">
+    <AREA SHAPE="circle" COORDS="59,110,11" HREF="finance.htm">
+    <AREA SHAPE="circle" COORDS="58,78,12" HREF="innovate.htm">
+    <AREA SHAPE="circle" COORDS="58,49,12" HREF="products.htm">
+    <AREA SHAPE="circle" COORDS="58,18,12" HREF="overview.htm">
+</MAP><IMG SRC="navigat9.gif" WIDTH="116" HEIGHT="279" ALIGN="BOTTOM" NATURALSIZEFLAG=
+"3" BORDER="0" USEMAP="#navigat9" ISMAP ALT="Your Guide to Acres Gaming"></P>
+
+<P><MAP NAME="address">
+    <AREA SHAPE="rect" COORDS="-1,144,108,166" HREF="mailto:webmaster@acresgaming.com">
+</MAP><IMG SRC="address.jpg" WIDTH="125" HEIGHT="162" ALIGN="BOTTOM" NATURALSIZEFLAG=
+"3" USEMAP="#address" ISMAP BORDER="0" ALT="How to Contact Us!"></TD>
+<TD WIDTH="448" VALIGN="TOP"><P><FONT SIZE=-1 FACE="Verdana,Arial,Helvetica">Acres Gaming is a market-driven
+company providing the casino industry with innovative management and merchandising
+solutions. We make playing slot games fun for the players and profitable
+for the casinos!</FONT></P>
+
+<P><FONT SIZE=-1 FACE="Verdana,Arial,Helvetica">As a designer and manufacturer
+of innovative games, equipment, and promotions for slot machines, founder
+John Acres has been a major influence in the gaming industry for over two
+decades. Acres <A HREF="products.htm">Bonusing Technology</A><SUP>&#153;</SUP>
+is a cutting edge slot promotion tool that enhances existing slot games
+by providing a multi-media entertainment aspect to the game. Acres also
+develops specialized slot components such as sound boards and enhanced displays.</FONT></P>
+
+<P><FONT SIZE=-1 FACE="Verdana,Arial,Helvetica">Our headquarters are in
+Corvallis, Oregon and we maintain an office in Las Vegas, the center of
+the gaming industry. About a third of our 100-plus employees work in &quot;The
+City that Never Sleeps.&quot;</FONT></P>
+
+<P><FONT SIZE=-1 FACE="Verdana,Arial,Helvetica">International in scope,
+Acres Gaming does business around the world: The Bahamas, Europe, Australia!</FONT></P>
+
+<P><FONT SIZE=-1 FACE="Verdana,Arial,Helvetica">Founded in 1991, we're a
+booming, publicly owned company. Check us out on the NASDAQ, listed under
+AGAM.</FONT></P>
+
+<P ALIGN=RIGHT><B><FONT COLOR="#b7002e" FACE="Verdana,Arial,Helvetica">Please
+sign our guest registry</FONT></B> <MAP NAME="guests">
+    <AREA SHAPE="rect" COORDS="4,10,94,74" HREF="guests.htm">
+</MAP><IMG SRC="guests.gif" WIDTH="105" HEIGHT="80" ALIGN="BOTTOM" NATURALSIZEFLAG=
+"3" USEMAP="#guests" ISMAP BORDER="0" ALT="Guest Registry"></P>
+
+<P><CENTER><HR><FONT SIZE=-2 FACE="Verdana,Arial,Helvetica">Copyright &COPY;
+1997 Acres Gaming, Inc. All Rights Reserved.</FONT></CENTER></P>
+
+<P>&nbsp;</P>
+
+<P><CENTER><A HREF="#anchor247471"><FONT SIZE=-2 FACE="Verdana,Arial,Helvetica">[Top
+of Page]</FONT></A><FONT SIZE=-2 FACE="Verdana,Arial,Helvetica"> <A HREF=
+"overview.htm">[Overview]</A> <A HREF="products.htm">[Products]</A> <A 
+HREF="innovate.htm">[Innovations]</A> <A HREF="finance.htm">[Financials]</A></FONT><BR>
+<FONT SIZE=-2 FACE="Verdana,Arial,Helvetica"><A HREF="annual.htm">[Annual
+Rpt.]</A> <A HREF="news.htm">[News]</A> <A HREF="people.htm">[People]</A>
+<A HREF="jobs.htm">[Jobs]</A></FONT></CENTER></TD></TR>
+</TABLE>
+</BODY>
+</HTML>

@@ -1,0 +1,68 @@
+Date: Thu, 20 Nov 1997 00:03:25 GMT
+Server: NeoWebScript/2.2 Apache/1.2.1
+Connection: close
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>Cedyco Corporation</TITLE>
+
+<SCRIPT>
+<!-- Cloak code 
+/* Sends user to a new page from a selected entry */
+function leapto(form) 
+   {
+   var myindex=form.dest.selectedIndex;
+   if (myindex==0)   
+      alert("You must SELECT an item before energizing.");
+   if (myindex>=1)
+      {parent.home.window.location=form.dest.options[myindex].value; }
+   }
+// Decloak -->
+</SCRIPT>
+
+</HEAD>
+<BODY TOPMARGIN=0 BACKGROUND="gray.gif" TEXT=#000000 LINK=#000000 VLINK=#330099 ALINK=#000000>
+<FONT FACE="Times New Roman" COLOR="BLACK" SIZE="3">
+
+<CENTER>
+<TABLE BORDER=10 CELLPADDING=0>
+       <TR>
+           <TD VALIGN=CENTER ALIGN=CENTER>
+               <IMG SRC="banner1.gif" BORDER="0">               
+           </TD>
+       </TR>
+</TABLE>
+</CENTER>
+<br>
+<br>
+<center><font size="+3"><B>Corporate Properties</B></font></center>
+<br>
+<center>
+<FORM>  
+  <SELECT NAME="dest" SIZE=1>
+    <OPTION SELECTED VALUE="">-------- Choose a picture to view --------
+    <OPTION VALUE="tour1.html">Bradish Johnson Well No. 3
+    <OPTION VALUE="tour2.html">State Track No. 109    
+    <OPTION VALUE="tour3.html">The LL&E No. 1
+    
+  </SELECT>
+ 
+ 
+  <INPUT TYPE="BUTTON" VALUE="View" onClick="leapto(this.form)">
+ 
+  
+</FORM>
+</center>
+
+
+<br>
+<br>
+<center><FONT COLOR="YELLOW"><A HREF="home.html">Back to Cedyco Corporation Home Page</A></FONT></center>
+<br>
+<br>
+
+
+</FONT>
+</BODY>
+</HTML>

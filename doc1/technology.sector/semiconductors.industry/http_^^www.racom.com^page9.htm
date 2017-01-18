@@ -1,0 +1,289 @@
+Date: Fri, 21 Nov 1997 05:07:24 GMT
+Server: Stronghold/1.3.4 Ben-SSL/1.3 Apache/1.1.3
+Content-type: text/html
+Content-length: 13827
+Last-modified: Mon, 13 Oct 1997 21:34:00 GMT
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<html>
+
+<head>
+<title>Racom Systems, Inc. Technical Support</title>
+<meta name="GENERATOR" content="Microsoft FrontPage 1.1">
+<meta name="FORMATTER" content="Microsoft FrontPage 2.0">
+</head>
+
+<body stylesrc="rcm_main.htm" background="money2.jpg"
+bgcolor="#FFFFFF">
+
+<p align="center">&nbsp; </p>
+
+<p align="center"><img src="7rl.gif" align="bottom" width="525"
+height="8"> </p>
+
+<p align="center"><img src="logo.gif" align="bottom" width="269"
+height="114"> </p>
+
+<h2 align="center"><i>Welcome!</i> </h2>
+
+<h2 align="center"><font size="3">To: All Systems Integrators,
+VAR's Distributors, OEM's and others in the Smartcard Business. </font></h2>
+
+<h2 align="center"><font size="3">Our goal is to make your
+implementation of Racom Smartcard and Industrial products as
+straightforward and rewarding as possible. If you have technical
+questions, please call 1-888-SMART21 or email us at </font><a
+href="mailto:techserv@racom.com"><font size="3"><b>techserv@racom.com
+</b></font></a></h2>
+
+<p><font size="3">Racom's LF Series is well suited for closed
+payment systems of any size as well as access control and
+industrial automation. It provides fast, dependable movement of
+data concerning transactions, authorizations, or files between
+people or things in motion and any kind of computer system. The
+LF Series consists of controllers and transponders. Transponders
+(located in the plastic card) are memory devices that are powered
+and communicate via Radio Frequency signals. Controllers provide
+power to the transponder and a communications channel between a
+computer and transponders. Because the LF transponder is
+completely sealed in a solid plastic package, it is impervious to
+nearly all environmental hazards. </font></p>
+
+<p><font size="3">In addition to products that support a wide
+variety of end system applications, Racom also provides products
+specially designed to support the evaluation, demonstration, and
+development of custom demonstration and end systems. See the
+Demonstration/Evaluation product literature for more details. We
+recognize that in the rapidly evolving world of Smartcard
+systems, your ability to demonstrate system concepts is crucial
+to business success. LF products and the Racom support team make
+developing impressive demonstration systems quick and painless
+and the transition to system rollout simple.</font> </p>
+
+<p><a href="#LF System Function"><font size="4">LF System
+Function</font></a></p>
+
+<p><a href="#LF Controller Installation Notes"><font size="4">LF
+Controller Installation Notes </font></a></p>
+
+<p><a href="#LF tip of the week"><font size="4">LF tip of the
+week</font></a></p>
+
+<h2><a name="LF tip of the week"><font size="4"><strong><u>LF tip
+of the week</u></strong></font></a></h2>
+
+<p><font size="3">Since the LF system uses Radio signals for
+power and communication, performance can be degraded by nearby
+noise sources such as PCs, monitors, LCDs, even water coolers.
+Fortunately, this noise dissipates over short ranges (1 foot or
+less) and is easily shielded. So, if your LF system is not
+performing at the range you expect try moving it or shielding
+noise sources with aluminum foil. Be especially wary of switching
+power supplies, they tend to generate a great deal of electronic
+noise.</font><font size="2"> </font></p>
+
+<h2><a name="LF System Function"><font size="4"><strong><u>LF
+System Function</u></strong></font></a></h2>
+
+<p><font size="4"><img src="how.gif" align="bottom" width="541"
+height="309"></font> </p>
+
+<h2><font size="4">How contactless works:</font> </h2>
+
+<p><font size="3">The host computer writes data to or reads data
+from LF series cards through an LF Controller. LF Controllers are
+available in many different configurations to support different
+applications. All LF Controllers consist of an antenna coil and a
+controller board connected by cable. The LF Controller
+communicates with a host by serial interface described in the
+next section.</font></p>
+
+<h2><font size="4">Controller/Host Interface</font></h2>
+
+<p><font size="3">The LF Controller functions as a modem between
+a host computer and Racom's LF series contactless smartcards. The
+Controller communicates with the host via RS-232C, RS-422, or
+CMOS level serial at 9600, 19200, or 38400 bits per second. The
+bit rate is set in &quot;user FRAM&quot; on the controller and
+can be changed only by command on the serial interface. The
+included DOS program LFMUSER can be used to change the bit rate.
+New bit rate settings do not take effect until power has been
+removed and restored to the controller. Once set, bit rate
+settings are maintained permanently in &quot;user FRAM&quot;
+until changed. The LF System uses a simple three wire interface.
+Connections are Ground, Transmit Data, and Receive Data. No other
+signal lines are used. The bit level protocol is asynchronous,
+8-bit, no parity, 1 stop bit. </font></p>
+
+<h2><font size="4">LF Controller/Card Protocol</font></h2>
+
+<p><font size="3">When commanded to communicate with an LF
+transponder (card), the LF Controller continuously produces an
+unmodulated 125 KHz carrier from its antenna coil. The LF card
+contains a coil of wire that derives energy from the controller
+signal. The LF card, while being powered by a sufficiently
+intense controller field, continuously transmits the
+&quot;Configuration Word&quot; (hex 0340) via 62.5 KHz PSK,
+Miller coded signal, except when responding to a command. Rather
+than a transmitter/receiver system, the LF card and controller
+should be thought of as a magnetically coupled system, like a
+transformer. The controller communicates with the card through
+only two instructions, read and write. The controller transmits
+by FSK modulating the powering 125 KHz field. The read
+instruction contains the &quot;Customer Code&quot; which must
+match that of the card, or the instruction is ignored. If the
+&quot;Customer Code&quot; matches, the remainder of the
+instruction, containing start block and number of blocks to be
+read, is received. The card then transmits these blocks via 62.5
+KHz PSK, Miller coded signal. </font></p>
+
+<p><font size="3">When the controller sends a &quot;write&quot;
+instruction, besides including &quot;Customer Code&quot;, start
+and number of blocks, and the data to be written, the instruction
+contains the &quot;Unique ID&quot; of the card to be written. If
+the &quot;Unique ID&quot; in a write instruction does not match
+that of the card, the write message is ignored. When the
+instruction is a &quot;Write Verify&quot;, the written blocks are
+then read and compared to data intended to be written. If they
+match, the instruction is concluded. If a mismatch occurs, a
+re-write is performed beginning at the first errored block. This
+process is repeated, if needed, until all written data has been
+verified.</font></p>
+
+<p><font size="3">When the controller performs a &quot;write with
+CRC&quot;, the last two bytes (4 hex digits) of the final block
+of the data blocks written are replaced with a CRC-16 value
+calculated on the data in the blocks written by that command.
+When the controller performs a &quot;read with CRC&quot;, data
+from all blocks read (except the final two bytes, assumed to
+contain CRC) is used to calculate a CRC which is compared with
+the final two bytes (4 hex digits) read from the card. If these
+do not match, a CRC error is reported to the host. If they do
+match, the read data is transmitted to the host. Note that the
+card does not participate in CRC calculations in any way, except
+to retain the data calculated by the controller. CRC error
+checking is not so much a security measure as a data integrity
+process. </font></p>
+
+<p><font size="3">Customer Codes are assigned by Racom, and are
+programmed into permanent ROM on the processor in the controller.
+Along with Customer Codes, Unique IDs for each card are assigned
+by Racom, and locked irrevocably into Block 0 on each card. Racom
+certifies that no cards will be released without a Unique ID and
+Customer Code per customer order locked into Block 0. Because of
+this communications protocol, if a read transaction with CRC is
+in process, and another card were to come between the antenna and
+active card during the read, the controller would, at worst,
+return a &quot;CRC Error&quot; message. Generally, the
+communication would conclude properly. In no case would erroneous
+data be received, if CRC error checking was utilized. If a card
+was in the process of a write transaction and verified write was
+in use, because the data resides in host or controller buffer
+until verification is achieved, card contents could be garbled if
+another card was inserted into the field, but an error situation
+would be detected by the host, and data rewritten until data is
+correct. In no circumstances could the newly inserted card be
+written to or its data in any way corrupted. </font></p>
+
+<h1><a name="LF Controller Installation Notes"><font size="4"><strong><u>LF
+Controller Installation Notes</u></strong></font></a><font
+size="4"><strong><u> </u></strong></font></h1>
+
+<h3><font size="3">The LF Controller Circuit Board</font></h3>
+
+<p><font size="3">The LFC-BB controller is supplied as a bare
+board connected to the antenna for installation in customer
+supplied equipment. When installed as a board in customer
+equipment, the customer is responsible for mounting, strain
+relief on cables, shielding, as well as power supply. The
+controller board measures 12.5 x 7.5 cm and as much as 1.5 cm
+high (total thickness) for the tallest components. Screw mounting
+holes are on 11.5 x 6.3 cm centers, centered on the board and are
+.3 cm in diameter. Mounting holes have no circuit foil for screw
+contact purposes and no foil closer than .3cm from the edge of
+the underside of the hole. Care should be taken that screws and
+mounting bosses do not contact any circuit foil or other devices
+on the board. The bare board should be protected from static
+discharges and strong electromagnetic interference. Use of
+jumpers on the controller board is described in the LF System
+Manual except for JP1, which is the manufacturing reset switch.
+If this pin pair is jumpered, the controller defaults to:</font></p>
+
+<p><font size="3">Baud rate 9600 bits per second<br>
+Echo on<br>
+Node Hex FF<br>
+Startup mode 0 Speaker does not beep on power up</font></p>
+
+<p><font size="3">The jumper state is read only at power up of
+the board, so the board must be powered down and back up before
+these parameters apply. Contents of FRAM regarding these
+parameters is not affected, so when the jumper is removed and
+power is cycled, previously set parameters apply. These
+parameters can be set via the serial interface while SF1 is
+jumpered using the Write User FRAM in the LFMUSER.EXE DOS program
+and the new values will apply when the jumper is removed and
+power is cycled.</font></p>
+
+<h3><font size="3">The LF-AA Controller (in plastic enclosure)</font></h3>
+
+<p><font size="3">The plastic enclosure is a high quality plastic
+enclosure protecting the controller board from dust and
+reasonable environmental exposure. It is NOT waterproof or
+unbreakable. It should not be directly exposed to weather or
+severe shock or impact. While the cables are strain relieved,
+they should not be pulled, twisted, or bent at the enclosure.
+Since the controller board occupies most of the enclosure, holes
+should not be drilled in it.</font></p>
+
+<h3><font size="3">Power</font></h3>
+
+<p><font size="3">Power is supplied to both the AA and BB
+versions of the controller, as delivered from Racom, through a
+coax &quot;barrel&quot; type connector with 4mm outer diameter
+and 1mm post. The post (center) is negative (ground) with respect
+to the barrel (outside). The power requirement for the LF
+controller is regulated 12 volts +/-5%. There is no regulation of
+12 volts on the board or protection from overvoltage or
+transients since this board is expected to be used in customer
+supplied equipment or with a Racom supplied external power
+supply. Deviation from the specified voltage will result in poor
+performance or damage to the controller.</font></p>
+
+<h3><font size="3">Antenna</font></h3>
+
+<p><font size="3">Standard versions of the LF controller are
+supplied with attached antenna in a high quality plastic
+enclosure. Each controller and antenna is supplied as a tuned
+unit and should not be separated or performance will suffer. The
+standard antenna enclosure is not sealed and should not be
+exposed directly to weather.</font></p>
+
+<h3><font size="3">Performance Considerations</font></h3>
+
+<p><font size="3">The LF System operates via electromagnetic
+energy near 100 KHz, below the American AM radio broadcast band.
+Performance of the LF system is sensitive to RF interference such
+as that produced by fluorescent lights, electric motors, and
+computer monitors. These sources of interference should be
+shielded or kept at a distance from the antenna. A few feet of
+separation usually suffices to restore operating range but severe
+sources of interference may require more distance. Adjacent
+electromagnetic interference does not affect the controller
+electronics board. Because metallic surfaces, particularly iron
+or steel absorb and interfere with electromagnetic signals,
+nearby metal or iron can severely impact performance of the LF
+system. Presence of metal within 5 inches of antenna may reduce
+working range.<br>
+<br>
+</font><b>If you have a question for the Racom Technical Support
+team send us a message at </b><a href="mailto:techserv@racom.com"><b>techserv@racom.com
+</b></a><b>and we will respond quickly!</b> </p>
+
+<p align="center"><img src="7rl.gif" align="bottom" width="525"
+height="8"> </p>
+
+<p align="center"><a href="rcm_main.htm">Racom home page</a> /
+Copyright (c) Racom Systems, Inc 1997. All rights reserved&nbsp; </p>
+</body>
+</html>

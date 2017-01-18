@@ -1,0 +1,83 @@
+Date: Thu, 18 Dec 1997 19:21:43 GMT
+Server: Stronghold/1.3.4 Ben-SSL/1.3 Apache/1.1.3
+Content-type: text/html
+Content-length: 3955
+Last-modified: Fri, 29 Aug 1997 05:18:55 GMT
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="description"
+content="America Service Group Inc. and its wholly owned subsidiary Prison Health Service are a leading national provider of comprehensive healthcare for over 50,000 inmates in jails and prisons.">
+<meta name="keywords"
+content="HEALTHCARE, AMERICA, SERVICES, GROUPS, PRISONS, HEALTH, ASG, ASGR, JAILS, MANAGED, CORRECTIONS, CORRECTIONAL, HEALTHCARE, AMERICA, SERVICES, GROUPS, PRISONS, HEALTH, ASG, ASGR, JAILS, MANAGED, CORRECTIONS, CORRECTIONAL, HEALTHCARE, AMERICA, SERVICES, GROUPS, PRISONS, HEALTH, ASG, ASGR, JAILS, MANAGED, CORRECTIONS, CORRECTIONAL">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>America Service Group - Managed Healthcare for Corrections</title>
+<meta name="FORMATTER" content="Microsoft FrontPage 2.0">
+</head>
+
+<body bgcolor="#FFFFFF" topmargin="0">
+<!--
+ HEALTHCARE, AMERICA, SERVICES, GROUPS, PRISONS, HEALTH, ASG, ASGR, JAILS, PRISONS, MANAGED, CORRECTIONS, CORRECTIONAL -->
+
+<p><img src="ASG_Home_Logo.gif" width="526" height="75"><br>
+</p>
+
+<table border="0" width="700">
+    <tr>
+        <td align="center"><img src="Managed1.gif" align="middle"
+        width="296" height="135"></td>
+        <td><img src="Line_up.gif" width="350" height="217"></td>
+    </tr>
+</table>
+
+<table border="0" width="700">
+    <tr>
+        <td><!--webbot bot="ImageMap"
+        rectangle=" (270,34) (439, 49)  feedback.htm"
+        rectangle=" (90,33) (258, 50)  site.htm"
+        rectangle=" (360,6) (528, 22)  jobs.htm"
+        rectangle=" (182,5) (352, 22)  investor.htm"
+        rectangle=" (5,5) (171, 24)  company.htm"
+        src="HomeButtons.gif" align="right" border="0" hspace="0"
+        width="533" height="54" startspan --><MAP NAME="FrontPageMap"><AREA SHAPE="RECT" COORDS="270, 34, 439, 49" HREF="feedback.htm"><AREA SHAPE="RECT" COORDS="90, 33, 258, 50" HREF="site.htm"><AREA SHAPE="RECT" COORDS="360, 6, 528, 22" HREF="jobs.htm"><AREA SHAPE="RECT" COORDS="182, 5, 352, 22" HREF="investor.htm"><AREA SHAPE="RECT" COORDS="5, 5, 171, 24" HREF="company.htm"></MAP><a
+        href="_vti_bin/shtml.exe/index.html/map"><img
+        align="right" src="HomeButtons.gif" hspace="0"
+        height="54" ismap usemap="#FrontPageMap" width="533"
+        border="0"></a><!--webbot bot="ImageMap" endspan
+        i-checksum="46234" --></td>
+    </tr>
+</table>
+
+<p align="right"><br>
+</p>
+
+<p align="left"><font size="3"><!--webbot bot="ImageMap"
+rectangle=" (6,5) (41, 36)  company.htm#ASGgraphic"
+rectangle=" (47,6) (88, 37)  company.htm#PHSgraphic"
+src="little.gif" border="0" width="89" height="39" startspan --><MAP NAME="FrontPageMap1"><AREA SHAPE="RECT" COORDS="6, 5, 41, 36" HREF="company.htm#ASGgraphic"><AREA SHAPE="RECT" COORDS="47, 6, 88, 37" HREF="company.htm#PHSgraphic"></MAP><a
+href="_vti_bin/shtml.exe/index.html/map1"><img src="little.gif"
+height="39" ismap usemap="#FrontPageMap1" width="89" border="0"></a><!--webbot
+bot="ImageMap" endspan i-checksum="52245" --> </font><a
+href="company.htm#PHSgraphic"><font size="3">Prison Health
+Services, Inc.</font></a><font size="3"> is a wholly owned
+subsidiary of </font><a href="company.htm#ASGgraphic"><font
+size="3">America Service Group Inc.</font></a></p>
+
+<p align="center"><a href="company.htm"><font size="4">Company
+Overview</font></a><font size="4"> | </font><a
+href="investor.htm"><font size="4">Investor Relations</font></a><font
+size="4"> | </font><a href="services.htm"><font size="4">Services</font></a><font
+size="4"> | </font><a href="site.htm"><font size="4">Locations</font></a><font
+size="4"> | </font><a href="jobs.htm"><font size="4">Job Postings</font></a><font
+size="4"> | </font><a href="feedback.htm"><font size="4">Contact
+Us</font></a></p>
+
+<h5 align="center">Please send any comments or requests to <a
+href="mailto:info@asgr.com">info@asgr.com</a>.</h5>
+</body>
+</html>

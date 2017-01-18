@@ -1,0 +1,105 @@
+Date: Thu, 20 Nov 1997 20:06:32 GMT
+Server: Apache/1.2.1
+Connection: close
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>
+1996 Annual Report
+</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<! process_template(get_value($SELF,'html_page_header')) >
+<BODY BGCOLOR = "#FFFFFF">
+
+<P>
+
+
+
+<FONT COLOR=#000000>
+
+<BLOCKQUOTE>
+<p align=center>
+<IMG SRC="/imgs/brady/AnnualReport/000001.gif"  WIDTH="397" HEIGHT="97">
+<P>
+<B>W.H. Brady Co.</B> develops, manufactures
+ and   markets coated materials and industrial identification and safety products. 
+ Using total-quality-assurance methods, extensive research and development resources and 
+ people committed to continuous improvement, Brady is a leader in its markets. Headquartered 
+ in Milwaukee, Wisconsin, the 82-year-old company has operations around the world.</FONT>
+
+<CENTER>
+
+
+<H1 ALIGN="CENTER">
+<FONT COLOR=#000000>W.H. Brady Co.  </FONT>
+</H1>
+</CENTER>
+
+
+
+<P><IMG SRC="/imgs/brady/AnnualReport/000002.jpg"  ALIGN=LEFT WIDTH=180 HEIGHT=199>
+<B>Identification Systems &amp; Specialty Tapes Group</B>
+develops, manufactures and markets specialized adhesive and topcoated
+ 
+materials, precision die-cut and slit tapes and high-performance industrial 
+identification products from wire markers to industrial printing and 
+application systems. <I>Brady Precision Tape Co.</I>, <I>Hirol Division</I>, 
+<I>Coated Products Division</I> and <I>Identification Solutions Division</I>.
+
+<IMG SRC="/imgs/brady/AnnualReport/000003.jpg"  WIDTH=150 HEIGHT=168 ALIGN=RIGHT>
+
+<B>Graphics Group </B> develops, manufactures and markets safety and facility identification products such as
+signs, pipe markers, lockout/tagout devices and portable printing systems;
+presentation products including systems for producing posters and signs; and digital 
+color graphics systems to produce large-format color banners, signs and displays.
+<!--BR CLEAR=ALL>
+<IMG SRC="/imgs/brady/AnnualReport/000004.jpg"  WIDTH=170 HEIGHT=170 ALIGN=LEFT>
+
+<I>Signmark<SUP>&reg;</SUP>Division</I>, <I>Varitronic Systems, Inc.</I>, <I>Brady Graphics Solutions 
+Division</I> and <I>TechPress II Limited</I>. 
+<B>Seton Group</B> markets a wide range of custom-manufactured
+and standard identification and safety-related products globally.
+<B>Service Operations</B> provide accounting, benefits, communication, information systems, training, treasury, insurance, credit and 
+other services to W.H. Brady Co. operations.
+
+<BR CLEAR=ALL>
+
+
+
+
+
+<P>
+<CENTER>
+<TABLE>
+<TR><TD><A href="/cgi-bin/genobject/document_3_1/tigQPnglumx">Financial Highlights</A></TD>
+<TD ALIGN=CENTER><A href="/cgi-bin/genobject/document_3_3/tigQPnglumx">Letter to Shareholders</A></TD>
+<TD><A href="/cgi-bin/genobject/document_3_5/tigQPnglumx">New Products</A></TD></TR>
+<TR><TD><A href="/cgi-bin/genobject/document_3_7/tigQPnglumx">Technology Highlights</A></TD>
+<TD><A href="/cgi-bin/genobject/document_3_9/tigQPnglumx">Technology to Serve Customers</A></TD>
+<TD><A href="/cgi-bin/genobject/document_3_11/tigQPnglumx">Brady History</TD></TR>
+<TD><A href="/cgi-bin/genobject/document_3_13/tigQPnglumx">Financial Review, 1996</A></TD>
+<TD ALIGN=CENTER><A href="/cgi-bin/genobject/document_3_15/tigQPnglumx">Corporate Data</A></TD>
+<TD><A href="/cgi-bin/genobject/document_3_17/tigQPnglumx">Shareholder Services</A></TD></TR>
+</TABLE>
+<HR>
+</CENTER>
+<A href="http://www.whbrady.com"><IMG BORDER=0 SRC="http://www.whbrady.com/imgs/brady/newbradygraphics/homebutton.gif" ALIGN=LEFT></A>
+
+W.H. Brady Co. P.O. Box 571 Milwaukee Wisconsin USA 53201-0571<BR> 
+© 1996 W. H. Brady Co. All Rights Reserved.
+<BR CLEAR=ALL>
+</BLOCKQUOTE>
+
+
+
+<hr>
+
+
+<P><BR>
+Contact us through our <A href="/cgi-bin/genobject/department_special__10_1/tigQPnglumx">feedback form</a> for general comments/suggestions or our <A href="/cgi-bin/genobject/department_special__10_2/tigQPnglumx">technical support form</a> for product support.  
+<P><BR>
+
+</BODY>
+</HTML>

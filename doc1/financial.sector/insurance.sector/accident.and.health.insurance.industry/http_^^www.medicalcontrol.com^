@@ -1,0 +1,26 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Thursday, 18-Dec-97 08:49:50 GMT
+Content-Type: text/html
+Content-Length: 260
+Last-Modified: Monday, 03-Nov-97 16:36:20 GMT
+
+<HTML>
+<head>
+<title>MedicalControl, Inc.</title>
+
+
+
+</head>
+
+
+<frameset cols="205,*">
+<frameset rows="100%,*">
+<frame src="menu.htm" name="menu" scrolling="yes">
+</frameset>
+<frame src="start.htm" name="main" noresize>
+</frameset>
+
+
+
+</HTML>

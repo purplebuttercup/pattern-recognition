@@ -1,0 +1,250 @@
+Server: Netscape-Enterprise/3.0
+Date: Thu, 18 Dec 1997 09:30:59 GMT
+Content-type: text/html
+Last-modified: Fri, 12 Sep 1997 21:25:12 GMT
+Content-length: 8361
+Accept-ranges: bytes
+Connection: close
+
+<html>
+
+<head><TITLE>Travelers Loss Prevention & Engineering Home Page</TITLE>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+var msg = "Believing that an Investment in Safety is an Investment in your Future!!.......... "
+var delay = 250
+var timerId
+function scrollMsg()
+{
+    window.status= msg
+    msg = msg.substring(1,msg.length) + msg.substring(0,1)  
+    timerId = setTimeout("scrollMsg()",delay)
+}
+// -->
+</SCRIPT>
+
+</head>
+
+<BODY  BGCOLOR="#FFFFFF" LINK="#B92234" onLoad="scrollMsg()"><!-- BEGIN BODY HEADER SECTION --><!-- BEGIN MAIN BODY SECTION -->
+
+
+
+<A NAME="top">  </A>
+
+
+
+<TABLE align=left border=0 width=600 cellpadding=0 cellspacing=0>
+
+<TR><TD valign=top>
+
+
+
+<a href="/index.htm" onmouseover="status='Travelers Home Page';return true"><img border=0 src="/images/bttn1.gif" width=149 height=21 alt="Home"></a><BR>
+
+
+
+<a href="/agents/index.htm" onmouseover="status='Get A Quote';return true"><img border=0 src="/images/bttn12.gif" width=149 height=21 alt="Get A Quote"></a><BR>
+
+
+
+<a href="/family/" onmouseover="status='Insurance for you and your family';return true"><img border=0 src="/images/bttn22.gif" width=149 height=24 alt="Travelers Products"></a><BR>
+
+
+
+<a href="/commercial/index.html" onmouseover="status='Commercial Insurance';return true"><img border=0 src="/images/bttn21a.gif" width=149 height=24 alt="Commercial Insurance for small, medium and large businesses"></a><BR>
+
+
+
+
+
+<a href="/agentinfo/index.html" onmouseover="status='Information for Agents & Brokers';return true"><img border=0 src="/images/bttn20.gif" width=149 height=24 alt="Information for Agents & Brokers"></a><BR>
+
+
+
+
+
+<a href="/news/index.htm" onmouseover="status='Travelers News';return true"><img border=0 src="/images/bttn8.gif" width=149 height=24 alt="Travelers News"></a><BR>
+
+
+
+
+
+<a href="/complain/index.htm" onmouseover="status='Complaints';return true"><img border=0 src="/images/bttn23.gif" width=149 height=21 alt="Complaints"></a><BR>
+
+
+
+<a href="/mail/index.htm" onmouseover="status='Travelers Email';return true"><img border=0 src="/images/bttn9.gif" width=149 height=24 alt="Travelers Let's Talk"></a><BR>
+
+
+
+<a href="/search/index.htm" onmouseover="status='Search';return true"><img border=0 src="/images/bttn7.gif" width=149 height=21 alt="Search"></a><BR>
+
+
+
+
+
+</TD>
+
+<TD valign=top>
+
+<img src="/commercial/images/lpehead.gif" width=428 height=133 alt="commercial"><br><img src="/commercial/images/lpe.gif" width=428 height=21 alt="Welcome to Travelers Loss Prevention Engineering"></a>
+<BR>
+
+<font size="-1" face="helvetica,arial">
+
+<img src="/commercial/images/lpewelc.gif" width=428 height=21 alt="Welcome to Travelers Loss Prevention Engineering">
+<BR>
+
+<h4>Believing that an Investment in Safety 
+<BR>is an Investment in your Future</h4>
+
+<P>
+Good investments and good expense management are important in a company's profit equation and ability to remain competitive. One way companies can manage their expenses is to reduce costs associated with accidental losses resulting from
+workplace injuries or illnesses, property damage, or product liability exposures. We understand this. 
+<P>
+Our safety professionals service business and industry across the Continental U.S., Puerto Rico, Hawaii, and Canada. Our network of safety specialists are experienced in a diversity of business and industry. We offer a world of safety solutions to fit the diversity of your specific needs and budgets to help you:
+
+<UL>
+
+<LI>Maintain a safe and healthy work environment for your employees;
+
+<LI>Manage your workers' compensation, property loss, and product liability exposures and experience; 
+
+<LI>Manage your loss cost expenses as part of your business plan and financial objectives.
+
+</UL>
+
+<P>
+
+You have five destinations to choose from to get to safety information to help you in your loss prevention effort.  Get on the bus and travel to any or all of these five sites:
+
+<P>
+
+
+<A href="/commercial/html/lossctrl/products/products.html">
+<IMG SRC="/commercial/images/lpeprod.gif" ALT=" " BORDER="0" align="left" width=109 height=120 hspace=10>
+<ul>
+<font size="-1" face="helvetica,arial">
+<B>Travel to one of our Products & Services</B></a>
+
+
+
+<!--
+<FORM METHOD="POST" ACTION="/cgi-bin/listselect.cgi">
+
+<SELECT NAME="selectpath">
+<OPTION value="/commercial/html/lossctrl/products/products.html">Products page
+<OPTION value="/commercial/html/lossctrl/products/engp7.html">Construction Safety Services
+<OPTION value="/commercial/html/lossctrl/products/engp15.html">Customer Training & Seminars
+<OPTION value="/commercial/html/lossctrl/products/engp12.html">Federal Regulatory Monitoring
+<OPTION value="/commercial/html/lossctrl/products/engp6.html">Fire Protection and Life Safety
+<OPTION value="/commercial/html/lossctrl/products/engp10.html">Human Factors & Ergonomics
+<OPTION value="/commercial/html/lossctrl/products/engp4.html">Industrial Hygiene
+<OPTION value="/commercial/html/lossctrl/products/engp5.html">Laboratory Analysis
+<OPTION value="/commercial/html/lossctrl/products/engp14.html">Loss Management Information
+<OPTION value="/commercial/html/lossctrl/products/engp9.html">Post Injury Management
+<OPTION value="/commercial/html/lossctrl/products/engp8.html">Product Safety
+<OPTION value="/commercial/html/lossctrl/products/engp3.html">Safety Management Consulting
+<OPTION value="/commercial/html/lossctrl/products/engp11.html">Transportation/Fleet Safety
+</SELECT>
+
+<input type="image" src="/images/go.gif" width=70 height=25 value="value="name" border=0>
+</form>
+-->
+
+
+
+</font>
+<P>
+We listen to our customers. And, our safety products and services reflect this. Click here and learn about the diversity of our products and services, designed to help you better manage your risk exposures, loss experience, and loss costs.
+</ul>
+
+<P>
+<BR clear="left">
+<BR>
+
+<A href="/commercial/html/lossctrl/topics/engp16.html">
+<IMG SRC="/commercial/images/lpehot.gif" align="left" width=109 height=120 BORDER="0" hspace=10>
+<ul>
+<b>Travel to Hot Topics, Trends, and Tips</b><img src="/images/go.gif" width=70 height=25 border=0 alt="go"></A>
+<P>
+If you are looking for new and emerging workplace safety and health issues, tips, and other way cool stuff on people, property, and products, visit us here. We also have built links here to other safety and health sites to make getting safety info easy for you.
+ </ul>
+
+<P>
+<BR clear="left">
+<BR>
+
+<A href="/commercial/html/lossctrl/challenge/engp22.html">
+<IMG SRC="/commercial/images/lpechlng.gif" align="left" width=109 height=120 BORDER="0" hspace=10>
+<P>
+<ul>
+<b>Travel to Loss Control Safety Challenge</b><img src="/images/go.gif" width=70 height=25 border=0 alt="go"></a>
+<p>
+Test your "safety IQ" at our Loss Control Safety Challenge page where you can test your 
+knowledge on a variety of safety topics!  You may even learn something to help make your 
+workplace a safer and better place to work!
+</ul>
+
+<P>
+<BR clear="left">
+<BR>
+
+<A href="/commercial/html/lossctrl/topics/jobpage.html">
+<IMG SRC="/commercial/images/lpejobs.gif" align="left" width=109 height=120 BORDER="0" hspace=10>
+<P>
+<ul>
+<b>Travel to Job Opportunities</b><br><img src="/images/go.gif" width=70 height=25 border=0 alt="go"></a>
+<p>
+If you are a safety professional or in a related field and are looking for a challenging opportunity to
+be part of an experienced team of safety engineers, ergonomists, and industrial hygienists, <a href="/commercial/html/lossctrl/topics/jobpage.html">visit us here</a>.
+
+</ul>
+
+<P>
+<BR clear="left">
+<BR>
+
+<A href="/commercial/html/lossctrl/mail/engp23.html">
+<IMG SRC="/commercial/images/lpemail.gif" align="left" width=109 height=120 BORDER="0" hspace=10>
+<ul>
+<b>Travel to Let's Talk. E-mail is here!</b><img src="/images/go.gif" width=70 height=25 border=0 alt="go"></A>
+<P>
+Visit us here, and learn more about us... ask for additional information, or a quote for service, at no charge... and, help us learn more about you and your business.
+</ul>
+
+<BR clear="left">
+<P>
+<P>
+<P>
+
+</td>
+
+</tr>
+
+</table>
+
+
+
+</FONT></TD></TR></TABLE>
+<p clear=all>
+<br clear=all
+<br><br>
+<br><br>
+
+
+
+
+
+<center><img src="/images/p&clogo.gif" width=231 height=50 alt="pclogo"><BR><BR>
+
+<a href="#top" onmouseover="status='Top of Page';return true"><img border=0 src="/images/top.gif" align=top width=61 height=24 alt="Top of Page"></a><BR>
+
+</center>
+
+
+
+<!-- BEGIN BODY FOOTER SECTION -->
+</BODY>
+</HTML>

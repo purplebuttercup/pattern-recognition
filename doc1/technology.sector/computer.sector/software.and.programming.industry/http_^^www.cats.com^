@@ -1,0 +1,162 @@
+Server: Netscape-Enterprise/2.01
+Date: Thu, 20 Nov 1997 20:21:17 GMT
+Accept-ranges: bytes
+Last-modified: Thu, 20 Nov 1997 02:31:19 GMT
+Content-length: 6400
+Content-type: text/html
+
+<HTML>
+
+<HEAD>
+
+<!-- Meta Tags -->
+<META name="description" content="CATS Software Inc. - Integrated Risk Management from the Desktop to the Enterprise">
+<META name="keywords" content="risk, risk, risk, management, risk management, risk management, credit management, credit, credit, enterprise risk management, CARMA, Catalyst, financial, trading floor, software, CATS, CATS, CARMA, CARMA, risk management">
+<META name="author" content="Next generation web site for CATS Software produced by Barbara Coll, webmama, bcoll & associates, graphics by DieselDesign, California, November 1997">
+
+<TITLE>CATS Software, Inc. | Integrated Risk Management from the Enterprise to the Desktop | Credit and Market Risk Managment | Web Site </TITLE>
+
+<SCRIPT LANGUAGE="JavaScript1.1">
+<!--HIDE
+
+if(navigator.appName.substring(0,8) == "Netscape")
+{
+  if ( Math.round(parseFloat(navigator.appVersion) * 1000) < 4000 )
+  {// navigator
+    fixit = 8;
+    repairit = 7;
+  }
+  else
+  {// communicator
+    fixit = 0;
+    repairit = 0;
+  }
+}
+else
+{  // non netscape browser
+   fixit = 0;
+    repairit = 9;
+}
+
+
+     var image1 = new Image()
+     var image2 = new Image()
+     var image3 = new Image()
+     var image4 = new Image()
+     var image5 = new Image()
+     var image6 = new Image()
+     var image7 = new Image()
+     var image8 = new Image()
+     var image9 = new Image()
+     var image10 = new Image()
+     var image11 = new Image()
+     var image12 = new Image()
+ 
+     image1.src = "images/2solutions.gif"
+     image2.src ="images/winsolutions.gif"
+     image3.src = "images/2services.gif"
+     image4.src = "images/winservices.gif"
+     image5.src = "images/2news.gif"
+     image6.src = "images/winnews.gif"
+     image7.src = "images/2investors.gif"
+     image8.src = "images/wininvestors.gif"
+     image9.src = "images/2company.gif"
+     image10.src = "images/wincompany.gif"
+     image11.src = "images/2opportunities.gif"
+     image12.src = "images/winopportunities.gif"
+
+function downChanger(downButtonImage, windowImage, n, m)  {
+     var down = new Image()
+     var image = new Image()
+     down.src = downButtonImage
+     image.src=windowImage
+     document.images[n + fixit].src = down.src
+     document.images[ m + repairit].src = image.src
+}
+function upChanger(upButtonImage, n, m)  {
+     var up = new Image()
+     var back = new Image()
+     up.src = upButtonImage
+     back.src="images/winhome.gif"
+     document.images[n + fixit].src = up.src
+     document.images[m + repairit].src = back.src
+}
+//STOP HIDING-->
+
+</SCRIPT>
+</HEAD>
+
+
+<BODY BACKGROUND="images/background.gif" TEXT="ffffff" LINK="ffffff"  ALINK="6699cc"  VLINK="ffffff">
+<BR>
+
+<TABLE WIDTH=651 BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR>
+<TD COLSPAN=2 ALIGN=LEFT><IMG WIDTH=329 HEIGHT=56 SRC="images/cats11.gif" alt="CATS Software Inc. Web Site"></TD>
+<TR>
+<TD>
+<TABLE WIDTH=175 BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR>
+<TD ROWSPAN=6><IMG WIDTH=24 HEIGHT=161 SRC="images/bar1.gif"></TD>
+<TD><A HREF="solutions/solindex.html" onMouseOver='downChanger("images/2solutions.gif", "images/winsolutions.gif", 2, 9)' onMouseOut='upChanger("images/1solutions.gif", 2, 9)'>
+<IMG WIDTH=73 HEIGHT=12 BORDER=0 SRC="images/1solutions.gif" alt="Solutions"></A></TD>
+</TR>
+<TR>
+<TD><A HREF="services/servindex.html" onMouseOver='downChanger("images/2services.gif", "images/winservices.gif", 3, 9)' onMouseOut='upChanger("images/1services.gif", 3, 9)'><IMG WIDTH=67 HEIGHT=12 BORDER=0 SRC="images/1services.gif" alt ="Services"></TD>
+</TR>
+<TR>
+<TD><A HREF="news/newsindex.html" onMouseOver='downChanger("images/2news.gif", 
+"images/winnews.gif", 4, 9)' onMouseOut='upChanger("images/1news.gif", 4, 9)'><IMG WIDTH=102 HEIGHT=12 BORDER=0 SRC="images/1news.gif" alt="News and Events"></TD>
+</TR>
+<TR>
+<TD><A HREF="investors/invindex.html" onMouseOver='downChanger("images/2investors.gif", "images/wininvestors.gif", 5, 9)' onMouseOut='upChanger("images/1investors.gif", 5, 9)'>
+<IMG WIDTH=72 HEIGHT=12 BORDER=0 SRC="images/1investors.gif" alt="Investors"></TD>
+</TR>
+<TR>
+<TD><A HREF="company/compindex.html" onMouseOver='downChanger( "images/2company.gif", "images/wincompany.gif", 6, 9)' onMouseOut='upChanger("images/1company.gif", 6, 9)'>
+<IMG WIDTH=71 HEIGHT=12 BORDER=0 SRC="images/1company.gif" alt="Company"></TD>
+</TR>
+<TR>
+<TD><A HREF="opportunities/oppindex.html" onMouseOver='downChanger("images/2opportunities.gif", "images/winopportunities.gif", 7, 9)' onMouseOut='upChanger("images/1opportunities.gif" , 7, 9)'>
+<IMG WIDTH=96 HEIGHT=12 BORDER=0 SRC="images/1opportunities.gif" alt="Opportunities"></TD>
+</TR>
+</TABLE>
+</TD>
+<TD><IMG HSPACE=0 WIDTH=463 HEIGHT=198 SRC="images/cats.gif"><BR></TD>
+</TR>
+</TABLE>
+<IMG HSPACE=6 WIDTH=263 HEIGHT=160 ALIGN=LEFT SRC="images/winhome.gif" alt="Integrated Risk Management from the Desktop to the Enterprise">
+<BR><BR>
+
+<!--  Hot News section of Web Site home page -->
+
+<TABLE WIDTH=375 BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR>
+<TD ROWSPAN=2><IMG WIDTH=70 HEIGHT=1 SRC="images/spacer.gif"></TD>
+<TD  COLSPAN=2><IMG WIDTH=95 HEIGHT=19 SRC="images/whatsnew.gif" alt="What is New"></TD><TR>
+<TD><IMG WIDTH=10 HEIGHT=75 SRC="images/bar2.gif"></TD>
+<font face="arial" size=-1><TD ALIGN=LEFT><br><A HREF="news/971116.html">David Samuels Joins C·ATS</A><BR><BR>
+<A HREF="news/press/970927.html">C·ATS Wins Daiwa America</A><BR><BR>
+<A HREF="solutions/tutorial/tutindex.html">New Overview Presentation of C·ATS Solutions</A></font></TD>
+</TR> 
+</TABLE>
+</TR> 
+</TABLE>
+
+<BR><BR><BR><BR><BR><BR>
+
+<TABLE WIDTH=600 BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR><TD ROWSPAN=4> <IMG WIDTH=150 HEIGHT=1 SRC="images/spacer.gif"></TD>
+<TD><FONT SIZE=-1><A HREF="../index.html"> home</A> | <A HREF="../solutions/solindex.html">solutions</A> | <A HREF="../services/servindex.html">services</A> | <A HREF="../news/newsindex.html">news & events</A> | <A HREF="../investors/invindex.html">investors</A> | <A HREF="../company/compindex.html">company</A> | <A HREF="../opportunities/oppindex.html">opportunities</A></FONT><BR><BR></TD> 
+</TR> 
+<TR><TD><FONT SIZE=-1><A HREF="info/search.html">search</A> | <A HREF="info/feed.html">feedback</A> | <A HREF="info/sitemap.html">site map</A></FONT><BR><BR></TD>
+</TR>
+<TR>
+<TD><FONT SIZE=-1 COLOR="ffcc00">1.650.321.3000</FONT><BR><BR></TD>
+</TR>
+<TR>
+<TD> <FONT SIZE=-2> &#169;1997 <A HREF=copyright.html>CATS Software Inc.</A> </FONT> </TD></TR> 
+</TABLE>
+
+</BODY>
+</HTML>

@@ -1,0 +1,32 @@
+Date: Thu, 18 Dec 1997 08:38:12 GMT
+Server: Apache/1.2.1
+Connection: close
+Content-Type: text/html
+
+<HTML>
+
+<HEAD>
+
+<TITLE>KBK Capital - Main Lobby</TITLE>
+
+<META Name="description" Content="KBK is a 34 year old, full service Commercial Finance Company specializing in providing working capital to growing businesses through the purchase of accounts receivable and equipment and inventory term loans.">
+
+<META Name="keywords" Content="capital, finance, financial, loans, working capital, banks, banking, factoring, accounts receivable purchasers, business loans, growing businesses, small business, middle market business, revolver">
+
+</HEAD>
+
+<BODY BACKGROUND="./images/bg_tile_1.gif" TEXT = "#000000" LINK = "#CC990A" VLINK = "#B35F5D">
+
+<CENTER><IMG SRC="./images/p_lobby.jpg" ALT="Picture of KBK Bank Lobby" LOWSRC="./images/p_wait.gif" WIDTH="468" HEIGHT="320" BORDER="0"></CENTER>
+<CENTER><A HREF="./screen_2.html"><IMG SRC="./images/b_com_bank.jpg" ALT="Go to Commercial Banking" WIDTH="234" HEIGHT="59" BORDER="0"></A><A HREF="./screen_3.html"><IMG SRC="./images/b_chair_cfo.jpg" ALT="Go to Chairman &amp; CFO" WIDTH="234" HEIGHT="59" BORDER="0"></A></CENTER>
+
+<P>
+
+<CENTER><IMG SRC="./images/p_dot_rule_468.gif" ALIGN=BOTTOM WIDTH="468" HEIGHT="3" BORDER="0"></CENTER>
+<P>
+<CENTER>&copy; 1996 KBK Capital Corporation. All Rights Reserved.<BR>
+This site is <A HREF="http://www.netscape.com/comprod/mirror/index.shtml">Netscape</A> and <A HREF="http://www.microsoft.com/ie/msie.htm">Microsoft</A> enhanced and uses tables extensively.<BR>
+<img src="/cgi-bin/yaac/yaac?kbk_home_page"></CENTER>
+
+</BODY>
+</HTML>

@@ -1,0 +1,9 @@
+WWW Alert:  Redirection response from server is not handled by this client
+Server: Netscape-Communications/1.12
+Date: Thursday, 18-Dec-97 19:32:27 GMT
+Location: http://www.lilly.com/company/citizenship/environment/
+Content-type: text/html
+Content-length: 239
+
+<HTML><HEAD><TITLE>Found</TITLE></HEAD><BODY><H1>Found</H1>
+This document has moved to a new <a href="http://www.lilly.com/company/citizenship/environment/">location</a>. Please update your documents and hotlists accordingly.</BODY></HTML>

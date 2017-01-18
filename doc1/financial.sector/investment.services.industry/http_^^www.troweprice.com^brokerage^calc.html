@@ -1,0 +1,204 @@
+Server: Netscape-Enterprise/2.0a
+Date: Thu, 18 Dec 1997 11:03:23 GMT
+Accept-ranges: bytes
+Last-modified: Wed, 16 Jul 1997 13:30:00 GMT
+Content-length: 5212
+Content-type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//Netscape Comm. Corp.//DTD
+HTML//EN"><html>
+<head>
+
+<title>Commission Calculator</title>
+
+</head>
+<body bgcolor="#ffffff">
+
+<center>
+
+<IMG SRC="./images/broke2.gif" border=0 alt="Discount
+Brokerage"><p>
+
+<h1 align="center">Commission Calculator</h1></center>
+
+<blockquote>
+This calculator will compute the commission on a hypothetical trade through our
+Discount Brokerage. A minimum commission of $35 applies on all trades.  Transactions
+involving municipal bonds, GNMAs, CDs, government zero coupon bonds, and CMOs are principal
+transactions: the commission is included in the price via a mark-up or mark-down.<P>
+
+Choose the type of security you wish to buy or sell:<P>
+
+<UL>
+<LI><A HREF="#1sto">Stocks</A>
+<LI><A HREF="#2pen">Penny Stocks</A>
+<LI><A HREF="#3opt">Options</A>
+<LI><A HREF="#4cor">Corporate Bonds</A>
+<LI><A HREF="#5ust">U.S. Treasuries</A>
+<LI><A HREF="#6pre">Gold and Silver</A>
+</ul>
+<i>Note: Mutual fund charges, if applicable, will vary. Please refer to the <a href="/brokerage/commsched.html">commission schedule</a> for details.</i><p>
+
+<center>
+<img src="/images/bar2.gif" align="center" alt="linebreak">
+<P>
+
+<A NAME="1sto"> </A>
+<h2 align="center">Stocks</h2></center>
+<P>
+
+<FORM action="/cgi-bin/funds/commission.cgi" method="POST">
+
+
+<b>Step 1.</b>  Please enter the number of shares you wish to buy or sell: 
+
+<input type="text" size="10" name="totalsharenumber">
+<P>
+<b>Step 2.</b>  Please enter the price per share: $ 
+
+<input type="text" size="10" name="persharevalue"><br>
+
+(for stock values that are <i>greater than</i> or <i>equal to</i> one dollar)
+
+<P>
+<center>
+<input type="submit" value="Click Here to Calculate" name="stocks"> 
+<input type="reset"></center>
+<P>
+
+
+<hr width="70%" noshade size=1>
+
+<A NAME="2pen"> </A>
+<h2 align="center">Penny Stocks</h2>
+<P>
+
+<P>
+<b>Step 1.</b>  Please enter the number of shares you wish to buy or sell: 
+
+<input type="text" size="10" name="ptotalsharenumber">
+<P>
+<b>Step 2.</b>  Please enter the price per share: $ 
+
+<input type="text" size="10" name="ppersharevalue">
+<br>(for stock values that are <i>less than</i> one dollar)
+
+<P>
+<center>
+<input type="submit" value="Click Here to Calculate" name="pstocks"> 
+<input type="reset"></center>
+<P>
+
+
+<hr width="70%" noshade size=1>
+<P>
+
+
+<A NAME="3opt"> </A>
+<h2 align="center">Options</h2>
+<P>
+
+
+<b>Step 1.</b>  Please enter the number of contracts you wish to buy or sell:
+
+<input type="text" size="10" name="optnumber">
+<br>(Each contract represents 100 shares)
+<P>
+<b>Step 2.</b>  Please enter the price per contract:
+
+<input type="text" size="10" name="peroptvalue">
+<P>
+<center>
+<input type="submit" value="Click Here to Calculate" name="options"> 
+<input type="reset"></center>
+<P>
+
+<hr width="70%" noshade size=1>
+<P>
+
+<A NAME="4cor"> </A>
+<h2 align="center">Corporate Bonds</h2>
+<P>
+
+
+Enter the number of corporate bonds (per $1,000 face value) <br>you wish to
+buy or sell:
+
+<input type="text" size="10" name="bondnumber">
+<P>
+<center>
+<input type="submit" value="Click Here to Calculate" name="bonds"> 
+<input type="reset"></center>
+
+
+<P>
+<hr width="70%" noshade size=1>
+<P>
+
+<A NAME="5ust"> </A>
+<h2 align="center">U.S. Treasuries</h2>
+<P>
+
+<table cellpadding="2">
+<tr><td><b>Treasury bills:</b></td><td>$50 flat charge</td></tr>
+<tr><td colspan="2"><br><b>Treasury notes and bonds:</b></td></tr>
+<tr><td valign="top">Agency transactions totaling $24,000 or less:</td><td
+valign="top">$5/Treasury (minimum $35, maximum $100)</td></tr>
+<tr><td valign="top">Principal transactions totaling $25,000 or more:</td><td
+valign="top">Commission included in
+price</td></tr></table>
+
+<P>
+<hr width="70%" noshade size=1>
+<P>
+
+<A NAME="6pre"> </A>
+<h2 align="center">Gold and Silver</h2>
+<P>
+
+<b>Step 1.</b>  Enter the number  of units you wish to buy or sell:
+<input type="text" size="10" name="unitnumber">
+<P>
+<b>Step 2.</b>  Enter the price per unit:
+<input type="text" size="10" name="unitprice">
+<P>
+<center>
+<input type="submit" value="Click Here to Calculate" name="metals"> 
+<input type="reset"></center>
+<P>
+
+</FORM>
+
+<P>
+<hr width="70%" noshade size=1>
+<P>
+
+<b>Note:</b> The commission quoted is approximate.  The actual commission cannot be
+determined until the time of trade execution.  Trades placed through Tele-Trader and OnLine-Trader receive a 10% discount off the commission (subject to a $35 minimum).<P>
+
+A full <A HREF="commsched.html">commission schedule</A> is also available for all securities sold through Discount Brokerage.<P>
+<P>
+</blockquote>
+
+<center>
+
+<A HREF="/maps/bar.gif.map">
+<IMG  SRC="/images/bar.gif" ISMAP border=0 alt="Button
+Bar"></A><p>
+
+<font size="-1">
+<i>Copyright 1997, <nobr>T. Rowe Price</nobr> Investment Services, Inc.,
+Distributor.
+All rights reserved. <nobr>T. Rowe Price</nobr> Discount Brokerage is a division of
+T. Rowe Price
+Investment Services, Inc. Member NASD/SIPC.  Accounts carried by BHC Securities,
+Inc.
+</i></font><P><font size="-1"><i>
+E-mail T. Rowe Price at <A
+HREF="/about/email.html">info@troweprice.com</A> with your questions and
+comments about our funds and services. We'd also appreciate your <A
+HREF="/about/email3.html">feedback</A> on our site.</i>
+</font>
+</center>
+</BODY>
+</HTML>

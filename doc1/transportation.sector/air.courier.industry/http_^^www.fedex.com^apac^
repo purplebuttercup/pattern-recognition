@@ -1,0 +1,97 @@
+Server: Netscape-Enterprise/3.0F
+Date: Thu, 20 Nov 1997 17:04:19 GMT
+Content-type: text/html
+Last-modified: Thu, 16 Oct 1997 13:29:11 GMT
+Content-length: 5439
+Accept-ranges: bytes
+Connection: close
+
+<HTML>
+<HEAD><TITLE>Welcome to FedEx Asia</TITLE></HEAD>
+
+<BODY BGCOLOR="#000000" TEXT="#BDB9AD" LINK="#DE5208" VLINK="#9425E6">
+
+<MAP NAME="apac-main-upper">
+	<AREA SHAPE=rect HREF="/ship_it.html" COORDS="10,37,127,72">
+</MAP>
+
+<MAP NAME="apac-main-lower">
+	<AREA SHAPE="rect" COORDS="373,16,412,30" HREF="/">
+	<AREA SHAPE="rect" COORDS="373,30,424,43" HREF="http://www.fedex.ca">
+	<AREA SHAPE="rect" COORDS="373,44,424,56" HREF="/emea/euro/">
+	<AREA SHAPE="rect" COORDS="373,56,424,68" HREF="/emea/africa/">
+	<AREA SHAPE="rect" COORDS="373,68,467,82" HREF="/emea/mei/">
+	<AREA SHAPE="rect" COORDS="373,82,452,96" HREF="/intlL.html">
+</MAP>
+
+<CENTER>
+<A HREF="/images/apac/apac-main-upper.map"><IMG BORDER=0 SRC="/images/apac/apac-main-upper.gif" WIDTH=468 HEIGHT=81 ALT="Welcome to FedEx Asia" USEMAP="#apac-main-upper" ISMAP></A><BR><A HREF="/images/apac/apac-main-lower.map"><IMG BORDER=0 SRC="/images/apac/apac-main-lower.gif" WIDTH=468 HEIGHT=205 ALT="Welcome to FedEx Asia" USEMAP="#apac-main-lower" ISMAP></A>
+<BR>
+<P>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=468>
+<TR><TD ALIGN=CENTER VALIGN=TOP COLSPAN=5><H3><FONT
+SIZE="+2">S</FONT>ELECT <FONT SIZE="+2">C</FONT>OUNTRY</H3>
+</TD></TR>
+</TABLE>
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR>
+<TD VALIGN=TOP><IMG SRC="/images/apac/bullet-iship.gif" ALT="*" BORDER="0"></TD> 
+<TD VALIGN=TOP>= </TD> 
+<TD VALIGN=TOP>Countries from which you can prepare your <BR>
+shipments online with FedEx interNetShip<FONT SIZE="-1">(TM)</FONT><P>
+</TD></TR>
+</TABLE>
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=468>
+<TR>
+<TD ALIGN=MIDDLE>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR><TD><FONT SIZE="+1"></TD><TD><FONT SIZE="+1"><A HREF="/apac/as/">American Samoa</A></NOBR></TD></TR> 
+<TR><TD><FONT SIZE="+1"><IMG SRC="/images/apac/bullet-iship.gif" ALT="*" BORDER="0"></TD><TD><FONT SIZE="+1"><A HREF="/apac/au/"> Australia</A></TD></TR>
+<TR><TD><FONT SIZE="+1"></TD><TD><FONT SIZE="+1"><A HREF="/apac/bn/">Brunei</A></TD></TR>
+<TR><TD><FONT SIZE="+1"></TD><TD><FONT SIZE="+1"><A HREF="/apac/kh/">Cambodia</A></TD></TR>
+<TR><TD><FONT SIZE="+1"></TD><TD><FONT SIZE="+1"><A HREF="/apac/cn/">China</A></TD></TR>
+<TR><TD><FONT SIZE="+1"></TD><TD><FONT SIZE="+1"><A HREF="/apac/fj/"><NOBR>Cook Island</A></NOBR></TD></TR>
+<TR><TD><FONT SIZE="+1"></TD><TD><FONT SIZE="+1"><A HREF="/apac/fi/">Fiji</A></TD></TR>
+<TR><TD><FONT SIZE="+1"></TD><TD><FONT SIZE="+1"><A HREF="/apac/pf/"><NOBR>French Polynesia</A></NOBR></TD></TR>
+<TR><TD><FONT SIZE="+1"><IMG SRC="/images/apac/bullet-iship.gif" ALT="*" BORDER="0"></TD><TD><FONT SIZE="+1"><A HREF="/apac/gu/">Guam</A></TD></TR>
+<TR><TD><FONT SIZE="+1"><IMG SRC="/images/apac/bullet-iship.gif" ALT="*" BORDER="0"></TD><TD><FONT SIZE="+1"><A HREF="/apac/hk/">Hong Kong</A></NOBR></TD></TR>
+</TABLE>
+</TD>
+<TD ALIGN=MIDDLE>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR><TD><FONT SIZE="+1"></TD><TD><FONT SIZE="+1"><A HREF="/apac/id/">Indonesia</A></TD></TR>
+<TR><TD><FONT SIZE="+1"><IMG SRC="/images/apac/bullet-iship.gif" ALT="*" BORDER="0"></TD><TD><FONT SIZE="+1"><A HREF="/apac/jp/">Japan</A></TD></TR>
+<TR><TD><FONT SIZE="+1"><IMG SRC="/images/apac/bullet-iship.gif" ALT="*" BORDER="0"></TD><TD><FONT SIZE="+1"><A HREF="/apac/mo/">Macau</A></TD></TR>
+<TR><TD><FONT SIZE="+1"><IMG SRC="/images/apac/bullet-iship.gif" ALT="*" BORDER="0"></TD><TD><FONT SIZE="+1"><A HREF="/apac/my/">Malaysia</A></TD></TR>
+<TR><TD><FONT SIZE="+1"></TD><TD><FONT SIZE="+1"><A HREF="/apac/mh/"><NOBR>Marshall Islands</A></NOBR></TD></TR> 
+<TR><TD><FONT SIZE="+1"></TD><TD><FONT SIZE="+1"><A HREF="/apac/fm/">Micronesia</A></TD></TR>
+<TR><TD><FONT SIZE="+1"></TD><TD><FONT SIZE="+1"><A HREF="/apac/mg/">Mongolia</A></TD></TR>
+<TR><TD><FONT SIZE="+1"></TD><TD><FONT SIZE="+1"><A HREF="/apac/mm/"><NOBR>Myanmar/Burma</A></NOBR></TD></TR> 
+<TR><TD><FONT SIZE="+1"></TD><TD><FONT SIZE="+1"><A HREF="/apac/nc/"><NOBR>New Caledonia</A></NOBR></TD></TR> 
+<TR><TD><FONT SIZE="+1"><IMG SRC="/images/apac/bullet-iship.gif" ALT="*" BORDER="0"></TD><TD><FONT SIZE="+1"><A HREF="/apac/nz/"><NOBR>New Zealand</A></NOBR></TD></TR></FONT>
+</TABLE>
+</TD>
+<TD ALIGN=MIDDLE>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR><TD><FONT SIZE="+1"></TD><TD><FONT SIZE="+1"><A HREF="/apac/pw/">Palau</A></TD></TR>
+<TR><TD><FONT SIZE="+1"></TD><TD><FONT SIZE="+1"><A HREF="/apac/pg/"><NOBR>Papua New Guinea</A></NOBR></TD></TR> 
+<TR><TD><FONT SIZE="+1"></TD><TD><FONT SIZE="+1"><A HREF="/apac/ph/">Philippines</A></TD></TR>
+<TR><TD><FONT SIZE="+1"></TD><TD><FONT SIZE="+1"><A HREF="/apac/mp/">Saipan</A></TD></TR>
+<TR><TD><FONT SIZE="+1"><IMG SRC="/images/apac/bullet-iship.gif" ALT="*" BORDER="0"></TD><TD><FONT SIZE="+1"><A HREF="/apac/sg/">Singapore</A></TD></TR>
+<TR><TD><FONT SIZE="+1"></TD><TD><FONT SIZE="+1"><A HREF="/apac/kr/"><NOBR>South Korea</A></NOBR></TD></TR>
+<TR><TD><FONT SIZE="+1"><IMG SRC="/images/apac/bullet-iship.gif" ALT="*" BORDER="0"></TD><TD><FONT SIZE="+1"><A HREF="/apac/tw/">Taiwan</A></TD></TR>
+<TR><TD><FONT SIZE="+1"></TD><TD><FONT SIZE="+1"><A HREF="/apac/th/">Thailand</A></TD></TR>
+<TR><TD><FONT SIZE="+1"></TD><TD><FONT SIZE="+1"><A HREF="/apac/vu/">Vanuatu</A></TD></TR>
+<TR><TD><FONT SIZE="+1"></TD><TD><FONT SIZE="+1"><A HREF="/apac/vn/">Vietnam</A></TD></TR>
+<NOBR><TR><TD><FONT SIZE="+1"></TD><TD><FONT SIZE="+1"><A HREF="/apac/wf/">Wallis &amp; Futuna</A></NOBR></TD></TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+
+</CENTER>
+
+</BODY>
+</HTML>

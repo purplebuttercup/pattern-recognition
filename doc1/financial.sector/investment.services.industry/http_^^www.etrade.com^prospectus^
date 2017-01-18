@@ -1,0 +1,137 @@
+Server: Netscape-Enterprise/2.01
+Date: Tue, 16 Dec 1997 14:36:30 GMT
+Accept-ranges: bytes
+Last-modified: Fri, 22 Aug 1997 22:36:17 GMT
+Content-length: 3552
+Content-type: text/html
+
+<BASE HREF="http://www.etrade.com/prospectus/">
+<HTML>
+<HEAD>
+<TITLE>
+Prospectus
+</TITLE>
+</HEAD>
+<body Bgcolor="#ffffff" LINK=#003366 VLINK=#999933>
+<CENTER>
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0
+       width=580>
+<TR>
+  <td valign=top align=left width=190>
+  <IMG SRC=/images/sublogo.gif
+        width=190 height=37 
+        alt="E*TRADE" border=0 USEMAP="#global"> 
+</TD><TD VALIGN=TOP ALIGN=LEFT width=431> 
+
+       <IMG SRC="images/finalpros.gif" 
+        width=332 
+        height=60 
+        alt="preliminary prospectus"      
+        border=0>
+   </TD></TR></TABLE></CENTER><BR>
+
+<CENTER>
+
+<TABLE WIDTH=580 BORDER=0>
+<TR><TD VALIGN=top>
+
+</TD></TR></TABLE>
+<TABLE BORDER="0" WIDTH="580">
+<TR><TD>
+<FONT SIZE=+1>
+<B>E*TRADE's secondary public offering was completed on 8/20/97.  You can view the final prospectus online.</B> 
+</FONT>
+</TD></TR></TABLE> 
+<P>
+<SCRIPT LANGUAGE="JAVASCRIPT">
+<!--
+function CreateWindow()
+        {
+        msgWindow=window.open("prospectus/prospectus.htm","displayWindow","toolbar=yes,width=640,height=500,directories=no,status=yes,scrollbars=yes,resizable=yes,menubar=no");
+               }
+
+document.write('<A HREF="javascript:CreateWindow()"><IMG SRC=images/ipo_view.gif HEIGHT=29 WIDTH=135 BORDER=0 ALT=View Prospectus></A></P>');
+<!-- end script -->
+</SCRIPT>
+
+<NOSCRIPT>
+<A HREF="prospectus/prospectus.htm" TARGET="_new"><IMG SRC=images/ipo_view.gif HEIGHT=29 WIDTH=135 BORDER=0 ALT=View Prospectus></A>
+<P>
+</NOSCRIPT>
+
+
+
+<CENTER>
+<TABLE BORDER=1 CELLSPACING=0 CELLPADDING=0 WIDTH="580">
+<TR>
+<TD COLSPAN=2 BGCOLOR="#C8C8B8" ALIGN=CENTER>
+<FONT SIZE=-1 FACE="arial,helvetica"><B>Completed 8/20/97
+</B></FONT></TD></TR>
+<TR>
+<TD ALIGN=center>
+<IMG src="../images/logo_sm.gif" 
+        width=100
+        height=25
+        border=0><BR>
+<FONT SIZE=-1 FACE="arial,helvetica">
+<B>8,100,000 Shares<BR>
+Common Stock</B></FONT></TD>
+<TD align=center>
+
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%><TR>
+<TD ALIGN=CENTER COLSPAN=2>
+<FONT SIZE=-2><B>Robertson, Stephens & Company</B></FONT> 
+</TD></TR>
+<TR><TD ALIGN=CENTER><FONT SIZE=-2><B>Hambrecht & Quist</B></FONT> 
+</TD><TD ALIGN=CENTER><FONT SIZE=-2><B>Deutsche Morgan Grenfell</B></FONT> 
+</TD></TR>
+<TR><TD ALIGN=CENTER><FONT SIZE=-2><B>Montgomery Securities </B></FONT> 
+</TD><TD ALIGN=CENTER><FONT SIZE=-2><B>E*TRADE Securities</B></FONT> 
+</TD></TR></TABLE>
+</TD></TR>
+<TR>
+<TD colspan=2 BGCOLOR="#C8C8B8">
+<FONT size=-2><I>
+This Web site is neither an offer to sell nor a solicitation of an offer to buy these securities. The offer is only by prospectus. Upon request, a copy of the Prospectus describing these securities and the business of the Company may be obtained within any State from any Underwriter who may legally distribute it within such State.  
+</FONT></I>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+<P>
+<HR size=1 width=75%>
+<A href="/map/sub_mainav.map">
+<IMG src="/images/sub_mainav.gif"^M
+        width=504^M
+
+        height=24^M
+
+        border=0^M
+
+        alt="      customer log on      |      E*TRADE advantage      |        o
+pen an account       |       visitor center"     ismap></A>
+</P><P>
+<A href="/map/subbar.map">
+<IMG src="/images/subbar.gif"
+        width=440
+
+        height=25
+
+        border=0
+
+        alt="   quotes  |      demo      |         commissions         |      co
+ntact us      |     help    |   home"
+        ismap></A> <BR clear=all>
+</P>
+<A HREF="/legal/legal.html">
+<FONT SIZE=-2>© Copyright 1996 E*TRADE Securities, Inc. All Rights 
+Reserved.</FONT></A>
+</CENTER>
+
+
+<P>
+<CENTER>
+
+</BODY> 
+</HTML> 
+

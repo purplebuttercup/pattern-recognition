@@ -1,0 +1,134 @@
+Server: Netscape-Enterprise/2.01
+Date: Wed, 19 Nov 1997 23:03:22 GMT
+Accept-ranges: bytes
+Last-modified: Sat, 26 Jul 1997 11:19:28 GMT
+Content-length: 5805
+Content-type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; iso-8859-1">
+<title>Varco Home Page</title>
+<meta name="FORMATTER" content="Microsoft FrontPage 2.0">
+</head>
+
+<frameset cols="23%,77%">
+    <frame src="frcont01.htm" name="contents" marginwidth="1"
+    marginheight="13">
+    <frame src="frmain01.htm" name="main" marginwidth="1"
+    marginheight="1">
+    <noframes>
+    <body stylesrc="noframes.htm" bgcolor="#C0C0C0">
+    <!--webbot bot="Include" tag="BODY" u-include="noframes.htm"
+    startspan --><table border="0" cellpadding="0"
+    cellspacing="15" width="440">
+        <tr>
+            <td valign="top" width="190"><img
+            src="http://staging4.ew3.att.net:9165/images/pixrig.gif"
+            alt="Oil rig" width="148" height="203"> </td>
+            <td valign="top" width="250" cellpadding="10"
+            cellspacing="0"><img
+            src="http://staging4.ew3.att.net:9165/images/varcolgobvl2.gif"
+            alt="Icons" width="250" height="112"> <br>
+            <p><font color="#000000" size="3"><b>Varco
+            International, Inc. is a leading manufacturer of
+            products used in the oil and gas well drilling
+            industry worldwide. The company also leads in the
+            development of new technology and equipment to
+            enhance the safety and productivity of the drilling
+            process.</b></font><font color="#000000"> </font></p>
+            </td>
+        </tr>
+    </table>
+    <table border="0" cellpadding="0" cellspacing="15"
+    width="535">
+        <tr>
+            <td valign="top" width="185"><font color="#000000"
+            size="2">As oil companies look to the offshore areas
+            of the world for finding large reserviors of oil and
+            gas, demand for offshore drilling rigs accelerates.
+            Providing equipment which enhances the productivity
+            of rigs is the cornerstone of Varco's strategy.</font><font
+            color="#000000"> </font></td>
+            <td valign="top" width="350" cellpadding="0"
+            cellspacing="0"><font color="#000000" size="3"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our
+            five divisions <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provide products
+            including:</b> <br>
+            </font><table border="0" cellpadding="0"
+            cellspacing="15" width="350">
+                <tr>
+                    <td align="top" width="105"><font
+                    color="#000000" size="3"><img
+                    src="http://staging4.ew3.att.net:9165/images/varbjds.gif"
+                    alt="Icons" width="105" height="38"> </font></td>
+                    <td><font color="#000000" size="3">Integrated
+                    systems for rotating and handling pipe </font></td>
+                </tr>
+                <tr>
+                    <td><font color="#000000" size="3"><img
+                    src="http://staging4.ew3.att.net:9165/images/varbjot.gif"
+                    alt="Icons" width="105" height="38"> </font></td>
+                    <td><font color="#000000" size="3">Conventional
+                    pipe handling tools; hoisting equipment and
+                    rotary equipment </font></td>
+                </tr>
+                <tr>
+                    <td><font color="#000000" size="3"><img
+                    src="http://staging4.ew3.att.net:9165/images/totco.gif"
+                    alt="Icons" width="105" height="38"> </font></td>
+                    <td><font color="#000000" size="3">Drilling
+                    rig instrumentation </font></td>
+                </tr>
+                <tr>
+                    <td><font color="#000000" size="3"><img
+                    src="http://staging4.ew3.att.net:9165/images/shaffer.gif"
+                    alt="Icons" width="105" height="38"> </font></td>
+                    <td><font color="#000000" size="3">Pressure
+                    control equipment </font></td>
+                </tr>
+                <tr>
+                    <td><font color="#000000" size="3"><img
+                    src="http://staging4.ew3.att.net:9165/images/thule.gif"
+                    alt="Icons" width="105" height="38"> </font></td>
+                    <td><font color="#000000" size="3">Solids
+                    control equipment and systems </font></td>
+                </tr>
+                <tr>
+                    <td><a href="investor/invindx.htm"><font
+                    color="#000000" size="3"><img
+                    src="http://staging4.ew3.att.net:9165/images/investor.gif"
+                    alt="Icons" border="0" width="105"
+                    height="38"></font></a><font color="#000000"
+                    size="3"> </font></td>
+                    <td><font color="#000000" size="3">Company
+                    financial and stock information for current
+                    and prospective investors </font></td>
+                </tr>
+            </table>
+            <p><font color="#000000" size="2">&nbsp;&nbsp;</font><font
+            size="2">&nbsp;&nbsp;&nbsp;</font><a
+            href="mailto:webmaster@ora.varco.com"><font size="2">E-mail
+            Webmaster</font></a><font size="2"> </font></p>
+            </td>
+        </tr>
+    </table>
+    <hr>
+    <table border="0" cellpadding="0" cellspacing="0" width="615">
+        <tr>
+            <td valign="top" width="150">This page was last
+            updated on:<br>
+            26 July, 1997 07:19</td>
+            <td valign="top" width="300"><font color="#000000"
+            size="2"><b>Copyright © 1997 Varco International<br>
+            Modified March 3, 1997 </b></font></td>
+        </tr>
+    </table>
+    <!--webbot bot="Include" endspan i-checksum="45831" -->
+    </body>
+    </noframes>
+</frameset>
+</html>

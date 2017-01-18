@@ -1,0 +1,79 @@
+Date: Fri, 21 Nov 1997 02:30:11 GMT
+Server: AV/1.0.1
+MIME-Version: 1.0
+Content-Length: 6160
+Content-Type: text/html
+
+<html><head>
+<title>AltaVista: Main Page </title>
+</head><body    bgcolor="#ffffff"  text="#000000"  link="#0000ee" vlink="551a8b" alink="ff0000">
+<MAP NAME="header">
+<AREA SHAPE=RECT COORDS="21,8,29,16" HREF="http://www.altavista.telia.com/">
+<AREA SHAPE=RECT COORDS="10,24,18,32" HREF="http://www.altavista.magallanes.net/">
+<AREA SHAPE=RECT COORDS="48,33,56,41" HREF="http://altavista.skali.com.my/">
+<AREA SHAPE=RECT COORDS="66,47,74,55" HREF="http://www.altavista.yellowpages.com.au/">
+<AREA SHAPE=RECT COORDS="80,19,88,27" HREF="http://altavista.digital.com/">
+<AREA SHAPE=RECT COORDS="105,36,113,44" HREF="http://www.altavista.magallanes.net/">
+<AREA SHAPE=default HREF="/av/content/av_network.htm">
+</MAP>
+
+<!-- Alta La Vista 	what=web	script=/cgi-bin/query	text=the Web [Palo Alto]	what=news	script=/cgi-bin/query	text=Usenet [Palo Alto]	-->
+<center><a href="/cgi-bin/query?opt&"><IMG src="/av/gifs/av_logo.gif" alt="[AltaVista] "  BORDER=0 ALIGN=middle  HEIGHT=72 WIDTH=161></a><a href="/av/content/av_network.htm"><IMG src="/av/gifs/av_map.gif" ismap alt="[AltaVista Network] "  BORDER=0 ALIGN=middle  HEIGHT=72 WIDTH=127 usemap=#header></a><a href="http://ad.doubleclick.net/jump/altavista.digital.com/sponsor-button/left_badge;ord=244466"><img src="http://ad.doubleclick.net/ad/altavista.digital.com/sponsor-button/left_badge;ord=244466" ismap width=90 height=72 border=0 align=middle alt="Click Here"></a><a href="http://ad.doubleclick.net/jump/altavista.digital.com/sponsor-button/right_badge"><img src="http://ad.doubleclick.net/ad/altavista.digital.com/sponsor-button/right_badge" ismap width=90 height=72 border=0 align=middle alt="Click Here"></a></center><P><nolayer>
+<center>
+<iframe src="http://ad.doubleclick.net/adi/altavista.digital.com/" width=470 height=64 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no bordercolor="#000000">
+<a href="http://ad.doubleclick.net/jump/altavista.digital.com/">
+<img src="http://ad.doubleclick.net/ad/altavista.digital.com/" ismap width=468 height=60 border=0 alt="Click Here"></a>
+</iframe>
+</center>
+</nolayer>
+<ilayer height=63></ilayer>
+<FORM name=mfrm method=GET action="/cgi-bin/query">
+<center><INPUT TYPE=hidden NAME=pg VALUE=q>
+<table border=0 cellpadding=0 cellspacing=0>
+<tr><td colspan=3 bgcolor="#aaaaaa"><IMG src="/av/gifs/pixel.gif" alt="" height=1 width=1 border=0 ></td>
+<tr><td bgcolor="#aaaaaa"><IMG src="/av/gifs/pixel.gif" alt="" height=1 width=1 border=0 ></td>
+<td><table border=0 bgcolor="#ffffcc" cellspacing=0 cellpadding=4>
+<tr><td valign=top><font size=-1 face="arial, helvetica"><B>Search <SELECT NAME=what><OPTION VALUE=web SELECTED>the Web<OPTION VALUE=news >Usenet</SELECT>
+for documents in <SELECT NAME=kl><OPTION VALUE=XX SELECTED>any language 
+<OPTION VALUE=zh >Chinese
+<OPTION VALUE=cz >Czech
+<OPTION VALUE=da >Danish
+<OPTION VALUE=nl >Dutch
+<OPTION VALUE=en >English
+<OPTION VALUE=et >Estonian
+<OPTION VALUE=fi >Finnish
+<OPTION VALUE=fr >French
+<OPTION VALUE=de >German
+<OPTION VALUE=el >Greek
+<OPTION VALUE=he >Hebrew
+<OPTION VALUE=hu >Hungarian
+<OPTION VALUE=is >Icelandic
+<OPTION VALUE=it >Italian
+<OPTION VALUE=ja >Japanese
+<OPTION VALUE=ko >Korean
+<OPTION VALUE=lv >Latvian
+<OPTION VALUE=lt >Lithuanian
+<OPTION VALUE=no >Norwegian
+<OPTION VALUE=pl >Polish
+<OPTION VALUE=pt >Portuguese
+<OPTION VALUE=ro >Romanian
+<OPTION VALUE=ru >Russian
+<OPTION VALUE=es >Spanish
+<OPTION VALUE=sv >Swedish
+</SELECT></B></font></td><tr><td><INPUT NAME=q size=65 maxlength=800 wrap=virtual VALUE=""></td><tr><td align=right><INPUT type=image src="/av/gifs/search.gif" height=17 width=85 border=0 value="search.gif" alt="search" name="search" > <INPUT type=image src="/av/gifs/refine.gif" height=17 width=85 border=0 value="refine.gif" alt="refine" name="refine" ></td></table></td><td bgcolor="#aaaaaa"><IMG src="/av/gifs/pixel.gif" alt="" height=1 width=1 border=0 ></td><tr><td colspan=3 bgcolor="#aaaaaa"><IMG src="/av/gifs/pixel.gif" alt="" height=1 width=1 border=0 ></td><tr><td colspan=3 bgcolor="#ffffff" align=right><font face="arial, helvetica" size=-1><a href="/av/content/help_simple.htm">Help</a> . <a href="/cgi-bin/query?pg=tmpl&v=pref.html">Preferences</a> . <a href="/cgi-bin/query?pg=q">New Search</a> . <a href="/cgi-bin/query?pg=aq">Advanced Search</a></font></td></table></center>
+
+
+<!-- 3 -->
+<CENTER><P>
+<font size=+1 face="arial,helvetica" color=#ff0800>
+LIVE from Comdex!
+<a href="http://www.marketspace.altavista.digital.com/">AltaVista MarketSpace.</a>
+</font>
+</CENTER>
+<center><TABLE width=468 border=0><TR><TD align=center><HR size=0 width=468><font face="arial, helvetica" size=-1><a href="/av/content/av_network.htm">Our Network</a> <font size=-1 color="#ff0000">|</font> <a href="/av/content/addurl.htm">Add/Remove URL</a> <font size=-1 color="#ff0000">|</font> <a href="/av/content/questions.htm">Feedback</a> <font size=-1 color="#ff0000">|</font> <a href="/av/content/help.htm">Help</a><br><a href="http://www.doubleclick.net/jumps/jump1217.htm">Advertising Info</a> <font size=-1 color="#ff0000">|</font> <a href="/av/content/about.htm">About AltaVista</a> <font size=-1 color="#ff0000">|</font> <a href="/av/content/jobs.htm">Jobs</a> <font size=-1 color="#ff0000">|</font> <a href="/cgi-bin/query?pg=q&text=yes">Text-Only</a></font><HR size=0 width=468 align=center></TD></TR></TABLE></center><center><table width=468 border=0><tr><td valign=top><a href="http://www.digital.com"><img src="/av/gifs/digital-logo.gif" width=90 height=33 border=0></a></td><td align=center><font face="arial, helvetica"><a href="http://www.digital.com/"><b>Digital Equipment Corporation</b></a></font><br><font face="arial, helvetica" size=-2 color="#ff0000"><a href="/av/content/disclaimer.htm">Disclaimer</a> | <a href="/av/content/privacy.htm">Privacy Statement</a></font><br><font face="arial, helvetica" size=-2>Copyright 1997 &copy; All Rights Reserved</font></td><td valign=top>
+<a href="/av/content/searchpx.htm">
+<img src="/av/gifs/searchpx.gif" width=90 height=31 border=0 align=right>
+</a>
+</td></tr></table></center></FORM>
+<layer top=99 src="http://ad.doubleclick.net/adl/altavista.digital.com/"></layer>
+</BODY></HTML>

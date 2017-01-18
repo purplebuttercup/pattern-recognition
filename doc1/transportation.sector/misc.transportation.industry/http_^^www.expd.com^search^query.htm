@@ -1,0 +1,68 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 20 Nov 1997 15:55:17 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Thu, 19 Sep 1996 17:54:17 GMT
+Content-Length: 2001
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 3.0//EN" "html.dtd">
+
+<HTML>
+<META NAME="DESCRIPTION" CONTENT="Query form for Microsoft Index Server on expd.com">
+
+<HEAD>
+<TITLE>Expeditors International</TITLE>
+</HEAD>
+
+<BODY background="../graphics/bg-wht-1.gif">
+<center><A HREF="../index.htm"><IMG SRC="../graphics/glblg99.gif" width="320" BORDER="0"></A>
+
+
+<FORM ACTION="/scripts/expdsrch/query.idq" METHOD="GET">
+
+    <TABLE WIDTH="640">
+	<TR><TD COLSPAN="3"><center><font size=+1>You'd be surprised how far we'll go for you.</font></TD></TR>
+  	<TR><TD><H2>
+	<IMG SRC="../graphics/binoc99.gif" ALIGN=CENTER WIDTH="45">Search Page</H2></TD></TR>    
+   	<TR><TD>Enter your query below:</TD></TR>
+
+        <TR>
+            <TD>
+	      <INPUT TYPE="TEXT" NAME="CiRestriction" SIZE="50" MAXLENGTH="100" VALUE="">
+	      <SELECT NAME="CiScope">
+		<OPTION SELECTED VALUE="/expd/">Search entire site
+		<OPTION VALUE="/flash/">Flash Archive
+		<OPTION VALUE="/news/">News
+		<OPTION VALUE="/finance/">Financial Information
+		<OPTION VALUE="/key/">Expeditors Office Directory
+		<OPTION VALUE="/tariff/">Tariff
+	      </SELECT>
+	    </TD>
+
+            <TD><INPUT TYPE="SUBMIT" VALUE="Execute Query"></TD>
+            <TD><INPUT TYPE="RESET" VALUE="Clear"></TD>
+        </TR>
+
+        <TR>
+            <TD><A HREF="qrylang.htm">Tips for searching</A></TD>
+        </TR>
+	<TR>
+	    <TD><FONT COLOR="FFFFFF">*</FONT></TD></TR>
+	<TR>
+	    <TD><FONT SIZE="-1"><A HREF="/expd/tdisclm.htm">Click here</A> if you have selected to search the Tariff</FONT></TD>
+        </TR>
+
+        <INPUT TYPE="HIDDEN" NAME="CiMaxRecordsPerPage" VALUE="10">
+        <INPUT TYPE="HIDDEN" NAME="TemplateName" VALUE="query">
+        <INPUT TYPE="HIDDEN" NAME="CiSort" VALUE="rank[d]">
+        <INPUT TYPE="HIDDEN" NAME="HTMLQueryForm" VALUE="/expd/query.htm">
+    </TABLE>
+</FORM>
+</CENTER>
+<BR>
+
+<p>
+
+</BODY>
+</HTML>
+

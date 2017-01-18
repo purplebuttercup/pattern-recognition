@@ -1,0 +1,108 @@
+Server: Netscape-Enterprise/2.01
+Date: Fri, 21 Nov 1997 04:56:15 GMT
+Accept-ranges: bytes
+Last-modified: Thu, 20 Nov 1997 17:37:15 GMT
+Content-length: 5548
+Content-type: text/html
+
+<HTML>
+<HEAD><TITLE>International Rectifier - General Product Information - Gov't & Space Products</TITLE>
+<TITLE>International Rectifier, Government Space Product, Power Semiconductor</TITLE>
+<TITLE>International Rectifier - General Product Information - Gov't & Space Products</TITLE>
+
+<BASE HREF="http://www.irf.com/">
+
+<META  name="description" content="International Rectifier - Celebrating 50 years as the Power Semiconductor Leader.">
+<META  name="keywords" content="International Rectifier, Government Space Product, Power Semiconductor">
+<head keywords="International Rectifier, Government Space Product, Power Semiconductor">
+<!-- International Rectifier, Government Space Product, Power Semiconductor -->
+</HEAD>
+<BODY BACKGROUND="graphics/50back.gif" TEXT="#000000" LINK="#400080" VLINK="#404040">
+
+<map name="irnav">
+<area shape="rect" coords="0,0,57,24" href="search/">
+<area shape="rect" coords="83,0,153,23" href="product-info/">
+<area shape="rect" coords="182,0,241,23" href="whats-new/">
+<area shape="rect" coords="274,0,334,24" href="aboutir-info/">
+<area shape="rect" coords="367,0,429,24" href="whoto-call/">
+<area shape="default" nohref>
+</map>
+
+<P>
+
+<table cellpadding=0 cellspacing=0 width=580>
+<tr><td><IMG SRC="graphics/spacer.gif" ALT="IR" WIDTH=72 HEIGHT=1></td>
+<td><IMG SRC="graphics/irlogo.gif" ALT="IR Logo" WIDTH=135 HEIGHT=50></td>
+<td><a href="/product-info/govt-space/gsqirl.html">
+<IMG SRC="/product-info/govt-space/qirl.gif" ALT="qirl.gif - 7.2 K" WIDTH=317 HEIGHT=61></a>
+<!-- <IMG SRC="graphics/prodinfo.gif" ALT="Product Information" WIDTH=317 HEIGHT=61>--></td>
+<td rowspan=2>
+<IMG SRC="graphics/diode.gif" ALT="diode image" WIDTH=56 HEIGHT=95 ALIGN=right>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<IMG SRC="graphics/redspc.gif" ALT="Red Spaces" WIDTH=75 HEIGHT=27 ALIGN=left>
+<IMG SRC="graphics/irnav.gif" ALT="Navigational Bar" WIDTH=430 HEIGHT=25 ALIGN=left usemap="#irnav" border="off">
+</td>
+</tr>
+</table>
+<TABLE>
+<TR>
+<TD ROWSPAN=2 WIDTH=10><BR></TD>
+<TD ROWSPAN=2 WIDTH=110 VALIGN="TOP">
+<NOBR><A HREF="product-info/topical.htm"><IMG SRC="graphics/genprod.gif" ALT="General Product Information" WIDTH=68 HEIGHT=46 BORDER="OFF"></A>
+<IMG SRC="graphics/arrow.gif" ALT="You Are Here" WIDTH=26 HEIGHT=22 ALIGN=ABSMIDDLE></NOBR><BR>
+<A HREF="technical-info/"><IMG SRC="graphics/techinfo.gif" ALT="Technical Information" WIDTH=67 HEIGHT=48 BORDER="OFF"></A><BR>
+<A HREF="product-info/shortform/"><IMG SRC="graphics/shortform.gif" ALT="Short Form Catalog" WIDTH=69 HEIGHT=47 BORDER="OFF"></A><BR>
+<A HREF="product-info/navigator/"><IMG SRC="graphics/navigator.gif" ALT="Navigator" WIDTH=69 HEIGHT=28 BORDER="OFF"></A><BR>
+<A HREF="product-info/datasheets.htm"><IMG SRC="graphics/datasheets.gif" ALT="Datasheets" WIDTH=71 HEIGHT=28 BORDER="OFF"></A><BR>
+<A HREF="product-info/models/"><IMG SRC="graphics/models.gif" ALT="Spice & Saber Models" WIDTH=67 HEIGHT=46 BORDER="OFF"></A><BR>
+<A HREF="product-info/reliability/"><IMG SRC="graphics/reliability.gif" ALT="Reliability Reports" WIDTH=69 HEIGHT=47 BORDER="OFF"></A><BR>
+</TD>
+<TD WIDTH=160 VALIGN="TOP">
+<!-- <IMG SRC="graphics/govtspace1.gif" ALT="Gov't & Space" WIDTH=225 HEIGHT=155>-->
+<IMG SRC="graphics/govtspace2.gif" ALT="Gov't & Space" WIDTH=150 HEIGHT=103>
+<!-- <IMG SRC="graphics/govtspace3.gif" ALT="Govt-Space" WIDTH=113 HEIGHT=77>--></td>
+<td align="CENTER"><a href="/product-info/govt-space/gssep97.html">
+<FONT  SIZE=+2>Government and Space<BR>Product Update<BR>September 1997</FONT></a></td>
+</tr><tr><TD WIDTH=460 colspan=2>
+IR's Government &amp; Space Products group is dedicated to bringing
+state-of-the-art products such as HEXFET<sup>&reg;</sup> power MOSFETs, Rad Hard HEXFETs,
+UltraFast IGBTs, HEXFRED<sup>&reg;</sup> diodes, and a host of multi-function power
+integrated circuits to the hi-rel community in the highest-quality,
+most-reliable packaging available.<p>
+</TD>
+</TR>
+</TABLE>
+<TABLE WIDTH=590>
+<TR><TD COLSPAN=2><HR></TD></TR>
+<TR><TD WIDTH=75 VALIGN="TOP"><FONT COLOR="#FF0000"><CENTER><EM>News<BR>Releases</EM></CENTER></FONT></TD>
+<TD WIDTH=505 VALIGN="TOP">
+International Rectifier New QIRL Program Provides Standardized Rad-Hard Components for Space Applications <a href="whats-new/nr111497.html">(November 14, 1997)</a><P>
+</TD>
+</TR>
+</TABLE>
+<TABLE WIDTH=580>
+<TR><TD COLSPAN=3><HR></TD></TR>
+<TR>
+<TD WIDTH=75 VALIGN="TOP">
+<FONT COLOR="#FF0000"><CENTER><EM>Gov't &<BR>Space<BR>Quick<BR>Links</EM></CENTER></FONT></TD>
+<TD WIDTH=90 VALIGN="TOP">
+<A HREF="product-info/datasheets.htm"><IMG SRC="graphics/datasheets.gif" ALT="Datasheets" WIDTH=71 HEIGHT=28 BORDER="OFF"></A>
+<A HREF="product-info/shortform/"><IMG SRC="graphics/shortform.gif" ALT="Short Form Catalog" WIDTH=69 HEIGHT=47 BORDER="OFF"></A></TD>
+<TD WIDTH=415 VALIGN="TOP">
+<DL><LI><A HREF="product-info/datasheets/govspace.htm"><IMG SRC="/images/pdficon.gif" ALT="Pdficon" WIDTH=28 HEIGHT=31></A>  Government and Space Datasheet Listing 
+<LI><A HREF="product-info/shortform/sfgovtspac.pdf"><IMG SRC="/images/pdficon.gif" ALT="Pdficon" WIDTH=28 HEIGHT=31></a>
+Government and Space Short Form Catalog with hyperlinks - get 
+<a href="http://www.adobe.com/prodindex/acrobat/readstep.html">
+Acrobat 3.0 Reader (Freeware)</a> now.</A></DL>
+</TD>
+</TR>
+</TABLE>
+<IMG SRC="graphics/redspc.gif" ALT="Red Spaces" WIDTH=75 HEIGHT=27>
+<a href="http://www.irf.com/"><IMG SRC="graphics/home.gif" ALT="Home Page" WIDTH=111 HEIGHT=25 BORDER="OFF"></A>
+</BODY>
+</HTML>
+
+

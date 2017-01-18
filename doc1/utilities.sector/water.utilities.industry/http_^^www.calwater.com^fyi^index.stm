@@ -1,0 +1,48 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 18 Dec 1997 21:50:36 GMT
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+   <TITLE>Cal Water - F.Y.I.</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+   <H2><FONT SIZE=+3>F</FONT>or <FONT SIZE=+3>Y</FONT>our <FONT SIZE=+3
+       >I</FONT>nformation</H2>
+   <p>
+   <HR>
+   <UL>
+      <LI>
+         <A HREF="private_water.stm">
+            Answers To Your Questions About the Private Water Option
+         </A>
+      </li>
+      <LI>
+         <A HREF="trivia_questions.stm">
+            Trivia Questions
+         </a>
+      </li>
+      <li>
+         <a href="municipal_finance_workshop.stm">
+            Municipal Finance WorkShop - September 26, 1997
+         </a>
+      </li>
+   </UL>
+   <HR>
+<CENTER>
+<H4> <A HREF="/index.stm">Home</A> 
+   | <A HREF="/about_calwater/index.stm">About Cal Water</A>
+   | <A HREF="/annual_report/index.stm">Annual Report</A> 
+   | <A HREF="http://quote.yahoo.com/q?s=cwt&d=t">Current Stock Quote</A> 
+   | <A HREF="/rates/index.stm">Rates</A> 
+   | <A HREF="/districts/index.stm">Cal Water Districts</A>		
+   | <A HREF="/press_releases/index.stm">Press Releases</A>
+   | <A HREF="/conservation/index.stm">Conservation</A> 
+   | <A HREF="/fyi/index.stm">F.Y.I.</A> 
+   | <A HREF="/other_sites.stm">Other Useful Sites</A>
+   | <a href="/job_opportunities/index.stm">Job Opportunities</a>
+   | <A HREF="mailto:arubinstein@calwater.com">Contact Us</a></H4>
+</CENTER>
+
+</BODY>
+</HTML>

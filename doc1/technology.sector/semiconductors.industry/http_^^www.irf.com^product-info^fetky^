@@ -1,0 +1,252 @@
+Server: Netscape-Enterprise/2.01
+Date: Fri, 21 Nov 1997 04:56:08 GMT
+Accept-ranges: bytes
+Last-modified: Thu, 20 Nov 1997 01:15:08 GMT
+Content-length: 11192
+Content-type: text/html
+
+<HTML>
+<HEAD><TITLE>International Rectifier - Product Information - Short Form Catalog</TITLE>
+
+<BASE HREF="http://www.irf.com/">
+
+<META  name="description" content="International Rectifier - Celebrating 50 years as the Power Semiconductor Leader.">
+<META  name="keywords" content="International Rectifier, Power Semiconductor, Product, Datasheets, Short Form Catalog">
+
+</HEAD>
+<BODY BACKGROUND="graphics/50back.gif" TEXT="#000000" LINK="#400080" VLINK="#404040">
+
+<map name="irnav">
+<area shape="rect" coords="0,0,57,24" href="search/">
+<area shape="rect" coords="83,0,153,23" href="product-info/">
+<area shape="rect" coords="182,0,241,23" href="whats-new/">
+<area shape="rect" coords="274,0,334,24" href="aboutir-info/">
+<area shape="rect" coords="367,0,429,24" href="whoto-call/">
+<area shape="default" nohref>
+</map>
+
+<P>
+
+<table width=580>
+<tr><td><IMG SRC="graphics/spacer.gif" ALT="IR" WIDTH=72 HEIGHT=1></td>
+<td><IMG SRC="graphics/irlogo.gif" ALT="IR Logo" WIDTH=135 HEIGHT=50></td>
+<td><IMG SRC="graphics/prodinfo.gif" ALT="Product Information" WIDTH=317 HEIGHT=61></td>
+<td rowspan=2>
+<IMG SRC="graphics/diode.gif" ALT="diode image" WIDTH=56 HEIGHT=95 ALIGN=right>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<IMG SRC="graphics/redspc.gif" ALT="Red Spaces" WIDTH=75 HEIGHT=27 ALIGN=left>
+<IMG SRC="graphics/irnav.gif" ALT="Navigational Bar" WIDTH=430 HEIGHT=25 ALIGN=left usemap="#irnav" border="off">
+</td>
+</tr>
+</table>
+<TABLE width=580>
+<TR>
+<TD rowspan=4 WIDTH=10><BR></TD>
+<TD rowspan=4 WIDTH=110 VALIGN="TOP">
+<NOBR><A HREF="product-info/topical.htm"><IMG SRC="graphics/genprod.gif" ALT="General Product Information" WIDTH=68 HEIGHT=46 BORDER="OFF"></A>
+<IMG SRC="graphics/arrow.gif" ALT="You Are Here" WIDTH=26 HEIGHT=22 ALIGN=ABSMIDDLE></NOBR><BR>
+<A HREF="technical-info/"><IMG SRC="graphics/techinfo.gif" ALT="Technical Information" WIDTH=67 HEIGHT=48 BORDER="OFF"></A><BR>
+<A HREF="product-info/shortform/"><IMG SRC="graphics/shortform.gif" ALT="Short Form Catalog" WIDTH=69 HEIGHT=47 BORDER="OFF"></A>
+<A HREF="product-info/navigator/"><IMG SRC="graphics/navigator.gif" ALT="Navigator" WIDTH=69 HEIGHT=28 BORDER="OFF"></A><BR>
+<A HREF="product-info/datasheets.htm"><IMG SRC="graphics/datasheets.gif" ALT="Datasheets" WIDTH=71 HEIGHT=28 BORDER="OFF"></A><BR>
+<A HREF="product-info/models/"><IMG SRC="graphics/models.gif" ALT="Spice & Saber Models" WIDTH=67 HEIGHT=46 BORDER="OFF"></A><BR>
+<A HREF="product-info/reliability/"><IMG SRC="graphics/reliability.gif" ALT="Reliability Reports" WIDTH=69 HEIGHT=47 BORDER="OFF"></A><BR>
+</TD>
+<td colspan=2>
+<I>Another first from IR, the Fetky offers up to 60% board space savings and reduced assembly cost and layout inductance when 
+compared with the discrete alternative.  </I> 
+</td>
+</tr>
+<tr> 
+<TD>What is a <a href="new-products/fetky.htm">FETKY</a>?<p>
+<IMG SRC="graphics/fetky.jpg" ALT="FETKY" WIDTH=195 HEIGHT=164>
+</FONT>
+</td>
+<TD>
+International Rectifier Introduces the Micro8 FETKY<sup><font  size=-4>TM</font></sup> Integrating a HEXFET<sup><font  size=-3>&reg;</font></sup> Power MOSFET and Schottky Diode into a Single Package <a href="whats-new/nr082297.html">(August 22,1997)</a><P>
+International Rectifier Launches New FETKY Technology For High Density Power Converters <A HREF="whats-new/nrmay13.html">(May 13, 1996).</a><P>
+Try the <a href="product-info/fetky/navfetky.pdf">FETKY<sup>TM</sup> Navigator</a>
+ -  a <font size=-2 color="#CC0000">NEW</font></I>
+product selection utility from IR.
+</TD>
+</tr>
+</table>
+<table width=580>
+	<TR VALIGN="bottom">
+		<TD width="90"><BR></TD>
+		<TD>
+<table Border width=490>
+	<TR VALIGN="bottom">
+		<TD COLSPAN=8 ALIGN="CENTER"><FONT FACE="Arial" SIZE=+2>
+		<I>Fetky<SUP>TM</SUP></I> HEXFET &amp; Schottky Co-Pak</FONT></TD>
+	</TR>
+
+	<TR>
+		<TD><CENTER><B>Package</B></CENTER></TD>
+		<TD><CENTER><B>Part Number</B></CENTER></TD>
+		<TD ALIGN="CENTER"><B>BV<SUB>DSS</SUB> (V)</B></TD>
+		<TD><CENTER><B>HEXFET</B></CENTER></TD>
+		<TD><CENTER><B>R<SUB>DSon</SUB></B></CENTER></TD>
+		<TD><CENTER><B>I<SUB>D</SUB> @ 25</CENTER><SUP>0</SUP>C</B></TD>
+		<TD><CENTER><B>Schottky</B></CENTER></TD>
+		<TD><CENTER><B>Datasheet</B></CENTER></TD>
+	</TR>
+	<TR>
+		<TD rowspan=4>MICRO8</TD>
+		<TD BORDER>IRF7521D1</TD>
+		<TD ALIGN="CENTER">20V</TD>
+		<TD ALIGN="CENTER">N-channel</TD>
+		<TD ALIGN="CENTER">135m</FONT><FONT FACE="Symbol">W</FONT> @ 4.5V</TD>
+		<TD ALIGN="CENTER">2.4A </TD>
+		<TD ALIGN="CENTER">0.5V, 1.5A</TD>
+		<TD ALIGN="CENTER"><CENTER><A HREF="product-info/datasheets/data/irf7521d1.pdf">
+		<IMG SRC="http://www.irf.com/images/pdficon.gif" ALT="PDF" WIDTH=28 HEIGHT=31></a></CENTER></TD>
+	</TR>
+	<TR>
+		<TD ALIGN="CENTER">IRF7523D1</TD>
+		<TD ALIGN="CENTER">30V</TD>
+		<TD ALIGN="CENTER">N-channel</TD>
+		<TD ALIGN="CENTER">135m</FONT><FONT FACE="Symbol">W</FONT> @ 10V</TD>
+		<TD ALIGN="CENTER">2.4A </TD>
+		<TD ALIGN="CENTER">0.5V, 1.5A</TD>
+		<TD ALIGN="CENTER"><CENTER><A HREF="product-info/datasheets/data/irf7523d1.pdf">
+		<IMG SRC="http://www.irf.com/images/pdficon.gif" ALT="PDF" WIDTH=28 HEIGHT=31></a></CENTER></TD>
+	</TR>
+	<TR>
+		<TD ALIGN="CENTER">IRF7524D1</TD>
+		<TD ALIGN="CENTER">20V</TD>
+		<TD ALIGN="CENTER">P-channel</TD>
+		<TD ALIGN="CENTER">270m</FONT><FONT FACE="Symbol">W</FONT> @ -4.5V</TD>
+		<TD ALIGN="CENTER">-1.7A </TD>
+		<TD ALIGN="CENTER">0.5V, 1.5A</TD>
+		<TD ALIGN="CENTER"><CENTER><A HREF="product-info/datasheets/data/irf7524d1.pdf">
+		<IMG SRC="http://www.irf.com/images/pdficon.gif" ALT="PDF" WIDTH=28 HEIGHT=31></a></CENTER></TD>
+	</TR>
+	<TR>
+		<TD ALIGN="CENTER">IRF7526D1</TD>
+		<TD ALIGN="CENTER">30V</TD>
+		<TD ALIGN="CENTER">P-channel</TD>
+		<TD ALIGN="CENTER">270m</FONT><FONT FACE="Symbol">W</FONT> @ -10V</TD>
+		<TD ALIGN="CENTER">-1.7A </TD>
+		<TD ALIGN="CENTER">0.5V, 1.5A</TD>
+		<TD ALIGN="CENTER"><CENTER><A HREF="product-info/datasheets/data/irf7526d1.pdf">
+		<IMG SRC="http://www.irf.com/images/pdficon.gif" ALT="PDF" WIDTH=28 HEIGHT=31></a></CENTER></TD>
+	</TR>
+	<TR><FONT FACE="Arial">
+		<TD rowspan=4>SO-8</TD>
+		<TD ALIGN="CENTER">IRF7421D1</TD>
+		<TD ALIGN="CENTER">30V</TD>
+		<TD ALIGN="CENTER">N-channel</TD>
+		<TD ALIGN="CENTER">35m<FONT FACE="Symbol">W</FONT> @ 10V</TD>
+		<TD ALIGN="CENTER">6.4A @ 250C</TD>
+		<TD ALIGN="CENTER">0.42V, 1.5A</TD>
+		<TD ALIGN="CENTER"><CENTER><A HREF="product-info/datasheets/data/irf7421d1.pdf">
+		<IMG SRC="http://www.irf.com/images/pdficon.gif" ALT="PDF" WIDTH=28 HEIGHT=31></a></CENTER></TD>
+	</FONT></TR>
+	<TR><FONT FACE="Arial">
+		<TD ALIGN="CENTER">IRF7422D2</TD>
+		<TD ALIGN="CENTER">-20V</TD>
+		<TD ALIGN="CENTER">P-channel</TD>
+		<TD ALIGN="CENTER">90m<FONT FACE="Symbol">W</FONT> @ -4.5V</TD>
+		<TD ALIGN="CENTER">-4.6A @ 250C</TD>
+		<TD ALIGN="CENTER">0.5V, 3A</TD>
+		<TD ALIGN="CENTER"><CENTER><A HREF="product-info/datasheets/data/irf7422d2.pdf">
+		<IMG SRC="http://www.irf.com/images/pdficon.gif" ALT="PDF" WIDTH=28 HEIGHT=31></a></CENTER></TD>
+	</FONT></TR>
+	<TR>
+		<TD ALIGN="CENTER">IRF7321D2</TD>
+		<TD ALIGN="CENTER">30V</TD>
+		<TD ALIGN="CENTER">P-channel</TD>
+		<TD ALIGN="CENTER">58m</FONT><FONT FACE="Symbol">W</FONT> @ -10V</TD>
+		<TD ALIGN="CENTER">-5.3A </TD>
+		<TD ALIGN="CENTER">0.5V, 3A</TD>
+		<TD ALIGN="CENTER"><CENTER><A HREF="product-info/datasheets/data/irf7321d2.pdf">
+		<IMG SRC="http://www.irf.com/images/pdficon.gif" ALT="PDF" WIDTH=28 HEIGHT=31></a></CENTER></TD>
+	</TR>
+	<TR>
+		<TD ALIGN="CENTER">IRF7322D1</TD>
+		<TD ALIGN="CENTER">20V</TD>
+		<TD ALIGN="CENTER">P-channel</TD>
+		<TD ALIGN="CENTER">58m</FONT><FONT FACE="Symbol">W</FONT> @ -4.5V</TD>
+		<TD ALIGN="CENTER">-5.0A </TD>
+		<TD ALIGN="CENTER">0.5V, 1.5A</TD>
+		<TD ALIGN="CENTER"><CENTER><A HREF="product-info/datasheets/data/irf7322d1.pdf">
+		<IMG SRC="http://www.irf.com/images/pdficon.gif" ALT="PDF" WIDTH=28 HEIGHT=31></a></CENTER></TD>
+	</TR>
+	<TR><FONT FACE="Arial">
+		<TD rowspan=3>TO-220</TD>
+		<TD ALIGN="CENTER">IRL3103D1</TD>
+		<TD ALIGN="CENTER">30V</TD>
+		<TD ALIGN="CENTER">N-channel</TD>
+		<TD ALIGN="CENTER">14m<FONT FACE="Symbol">W</FONT> @ 10V</TD>
+		<TD ALIGN="CENTER">64A @ 250C</TD>
+		<TD ALIGN="CENTER">0.42V, 1.5A</TD>
+		<TD ALIGN="CENTER"><CENTER><A HREF="product-info/datasheets/data/irfl3103d1.pdf">
+		<IMG SRC="http://www.irf.com/images/pdficon.gif" ALT="PDF" WIDTH=28 HEIGHT=31></a></CENTER></TD>
+	</FONT></TR>
+	<TR><FONT FACE="Arial">
+		<TD ALIGN="CENTER">IRL3103D2</TD>
+		<TD ALIGN="CENTER">30V</TD>
+		<TD ALIGN="CENTER">N-channel</TD>
+		<TD ALIGN="CENTER">14m<FONT FACE="Symbol">W</FONT> @ 10V</TD>
+		<TD ALIGN="CENTER">64A @ 250C</TD>
+		<TD ALIGN="CENTER">0.5V, 3A</TD>
+		<TD ALIGN="CENTER"><CENTER><!-- <A HREF="product-info/datasheets/data/irl3103d2.pdf">
+		<IMG SRC="http://www.irf.com/images/pdficon.gif" ALT="PDF" WIDTH=28 HEIGHT=31>--></a></CENTER></TD>
+	</FONT></TR>
+	<TR><FONT FACE="Arial">
+		<TD ALIGN="CENTER">IRL3303D1</TD>
+		<TD ALIGN="CENTER">30V</TD>
+		<TD ALIGN="CENTER">N-channel</TD>
+		<TD ALIGN="CENTER">26m<FONT FACE="Symbol">W</FONT> @ 10V</TD>
+		<TD ALIGN="CENTER">38A @ 250C</TD>
+		<TD ALIGN="CENTER">0.42V, 1.5A</TD>
+		<TD ALIGN="CENTER"><CENTER><!-- <A HREF="product-info/datasheets/data/irl3303d1.pdf">
+		<IMG SRC="http://www.irf.com/images/pdficon.gif" ALT="PDF" WIDTH=28 HEIGHT=31></a>--></CENTER></TD>
+	</FONT></TR>
+	<TR><FONT FACE="Arial">
+		<TD rowspan=3>D2-pak</TD>
+		<TD ALIGN="CENTER">IRL3103D1S</TD>
+		<TD ALIGN="CENTER">30V</TD>
+		<TD ALIGN="CENTER">N-channel</TD>
+		<TD ALIGN="CENTER">14m<FONT FACE="Symbol">W</FONT> @ 10V</TD>
+		<TD ALIGN="CENTER">64A @ 250C</TD>
+		<TD ALIGN="CENTER">0.42V, 1.5A</TD>
+		<TD ALIGN="CENTER"><CENTER><A HREF="product-info/datasheets/data/irfl3103d1s.pdf">
+		<IMG SRC="http://www.irf.com/images/pdficon.gif" ALT="PDF" WIDTH=28 HEIGHT=31></a></CENTER></TD>
+	</FONT></TR>
+	<TR><FONT FACE="Arial">
+		<TD ALIGN="CENTER">IRL3103D2S</TD>
+		<TD ALIGN="CENTER">30V</TD>
+		<TD ALIGN="CENTER">N-channel</TD>
+		<TD ALIGN="CENTER">14m<FONT FACE="Symbol">W</FONT> @ 10V</TD>
+		<TD ALIGN="CENTER">64A @ 250C</TD>
+		<TD ALIGN="CENTER">0.5V, 3A</TD>
+		<TD ALIGN="CENTER"><CENTER><!-- <A HREF="product-info/datasheets/data/irl3103d2s.pdf">
+		<IMG SRC="http://www.irf.com/images/pdficon.gif" ALT="PDF" WIDTH=28 HEIGHT=31></a>--></CENTER></TD>
+	</FONT></TR>
+	<TR><FONT FACE="Arial">
+		<TD ALIGN="CENTER">IRL3303D1S</TD>
+		<TD ALIGN="CENTER">30V</TD>
+		<TD ALIGN="CENTER">N-channel</TD>
+		<TD ALIGN="CENTER">26m<FONT FACE="Symbol">W</FONT> @ 10V</TD>
+		<TD ALIGN="CENTER">38A @ 250C</TD>
+		<TD ALIGN="CENTER">0.42V, 1.5A</TD>
+		<TD ALIGN="CENTER"><CENTER><!-- <A HREF="product-info/datasheets/data/irl3103d2s.pdf">
+		<IMG SRC="http://www.irf.com/images/pdficon.gif" ALT="PDF" WIDTH=28 HEIGHT=31></a>--></CENTER></TD>
+	</FONT></TR>
+	<TR><TD colspan=8>Note:  All Fetky devices are available in tape and reel options.</td></tr>
+</TABLE>
+</td>
+</tr>
+</table>
+
+<IMG SRC="graphics/redspc.gif" ALT="Red Spaces" WIDTH=75 HEIGHT=27>
+<a href="http://www.irf.com/"><IMG SRC="graphics/home.gif" ALT="Home Page" WIDTH=111 HEIGHT=25 BORDER="OFF"></A>
+</BODY>
+</HTML>
+
+

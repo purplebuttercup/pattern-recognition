@@ -1,0 +1,85 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 20 Nov 1997 15:58:51 GMT
+Content-Type: text/html
+
+<HTML>
+
+<HEAD><TITLE>How to Use Our Site</TITLE></HEAD>
+
+<BODY BACKGROUND="/shared/K_Background.gif">
+
+<TABLE BORDER=0 CELLPADDING=4>
+
+
+<TR>
+<TD ><PRE>&nbsp;           </PRE></TD>
+
+<TD>
+<TABLE border=0><TR><TD>
+
+<H2><FONT SIZE=+3>I</FONT>N <FONT SIZE=+3>T</FONT>HE <FONT SIZE=+3>C</FONT>OCKPIT</H2>
+<P></P>
+Listed here are the basic instructions for navigating our site.  Think of it as your "cockpit training".  Read on and get ready for take off!
+<P></P>
+There are four main areas of every page.  They are:<IMG SRC="/Help/Site/images/G_Bluebar.gif" ALIGN=RIGHT WIDTH="100" HEIGHT="143" BORDER="0">
+<UL>
+	<LI>vertical blue bar
+	<LI>body
+	<LI>navigation buttons
+	<LI>menu bar
+</UL>
+<P></P>
+The <B>blue bar</B> is found in the left hand margin of every page.  On some pages it offers clickable icons that bring you reference tools such as calendars, tips, fare information, etc. These reference tools are meant to augment the page that preceded. Use your browser's "Back" button to return to the page you left .  
+<P></P>
+<IMG SRC="/Help/Site/images/G_Buttons.gif" ALIGN=RIGHT WIDTH="146" HEIGHT="162" BORDER="0">
+The <B>body</B> of the page is all of the information or images other than the blue bar, navigation buttons and menu bar.
+<P></P>
+The <B>navigation buttons</B>  will take you to another page within your current section (e.g. Reservations, Mileage Plan, Destinations, etc.).  In the Reservations section they are color coded to direct you to the most efficient route for holding a reservation or completing your Instant Travel (electronic ticket) purchase.  Blue buttons are the recommended path.  White buttons take you to optional pages.
+<P></P>
+The <B>menu bar</B> is located at the bottom of every page.  It provides you with links that take you to the top page of every section within our site or back to the Home Page.
+<P></P>
+We hope you have found this brief overview helpful.  Now put your seat in the upright position and get ready for take off.  Click on one of the menu bar icons below to begin your trip through our site.  
+</TD>
+</TR>
+<TR>
+<TD ALIGN=CENTER NOWRAP>
+<HR align=center width=65%>
+
+<FONT SIZE=-1>
+<A HREF="/contents.stm">Home</A>&nbsp;/&nbsp;
+<A HREF="http://207.108.221.3/rez/cgi-bin/Sched.acgi">
+Schedules</A>&nbsp;/&nbsp;
+<A HREF="http://207.108.221.3/rez/cgi-bin/Rez.acgi">
+Reservations</A>&nbsp;/&nbsp;
+<A HREF="/WebSpecials/start.asp">Web Specials</A>&nbsp;/&nbsp;
+<A HREF="/IT/IT.stm">Instant Travel</A>
+<BR>
+<A HREF="/easypak/qx_easypak.stm">EasyPAK Booklets</A>&nbsp;/&nbsp;
+<A HREF="/mileageplan/start.asp">Mileage Plan Account Info</A>&nbsp;/&nbsp;
+<A HREF="/Cargo/html/AS_QX_CargoIndex.stm">Cargo</A>
+<BR>
+<A HREF="/destinations/Routemap.stm">Route Map</A>&nbsp;/&nbsp;
+<A HREF="/AS_QX_VacationsIndex/AS_QX_VacationsIndex.stm">Vacations</A>&nbsp;/&nbsp;
+<A HREF="/destinations/destinations.stm">City Info</A>&nbsp;/&nbsp;
+<A HREF="/RussianFarEast/NewRussia.stm">Russia</A>&nbsp;/&nbsp;
+<A HREF="/CompanyInfo/Press/html/PressReleases.stm">Press Releases</A>
+<BR>
+<A HREF="/CompanyInfo/jobs/html/joblist.stm">Job Opportunities</A>&nbsp;/&nbsp;
+<A HREF="/help/faqs/html/faq.stm">FAQs</A>&nbsp;/&nbsp;
+<A HREF="/help/site/html/browsers.stm">Browsers</A>&nbsp;/&nbsp;
+<A HREF="/help/site/html/navigate.stm">Site Help</A></FONT>
+
+<P>
+Comments:<A HREF="mailto:Distribution.Technologies@AlaskaAir.com">Supervisor, Distribution Technologies</A>
+<BR>Alaska Airlines 1-800-426-0333 &nbsp; Horizon Air 1-800-547-9308
+<br>
+URL: www.alaskaair.com or www.horizonair.com
+
+</TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+</BODY>
+</HTML>

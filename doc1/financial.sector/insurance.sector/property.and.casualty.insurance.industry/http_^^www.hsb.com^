@@ -1,0 +1,72 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 18 Dec 1997 10:30:34 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Tue, 18 Nov 1997 16:26:32 GMT
+Content-Length: 3392
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>HSB Home Page</title>
+<meta name="FORMATTER" content="Microsoft FrontPage 2.0">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#4F00FF"
+vlink="#FF0000" alink="#FF00FF">
+
+<p><!--webbot bot="ImageMap"
+rectangle=" (10,16) (160, 116)  hsbcomet.htm"
+rectangle=" (9,120) (105, 211)  hsbnews.htm"
+rectangle=" (119,120) (222, 211)  HSBABOUT.HTM"
+rectangle=" (242,118) (336, 211)  hsbfinan.htm"
+rectangle=" (352,119) (441, 211)  HSBINSUR.HTM"
+rectangle=" (62,212) (168, 305)  HSBENG.HTM"
+rectangle=" (186,211) (288, 305)  HSBRISK.HTM"
+rectangle=" (300,212) (409, 301)  HSBTRAIN.HTM"
+src="HSBlogo3.gif"
+alt="Please select the Roundhouse for a text-only option"
+border="0" width="466" height="320" startspan --><MAP NAME="FrontPageMap"><AREA SHAPE="RECT" COORDS="10, 16, 160, 116" HREF="hsbcomet.htm"><AREA SHAPE="RECT" COORDS="9, 120, 105, 211" HREF="hsbnews.htm"><AREA SHAPE="RECT" COORDS="119, 120, 222, 211" HREF="HSBABOUT.HTM"><AREA SHAPE="RECT" COORDS="242, 118, 336, 211" HREF="hsbfinan.htm"><AREA SHAPE="RECT" COORDS="352, 119, 441, 211" HREF="HSBINSUR.HTM"><AREA SHAPE="RECT" COORDS="62, 212, 168, 305" HREF="HSBENG.HTM"><AREA SHAPE="RECT" COORDS="186, 211, 288, 305" HREF="HSBRISK.HTM"><AREA SHAPE="RECT" COORDS="300, 212, 409, 301" HREF="HSBTRAIN.HTM"></MAP><a
+href="_vti_bin/shtml.dll/Default.htm/map"><img src="HSBlogo3.gif"
+width="466"
+alt="Please select the Roundhouse for a text-only option" ismap
+usemap="#FrontPageMap" height="320" border="0"></a><!--webbot
+bot="ImageMap" endspan i-checksum="5762" --></p>
+
+<p><!--webbot bot="ImageMap"
+rectangle=" (6,5) (263, 63)  ../thelocomotive" src="loco1.gif"
+border="0" width="264" height="64" startspan --><MAP NAME="FrontPageMap1"><AREA SHAPE="RECT" COORDS="6, 5, 263, 63" HREF="../thelocomotive"></MAP><a
+href="_vti_bin/shtml.dll/Default.htm/map1"><img src="loco1.gif"
+width="264" ismap usemap="#FrontPageMap1" height="64" border="0"></a><!--webbot
+bot="ImageMap" endspan i-checksum="49136" --></p>
+
+<p><a href="hsbsever.htm"><img src="Target22.gif" align="left"
+border="0" hspace="0" width="48" height="51"></a><a
+href="hsbsever.htm"><br>
+</a><!--webbot bot="ImageMap"
+rectangle=" (7,2) (195, 19)  hsbsever.htm" src="flood2.gif"
+border="0" width="200" height="20" startspan --><MAP NAME="FrontPageMap2"><AREA SHAPE="RECT" COORDS="7, 2, 195, 19" HREF="hsbsever.htm"></MAP><a
+href="_vti_bin/shtml.dll/Default.htm/map2"><img src="flood2.gif"
+width="200" ismap usemap="#FrontPageMap2" height="20" border="0"></a><!--webbot
+bot="ImageMap" endspan i-checksum="62354" --></p>
+
+<p align="left"><b><br>
+</b><font face="Arial"><b>Thank you for visiting The Hartford
+Steam Boiler</b> Inspection and Insurance Company's site on the
+World Wide Web. </font></p>
+
+<p align="left"><font face="Arial">Visit the destinations above
+or enter </font><a href="hsbround.htm"><font face="Arial">The
+Roundhouse</font></a><font face="Arial"> for a text-only version
+of our site.</font></p>
+
+<h6>Last update: <!--webbot bot="Timestamp" s-type="EDITED"
+s-format="%A, %B %d, %Y" startspan -->Tuesday, October 28, 1997<!--webbot
+bot="Timestamp" endspan i-checksum="60991" --></h6>
+</body>
+</html>

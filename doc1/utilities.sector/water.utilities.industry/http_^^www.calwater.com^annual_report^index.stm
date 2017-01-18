@@ -1,0 +1,49 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 18 Dec 1997 21:51:55 GMT
+Content-Type: text/html
+
+<html>
+<head>
+   <title>Cal Water - 1995 Annual Report</title>
+</head>
+<body bgcolor="#FFFFFF">
+   <h2><font SIZE="+3">1995</font> <font SIZE="+3">A</font>nnual <font SIZE="+3">R</font>eport</h2>
+   <hr>
+   <img SRC="work_together.gif" WIDTH="400" HEIGHT="263"><p>
+   <ul><li><a HREF="shareholders.stm">To Our Shareholders</a>
+       <li><a HREF="areas&amp;customers.stm">Service Areas and
+                                                 Customers</a>
+       <li><a HREF="year_in_review.stm">The Year in Review</a>
+       <li><a HREF="10_year_review.stm">Ten Year Financial Review</a>
+       <li><a HREF="management_discussion.stm">Management's Discussion and
+                                                 Analysis of Financial
+                                                 Condition and Results of
+                                                 Operation</a>
+       <li><a HREF="balance_sheet.stm">Balance Sheet</a>
+       <li><a HREF="income.stm">Statement of Income</a>
+       <li><a HREF="shareholders_equity.stm">Statement of Common
+                                                 Shareholders' Equity</a>
+       <li><a HREF="cash_flows.stm">Statement of Cash Flows</a>
+       <li><a HREF="notes.stm">Notes to Financial
+                                                 Statements</a>
+       <li><a HREF="auditors_report.stm">Independent Auditors'
+                                                 Report</a>
+       <li><a HREF="corporate_information.stm">Corporate Information</a></ul>
+   <HR>
+<CENTER>
+<H4> <A HREF="/index.stm">Home</A> 
+   | <A HREF="/about_calwater/index.stm">About Cal Water</A>
+   | <A HREF="/annual_report/index.stm">Annual Report</A> 
+   | <A HREF="http://quote.yahoo.com/q?s=cwt&d=t">Current Stock Quote</A> 
+   | <A HREF="/rates/index.stm">Rates</A> 
+   | <A HREF="/districts/index.stm">Cal Water Districts</A>		
+   | <A HREF="/press_releases/index.stm">Press Releases</A>
+   | <A HREF="/conservation/index.stm">Conservation</A> 
+   | <A HREF="/fyi/index.stm">F.Y.I.</A> 
+   | <A HREF="/other_sites.stm">Other Useful Sites</A>
+   | <a href="/job_opportunities/index.stm">Job Opportunities</a>
+   | <A HREF="mailto:arubinstein@calwater.com">Contact Us</a></H4>
+</CENTER>
+
+</body>
+</html>

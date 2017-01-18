@@ -1,0 +1,284 @@
+Date: Mon, 29 Dec 1997 21:07:56 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Wed, 06 Aug 1997 17:29:36 GMT
+Content-length: 10784
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>LEO-T</title>
+<meta name="FORMATTER" content="Microsoft FrontPage 2.0">
+</head>
+
+<body background="paper-04.gif">
+
+<h1 align="center"><img src="logo.gif" width="316" height="240"></h1>
+
+<h3 align="center"><font color="#800000" size="6">The Low Earth
+Orbiter Terminal</font></h3>
+
+<p align="center">&nbsp;</p>
+
+<h3 align="center"><img src="../gifs/bluedot.gif" alt="*"
+align="top" width="20" height="32"><a href="#System Overview">Overview</a>
+<img src="../gifs/bluedot.gif" alt="*" align="top" width="20"
+height="32"><a href="screen.htm#rack">Hardware Images</a> <img
+src="../gifs/bluedot.gif" alt="*" align="top" width="20"
+height="32"><a href="screen.htm#aui">Software Images</a></h3>
+
+<hr>
+
+<h2><a name="System Overview"></a>System Overview</h2>
+
+<p>LEO-T was designed to solve the problem of the high cost of
+ground station services. It is a complete, essentially unmanned,
+ground station for low Earth orbiters. Its key attributes are
+autonomy and remote operational control.</p>
+
+<p>&nbsp;</p>
+
+<h4>Autonomy</h4>
+
+<p>LEO-T functions in a fully autonomous environment. The system
+is driven by an internal schedule containing spacecraft AOS and
+LOS times and maintenance events. LEO-T automatically obtains the
+latest orbital element sets, issues store and forward commands,
+configures ground equipment, tracks the spacecraft, and even
+delivers telemetry data to the PI, post pass.</p>
+
+<p>&nbsp;</p>
+
+<h4>Remote Operations</h4>
+
+<p>PI' s may log in remotely at any time to schedule new events
+or monitor or control the current activity of their spacecraft.
+All system capabilities are available remotely to the ground
+station administer (GSA) and appropriate PI on the internet using
+a standard X-session. Using the Administrative User Interface (<a
+href="screen.htm#aui">AUI</a>) and the <a href="../isiepoch.htm">EPOCH-2000</a>
+viewer (included), the GSA may start and stop operations, perform
+tests, or monitor the ground equipment at a LEO-T. The GSA and PI
+may also use the AUI to schedule events and uplink real-time
+commands. During a pass, LEO-T automatically establishes a TCP/IP
+connection to the PI and transmits telemetry and station log
+data. A <a href="screen.htm#java">sample TCP/IP application</a>
+(written in JAVA) is provided with the system to view this data,
+but the PI may process the data from this connection in any way.</p>
+
+<p>&nbsp;</p>
+
+<h4>High Performance</h4>
+
+<p>LEO-T's main channel telemetry path is capable of a throughput
+of 15 Mbps. This is 3 times the basic TDM throughput rate and 1.5
+times the CCSDS rate, using Rate 1/2 convolutional encoding. This
+design can support future expansion via a simple substitution of
+a small number of components to 25 Mbps.</p>
+
+<p>&nbsp;</p>
+
+<h4>Flexibility</h4>
+
+<p>A single LEO-T can simultaneously support more than 20
+different satellites with orbits in the 175 Km to 1000 km range.
+Ground equipment is automatically reconfigured for the next
+spacecraft between passes using canned equipment setups created
+by the PI' s. The system is capable of processing CCSDS version 1
+and 2 as well as TDM telemetry data.</p>
+
+<p>Users can access the AUI and EPOCH-2000 viewer from any
+X-session. Any system supporting the TCP/IP protocol can function
+as the client for FTP uploads and downloads and the telemetry/log
+monitoring connection.</p>
+
+<p>&nbsp;</p>
+
+<h4>Security</h4>
+
+<p>The system ensures that the GSA alone is permitted to perform
+station administrative tasks. The PI and GSA share the authority
+to control specific mission-related tasks such as pass scheduling
+and equipment configuration.</p>
+
+<p>&nbsp;</p>
+
+<h4>Cost Efficiency</h4>
+
+<p>The absence of an operations crew results in a significant
+reduction in operating costs. Also, because LEO-T is capable of
+supporting multiple missions, station time can be shared and
+costs distributed among the member missions.</p>
+
+<hr>
+
+<h2><a name="Architecture"></a>Architecture</h2>
+
+<p>LEO-T is based on the proven <a href="../isiepoch.htm">EPOCH-2000</a>
+architecture; A distributed processing environment in which all
+ground station activities (telemetry processing, commanding,
+etc.) are performed by a real-time machine, while all
+administrative duties and M&amp;C are offloaded to a separate
+PC-based workstation. The two are connected via fast ethernet.
+Since the system is on the internet and the user interface is an
+X-Windows client, the user need not be present at the actual
+LEO-T workstation to control the system. An authorized user can
+access the LEO-T from any location in the world.</p>
+
+<hr>
+
+<h2><a name="Open Standards"></a>Open Standards</h2>
+
+<p><b>LEO-T </b>supports all the current industry standards for
+open architectures: </p>
+
+<dl>
+    <dd><img src="../gifs/dot_yell.gif" width="20" height="20">VME
+        Bus </dd>
+    <dd><img src="../gifs/dot_yell.gif" width="20" height="20">Ethernet
+        LAN </dd>
+    <dd><img src="../gifs/dot_yell.gif" width="20" height="20">TCP/IP
+        Protocol </dd>
+    <dd><img src="../gifs/dot_yell.gif" width="20" height="20">Programming
+        Language </dd>
+    <dd><img src="../gifs/dot_yell.gif" width="20" height="20">UNIX/POSIX/OSF-1
+        Operating System </dd>
+    <dd><img src="../gifs/dot_yell.gif" width="20" height="20">OSF
+        Motif User Interface </dd>
+</dl>
+
+<p>Support for the VME (Versi-Modular European) bus allows <b>LEO-T</b>
+to interface with a wide variety of bit sync, frame sync,
+decommutator, EU (Engineering Units) converter, and command
+encoder cards. <a href="screen.htm#rack">Click here to see the
+LEO-T hardware rack.</a></p>
+
+<hr>
+
+<h2>Database Driven</h2>
+
+<p>As with EPOCH-2000, all of the LEO-T software is database
+driven, allowing it to support different hardware configurations
+by merely modifying the database. This flexibility permits system
+upgrades and changes without incurring the cost of software
+modifications.</p>
+
+<p>The RDBMS is used for offline data management only. During
+run-time the data definitions are obtained from flat files
+exported from the database and shipped to each processing node
+over the network. The flat files are read into memory on
+initialization for run-time access on each workstation. This
+approach ensures the best run-time performance (there are no
+delays from querying the database) while simultaneously providing
+all the traceability and accountability features of an RDBMS. </p>
+
+<hr>
+
+<h2>User Interface</h2>
+
+<p>LEO-T features an X-Windows/ Motif-compliant GUI (Graphical
+User Interface) which provides for easy, intuitive interaction
+with the system. Use of the X-Windows standard allows a user to
+access the GUI from any remote machine running an X-session. <a
+href="screen.htm">Click here to see examples of the user
+interface</a></p>
+
+<hr>
+
+<h2><a name="Telemetry"></a>Telemetry Processing</h2>
+
+<p>The telemetry subsystem is capable of a throughput of 15 Mbps,
+expandible to 25 Mbps. CCSDS versions 1 and 2 are supported,
+along with TDM formats. Dual receivers and bit syncs along with
+diversity combiner are provided for improved single downlink
+quality, or for processing two downlinks simultaneously.
+Telemetry data is stored on the LEO-T front-end processor and
+shipped, or <em>pushed</em>, post-pass, to a destination selected
+by the PI. This data is also available real-time on a TCP/IP for
+decommutation and monitoring.</p>
+
+<hr>
+
+<h2><a name="Command"></a>Commanding</h2>
+
+<p>The command subsystem supports store-and-forward and real-time
+spacecraft commanding with COP-1 verification. PI's can issue and
+abort store-and forward command sets and real-time commands
+remotely via the LEO-T administrative user interface (AUI).</p>
+
+<hr>
+
+<h2><a name="Orbit"></a>Orbit Determination</h2>
+
+<p>The included OASYS software module provides satellite
+ephemeris propagation and computes a list of candidate passes to
+be selected for scheduling for all supported spacecraft. Click
+here for additional information on <a href="../isioasys.htm">OASYS</a>.</p>
+
+<hr>
+
+<h2><a name="Screen"></a>Screen Shots</h2>
+
+<p>Click on the examples below for some <b>LEO-T</b> screen
+shots:</p>
+
+<ul>
+    <li><a href="screen.htm#aui">The LEO-T Administrative User
+        Interface (AUI)</a></li>
+    <li><a href="screen.htm#java">The Sample JAVA TCP/IP Client</a></li>
+</ul>
+
+<hr>
+
+<h2>Additional Information</h2>
+
+<p>For further information on <b>LEO-T</b> features, prices, and
+support, contact <a href="mailto:carchedi@integ.com"><b>Steve
+Carchedi</b></a> at the address below, or <a
+href="mailto:carchedi@integ.com">email</a> him directly. </p>
+
+<hr>
+
+<p align="center">Integral Systems, Inc.<img
+src="../gifs/dot_blue.gif" alt="*" align="absbottom" width="20"
+height="20"> 5000 Philadelphia Way<img src="../gifs/dot_blue.gif"
+alt="*" align="absbottom" width="20" height="20"> Suite A<img
+src="../gifs/dot_blue.gif" alt="*" align="absbottom" width="20"
+height="20"> Lanham MD 20706-4417 USA<br>
+Phone: (301) 731-4233<img src="../gifs/dot_blue.gif" alt="*"
+align="absbottom" width="20" height="20"> Fax: (301) 731-9606<br>
+<a href="mailto:mwest@integ.com">contact sales</a> <img
+src="../gifs/dot_blue.gif" alt="*" align="absbottom" width="20"
+height="20"> <a href="mailto:earp@integ.com">contact webmaster</a>
+</p>
+
+<hr>
+
+<p><i>The following are trademarks or registered trademarks: </i></p>
+
+<p><i>EPOCH 2000 - Integral Systems, Inc. <br>
+OASYS - Integral Systems, Inc. <br>
+UNIX - UNIX Systems Laboratories, Inc. <br>
+Open Look - UNIX Systems Laboratories, Inc. <br>
+X-Windows - Massachusetts Institute of Technology <br>
+Motif - The Open Software Foundation, Inc. <br>
+OSF-1 - The Open Software Foundation, Inc. </i></p>
+
+<hr>
+
+<p align="center"><!--webbot bot="ImageMap"
+rectangle=" (23,20) (58, 89)  ../index.htm"
+rectangle=" (156,18) (192, 90)  screen.htm"
+rectangle=" (71,19) (146, 90)  ../index.htm"
+src="../gifs/contrl01.gif" border="0" width="216" height="108"
+startspan --><MAP NAME="FrontPageMap"><AREA SHAPE="RECT" COORDS="23, 20, 58, 89" HREF="../index.htm"><AREA SHAPE="RECT" COORDS="156, 18, 192, 90" HREF="screen.htm"><AREA SHAPE="RECT" COORDS="71, 19, 146, 90" HREF="../index.htm"></MAP><a href="../_vti_bin/shtml.exe/leot/leo.htm/map"><img
+src="../gifs/contrl01.gif" width="216" ismap
+usemap="#FrontPageMap" height="108" border="0"></a><!--webbot
+bot="ImageMap" endspan i-checksum="52894" --></p>
+</body>
+</html>

@@ -1,0 +1,56 @@
+Server: Netscape-Commerce/1.12
+Date: Thursday, 18-Dec-97 14:06:39 GMT
+Last-modified: Monday, 20-Oct-97 14:49:58 GMT
+Content-length: 1647
+Content-type: text/html
+
+<html>
+<head>
+<title>lisb</title>
+<META NAME="Description" CONTENT=" The Long Island Savings Bank">
+<META name="Long Island Savings Bank" content=" bank, savings bank, long island savings bank, banking, banks, home loans, loans">
+</head>
+
+<FRAMESET rows="60,*" FRAMEBORDER="no" NORESIZE scrolling="no"  FRAMESPACING="0" border="0">
+        
+<FRAME MARGINWIDTH="0" MARGINHEIGHT="0" SRC="top.html" NAME="top"  SCROLLING="no">
+        
+        <FRAMESET cols="170,*" FRAMEBORDER="no" scrolling="no" FRAMESPACING="0" border="0">
+
+        <FRAME MARGINWIDTH="0" MARGINHEIGHT="0" SRC="left.html" NAME="nav"  SCROLLING="auto">
+
+                
+                <FRAME MARGINWIDTH="0" MARGINHEIGHT="0" SRC="frmain.htm" NAME="main" NORESIZE SCROLLING="auto">
+
+                        
+                </FRAMESET>
+ 
+        </FRAMESET>
+        
+<NOFRAMES>
+<center><table border="0" cellpadding="0" cellspacing="0" width="300">
+<tr>
+
+
+<td align="left" valign="top" width="300">
+<center><img src="c://logos/lisb2.gif" border="0"alt="Welcome to The Long Island Savings Bank" vspace="8" border="0"></center>
+<p>
+<font face="arial"><font size=2>
+<B>Technical Requirements</B><BR>
+The Long Island Savings Bank requires a frames-capable browser (any Netscape version after 2.0 or Internet Explorer version after 3.0).  For your maximum viewing pleasure, we recommend Netscape 3.0. <P>
+No plugins are necessary.<hr noshad size=1><P> 
+
+
+<p><br>
+<font size="1" face="arial">
+<a href="mailto:solutions@lisb.com">solutions@lisb.com</a>
+</font>
+</td>
+<td align="left" valign="top" width="190">&nbsp;</td>
+</tr>
+</table></center>
+</body>
+</NOFRAMES>
+</FRAMESET>
+</html>
+

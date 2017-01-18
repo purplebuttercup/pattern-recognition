@@ -1,0 +1,28 @@
+Server: Netscape-Enterprise/2.01
+Date: Wed, 19 Nov 1997 22:56:29 GMT
+Accept-ranges: bytes
+Last-modified: Tue, 08 Apr 1997 01:21:14 GMT
+Content-length: 687
+Content-type: text/html
+
+<!--This file created 3/26/97 10:27 AM by Claris Home Page version 2.0-->
+<HTML>
+<HEAD>
+   <TITLE>global</TITLE>
+   <META NAME=GENERATOR CONTENT="Claris Home Page 2.0">
+   <X-SAS-WINDOW TOP=100 BOTTOM=717 LEFT=474 RIGHT=974>
+</HEAD>
+<FRAMESET rows="*,45"
+framespacing=0>
+<NOFRAMES><BODY>
+
+<P>This page is designed to be viewed by a browser which supports
+Netscape's Frames extension. This text will be shown by browsers
+which do not support the Frames extension.</P>
+
+</BODY>
+</NOFRAMES>
+   <FRAME SRC="global/photo.html" name="main" marginheight="6" marginwidth="0" >
+   <FRAME SRC="global/button.html" name="button" marginheight="3" marginwidth="0" scrolling="no">
+</FRAMESET>
+</HTML>

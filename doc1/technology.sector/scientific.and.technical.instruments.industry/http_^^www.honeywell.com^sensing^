@@ -1,0 +1,294 @@
+Server: Microsoft-IIS/3.0
+Date: Fri, 21 Nov 1997 04:45:49 GMT
+Content-Type: text/html
+
+<html>
+<!--				begin head -->
+
+<head><!--				meta --><!--                            description -->
+<meta name="description" content="Honeywell Sensing and Control is a global 
+supplier of control systems, sensors, switches, solenoid vavles and manual controls used in the 
+automotive, information technology, appliance, food and beverage, aviation, packaging, 
+and material handling markets to name a few.">
+<!--                            keywords -->
+<meta name="keywords" content="Switches, Sensors, Smart Distributed System, Limit, 
+Enclosed, Proximity, Photoelectric, Color, Safety, Temperature, Fiber Optic, 
+Explosion-proof, Harsh Duty, Ultrasonic, Basic, Pressure, Current, electronic, 
+infrared, position, transportation, factory floor, LAN, humidity, solenoid vavles">
+<!--                            title -->
+<title>Welcome to Honeywell Sensing and Control</title>
+<!--				end head --></head>
+<!--				begin body -->
+
+<body bgcolor="#ffffff">
+<!--				begin center --><center>
+
+<table border="0" cellpadding="0" cellspacing="2" width="700">
+    <tr>
+        <td align="left" valign="top"> 
+		
+		<!--				header --> 
+		<table border="0" cellpadding="0" cellspacing="0" width="650">
+		<tr><td align="left" valign="top">
+
+		<img src="/sensing/graphics/hlogo2.gif" width="165" height="37">
+		</td>
+
+		<td align="left" valign="middle">
+		<!--				Honeywell standard navigation buttons -->
+<!--				begin include file honeynav.txt -->
+
+
+
+<a href="http://www.honeywell.com/search/"><img src="/sensing/components/graphics/search.gif" width=63 
+height=21 border=0></a>
+
+<a href="http://www.honeywell.com/products/default.asp?grp=cat&bus=sc"><img src="/sensing/components/graphics/prodnav.gif" width=78 
+height=21 border=0></a>
+
+<a href="http://www.honeywell.com/support/"><img src="/sensing/components/graphics/support.gif" width=72 
+height=21 border=0></a>
+
+<a href="http://www.honeywell.com/support/contact/"><img src="/sensing/components/graphics/contact.gif" width=71 
+height=21 border=0></a>
+
+<a href="http://www.honeywell.com/sitemap.asp"><img src="/sensing/components/graphics/sitemap.gif" width=74 
+height=21 border=0></a>
+
+<a href="http://www.honeywell.com/"><img src="/sensing/components/graphics/honeywel.gif" width=88
+height=21 border=0></a>
+
+<!--				end include file -->
+		</td></tr></table>
+		
+	
+		
+		
+
+		
+	
+		</td>
+    </tr>
+</table>
+
+<table border="0" cellpadding="5" cellspacing="0">
+    <tr>
+        <td align="left" valign="top" width="240"> 
+		
+		<!--	Left Margin Hyperlinks Include File --> 
+		
+		<!--				Left Margin Hyperlinks Include File -->
+
+	<table border=0 cellpadding=0 cellspacing=0>
+	<tr><td align=center valign=top>
+
+	<table border=0 cellpadding=5 cellspacing=0>
+	<tr><td align=center valign=top>
+	<img src="/sensing/graphics/sensingandcontrol.gif" border=0
+	alt="Sensing and Control"><br>
+	</td></tr></table>
+
+	</td></tr>
+
+	<tr><td align=left valign=top>
+		
+		<table border=0 cellpadding=5 cellspacing=0>
+		<tr><td align=left valign=middle>
+		<b><font color="#ff0000">Find It Center</font></b>
+		<small>
+		<br>Select a topic from our <font color="#ff0000"><b>Quick Link</b></font>
+		boxes to go directly to the page you need or use our Sensing and Control
+		specific <font color="#ff0000"><b>Search</b></font>.
+		</td></tr></table>
+
+	</td></tr>
+
+	<tr><td align=right valign=top>
+
+	
+
+	<form action="/scripts/redir.dll" method="GET">
+	<select name="Target" size="1">
+	<option value="http://www.honeywell.com/sensing/prodinfo/" selected>Product Information</option>
+	<option value="http://www.honeywell.com/sensing/solution/">Application Note Library</option>
+	<option value="http://www.honeywell.com/sensing/prodinfo/auto.stm">Automotive On-Board</option>
+	<option value="http://www.honeywell.com/sensing/prodinfo/basicswitches.stm">Basics</option>
+	<option value="http://www.honeywell.com/sensing/prodinfo/colorrecognition.stm">Color Recognition</option>
+	<option value="http://www.honeywell.com/sensing/prodinfo/current.stm">Current</option>
+	<option value="http://www.honeywell.com/sensing/prodinfo/environment.stm">Environment Sealed</option>
+	<option value="http://www.honeywell.com/sensing/prodinfo/fiberoptic.stm">Fiber Optic</option>
+	<option value="http://www.honeywell.com/sensing/prodinfo/pressure.stm">Force</option>
+	<option value="http://www.honeywell.com/sensing/prodinfo/halleffect.stm">Hall Effect Keyboards</option>
+	<option value="http://www.honeywell.com/sensing/prodinfo/infrared.stm">Infrared</option>
+	<option value="http://www.honeywell.com/sensing/prodinfo/limitandenclosed.stm">Limit &amp; Enclosed</option>
+	<option value="http://www.honeywell.com/sensing/prodinfo/manual.stm">Manual</option>
+	<option value="http://www.honeywell.com/sensing/prodinfo/massairflow.stm">Mass Airflow</option>
+	<option value="http://www.honeywell.com/sensing/prodinfo/photoelectric.stm">Photoelectric</option>
+	<option value="http://www.honeywell.com/sensing/prodinfo/pressure.stm">Pressure</option>
+	<option value="http://www.honeywell.com/sensing/prodinfo/proximity.stm">Proximity</option>
+	<option value="http://www.honeywell.com/sensing/prodinfo/safety.stm">Safety</option>
+	<option value="http://www.honeywell.com/sensing/prodinfo/pccontrol.stm">Smart Control PC</option>
+	<option value="http://www.honeywell.com/sensing/sds/">Smart Distributed System</option>
+	<option value="http://www.honeywell.com/sensing/prodinfo/solidstate.stm">Solid State Position</option>	
+	<option value="http://www.honeywell.com/sensing/prodinfo/temperature.stm">Temperature</option>
+	<option value="http://www.honeywell.com/sensing/prodinfo/turbid.stm">Turbidity</option>
+	<option value="http://www.honeywell.com/sensing/prodinfo/ultrasonic.stm">Ultrasonic</option>
+	<option value="http://www.honeywell.com/sensing/general/warranty.stm">Warranty Information</option>
+	</select>
+	<input type="submit" value="Go!">
+	</form>
+
+	<form action="/scripts/redir.dll" method="GET">
+	<select name="Target" size="1">
+	<option value="http://www.honeywell.com/sensing/catalog/">Catalogs</option>
+	<option value="http://www.honeywell.com/sensing/catalog/">Catalog Search</option>
+	<option value="http://www.honeywell.com/sensing/catalog/markets.stm">Markets</option>
+	<option value="http://www.honeywell.com/sensing/catalog/markets/aviation.stm">Aviation</option>
+	<option value="http://www.honeywell.com/sensing/catalog/markets/indsol.stm">Electronic</option>
+	<option value="http://www.honeywell.com/sensing/catalog/markets/industrial.stm">Industrial</option>	
+	<option value="http://www.honeywell.com/sensing/prodinfo/safety.stm">Safety</option>
+	<option value="http://www.honeywell.com/sensing/sds/">Smart Distributed System</option>
+	<option value="http://194.235.71.2/index.htm">Optoelectronic Catalog</option> 
+	<option value="http://www.honeywell.com/sensing/general/warranty.stm">Warranty Information</option>
+	</select>
+	<input type="submit" value="Go!">
+	</form>	
+	
+	<form action="/scripts/redir.dll" method="GET">
+	<select name="Target" size="1">
+	<option value="http://www.honeywell.com/sensing/new/">What's New</option>
+	<option value="http://www.honeywell.com/sensing/pressrel/PR_List.stm">Press Releases</option>
+	<option value="http://www.honeywell.com/sensing/new/tradeshw.stm">Tradeshow Calendar</option>
+	</select>
+	<input type="submit" value="Go!">
+	</form>
+
+	<form action="/scripts/redir.dll" method="GET">
+	<select name="Target" size="1">
+	<option value="http://www.honeywell.com/business/ic.asp">About</option>
+	<option value="http://www.honeywell.com/sensing/about/internat.stm">Sales & Service</option>
+	<option value="http://www.honeywell.com/sensing/about/crc.stm">Response Center</option>
+	<option value="http://www.honeywell.com/sensing/about/history.stm">Our History</option>
+	<option value="http://www.honeywell.com/sensing/general/warranty.stm">Warranty Information</option>
+	</select>
+	<input type="submit" value="Go!">
+	</form>
+
+	<form action="/scripts/redir.dll" method="GET">
+	<select name="Target" size="1">
+	<option value="http://www.honeywell.com/sensing/general/utility.stm">Website Utilities</option>
+	<option value="http://www.honeywell.com/sensing/general/email.stm">Email Us</option>
+	<option value="http://www.honeywell.com/business/">Other Honeywell Sites</option>
+	<option value="http://www.honeywell.com/sensing/glossary/glossa-h.stm">Glossary</option>
+	<option value="http://www.honeywell.com/sensing/general/trademrk.stm">Trademarks</option>
+	<option value="http://www.honeywell.com/sensing/general/warranty.stm">Warranty Information</option>
+	</select>
+	<input type="submit" value="Go!">
+	</form>
+	
+	<p><form action="/scripts/search/query.idq" method="GET">
+        <input type="TEXT" size="18" maxlength="50" name="UserRestriction">
+ 		<input type="HIDDEN" name="CiScope" value="/sensing">
+        <input type="HIDDEN" name="CiMaxRecordsPerPage" value="10">
+        <input type="HIDDEN" name="TemplateName" value="query">
+        <input type="HIDDEN" name="CiSort" value="rank[d]">
+        <input type="HIDDEN" name="HTMLQueryForm" value="/search/">
+        <input type="submit" value="Search">
+		</form>
+	</td></tr></table>
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr><td align=center valign=top>
+<p><a href="/sensing/general/lincolnaward.stm"><img 
+src="/sensing/graphics/abe.gif" border=0 
+alt="Lincoln Award For Business Excellence"></a>
+</td>
+<td align=center valign=middle>
+<img 
+src="/sensing/graphics/iso9001.gif" border=0 alt="Honeywell Sensing and 
+Control is registered as a ISO 9001 company">
+</td></tr></table>
+
+
+<!--				end of include file -->
+ 
+		
+		</td>
+        <td valign="top" align="left" width="15"> 
+		<img src="/sensing/components/graphics/redpix.gif" border="0" width="1" height="600">
+        
+        </td>
+        <td align="left" valign="top" width="360"> 
+		
+		
+
+        <!--				begin main content --> 
+		
+		<table border="0" cellpadding="10" cellspacing="0">
+            <tr>
+                <td align="center" valign="bottom"> 
+				<p><a href="/sensing/sds/magicbus.stm"><img src="/sensing/graphics/magicbus.gif" border="0" alt="Smart Distributed System Magic Bus Tour!" width="350" height="297"></a>
+
+                        </td>
+                    </tr>
+                </table>
+			
+		
+		<center>
+		<table border="0" cellpadding="0" cellspacing="5">
+		<tr><td align="left" valign="top" width="250">
+
+		<p><small><img src="/sensing/graphics/j.gif" border="0" alt="J" align="left" width="36" height="41"><b>oin us
+		and ride the Smart Distributed System Magic Bus for 
+		detailed technical discussions, hands-on program development, and
+		information about the Smart Society.</b></small>
+		</td>
+		<td align="left" valign="top" width="250">
+		<small>
+		<a href="/sensing/sds/magicbus.stm#voucher">Get A <b>$500</b> Credit Voucher</a>
+		<br><a href="/sensing/sds/magicbus.stm#jacket">Win A &quot;Magic Bus Tour&quot; Jacket</a>
+		<br><a href="/sensing/sds/magicbus.stm#who">Who Should Attend</a>
+		<br><a href="/sensing/sds/magicbus.stm#why">Why Should You Attend</a>
+		<br><a href="/sensing/sds/magicbus.stm#agenda">Seminar Agenda</a>
+		<br><a href="/sensing/sds/magicbus.stm#dates">Tour Dates and Cities</a>
+		<br><a href="/sensing/sds/sdsform.stm">Register</a>
+		<br><a href="/sensing/sds/magicbus.stm#what">About The Smart Distributed System</a>
+		</small>
+		</td>
+		
+		</tr>
+
+		<tr><td align="center" valign="middle" colspan="2"><pre> 
+		</pre>
+		<small>Member of <img src="/sensing/graphics/csia.jpg" border="0" alt="CSIA" align="top" width="140" height="32">
+		</small>
+		</td></tr>
+		</table>
+        </center>      
+		
+		<center><p><img src="/sensing/components/graphics/redpix.gif" border="0" width="350" height="1"></center>
+
+        <!--				begin table --> 
+		
+		<!--				begin footer --> 
+		
+		<table border="0" width="100%" cellpadding="2" cellspacing="0">
+            <tr>
+                <td align="left" valign="top"> 
+
+                <p><small><i> (Updated: 
+				 
+				 Central Daylight Time; Tuesday October 21,  1997 ) <br>
+                <a href="/sensing/about/copyrigh.stm"> ©
+                Copyright 1997 Honeywell Inc. All rights
+                reserved.</a> </i></small> </td>
+            </tr>
+        </table>
+		
+		</td>
+            </tr>
+        </table>
+        
+</center>
+</body>
+</html>

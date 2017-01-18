@@ -1,0 +1,790 @@
+Server: Netscape-Enterprise/2.0a
+Date: Thu, 18 Dec 1997 11:02:07 GMT
+Accept-ranges: bytes
+Last-modified: Fri, 12 Dec 1997 17:54:32 GMT
+Content-length: 32690
+Content-type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//WC3//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<TITLE>Request for Literature</TITLE>
+<META NAME="KEYWORDS" 	 CONTENT="literature, mutual funds, T. Rowe Price">
+<META NAME="DESCRIPTION" CONTENT="Request for Literature form">
+<META NAME="AUTHOR" 	 CONTENT="T. Rowe Price Investment Technologies Marketing Systems Group">
+<!--<SCRIPT LANGUAGE=JAVASCRIPT1.1>
+/////////////////////////////////////written 11/17/97 -Mark
+////////////////////////////////////modified 12/11/97 -Mark
+function getCookieData(label) {
+    var my_cook = "";
+    var labelLen = label.length
+    var cLen = document.cookie.length
+    var i = 0
+    var flag = 1
+    while (i < cLen) {
+        var j = i + labelLen
+        if (document.cookie.substring(i,j) == label) {
+            var cEnd = document.cookie.indexOf(";",j)
+            if (cEnd == -1) {
+                cEnd = document.cookie.length
+            }
+            my_cook = unescape(document.cookie.substring(j,cEnd))
+         }
+         i++
+    }
+    return my_cook;
+}
+ function parseCookieData() {
+    if(document.cookie) {
+        var temp = getCookieData("ID");
+        var bites       = temp.split("|");
+        var namlast     = bites[0].split("=");
+        var statecd     = bites[1].split("=");
+        var address_a   = bites[2].split("=");
+            var address_a1  = address_a[1].split("%20");
+            var address1    = address_a1.join(" ");
+        var city_a      = bites[3].split("=");
+            var city_a1     = city_a[1].split("%20");
+            var city        = city_a1.join(" ");
+        var zip5        = bites[4].split("=");
+        var namprefx    = bites[5].split("=");
+        var namfirst_a  = bites[6].split("=");
+            var namfirst_a1 = namfirst_a[1].split("%20");
+            var namfirst    = namfirst_a1.join(" ");
+        var naminit     = bites[7].split("=");
+        var namsuffx    = bites[8].split("=");
+        var address_b   = bites[9].split("=");
+            var address_b2  = address_b[1].split("%20");
+            var address2    = address_b2.join(" ");
+        var zip4        = bites[10].split("=");
+        var homearea    = bites[11].split("=");
+        var homeexch    = bites[12].split("=");
+        var homeext     = bites[13].split("=");
+        var workarea    = bites[14].split("=");
+        var workexch    = bites[15].split("=");
+        var workext     = bites[16].split("=");
+        var emailadr    = bites[17].split("=");
+    }
+// }
+///////////////////////////////////////////////////////////
+function getData() {
+    if(document.cookie) {
+        ///// name prefix /////
+        document.forms[0].NAMPREFX.value = namprefx[1];
+            if(document.forms[0].NAMPREFX.value == ("%20")) {
+                document.forms[0].NAMPREFX.value = unescape("%20"); }
+            var spacer = document.forms[0].NAMPREFX.value.indexOf("%20");
+            if((spacer + 1) > 0) {
+                var prefix = namprefx[1];
+                namprefx = prefix.split("%20");
+                if(namprefx[1] == "") {
+                    document.forms[0].NAMPREFX.value = namprefx[0];}
+                else {document.forms[0].NAMPREFX.value = namprefx[1]; }}
+            else {
+                document.forms[0].NAMPREFX.value = document.forms[0].NAMPREFX.value; }
+        ///// first name /////
+        document.forms[0].NAMFIRST.value = namfirst;
+            if(document.forms[0].NAMFIRST.value == "%20") {
+                document.forms[0].NAMFIRST.value = unescape("%20"); }
+        ///// middle initial /////
+        document.forms[0].NAMINIT.value  = naminit[1];
+            if(document.forms[0].NAMINIT.value == "%20") {
+                document.forms[0].NAMINIT.value = unescape("%20"); }
+            var spacer = document.forms[0].NAMINIT.value.indexOf("%20");
+            if((spacer + 1) > 0) {
+                var initial = naminit[1];
+                naminit = initial.split("%20");
+                if(naminit[1] == "") {
+                    document.forms[0].NAMINIT.value = naminit[0];}
+                else {document.forms[0].NAMINIT.value = naminit[1]; }}
+            else { document.forms[0].NAMINIT.value = document.forms[0].NAMINIT.value; }
+        ///// last name /////
+        document.forms[0].NAMLAST.value  =  namlast[2];
+            if(document.forms[0].NAMLAST.value == "%20") {
+                document.forms[0].NAMLAST.value = unescape("%20"); }
+        ///// name suffix /////
+        document.forms[0].NAMSUFFX.value = namsuffx[1];
+            if(document.forms[0].NAMSUFFX.value == "%20") {
+                document.forms[0].NAMSUFFX.value = unescape("%20"); }
+            var spacer = document.forms[0].NAMSUFFX.value.indexOf("%20");
+            if((spacer + 1) > 0) {
+                var suffix = namsuffx[1];
+                namsuffx = suffix.split("%20");
+                if(namsuffx[1] == "") {
+                    document.forms[0].NAMSUFFX.value = namsuffx[0]; }
+                else {document.forms[0].NAMSUFFX.value = namsuffx[1]; }}
+            else { document.forms[0].NAMSUFFX.value = document.forms[0].NAMSUFFX.value; }
+        ///// address 1 /////
+        document.forms[0].ADDRESS1.value = address1;
+            if(document.forms[0].ADDRESS1.value == "%20") {
+                document.forms[0].ADDRESS1.value = unescape("%20"); }
+        ///// address 2 /////
+        document.forms[0].ADDRESS2.value = address2;
+            if(document.forms[0].ADDRESS2.value == "%20") {
+                document.forms[0].ADDRESS2.value = unescape("%20"); }
+        ///// city /////
+        document.forms[0].CITY.value = city;
+            if(document.forms[0].CITY.value == "%20") {
+                document.forms[0].CITY.value = unescape("%20"); }
+        ///// state /////
+        document.forms[0].STATECD.value = statecd[1];
+            if(document.forms[0].STATECD.value == "%20") {
+                document.forms[0].STATECD.value = unescape("%20"); }
+        ///// zipcode /////
+        document.forms[0].ZIP5.value = zip5[1];
+            if(document.forms[0].ZIP5.value == "%20") {
+                document.forms[0].ZIP5.value = unescape("%20"); }
+        ///// zipcode ext /////
+        document.forms[0].ZIP4.value = zip4[1];
+            if(document.forms[0].ZIP4.value == "%20") {
+                document.forms[0].ZIP4.value = unescape("%20"); }
+            var spacer = document.forms[0].ZIP4.value.indexOf("%20");
+            if((spacer + 1) > 0) {
+                var zip = zip4[1];
+                zip4 = zip.split("%20");
+                if(zip4[1] == "") {
+                    document.forms[0].ZIP4.value = zip4[0]; }
+                else {document.forms[0].ZIP4.value = zip4[1]; }}
+            else { document.forms[0].ZIP4.value = document.forms[0].ZIP4.value; }
+        ///// fone nums /////
+        document.forms[0].HOMEAREA.value = homearea[1];
+            if(document.forms[0].HOMEAREA.value == "%20") {
+                document.forms[0].HOMEAREA.value = unescape("%20"); }
+        document.forms[0].HOMEEXCH.value = homeexch[1];
+            if(document.forms[0].HOMEEXCH.value == "%20") {
+                document.forms[0].HOMEEXCH.value = unescape("%20"); }
+        document.forms[0].HOMEEXT.value  = homeext[1];
+            if(document.forms[0].HOMEEXT.value == "%20") {
+                document.forms[0].HOMEEXT.value = unescape("%20"); }
+        document.forms[0].WORKAREA.value = workarea[1];
+            if(document.forms[0].WORKAREA.value == "%20") {
+                document.forms[0].WORKAREA.value = unescape("%20"); }
+        document.forms[0].WORKEXCH.value = workexch[1];
+            if(document.forms[0].WORKEXCH.value == "%20") {
+                document.forms[0].WORKEXCH.value = unescape("%20"); }
+        document.forms[0].WORKEXT.value  = workext[1];
+            if(document.forms[0].WORKEXT.value == "%20") {
+                document.forms[0].WORKEXT.value = unescape("%20"); }
+        ///// email /////
+        document.forms[0].EMAILADR.value = emailadr[1];
+        if(document.forms[0].EMAILADR.value == "%20") {
+                document.forms[0].EMAILADR.value = unescape("%20"); }
+    }
+    else {return(null);}
+}
+</SCRIPT>-->
+</HEAD>
+<BODY BGCOLOR="#FFFFFF"><!-- onLoad="getData()">-->
+
+<CENTER>
+<IMG  WIDTH=364 HEIGHT=62 SRC="/images/orderform.gif">
+<P>
+To request literature by mail, please fill out the mailing information form below, <BR>
+check the items from the list (<B>please limit your request to 5 items</B>), <BR>
+and click on "send" at the bottom of the page.
+<P>
+Your request will be processed as soon as possible and will be sent via first class mail.
+<P>
+
+<IMG  WIDTH=350 HEIGHT=18 SRC="/images/bar2.gif">
+</CENTER>
+
+<BLOCKQUOTE>
+<FORM ACTION="/cgi-bin/about/lit.pl" METHOD="POST" NAME="litreq"><FONT SIZE="4"><B>Mailing Information:</B></font> Please fill out completely.
+
+<UL>
+<LI><B>Name:</B>
+
+<BLOCKQUOTE>
+<TABLE CELLSPACING="0" CELLPADDING="1">
+<TR>
+<TD>Prefix</TD>
+<TD> First Name</TD>
+<TD> MI</TD>
+<TD> Last Name</TD>
+<TD> Suffix</TD></TR>
+<TR>
+<TD><INPUT TYPE="TEXT" NAME="NAMPREFX" SIZE="3"  MAXLENGTH="3"  VALUE=""></TD>
+<TD><INPUT TYPE="TEXT" NAME="NAMFIRST" SIZE="15" MAXLENGTH="15"></TD> <!- REQUIRED FIELD ->
+<TD><INPUT TYPE="TEXT" NAME="NAMINIT" SIZE="2"   MAXLENGTH="2"  VALUE=""></TD>
+<TD><INPUT TYPE="TEXT" NAME="NAMLAST"  SIZE="15" MAXLENGTH="15"></TD> <!- REQUIRED FIELD ->
+<TD><INPUT TYPE="TEXT" NAME="NAMSUFFX" SIZE="4"  MAXLENGTH="4"  VALUE=""></TD></TR>
+</TABLE>
+</BLOCKQUOTE>
+<P>
+
+<LI><B>Address</B> (use both lines if neccessary)<B>:</B>
+
+<BLOCKQUOTE>
+<TABLE CELLSPACING="0" CELLPADDING="1">
+<TR>
+<TD><INPUT TYPE="TEXT" NAME="ADDRESS1" SIZE="30" MAXLENGTH="30"></TD></TR> <!- REQUIRED FIELD ->
+<TR>
+<TD><INPUT TYPE="TEXT" NAME="ADDRESS2" SIZE="30" MAXLENGTH="30" VALUE=""></TD></TR>
+</TABLE>
+
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="2"
+<TR>
+<TD><INPUT TYPE="TEXT" NAME="CITY" SIZE="20"   MAXLENGTH="20"></TD> <!- REQUIRED FIELD ->
+<TD><INPUT TYPE="TEXT" NAME="STATECD" SIZE="2" MAXLENGTH="2"></TD> <!- REQUIRED FIELD ->
+<TD><INPUT TYPE="TEXT" NAME="ZIP5" SIZE="5"    MAXLENGTH="5"></TD> <!- REQUIRED FIELD ->
+<TD>-</TD>
+<TD><INPUT TYPE="TEXT" NAME="ZIP4" SIZE="5"    MAXLENGTH="5" VALUE=""></TD>
+<TR>
+<TR>
+<TD> City</TD>
+<TD> State</TD>
+<TD ALIGN="center">Zip</TD>
+<TD></TD>
+<TD>+4</TD></TR>
+</TABLE>
+</BLOCKQUOTE>
+<P>
+
+<LI><B>Telephone:</B>
+
+<BLOCKQUOTE>
+<TABLE CELLSPACING="0" CELLPADDING="2">
+<TR>
+<TD COLSPAN="6"><B>Evening:</B>
+<TD colspan="3"><B>Day:</B></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR>
+<TD><INPUT TYPE="TEXT" NAME="HOMEAREA" SIZE="3" MAXLENGTH="3" VALUE="###"></TD>
+<TD><INPUT TYPE="TEXT" NAME="HOMEEXCH" SIZE="3" MAXLENGTH="3" VALUE="###"></TD>
+<TD>-</TD>
+<TD><INPUT TYPE="TEXT" NAME="HOMEEXT" SIZE="4" MAXLENGTH="4" VALUE="####"></TD>
+<TD> </TD>
+<TD> </TD>
+<TD><INPUT TYPE="TEXT" NAME="WORKAREA" SIZE="3" MAXLENGTH="3" VALUE="###"></TD>
+<TD><INPUT TYPE="TEXT" NAME="WORKEXCH" SIZE="3" MAXLENGTH="3" VALUE="###"></TD>
+<TD>-</TD>
+<TD><INPUT TYPE="TEXT" NAME="WORKEXT" SIZE="4" MAXLENGTH="4" VALUE="####"></TD></TR>
+<TR>
+<TD> Area</TD>
+<TD> exch.</TD>
+<TD> </TD>
+<TD> +4</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> Area</TD>
+<TD> exch.</TD>
+<TD> </TD>
+<TD> +4</TD></TR>
+</TABLE>
+</BLOCKQUOTE>
+<P>
+
+<LI><B>E-Mail Address:</B>
+
+<BLOCKQUOTE>
+<TABLE CELLSPACING="0" CELLPADDING="2">
+<TR>
+<TD><INPUT TYPE="TEXT" NAME="EMAILADR" SIZE="40" MAXLENGTH="40" VALUE="****@*****.***"></TD></TR>
+</TABLE>
+</BLOCKQUOTE>
+</UL>
+
+<HR WIDTH="90%">
+
+<H2>Categories Available</H2>
+<UL>
+<LI><A HREF="#funinf">Fund Information</A>
+<LI><A HREF="#retind">Retirement - Individual</A>
+<LI><A HREF="#retsmabus">Retirement - Small Business</A>
+<LI><A HREF="#varann">Variable Annuity</A>
+<LI><A HREF="#disbro">Discount Brokerage</A>
+<LI><A HREF="#plagui">Planning Guides</A>
+<LI><A HREF="#serinffor">Services Info &amp; Forms</A>
+</UL>
+<P>
+
+<A NAME="funinf"></A>
+<TABLE BORDER="1" CELLSPACING="1" CELLPADDING="2" WIDTH="90%"><CAPTION ALIGN="top"><FONT SIZE="5">
+<B>Fund Information</B></FONT></CAPTION>
+<TR>
+<TD>Balanced Fund</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="BAL:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="BAL:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="BAL:QR93"></TD></TR>
+<TR>
+<TD>Blue Chip Growth</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="BCG:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="BCG:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="BCG:QR93"></TD></TR>
+<TR>
+<TD>California Tax-Free Funds</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="CAC:REGL"></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD></TR>
+<TR>
+<TD>Capital Appreciation</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="CAF:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="CAF:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="CAF:QR93"></TD></TR>
+<TR>
+<TD>Capital Opportunity</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="COF:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="COF:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="COF:QR93"></TD></TR>
+<TR>
+<TD>Corporate Income Fund</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="CIF:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="CIF:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="CIF:QR93"></TD></TR>
+<TR>
+<TD>Diversified Small-Cap Growth</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="DSG:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="DSG:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="DSG:QR93"></TD></TR>
+<TR>
+<TD>Dividend Growth</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="DGF:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="DGF:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" value="DGF:QR93"></TD></TR>
+<TR>
+<TD>Equity Income</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="EIF:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="EIF:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="EIF:QR93"></TD></TR>
+<TR>
+<TD>Emerging Markets Bond</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="EMB:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="EMB:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="EMB:QR93"></TD></TR>
+<TR>
+<TD>Emerging Markets Stock</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="EMS:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="EMS:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="EMS:QR93"></TD></TR>
+<TR>
+<TD>Equity Funds Generic</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="EQU:REGL"></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD></TR>
+<TR>
+<TD>European Stock</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="ESF:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="ESF:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="ESF:QR93"></TD></TR>
+<TR>
+<TD>Equity Index</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="EXF:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="EXF:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="EXF:QR93"></TD></TR>
+<TR>
+<TD>Financial Services</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="FSF:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="FSF:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="FSF:QR93"></TD></TR>
+<TR>
+<TD>Florida Insured Intermediate</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="FLI:REGL"></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD></TR>
+<TR>
+<TD>Georgia Tax-Free Bond</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="GAB:REGL"></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD></TR>
+<TR>
+<TD>GNMA Fund</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="GMA:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="GMA:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="GMA:QR93"></TD></TR>
+<TR>
+<TD>Global Government Bond</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="GGB:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="GGB:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="GGB:QR93"></TD></TR>
+<TR>
+<TD>Global Stock</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="GLS:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="GLS:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="GLS:QR93"></TD></TR>
+<TR>
+<TD>Growth & Income</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="GIF:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="GIF:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="GIF:QR93"></TD></TR>
+<TR>
+<TD>Growth Stock</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="GSF:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="GSF:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="GSF:QR93"></TD></TR>
+<TR>
+<TD>Health Sciences</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="HSF:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="HSF:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="HSF:QR93"></TD></TR>
+<TR>
+<TD>High Yield</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="HYF:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="HYF:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="HYF:QR93"></TD></TR>
+<TR>
+<TD>International Bond</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="IBF:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="IBF:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="IBF:QR93"></TD></TR>
+<TR>
+<TD>International Discovery</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="IDF:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="IDF:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="IDF:QR93"></TD></TR>
+<TR>
+<TD>Income Funds Generic Kit</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="INC:REGL"></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD></TR>
+<TR>
+<TD>International Equity Funds</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="INTEQ:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="INTEQ:IRAR"></TD>
+<TD>Rollover    <INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="INTEQ:QR93"></TD></TR>
+<TR>
+<TD>International Fixed Income Funds</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="INTFI:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="INTFI:IRAR"></TD>
+<TD>Rollover    <INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="INTFI:QR93"></TD></TR>
+<TR>
+<TD>International Stock</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="ISF:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="ISF:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="ISF:QR93"></TD></TR>
+<TR>
+<TD>Japan Fund</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="JAF:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="JAF:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="JAF:QR93"></TD></TR>
+<TR>
+<TD>Latin America</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="LAM:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="LAM:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="LAM:QR93"></TD></TR>
+<TR>
+<TD>Maryland Tax-Free Funds</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="MDC:REGL"></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD></TR>
+<TR>
+<TD>Media & Telecommunications</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="MTF:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="MTF:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="MTF:QR93"></TD></TR>
+<TR>
+<TD>Mid-Cap Growth</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="MCG:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="MCG:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="MCG:QR93"></TD></TR>
+<TR>
+<TD>Mid-Cap Value</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="MCV:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="MCV:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="MCV:QR93"></TD></TR>
+<TR>
+<TD>New America Growth</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="NAG:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="NAG:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="NAG:QR93"></TD></TR>
+<TR>
+<TD>New Asia</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="NAS:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="NAS:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="NAS:QR93"></TD></TR>
+<TR>
+<TD>New Era</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="NEF:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="NEF:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="NEF:QR93"></TD></TR>
+<TR>
+<TD>New Horizons</TD>
+<TD><A HREF="#note">N/A</A></TD>
+<TD><A HREF="#note">N/A</A></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="NHF:QR93"></TD></TR>
+<TR>
+<TD>New Income</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="NIF:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="NIF:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="NIF:QR93"></TD></TR>
+<TR>
+<TD>New Jersey Tax-Free Bond</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="NJB:REGL"></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD></TR>
+<TR>
+<TD>New York Tax-Free Funds</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="NYC:REGL"></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD></TR>
+<TR>
+<TD>Prime Reserve</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="PRF:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="PRF:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="PRF:QR93"></TD></TR>
+<TR>
+<TD>Personal Strategy Funds</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="PSC:IRGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="PSC:PSIR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="PSC:QR93"></TD></TR>
+<TR>
+<TD>Small-Cap Stock Fund</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="SCS:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="SCS:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="SCS:QR93"></TD></TR>
+<TR>
+<TD>Small Cap Value</TD>
+<TD COLSPAN=3 ALIGN=CENTER>On 3/1/96 this fund was closed to new investors indefinitely.</TD></TR>
+<TR>
+<TD>Summit Income Funds</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="SINC:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="SINC:SIRA"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="SINC:QR93"></TD></TR>
+<TR>
+<TD>Summit Muni Funds</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="SMUNI:REGL"></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD></TR>
+<TR>
+<TD>Spectrum Funds</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="SPC:IRGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="SPC:SPIR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="SPC:QR93"></TD></TR>
+<TR>
+<TD>Short-Term Bond</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="STB:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="STB:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="STB:QR93"></TD></TR>
+<TR>
+<TD>Science & Technology</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="STF:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="STF:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="STF:QR93"></TD></TR>
+<TR>
+<TD>Summit Funds (all)</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="SUMMT:REGL"></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD></TR>
+<TR>
+<TD>Tax-Efficient Balanced Fund</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="TEB:REGL"></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD></TR>
+<TR>
+<TD>Tax-Exempt Money</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="TEM:REGL"></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD></TR>
+<TR>
+<TD>Tax-Free Funds</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="TFF:REGL"></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD></TR>
+<TR>
+<TD>Tax-Free High Yield</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="TFH:REGL"></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD></TR>
+<TR>
+<TD>Tax-Free Income</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="TFI:REGL"></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD></TR>
+<TR>
+<TD>Tax-Free Short-Intermediate</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="TFS:REGL"></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD></TR>
+<TR>
+<TD>Tax-Free Insured Intermediate</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="TII:REGL"></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD></TR>
+<TR>
+<TD>U.S. Treasury Funds</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="USC:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="USC:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="USC:QR93"></TD></TR>
+<TR>
+<TD>U.S. Government Short-Term</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="USG:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="USG:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="USG:QR93"></TD></TR>
+<TR>
+<TD>U.S. Treasury Money</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="UST:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="UST:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="UST:QR93"></TD></TR>
+<TR>
+<TD>Virginia Tax-Free Bonds</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="VAC:REGL"></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD>
+<TD><FONT SIZE="2">N/A</FONT></TD></TR>
+<TR>
+<TD>Value Fund</TD>
+<TD>Regular 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="VAL:REGL"></TD>
+<TD>IRA 		<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="VAL:IRAR"></TD>
+<TD>Rollover 	<INPUT TYPE="CHECKBOX" NAME="OPTION" VALUE="VAL:QR93"></TD></TR>
+</TABLE>
+<P>
+
+<A NAME="retind"></A>
+<TABLE BORDER="1" CELLSPACING="1" CELLPADDING="2" WIDTH="60%"><CAPTION ALIGN="TOP"><FONT SIZE="5">
+<B>Retirement - Individual</B></FONT></CAPTION>
+<TR>
+<TD>Regular IRA Information</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE="GEN:IRAR"></TD></TR>
+<TR>
+<TD>Qualified IRA Rollover Information</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE="GEN:QR93"></TD></TR>
+</TABLE>
+<P>
+
+<A NAME="retsmabus"></A>
+<TABLE BORDER="1" CELLSPACING="1" CELLPADDING="2" WIDTH="60%"><CAPTION ALIGN="TOP"><FONT SIZE="5"><B>Retirement - Small Business</B></FONT></CAPTION>
+<TR>
+<TD>SEP-IRA</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE="GEN:SEPS"></TD></TR>
+<TR>
+<TD>Simplified Keogh - Sole Proprietor Only</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE="GEN:SOLE"></TD></TR>
+<TR>
+<TD>Simplified Keogh - More than 1 employee</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE="GEN:MULT"></TD></TR>
+<TR>
+<TD>Century 401(k) Plan</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE=" :CWJK|GEN:401K"></TD></TR>
+</TABLE>
+<P>
+
+<A NAME="varann"></A>
+<TABLE BORDER="1" CELLSPACING="1" CELLPADDING="2" WIDTH="60%"><CAPTION ALIGN="TOP"><FONT SIZE="5">
+<B>Variable Annuity</B></FONT></CAPTION>
+<TR>
+<TD>Literature plus computer software</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE="VARAN:VDSK"></TD></TR>
+<TR>
+<TD>Literature without  computer software</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE="VARAN:VARG"></TD></TR>
+</TABLE>
+<P>
+
+<A NAME="disbro"></A>
+<TABLE BORDER="1" CELLSPACING="1" CELLPADDING="2" WIDTH="60%"><CAPTION ALIGN="TOP"><FONT SIZE="5">
+<B>Discount Brokerage</B></FONT></CAPTION>
+<TR>
+<TD>DB Regular Account Information</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE="PRF:DBRG"></TD></TR>
+<TR>
+<TD>DB IRA Account Information</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE="PRF:DBIR"></TD></TR>
+<TR>
+<TD>Rollover IRA Information</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE="PRF:QR93"></TD></TR>
+<TR>
+<TD>Regular Account Transfer Form</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE=":DBTR"></TD></TR>
+<TR>
+<TD>IRA Transfer Form</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE=":DBIT"></TD></TR>
+</TABLE>
+<P>
+
+<A NAME="plagui"></A>
+<TABLE BORDER="1" CELLSPACING="1" CELLPADDING="2" WIDTH="60%"><CAPTION ALIGN="TOP"><FONT SIZE="5">
+<B>Planning Guides</B></FONT></CAPTION>
+<TR>
+<TD>Asset Mix Worksheet</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE=" :AMIX"></TD></TR>
+<TR>
+<TD>College Planning Kit</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE="GEN:COLL"></TD></TR>
+<TR>
+<TD>How To Choose a Bond Fund (2 items)</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE=" :HTCB|BND:BKIT"></TD></TR>
+<TR>
+<TD>Retiree's Financial Guide (2 items)</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE=" :POST|GEN:PKIT"></TD></TR>
+<TR>
+<TD>Retirement Planning Kit (2 items)</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE=" :RTPK|GEN:RKIT"></TD></TR>
+<TR>
+<TD>Tax Considerations Guide (2 items)</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE=" :TXCG|TFF:TKIT"></TD></TR>
+</TABLE>
+<P>
+
+<A NAME="serinffor"></A>
+<TABLE BORDER="1" CELLSPACING="1" CELLPADDING="2" WIDTH="60%"><CAPTION ALIGN="TOP"><FONT SIZE="5"><B>Services Info &amp; Forms</B></FONT></CAPTION>
+<TR>
+<TD>Automatic Asset Builder</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE=" :ASST"></TD></TR>
+<TR>
+<TD>IRA Distribution Request</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE=" :IRAD"></TD></TR>
+<TR>
+<TD>Ownership Change - From Individual</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE=" :CIND"></TD></TR>
+<TR>
+<TD>Ownership Change - From Joint</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE=" :CJNT"></TD></TR>
+<TR>
+<TD>Ownership Change - From Misc.</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE=" :COTH"></TD></TR>
+<TR>
+<TD>Ownership Change - From Trust</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE=" :CTST"></TD></TR>
+<TR>
+<TD>Ownership Change - From UGMA/UTMA</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE=" :CUGM"></TD></TR>
+<TR>
+<TD>Funds Guide</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE=" :FDGD"></TD></TR>
+<TR>
+<TD>PC*Access Brochure</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE=" :PCAC"></TD></TR>
+<TR>
+<TD>Price Report</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE=" :PRPT"></TD></TR>
+<TR>
+<TD>Price Report Special Edition: IRA Expansion</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE=" :IRAW"></TD></TR>
+<TR>
+<TD>Tele*Access Brochure</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE=" :TELA"></TD></TR>
+<TR>
+<TD>UGMA/UTMA Information Letter</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" value=" :UGMA"></TD></TR>
+<TR>
+<TD>Quarterly Performance Update</TD>
+<TD><INPUT TYPE="CHECKBOX" NAME="option" VALUE=" :UPDT"></TD></TR>
+</TABLE>
+<P>
+
+<CENTER>
+<IMG  WIDTH=350 HEIGHT=18 SRC="/images/bar2.gif">
+</CENTER>
+<P>
+
+<CENTER>
+<INPUT TYPE = "SUBMIT" VALUE= "Send Request">
+<INPUT TYPE ="Reset" NAME="CLEAR">
+</CENTER>
+
+</FORM>
+<P>
+</BLOCKQUOTE>
+<CENTER>
+<A HREF="/maps/bar.gif.map"><IMG SRC="/images/bar.gif" ISMAP border=0 alt="Button Bar"></A>
+<P>
+
+<FONT SIZE="-2"><A NAME="note">T</A>he New Horizons Fund was closed to new accounts as of 4:00 p.m. EST on June 18, 1996.   However, the fund will continue to accept new IRA Rollover and defined contribution retirement plan accounts. Existing shareholders will be unaffected by this action; they can continue to purchase additional shares and redeem without limitation after June 18. See our <A HREF="../news/6_6.html">press release</A> for more information.</FONT>
+<P>
+
+<FONT SIZE=-1><I>Copyright, 1996-1998 T. Rowe Price Investment Services, Inc. Distributor. All rights reserved.</I></FONT>
+</CENTER>
+
+</BODY>
+</HTML>

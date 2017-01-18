@@ -1,0 +1,278 @@
+Date: Fri, 21 Nov 1997 04:42:50 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Last-Modified: Wednesday, June 18, 1997 15:03:12 EST
+Content-Length: 13201
+
+
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="Author" CONTENT="Mike Douklias">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.0b3 [en] (Win95; I) [Netscape]">
+   <TITLE>Legal information</TITLE>
+</HEAD>
+<!-- This is the beginning of the page code -->
+
+<script>
+<!--
+bName = navigator.appName;
+bVer = parseInt(navigator.appVersion);
+if  (bName == "Netscape" && bVer >= 3) ver = "n3";
+else ver = "n2";
+if (ver == "n3")
+{
+  news_1 = new Image(120, 20);
+  news_1.src="/bin/webmate/egg/raw/egg/MIME/news_1.gif/data/image/gif";
+  divisions_1 = new Image(120, 20);
+  divisions_1.src="/bin/webmate/egg/raw/egg/MIME/divisions_1.gif/data/image/gif";
+  markets_1 = new Image(120, 20);
+  markets_1.src="/bin/webmate/egg/raw/egg/MIME/markets_1.gif/data/image/gif";
+  products_1 = new Image(120, 20);
+  products_1.src="/bin/webmate/egg/raw/egg/MIME/products_1.gif/data/image/gif";
+  contact_1 = new Image(120, 20);
+  contact_1.src="/bin/webmate/egg/raw/egg/MIME/contact_1.gif/data/image/gif";
+
+  news_0 = new Image(120, 20);
+  news_0.src="/bin/webmate/egg/raw/egg/MIME/news_0.gif/data/image/gif";
+  divisions_0 = new Image(120, 20);
+  divisions_0.src="/bin/webmate/egg/raw/egg/MIME/divisions_0.gif/data/image/gif";
+  markets_0 = new Image(120, 20);
+  markets_0.src="/bin/webmate/egg/raw/egg/MIME/markets_0.gif/data/image/gif";
+  products_0 = new Image(120, 20);
+  products_0.src="/bin/webmate/egg/raw/egg/MIME/products_0.gif/data/image/gif";
+  contact_0 = new Image(120, 20);
+  contact_0.src="/bin/webmate/egg/raw/egg/MIME/contact_0.gif/data/image/gif";
+
+  news_2 = new Image(120, 20);
+  news_2.src="/bin/webmate/egg/raw/egg/MIME/news_2.gif/data/image/gif";
+  divisions_2 = new Image(120, 20);
+  divisions_2.src="/bin/webmate/egg/raw/egg/MIME/divisions_2.gif/data/image/gif";
+  markets_2 = new Image(120, 20);
+  markets_2.src="/bin/webmate/egg/raw/egg/MIME/markets_2.gif/data/image/gif";
+  products_2 = new Image(120, 20);
+  products_2.src="/bin/webmate/egg/raw/egg/MIME/products_2.gif/data/image/gif";
+  contact_2 = new Image(120, 20);
+  contact_2.src="/bin/webmate/egg/raw/egg/MIME/contact_2.gif/data/image/gif";
+
+}
+
+function imgchg(imgst,imgName) {
+if (ver == "n3") {
+     imgc = eval(imgName + "_" + imgst + ".src");
+     document [imgName].src = imgc;
+ }
+}
+
+//-->
+</script>
+
+<BODY BGCOLOR=#ffffff TEXT=#000000 LINK=#cc3333 VLINK=#3366cc ALINK=#FFFFFF>
+
+<!-- This is the beginning of the page code -->
+<TABLE border=0 cellspacing=0 cellpadding=0 width=600>
+
+<TR>
+<TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD>
+</TR>
+
+<TR BGCOLOR=#000000>
+<TD COLSPAN=6 height=56 width=144><a href="/bin/webmate/egg/page/egg/index"><IMG border=0 SRC="/bin/webmate/egg/raw/egg/MIME/egglogo.jpg/data/image/jpeg" width=144 alt="Home"></a></TD>
+<TD COLSPAN=16 height=56 width=384 align=center bgcolor=#000000><font color=red><h2>Important Disclaimers and Legal Information</TD></font></h2>
+<TD COLSPAN=3 height=56 width=72><a href="/bin/webmate/egg/page/egg/search"><IMG border=0 SRC="/bin/webmate/egg/raw/egg/MIME/srchme.gif/data/image/gif" height=56 width=72 name="search" alt="Search our database"></a></TD>
+</TR>
+
+<TR>
+<TD COLSPAN=5 height=20 width=120><a href="/bin/webmate/egg/page/egg/view_press/EGG" onmouseover="imgchg('1','news')" onmouseout="imgchg('0','news')"><img border=0 height=20 width=120 name="news" src="/bin/webmate/egg/raw/egg/MIME/news_0.gif/data/image/gif" alt="What's New"></a></TD>
+<TD COLSPAN=5 height=20 width=120><a href="/bin/webmate/egg/page/egg/divisions" onmouseover="imgchg('1','divisions')" onmouseout="imgchg('0','divisions')"><img border=0 height=20 width=120 name="divisions" src="/bin/webmate/egg/raw/egg/MIME/divisions_0.gif/data/image/gif" alt="Division listing"></a></TD>
+<TD COLSPAN=5 height=20 width=120><a href="/bin/webmate/egg/page/egg/mktframe/EGG" onmouseover="imgchg('1','markets')" onmouseout="imgchg('0','markets')"><img border=0 height=20 width=120 name="markets" src="/bin/webmate/egg/raw/egg/MIME/markets_0.gif/data/image/gif" alt="Market driven listing"></a></TD>
+<TD COLSPAN=5 height=20 width=120><a href="/bin/webmate/egg/page/egg/prodfram/all/EGG" onmouseover="imgchg('1','products')" onmouseout="imgchg('0','products')"><img border=0 height=20 width=120 name="products" src="/bin/webmate/egg/raw/egg/MIME/products_0.gif/data/image/gif" alt="Products and Services"></a></TD>
+<TD COLSPAN=5 height=20 width=120><a href="/bin/webmate/egg/page/egg/emailtop" onmouseover="imgchg('1','contact')" onmouseout="imgchg('0','contact')"><img border=0 height=20 width=120 name="contact" src="/bin/webmate/egg/raw/egg/MIME/contact_0.gif/data/image/gif" alt="Send us an e-mail"></a></TD>
+</TR>
+
+</TABLE>
+
+
+
+<p>
+<B>Warranty Disclaimer:<BR>
+</B>
+<P>
+EG&G, Inc., and its affiliate companies and subsidiaries (hereinafter
+"EG&G") make no representations about the suitability
+of the information contained on this web site for any purpose.
+This web site and all of the information it contains is provided
+"as is" without warranty of any kind whether express
+or implied. All implied warranties, including, without limitation,
+implied warranties of merchantability, fitness for a particular
+purpose, and non-infringement, are hereby expressly disclaimed.
+In no event shall EG&G be liable to any person or business
+entity for any special, direct, indirect, punitive, incidental
+or consequential damages arising out of or in connection with
+the use of this web site or any other web site to which this site
+is linked, including, without limitation, any lost profits, business
+interruption, or loss of programs or information even if EG&G
+has been specifically advised of the possibility of such damages
+whether based on contract, tort, strict liability or otherwise.
+Because some states do not allow the exclusion or limitation of
+liability for consequential or incidental damages, the above limitation
+may not apply to you.<BR>
+<P>
+<B>Content Disclaimer:<BR>
+</B>
+<P>
+EG&G shall not be responsible for any errors or omissions
+contained in this web site and reserves the right to make changes
+without notice. User therefore acknowledges and accepts that the
+information published on this web site may include technical inaccuracies
+or typographical errors. <BR>
+<P>
+<B>License Disclaimer:<BR>
+</B>
+<P>
+Nothing on this web site shall be construed as conferring any
+license under any of EG&G's or any third party's intellectual
+property rights, whether by estoppel, implication, or otherwise.
+<BR>
+<BR>
+<B>Notice Specific to Documents Available on This Web Site:<BR>
+</B>
+<P>
+Permission to use documents such as data sheets, white papers,
+technical guides, and press releases contained within this web
+site is granted, provided that (1) the following copyright notice
+appears in all copies: Copyright © 1997 EG&G, Inc., U.S.A. All rights reserved,
+and that both the copyright notice and this permission notice
+appear, (2) use of such documents from this web site is for informational
+and non-commercial or personal use only and will not be copied
+or posted on any network computer or broadcast in any media, and
+(3) no modifications of any documents are made. Use for any other
+purpose is expressly prohibited by law, and may result in severe
+civil and criminal penalties. Violators will be prosecuted to
+the maximum extent possible.<BR>
+<P>
+Documents specified above do not include the design or layout
+of the <B>egginc. com</B> web site or any other EG&G owned,
+operated, licensed or controlled site. Elements of EG&G's web
+site are protected by trade dress and other laws and may not be
+copied or imitated in whole or in part. No logo, graphic, sound
+or image from any EG&G web site may be copied or retransmitted
+unless expressly permitted by EG&G.<BR>
+<P>
+<B>Links to Third Party Sites:<BR>
+</B>
+<P>
+The hypertext links on this web site will allow you to leave EG&G's
+web site. The links are provided as a service to users and are
+not sponsored by or affiliated with this web site or under the
+control of EG&G. The links are to be accessed at the user's
+own risk, and EG&G and the authors of this web site make no
+representation or warranties about the content of these links.
+EG&G is not responsible for the content of any linked site
+or any link contained in a linked site. EG&G is providing
+these links to you only as a convenience, and the inclusion of
+any link does not imply endorsement by EG&G of the site.<BR>
+<P>
+<B>Unsolicited Ideas and Concepts:<BR>
+</B>
+<P>
+Any information provided to EG&G in connection with any EG&G
+web site shall be provided by the submitter and received by EG&G
+on a non-confidential basis. EG&G shall be free to use such
+information on an unrestricted basis and such information will
+become the exclusive property of EG&G to be used by it as
+it deems appropriate without compensation of any kind to any other
+party. <BR>
+<P>
+<B>Claims Resulting From Your Use of This Web Site:<BR>
+</B>
+<P>
+As a condition of use of this web site, you, the end user, agree
+to indemnify EG&G and its content providers from and against
+any and all liabilities, expenses, including attorneys' fees and
+damages arising out of claims resulting from your use of this
+web site, including, without limitation, any claims alleging facts
+that if true would constitute a breach by you of these terms and
+conditions.<BR>
+<BR>
+<P>
+<B>Copyright Notice:<BR>
+</B>
+<P>
+Copyright © 1997 EG&G, Inc., 45 William Street, Wellesley,
+Massachusetts. U.S.A.. All Rights Reserved.<BR>
+<P>
+<B>Trademarks:<BR>
+</B>
+<P>
+The EG&G trademark and design and other marks referenced herein
+are either trademarks or registered trademarks of EG&G. Other
+product and company names mentioned herein may be the trademarks
+of their respective owners. EG&G prohibits the use of any
+EG&G trademarks as "hot" links to any EG&G web
+site unless the establishment of such link is approved in advance
+by EG&G.<BR>
+<P>
+<B>Rights Reserved:<BR>
+</B>
+<P>
+Any rights not expressly granted herein are reserved. EG&G
+reserves the right to change this Agreement at any time by revising
+the terms and conditions herein. Users are responsible for regularly
+reviewing these terms and conditions. Continued use of this web
+site following any such changes shall constitute the user's acceptance
+of such changes.<BR>
+<P>
+This Agreement:<BR>
+<UL>
+<LI>will be governed by the laws, of the state of Massachusetts,
+exclusive of Massachusetts' choice of law rules;
+<LI>constitutes the entire Agreement, and supersedes any and all
+other agreements, understandings, and communications between the
+parties;
+<LI>may only be amended or otherwise modified by a written instrument
+executed by an authorized representative of EG&G.
+</UL>
+<P>
+User acknowledges that no joint venture, partnership, employment
+or agency relationship exists between the user and EG&G as
+a result of this Agreement or use of this web site. User agrees
+not to hold him or herself out as a representative, agent or employee
+of EG&G and EG&G shall not be liable for any representation,
+act or omission of the user.<BR>
+<P>
+<B>Forward-Looking Statements and Information<BR>
+</B>
+<P>
+All statements contained herein that refer to a time after March
+30, 1997, including the words expect, believe and plan, or statements
+referring to goals, the future or future actions, continuing actions,
+trends, strategies, initiatives, challenges or opportunities or
+which otherwise are not purely historical are forward-looking
+statements within the meaning of the Private Securities Litigation
+Reform Act of 1995 and involve risks and uncertainties. It is
+important to note that actual results could differ materially
+from those in the forward-looking statements. Please refer to
+the Company's SEC reports including the report on Form 10-K for
+the year ending December 31, 1996 and the report on Form 10-Q
+for the quarterly period ending March 30, 1997. Readers are cautioned
+not to place undue reliance on the these forward-looking statements.
+EG&G does not undertake any obligation to publicly release
+revisions to forward-looking statements to reflect the occurrences
+of unanticipated events.<BR>
+<p>
+
+<table width=600><tr valign=center><td>
+<p><center><font size=-2>
+<a href="/bin/webmate/egg/page/egg/index"> EG&G Home</a> |
+<a href="/bin/webmate/egg/page/egg/view_press/EGG"> News</a> |
+<a href="/bin/webmate/egg/page/egg/divisions"> Divisions</a> |
+<a href="/bin/webmate/egg/page/egg/mktframe/EGG"> Markets</a> |
+<a href="/bin/webmate/egg/page/egg/prodfram/all/EGG"> Products & Services</a> |
+<a href="/bin/webmate/egg/page/egg/emailtop"> Contact Us</a> |
+<a href="/bin/webmate/egg/page/egg/search"> Search</a>
+<p>
+<A HREF="/bin/webmate/egg/page/egg/copyright">Copyright© 1997 EG&G, Inc. Legal Notices</A><BR>
+45 William Street, Wellesley, Massachusetts, U.S.A.  All Rights Reserved.<BR>
+</font></center>
+</td></tr></table>

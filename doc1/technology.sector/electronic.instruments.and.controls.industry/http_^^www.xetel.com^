@@ -1,0 +1,263 @@
+Server: Microsoft-IIS/3.0
+Date: Fri, 21 Nov 1997 04:07:46 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Tue, 28 Oct 1997 17:23:12 GMT
+Content-Length: 7940
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>XeTel Home Page</title>
+<meta name="FORMATTER" content="Microsoft FrontPage 2.0">
+</head>
+
+<body background="images/BACKIMG.gif" onload="startit()">
+<!-- Cut-N-Paste JavaScript from ISN Toolbox 
+     Copyright 1996, Infohiway, Inc.  Restricted use is hereby
+     granted (commercial and personal OK) so long as this code
+     is not *directly* sold and the copyright notice is buried
+     somewhere deep in your HTML document.  A link to our site
+     http://www.infohiway.com is always appreciated of course,
+     but is absolutely and positively not necessary. ;-)   --><script
+language="JavaScript"><!--
+//Hide JavaScript from Java-Impaired Browsers
+
+var browser = 0;
+
+if (navigator.userAgent.indexOf("Mozilla/3.0") != -1)
+	browser = 1;
+
+if (browser == 1) {
+	var buttPic = new Array();
+
+	buttPic[0] = new Image(126,160);
+	buttPic[0].src = "images/tab1.gif";
+	buttPic[1] = new Image(126,160);
+	buttPic[1].src = "images/tab10.gif";
+
+
+	buttPic[2] = new Image(126,160);
+	buttPic[2].src = "images/tab2.gif";
+	buttPic[3] = new Image(126,160);
+	buttPic[3].src = "images/tab20.gif";
+
+	buttPic[4] = new Image(126,160);
+	buttPic[4].src = "images/tab3.gif";
+	buttPic[5] = new Image(126,160);
+	buttPic[5].src = "images/tab30.gif";
+
+	buttPic[6] = new Image(126,160);
+	buttPic[6].src = "images/tab4.gif";
+	buttPic[7] = new Image(126,160);
+	buttPic[7].src = "images/tab40.gif";
+
+}
+
+
+
+function isnscroll(hype) {
+
+ var shameless = 100
+
+ var prtspc = " ";
+
+ var col = 1;
+
+ /* You could use array here, but this is easy way to load messages
+    Unlike HTML documents, multiple adjoining spaces are preserved */
+ var promotional=" Manufacturing the Future Today..."
++" XeTel brings you Micro BGA and Miniature Card Assembly Services-  Contact us at 1.888.GO.XETEL                ";
+
+
+
+
+
+ if (hype>shameless) {
+  hype--;
+  var cmd="isnscroll(" + hype + ")";
+  isntimer=window.setTimeout(cmd,shameless);
+ }
+
+ else if (hype<=shameless && hype>0) {
+  for (col=0;col<hype;col++) {
+   prtspc+=" ";
+  }
+
+  prtspc+=promotional;
+  hype--;
+  var cmd="isnscroll(" + hype + ")";
+  window.status=prtspc;
+  isntimer=window.setTimeout(cmd,shameless);
+ }
+
+ else if (hype<=0) {
+  if (-hype<promotional.length) {
+   prtspc+=promotional.substring(-hype,promotional.length);
+   hype--;
+   var cmd="isnscroll(" + hype + ")";
+   window.status=prtspc;
+   isntimer=window.setTimeout(cmd,100);
+  }
+
+  else {
+   window.status=" ";
+   isntimer=window.setTimeout("isnscroll(100)",75);
+  }
+ }
+}
+
+function startit() {
+
+ isntimer=window.setTimeout("isnscroll(100)",500);
+
+}
+
+
+
+function LiteButton(which, mouseOver)
+{
+	if (browser == 1)
+	{
+		if (which == 0) {
+			document.first.src = buttPic[2 * which + mouseOver].src;
+			//window.status = mouseOver ? "Company Information" : "";
+		   document.about.T1.value = "[Executive management/Investor Relations/Press Release/Employment Oportunities]";
+         return true;
+		} else if (which == 1) {
+			document.second.src = buttPic[2 * which + mouseOver].src;
+			//window.status = mouseOver ? "Technology" : "";
+			document.about.T1.value = "[BGA/Scale Package/Technology PR]";
+		return true;
+		} else if (which == 2) {
+			document.third.src = buttPic[2 * which + mouseOver].src;
+			//window.status = mouseOver ? "Contract Manufacturing Services" : "";
+		   document.about.T1.value = "[Manufacturing Services/EDI Capabilities/Package Assembly/Equipment List/Sales & Marketing]";
+		return true;
+		} else if (which == 3) {
+			document.fourth.src = buttPic[2 * which + mouseOver].src;
+			//window.status = mouseOver ? "Facility Facts" : "";
+		  document.about.T1.value = "Facility Facts for [Austin/Dallas/San Ramon]";
+   	return true;
+     }
+	}
+	
+	return false;
+}
+// Stop Hiding Contents 
+
+// --></script>
+
+<p align="center"><b><img src="images/xetel.gif" align="middle"
+width="362" height="125"></b><font size="5"><b><br>
+</b></font><font size="4"><b>Manufacturing the Future Today</b></font><b><br>
+</b></p>
+<div align="center"><center>
+
+<table border="0">
+    <tr>
+        <td valign="top"><p align="left"><img
+        src="images/iso.gif" align="top" width="124" height="50">
+        </p>
+        </td>
+        <td align="center"><p align="center"><font
+        color="#0000FF" size="4"><strong>A Full Service
+        Electronics <br>
+        Contract Manufacturer</strong></font> </p>
+        </td>
+        <td valign="top"><img src="images/sea.gif" width="50"
+        height="38"></td>
+        <td><font size="1" face="Courier New">Circuits<br>
+        Assembly<br>
+        SERVICE<br>
+        EXCELLENCE<br>
+        AWARD 1996</font></td>
+    </tr>
+</table>
+</center></div>
+
+<blockquote>
+    <hr>
+</blockquote>
+
+<p align="center"><br>
+<a href="/xstrat"
+onmouseover="if (LiteButton(0, 1)) return true;"
+onmouseout="if (LiteButton(0, 0)) return true;"><img
+src="images/tab1.gif" border="0" width="126" height="160"
+name="first"></a><a href="/online"
+onmouseover="if (LiteButton(1, 1)) return true;"
+onmouseout="if (LiteButton(1, 0)) return true;"><img
+src="images/tab2.gif" border="0" width="126" height="160"
+name="second"></a><a href="/proto"
+onmouseover="if (LiteButton(2, 1)) return true;"
+onmouseout="if (LiteButton(2, 0)) return true;"><img
+src="images/tab3.gif" border="0" width="126" height="160"
+name="third"></a><a href="/ffacts"
+onmouseover="if (LiteButton(3, 1)) return true;"
+onmouseout="if (LiteButton(3, 0)) return true;"><img
+src="images/tab4.gif" border="0" width="125" height="160"
+name="fourth"></a> <br>
+</p>
+
+<form method="POST" name="about">
+    <p align="center"><!--webbot bot="HTMLMarkup" startspan --><center>
+<!--webbot
+    bot="HTMLMarkup" endspan --><font color="#0000FF"><input
+    type="text" size="80" name="T1"
+    value="Select One of the above folders to see contents inside."><!--webbot
+    bot="HTMLMarkup" startspan --></center><!--webbot bot="HTMLMarkup"
+    endspan --></font></p>
+</form>
+
+<p align="center"><br>
+<img src="images/io.gif" alt="Integrated Outsourcing" width="502"
+height="60"> </p>
+
+<blockquote>
+    <p align="center"><br>
+    XeTel Corporation<a
+    href="http://www.pcquote.com/cgi-bin/getquote.exe?TICKER=XTEL">NASDAQ:
+    <i>XTEL</i></a>) provides advanced design<br>
+    and prototype services, manufactures sophisticated surface
+    mount <br>
+    and system assemblies and supplies turnkey solutions to
+    original <br>
+    equipment manufacturers'. The Company's design and prototype <br>
+    services support customers in the product development phase
+    and <br>
+    assist in their efforts to reduce time to market and time to
+    volume,<br>
+    as well as production costs. XeTel's solutions-oriented
+    approach <br>
+    to contract manufacturing, provides customization of Company <br>
+    services to seamlessly meet each customer's needs.<br>
+    <br>
+    </p>
+</blockquote>
+
+<p align="center"><font color="#0000FF"><b>Corporate Headquarters<br>
+XeTel Corporation<br>
+2525 Brockton Drive<br>
+Austin, TX 78758<br>
+<br>
+Tel: 512 / 435-1000<br>
+Fax: 512 / 834-9250<br>
+Internet:</b></font><b> </b><a href="http://www.xetel.com"><b>http://www.xetel.com</b></a></p>
+
+<p align="center"><b>Best viewed with Netscape Navigator</b><a
+href="http://www.netscape.com/comprod/mirror/client_download.html"><b><img
+src="images/netnow3.gif" border="0" width="88" height="31"></b></a></p>
+
+<blockquote>
+    <p align="center"><font size="2">MicroBGA is a Trademark</font><font
+    size="1">TM</font><font size="2"> of Tessera<br>
+    <em>u</em>BGA is a Registered Trademark® of Tessera</font></p>
+</blockquote>
+</body>
+</html>

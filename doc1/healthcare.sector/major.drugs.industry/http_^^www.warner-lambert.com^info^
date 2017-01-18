@@ -1,0 +1,106 @@
+Date: Thu, 18 Dec 1997 19:39:08 GMT
+Server: Apache/1.2.0
+Connection: close
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>Warner-Lambert Public Relations</TITLE>
+</HEAD>
+<BODY LINK="#0000FF" VLINK="#800099" BACKGROUND="GraTileLite.jpg">
+
+<CENTER><TABLE>
+<TR>
+<TD><NOBR><IMG SRC="PubAffTop.gif" ALT="" HEIGHT=28 WIDTH=475><BR>
+<IMG SRC="PubAffA1.gif" ALT="" HEIGHT=82 WIDTH=156><A HREF="http://warner-lambert.com/info/warnerworld.html"><IMG SRC="AnimA.gif" ALT="[WARNER WORLD]" BORDER=0 HEIGHT=82 WIDTH=73></A><A HREF="http://warner-lambert.com/info/warnerworld.html"><IMG SRC="PubAffA3.gif" ALT="" BORDER=0 HEIGHT=82 WIDTH=156></A><IMG SRC="PubAffA2.gif" ALT="" HEIGHT=82 WIDTH=90><BR>
+<IMG SRC="PubAffB1.gif" ALT="" HEIGHT=100 WIDTH=234><A HREF="http://warner-lambert.com/info/healthintro.html"><IMG SRC="AnimB.gif" ALT="[HEALTH]" BORDER=0 HEIGHT=100 WIDTH=75></A><A HREF="http://warner-lambert.com/info/healthintro.html"><IMG SRC="PubAffB3.gif" ALT="" BORDER=0 HEIGHT=100 WIDTH=72></A><IMG SRC="PubAffB2.gif" ALT="" HEIGHT=100 WIDTH=94><BR>
+<IMG SRC="PubAffC1.gif" ALT="" HEIGHT=82 WIDTH=79><A HREF="http://warner-lambert.com/info/globaltour.html"><IMG SRC="AnimC.gif" ALT="[GLOBAL TOUR]" BORDER=0 HEIGHT=82 WIDTH=77></A><A HREF="http://warner-lambert.com/info/globaltour.html"><IMG SRC="PubAffC3.gif" ALT="" BORDER=0 HEIGHT=82 WIDTH=76></A><A HREF="http://warner-lambert.com/info/hotnews.html"><IMG SRC="PubAffC2.gif" ALT="[HOT NEWS]" BORDER=0 HEIGHT=82 WIDTH=243></A>
+</NOBR></TD>
+</TR>
+</TABLE></CENTER>
+
+<CENTER>
+<P>
+<IMG SRC="MedAdNews2.gif" BORDER=0 WIDTH=297 HEIGHT=60 ALT="">
+<P>
+<B>
+
+December 18, 1997
+</B></P></CENTER>
+
+<BLOCKQUOTE>
+<P><FONT SIZE=+1>We are Warner-Lambert, the company that makes the world
+feel better. We try to live up to our reputation in all we do. It starts
+with our pharmaceutical products that your doctor prescribes to improve
+your health. Then there are our consumer health products that millions
+rely on every day to feel good and look their best. And our confectionery
+products give people pleasure in countless small ways. </FONT></P>
+
+<P><FONT SIZE=+1>Now we're also helping the world feel better through our
+website. Visit our <A HREF="http://warner-lambert.com/info/healthintro.html">Health
+and Fitness</A> area to learn how to start improving your health today.
+Or relax with a quick trip to a distant land on our <A HREF="http://warner-lambert.com/info/globaltour.html">Global
+Tour</A>. Of course, if you'd like to know more about a company that makes
+a difference in so many lives, check out <A HREF="http://warner-lambert.com/info/warnerworld.html">Warner-Lambert's
+World</A>. </FONT></P>
+
+<CENTER><P><FONT SIZE=+1>To search our site by topic, please type a key word
+below: </FONT></P></CENTER>
+
+<CENTER><P><IMG SRC="QuickFind.gif" HEIGHT=30 WIDTH=120></P></CENTER>
+
+<CENTER><P><FORM method=GET action="http://www.warner-lambert.com/cgi-bin/wlsearch"><INPUT type=text name="keywords" size=40><INPUT type=submit value=" Search "></FORM></P></CENTER>
+</BLOCKQUOTE>
+</FONT>
+<CENTER><P><BR>
+
+<MAP NAME="map_ButnBar">
+<AREA COORDS="2,2,100,35" HREF="../conaffairs/">
+<AREA COORDS="115,2,210,35" HREF="../whatsnew.html">
+<AREA COORDS="225,2,310,35" HREF="registration.html">
+<AREA COORDS="320,2,435,35" HREF="websitehelp.html">
+<AREA COORDS="40,36,138,70" HREF="../">
+<AREA COORDS="155,36,260,70" HREF="siteataglance.html">
+<AREA COORDS="270,36,375,70" HREF="feedback.html">
+<AREA COORDS="385,36,487,70" HREF="http://www.warner-lambert.com/career/">
+</MAP>
+<IMG SRC="ButtonStrip8CompYou.jpg" USEMAP="#map_ButnBar" BORDER=0 WIDTH=515 HEIGHT=71 ALT="">
+<BR>
+<FONT SIZE=-1>
+<A HREF="../conaffairs/">Products and You</A> |
+<A HREF="../whatsnew.html">What's New</A> |
+<A HREF="registration.html">Guest Book</A> |
+<A HREF="websitehelp.html">Web Site Help</A> |
+<BR>
+<A HREF="../">Home</A> |
+<A HREF="siteataglance.html">Site at a Glance</A> |
+<A HREF="feedback.html">Feedback</A> |
+<A HREF="http://www.warner-lambert.com/career/">Career Opportunities</A>
+</FONT></P></CENTER>
+
+<CENTER><TABLE>
+<TR>
+<TD>
+<CENTER><P><I><FONT SIZE=+1>This site is best viewed using <A HREF="http://home.netscape.com/comprod/mirror/client_download.html">Netscape
+3.0</A> or <A HREF="http://www.microsoft.com/ie/default.asp">Internet Explorer
+3.0</A></FONT></I><FONT SIZE=+1> </FONT><BR>
+</P></CENTER>
+
+<BLOCKQUOTE>
+<P><FONT SIZE=+1>The product information contained on this site is for
+U.S. residents only. </FONT></P>
+</BLOCKQUOTE>
+
+<P><FONT SIZE=-1>1997 &copy; Warner-Lambert Company. All rights reserved.
+The use of and access to the information on this site is subject to the
+terms and conditions set out in the Agreement to use the Warner-Lambert
+Company Websites. Please review this <A HREF="http://www.warner-lambert.com/legal.html">Agreement</A>
+prior to proceeding further.<BR>
+Created by <A HREF="http://www.spectracom.com/">SpectraCom, Inc.</A> on
+behalf of the Warner-Lambert Company. </FONT></P>
+</TD>
+</TR>
+</TABLE></CENTER>
+
+</BODY>
+</HTML>

@@ -1,0 +1,112 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 18 Dec 1997 10:48:21 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Wed, 10 Dec 1997 18:31:06 GMT
+Content-Length: 9171
+
+<HTML>
+<HEAD><TITLE>Stewart Title - Enhancing the Real Estate Closing Process</TITLE>
+<META http-equiv="PICS-Label" content='(PICS-1.1 "http://www.rsac.org/ratingsv01.html" l gen true comment "RSACi North America Server" by "webmaster@stewart.com" for "http://www.stewart.com" on "1996.08.07T08:04-0500" r (n 0 s 0 v 0 l 0))'>
+<META NAME="description" CONTENT="Stewart's primary business is title insurance. We also provide computer-related real estate information and services to domestic and foreign markets.">
+<META NAME="keywords" CONTENT="Stewart Title, Real Estate, Title Insurance, mortgage insurance, appraisal, investment real estate, investment properties, real estate brokers, real estate offices, Real Estate Lending, Housing, Homes for Sale, Real Estate Resources, underwriter, residential real estate, commercial real estate, buyer, seller, home buyer, home seller, settlement, home mortgage, property, contract, title agents, realestate, title reports, closings, mortgages, trust deeds, legal documents, abstracting, Real estate closings, title examinations, Title, Insurance, land, closing">
+</HEAD>
+
+<BODY BACKGROUND="../gifs/background.gif" LINK="#FFFFFF" VLINK="#FFBE00" ALINK="#FF0000" topmargin=0 leftmargin=0>
+
+<TABLE BORDER=0>
+	<tr><td width=150 valign=top><!-- Menu -->
+		<IMG SRC="gifs/soc.gif" WIDTH=127 HEIGHT=100 ALT="Stewart Title">
+		<TABLE border=0 WIDTH="100%" cellpadding=0 cellspacing=7>
+		  <TR><TD VALIGN="top"><A HREF="about/aboutfrm.htm" TARGET="_top"><IMG SRC="gifs/buttonf.jpg" BORDER="0" width=15 height=15></A></td><td VALIGN="top"><font size="-1" color="White"><b><A HREF="about/aboutfrm.htm" TARGET="_top" STYLE="text-decoration: none">About Stewart</a></b></font></td></tr>
+	 	  <TR><TD VALIGN="top"><A HREF="products/"><IMG SRC="gifs/buttonf.jpg" BORDER="0" width=15 height=15></A></td><td VALIGN="top"><font size="-1" color="White"><b><A HREF="products/" STYLE="text-decoration: none">Products</a></b></font></td></tr>
+		  <TR><TD VALIGN="top"><A HREF="services/"><IMG SRC="gifs/buttonf.jpg" BORDER="0" width=15 height=15></A></td><td VALIGN="top"><font size="-1" color="White"><b><A HREF="services/" STYLE="text-decoration: none">Services</A></b></font></td></tr>
+	 	  <TR><TD VALIGN="top"><A HREF="profrm.htm"><IMG SRC="gifs/buttonf.jpg" BORDER="0" width=15 height=15></A></td><td VALIGN="top"><font size="-1" color=white><b><A HREF="profrm.htm" STYLE="text-decoration: none">Visitor Profiles</A></b></font></td></tr>
+	 	  <TR><TD VALIGN="top"><A HREF="directory/"><IMG SRC="gifs/buttonf.jpg" BORDER="0" width=15 height=15></A></td><td VALIGN="top"><font size="-1" color=white><b><A HREF="directory/" STYLE="text-decoration: none">Company Directory</A></b></font></td></tr>
+	 	  <TR><TD VALIGN="top"><A HREF="inman.htm"><IMG SRC="gifs/buttonf.jpg" BORDER="0" width=15 height=15></A></td><td VALIGN="top"><font size="-1" color=white><b><A HREF="inman.htm" STYLE="text-decoration: none">Real Estate News</A></b></font></td></tr>
+	 	  <TR><TD VALIGN="top"><A HREF="scripts/stewart/SiteIndex.asp"><IMG SRC="gifs/buttonf.jpg" BORDER="0" width=15 height=15></A></td><td VALIGN="top"><font size="-1" color=white><b><A HREF="scripts/stewart/SiteIndex.asp" STYLE="text-decoration: none">Index</A></b></font></td></tr>
+	 	  <TR><TD VALIGN="top"><A HREF="news/"><IMG SRC="gifs/buttonf.jpg" BORDER="0" width=15 height=15></A></td><td VALIGN="top"><font size="-1" color=white><b><A HREF="news/" STYLE="text-decoration: none">Company News</A></b></font></td></tr>
+	 	  <TR><TD VALIGN="top"><A HREF="links/"><IMG SRC="gifs/buttonf.jpg" BORDER="0" width=15 height=15></A></td><td VALIGN="top"><font size="-1" color=white><b><A HREF="links/" STYLE="text-decoration: none">Useful Links</A></b></font></td></tr>
+	 	  <TR><TD VALIGN="top"><A HREF="awards.htm"><IMG SRC="gifs/buttonf.jpg" BORDER="0" width=15 height=15></A></td><td VALIGN="top"><font size="-1" color=white><b><A HREF="awards.htm" STYLE="text-decoration: none">Awards</A></b></font></td></tr>
+		  <TR><TD VALIGN="top" COLSPAN=2>
+			  <FORM name="sitesearch" ACTION="/scripts/stewart/queryhit.idq?" METHOD="POST">
+		           <INPUT TYPE="TEXT" NAME="CiRestriction" SIZE="10" MAXLENGTH="100" VALUE="">
+		           <INPUT TYPE=IMAGE SRC="gifs/Button-Go.gif" border="0">
+		           <INPUT TYPE="HIDDEN" NAME="CiMaxRecordsPerPage" VALUE="10">
+		           <INPUT TYPE="HIDDEN" NAME="CiScope" VALUE="/">
+		           <INPUT TYPE="HIDDEN" NAME="TemplateName" VALUE="queryhit">
+		           <INPUT TYPE="HIDDEN" NAME="CiSort" VALUE="rank[d]">
+		           <INPUT TYPE="HIDDEN" NAME="HTMLQueryForm" VALUE="../../index.htm">
+		         </FORM>
+		              <span style="font-size: 8.3pt; font-family: Arial; font-weight: normal; text-align: center; color: #FFFFFF">
+		                    <h5><A HREF="Search-Help.htm"><span style="color: #FFFFFF">Quick Tips</span></A> for more effective searching.</h5>
+		              </span>
+			</TD></TR>
+		</table>
+	</td>
+	<td valign=top>
+	     <table border=0 width="100%">
+		 	<TR>
+	       <td>&#160;</td><td align="right" ROWSPAN=6><IMG SRC="gifs/StewartLogo.jpg" ALIGN="right" ALT="Stewart Information Services Corporation" WIDTH=350 HEIGHT=141>
+		   </td></tr>
+			<TR><TD>&#160;</td></tr>
+			<TR><TD>&#160;</td></tr>
+			<TR><TD>&#160;</td></tr>
+			<TR><TD>&#160;&#160;<EM><B>The Stewart Commitment...</B></EM></td></tr>
+	              
+	    </table>
+<center>
+		<table border=0>
+			<tr><td>
+				
+	                <font size="+1"><b>Enhancing the real estate closing process</b></font>
+	           	
+			</td>
+			<td align=center>
+				<TABLE BORDER=0 CELLPADDING=5 bgcolor="#EEEEE3">
+					<TR><TD><FONT FACE="ARIAL">
+				    	<span style="font-size: 9pt; font-family: Arial; font-weight: normal; text-align: center">
+							<font size="-1"><b>Select a Profile that describes you:</b></font>
+			        	</span></font>
+					</td></tr>
+					<TR><TD align=center>
+					<FORM ACTION="/scripts/stewart/profile.asp" METHOD=POST>
+					    <SELECT NAME="Choice" onChange="document.forms[1].submit()">
+				            <OPTION VALUE="none">&#160;
+			                    <OPTION VALUE="HomeBuyerSeller">Home Buyer &amp; Seller
+			                    <OPTION VALUE="TitleAgent">Title Agent
+			                    <OPTION VALUE="Investor">Investor
+			                    <OPTION VALUE="International">International
+			                    <OPTION VALUE="Lender">Lender
+			                    <OPTION VALUE="RealEstateAgent">Real Estate Professional
+			                    </SELECT>
+					</form>
+					</td></tr>
+				</TABLE>
+			</td></tr>		
+			<tr><td valign=top colspan=2><FONT FACE="ARIAL">
+				<p>&#160;&#160;&#160;&#160;&#160;The Stewart family of companies offers products and services geared toward automating the title office and accelerating growth in the real estate information business. 
+				<P>&#160;&#160;&#160;&#160;&#160;The company is a leading developer of technology that enhances productivity and connectivity for parties to a real estate transaction. Stewart also markets real estate information services and products and outsourcing to the real estate and mortgage industries. 
+				</font>
+			</td></tr>
+		</table>
+
+<br>
+		<table border=0>
+			<tr><td colspan=3><p><center><span style="color: #163C8E"><font size="-2" color="#163C8E">|<a href="index.htm" target="_top"><font size="-2" color="#163C8E">Home</font></a>|<a href="/products" target="_top"><font size="-2" color="#163C8E">Products</font></a>|<a href="/services" target="_top"><font size="-2" color="#163C8E">Services</font></a>|<a href="profrm.htm" target="_top"><font size="-2" color="#163C8E">Visitor Profiles</font></a>|<a href="/directory" target="_top"><font size="-2" color="#163C8E">Directory</font></a>|<a href="inman.htm" target="_top"><font size="-2" color="#163C8E">Real Estate News</font></a>|<a href="/index" target="_top"><font size="-2" color="#163C8E">Index</font></a>|<a href="/news" target="_top"><font size="-2" color="#163C8E">Company News</font></a>|<a href="/links" target="_top"><font size="-2" color="#163C8E">Useful Links</font></a>|<a href="awards.htm" target="_top"><font size="-2" color="#163C8E">Awards</font></a>|</font></span></center>
+				</td></tr>
+			<TR>
+	  			<TD align="LEFT"><A HREF="http://www.microsoft.com/ie/" Target="_top"><IMG SRC="./gifs/ie-an.gif" BORDER="0"></a></td>
+	  			<TD align="CENTER"><span style="font-size: 8pt; font-family: Arial; font-weight: normal; color: #163C8E">
+	           <H5><a href="copyright.htm"><font size="-2" color="#163C8E">&#169; 1997 by Stewart Information Services Corporation. All rights reserved.</font></a></H5>
+	        	</span>
+	        	<span style="font-size: 8pt; font-family: Arial; font-weight: normal; margin-top: -10; color: #163C8E">
+	           	<A HREF="mailto:webmaster@stewart.com"><font size="-2" color="#163C8E">For assistance or information click here.</font></a>
+	        	</span>
+				</td>
+	  			<TD align=right><A HREF="http://www.rsac.org/" Target="_top"><IMG SRC="./gifs/rasc.jpg" BORDER="0"></a></td>
+			</tr>
+		</TABLE></CENTER>
+	</td></tr>
+</table>
+</BODY></HTML>

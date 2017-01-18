@@ -1,0 +1,156 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 18 Dec 1997 10:46:15 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Wed, 26 Nov 1997 21:33:59 GMT
+Content-Length: 10448
+
+<HTML>
+<HEAD>
+<TITLE>Allstate Insurance Company Home Page</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" LINK="#666699" ALINK="#FFFFFF" VLINK="#666699">
+<P>
+<CENTER>
+<TABLE WIDTH="577">
+<TR VALIGN="TOP"><TD COLSPAN="2"> 
+<A HREF="http:/cgi-bin/imagemap/allstate/maps/top.map"><IMG SRC="jpgs/top.jpg" ALT="Toolbar" BORDER="0" ISMAP USEMAP="#top" WIDTH=577 HEIGHT=19></A><BR><IMG SRC="jpgs/home_hdr.jpg" ALT="Home Page" WIDTH=577 HEIGHT=100><BR><A HREF="http:/cgi-bin/imagemap/allstate/maps/botm.map"><IMG SRC="jpgs/botm.jpg" ALT="Toolbar" BORDER="0" ISMAP USEMAP="#botm" WIDTH=577 HEIGHT=51></A>
+<P ALIGN=CENTER>
+<IMG SRC="jpgs/12reasons.gif" ALT="12 Reasons" WIDTH=454 HEIGHT=55><BR>
+<IMG SRC="jpgs/allstate.gif" ALIGN=RIGHT WIDTH=328 HEIGHT=19>
+<BR>
+<BR>
+<TABLE WIDTH=577>
+<TR VALIGN=TOP><TD WIDTH=100 ALIGN=RIGHT>
+<BR>
+<BR>
+<BR>
+<A onMouseOver="self.status='Neighborhood Partnership Program'; return true" HREF="http://corporate.allstate.com/partners"><IMG SRC="jpgs/nppicon.jpg" ALT="Neighborhood Partnership Program" BORDER=0 WIDTH=120 HEIGHT=60></A>
+<BR><BR>
+<FONT SIZE=2 FACE=ARIAL, GENEVA COLOR="#666699">
+<B><I><A onMouseOver="self.status='Allstate-Canada'; return true" HREF="http://www.allstate.ca">Canada</A></I></B>
+<P>
+<B><I>Germany</I></B>
+<P>
+<FONT SIZE=2 FACE=ARIAL, GENEVA COLOR="#7D003C">
+<B><I>Succeeding today, planning tomorrow.</I></B>
+<P>
+</FONT>
+<FONT SIZE=2 FACE=ARIAL, GENEVA COLOR="#666699">
+<B><I>At Allstate, we want to help you manage the big and small risks you face through every stage of your journey.</I></B>
+<BR><BR>
+<CENTER><A onMouseOver="self.status='1997 ASLA Winners'; return true" HREF="newspaper/community/heros/index.html"><IMG SRC="jpgs/guardian_hp.jpg" ALT="1997 ASLA Winners" BORDER=0 WIDTH=94 HEIGHT=95></A><BR><FONT SIZE=1><A onMouseOver="self.status='1997 ASLA Winners'; return true" HREF="newspaper/community/heros/index.html">1997 ASLA Winners</A>
+</FONT></CENTER>
+<BR>
+<BR>
+<P ALIGN=CENTER>
+<BR>
+<A onMouseOver="self.status='The Real Estate Library Pure Gold Award'; return true" HREF="award.html"><IMG SRC="jpgs/puregold.gif" ALT="Pure Gold Award" BORDER=0 WIDTH=64 HEIGHT=92></A><BR>
+<FONT SIZE=1>
+<A onMouseOver="self.status='The Real Estate Library Pure Gold Award'; return true" HREF="award.html">1997 Site Award from The Real Estate Library</A>
+</FONT>
+</FONT>
+</TD><TD WIDTH=10 ALIGN=RIGHT>
+<BR><BR><BR><BR>
+<IMG SRC="jpgs/rule.gif" WIDTH=1 HEIGHT=500>
+</TD><TD>
+<CENTER>
+<TABLE CELLPADDING=10 CELLSPACING=0>
+<TR VALIGN=TOP><TD COLSPAN=2>
+<FONT COLOR="#666699">
+<B><I>Take a look -- there's something here for everyone!</I></B>
+</FONT>
+</TD></TR>
+<TR VALIGN=TOP><TD>
+<IMG SRC="jpgs/car.jpg" WIDTH=110 HEIGHT=96>
+<P>
+<A onMouseOver="self.status='Buying a new car?'; return true" HREF="http://208.137.11.216"><IMG SRC="jpgs/newcar.gif" BORDER=0 ALT="Buying a new car?" WIDTH=147 HEIGHT=23></A>
+<BR>
+<A onMouseOver="self.status='Having a baby?'; return true" HREF="http://www.smartcalc.com/cgi-bin/smartcalc/BUD7.cgi/Allstate"><IMG SRC="jpgs/baby.gif" BORDER=0 ALT="Having a baby?" WIDTH=147 HEIGHT=23></A>
+<BR>
+<A onMouseOver="self.status='Buying a new home?'; return true" HREF="tools/homeplan/homebuyers.html"><IMG SRC="jpgs/newhome.gif" BORDER=0 ALT="Buying a new home?" WIDTH=147 HEIGHT=23></A>
+<BR>
+<A onMouseOver="self.status='Planning retirement?'; return true" HREF="newspaper/finances/retire.html"><IMG SRC="jpgs/retirement.gif" BORDER=0 ALT="Planning retirement?" WIDTH=147 HEIGHT=23></A>
+<BR>
+<A onMouseOver="self.status='Free software!'; return true" HREF="tools/software.html"><IMG SRC="jpgs/software.gif" BORDER=0 ALT="Free Software!" WIDTH=147 HEIGHT=23></A>
+<P>
+<IMG SRC="jpgs/house.jpg" WIDTH=97 HEIGHT=124>
+</TD><TD>
+<A onMouseOver="self.status='First insurance purchase?'; return true" HREF="101/index.html"><IMG SRC="jpgs/firstins.gif" BORDER=0 ALT="First insurance purchase?" WIDTH=147 HEIGHT=23></A>
+<BR>
+<A onMouseOver="self.status='Allstates ratings!'; return true" HREF="about/ratings.html"><IMG SRC="jpgs/ratings.gif" BORDER=0 ALT="Allstate's ratings!" WIDTH=147 HEIGHT=23></A>
+<BR>
+<A onMouseOver="self.status='Looking to save money!'; return true" HREF="products/savings/index.html"><IMG SRC="jpgs/save.gif" BORDER=0 ALT="Looking to save money!" WIDTH=147 HEIGHT=23></A>
+<BR>
+<A onMouseOver="self.status='Paying your bill?'; return true" HREF="faqs.html"><IMG SRC="jpgs/paying.gif" BORDER=0 ALT="Paying your bill?" WIDTH=147 HEIGHT=23></A>
+<BR>
+<A onMouseOver="self.status='Home maintenance!'; return true" HREF="newspaper/home/index.html"><IMG SRC="jpgs/maintenance.gif" BORDER=0 ALT="Home maintenance!" WIDTH=147 HEIGHT=23></A>
+<P>
+<IMG SRC="jpgs/baby.jpg" WIDTH=95 HEIGHT=100>
+<P>
+<A onMouseOver="self.status='Seeking a local agent?'; return true" HREF="about/agent.html"><IMG SRC="jpgs/seeking.gif" BORDER=0 ALT="Seeking a local agent?" WIDTH=147 HEIGHT=23></A>
+<BR>
+<A onMouseOver="self.status='Estate planning?'; return true" HREF="tools/lifeplan/estate.html"><IMG SRC="jpgs/estate.gif" BORDER=0 ALT="Estate Planning?" WIDTH=147 HEIGHT=23></A>
+<BR>
+<A onMouseOver="self.status='Small business owner?'; return true" HREF="products/business/index.html"><IMG SRC="jpgs/smallbiz.gif" BORDER=0 ALT="Small business owner?" WIDTH=147 HEIGHT=23></A>
+<BR>
+<A onMouseOver="self.status='A safer world!'; return true" HREF="safety/index.html"><IMG SRC="jpgs/safer.gif" BORDER=0 ALT="A safer world!" WIDTH=147 HEIGHT=23></A>
+<BR>
+<A onMouseOver="self.status='Fighting fraud!'; return true" HREF="newspaper/auto/index.html"><IMG SRC="jpgs/fraud.gif" BORDER=0 ALT="Fighting fraud!" WIDTH=147 HEIGHT=23></A>
+</TD></TR>
+<TR VALIGN=TOP><TD>
+<CENTER><IMG SRC="jpgs/clear.gif" ALT="" HEIGHT=12 WIDTH=1><BR><A onMouseOver="self.status='Topic of Choice'; return true" HREF="newspaper/index.html"><IMG SRC="jpgs/tieoneon.gif" BORDER=0 ALT="Tie One on For Safety" WIDTH=152 HEIGHT=54></A>
+</CENTER>
+<P>
+<B><A onMouseOver="self.status='Fiscal report!'; return true" TARGET=WINDOW HREF="http://corporate.allstate.com"><IMG SRC="jpgs/fiscal.gif" BORDER=0 ALT="Fiscal report!" WIDTH=73 HEIGHT=13></A></B>
+<P>
+<B><A onMouseOver="self.status='Job hunting?'; return true" TARGET=WINDOW HREF="http://www.allstatecareers.com"><IMG SRC="jpgs/job.gif" BORDER=0 ALT="Job hunting?" WIDTH=70 HEIGHT=13></A></B>
+</TD><TD>
+<CENTER>
+<A onMouseOver="self.status='Updated Colin Powell Summit'; return true" HREF="new.html"><IMG SRC="jpgs/updtpowell.gif" BORDER=0 ALT="Updated Colin Powell Summit" WIDTH=157 HEIGHT=64></A>
+</CENTER>
+<P>
+<B><A onMouseOver="self.status='Press Releases!'; return true" TARGET=WINDOW HREF="http://www.prnewswire.com/cnoc/exec/menu?109885"><IMG SRC="jpgs/release.gif" BORDER=0 ALT="Press Releases!" WIDTH=82 HEIGHT=11></A></B>
+<P>
+<B><A onMouseOver="self.status='Auto Research!'; return true" TARGET=WINDOW HREF="http://www.tech-cor.com"><IMG SRC="jpgs/auto.gif" BORDER=0 ALT="Auto Research!" WIDTH=82 HEIGHT=11></A></B>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+<TR VALIGN="TOP"><TD ALIGN="CENTER" COLSPAN="2" WIDTH="577">
+<FONT SIZE="2">
+<BR><BR> 
+Home ::: <A onMouseOver="self.status='Topic Search/Site Map'; return true" HREF="search.html">Search/Map</A> ::: <A onMouseOver="self.status='Whats New'; return true" HREF="new.html">What's New</A> ::: <A onMouseOver="self.status='FAQs'; return true" HREF="faqs.html">FAQ's</A> ::: <A onMouseOver="self.status='Email'; return true" HREF="http://echomail.allstate.com/corp">Email</A><BR>
+<A onMouseOver="self.status='Products & Services'; return true" HREF="products/index.html">Products & Services</A> ::: <A onMouseOver="self.status='About Allstate'; return true" HREF="about/index.html">About Allstate</A> ::: <A onMouseOver="self.status='Insurance 101'; return true" HREF="101/index.html">Insurance 101</A> ::: <A onMouseOver="self.status='Safety Tips'; return true" HREF="safety/index.html">Safety Tips</A> ::: <A onMouseOver="self.status='Calculators & Tools'; return true" HREF="tools/index.html">Calculators & Tools</A><BR>
+<A onMouseOver="self.status='Make & Model'; return true" HREF="http://208.137.11.216">Make & Model</A> ::: <A onMouseOver="self.status='OnlineNews'; return true" HREF="newspaper/index.html">OnlineNews</A> ::: <A onMouseOver="self.status='Allstate Agent Locator'; return true" HREF="about/agent.html">Agent Locator</A>
+</TD></TR> 
+<TR VALIGN="TOP"><TD COLSPAN="2" WIDTH="577">
+<BR>   
+<B>24-hours, 7-days a week auto & property claims assistance.</B><BR>
+Copyright &copy; 1997 by Allstate Insurance Company, Allstate Indemnity
+Company, and Allstate Life Insurance Company of Northbrook, Illinois,
+plus Allstate Life Insurance Company of New York of Farmingville, New
+York, all rights reserved.
+</TD></TR></TABLE>
+</CENTER>
+<P>
+<map name="top">
+<area shape="rect" coords="43,2,86,18" onMouseOver="self.status='Home Page'; return true" href="index.html">
+<area shape="rect" coords="129,1,219,18" onMouseOver="self.status='Topic Search/Site Map'; return true" href="search.html">
+<area shape="rect" coords="257,1,342,18" onMouseOver="self.status='Whats New'; return true" href="new.html">
+<area shape="rect" coords="376,1,428,18" onMouseOver="self.status='FAQs'; return true" href="faqs.html">
+<area shape="rect" coords="462,1,514,18" onMouseOver="self.status='Email'; return true" href="http://echomail.allstate.com/corp">
+</map>
+<map name="botm">
+<area shape="rect" coords="10,0,142,12" onMouseOver="self.status='Products & Services'; return true" href="products/index.html">
+<area shape="rect" coords="146,0,246,11" onMouseOver="self.status='About Allstate'; return true" href="about/index.html">
+<area shape="rect" coords="250,0,339,11" onMouseOver="self.status='Insurance 101'; return true" href="101/index.html">
+<area shape="rect" coords="345,0,422,11" onMouseOver="self.status='Safety Tips'; return true" href="safety/index.html">
+<area shape="rect" coords="427,0,560,11" onMouseOver="self.status='Calculators & Tools'; return true" href="tools/index.html">
+<area shape="rect" coords="44,16,169,40" onMouseOver="self.status='Make & Model'; return true" href="http://208.137.11.216">
+<area shape="rect" coords="219,16,333,41" onMouseOver="self.status='OnlineNews'; return true" href="newspaper/index.html">
+<area shape="rect" coords="389,15,510,42" onMouseOver="self.status='Allstate Agent Locator'; return true" href="about/agent.html">
+</map>
+</BODY>
+</HTML>
+

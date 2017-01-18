@@ -1,0 +1,26 @@
+Date: Thu, 18 Dec 1997 10:13:21 GMT
+Server: Apache/1.2.4
+Last-Modified: Tue, 02 Sep 1997 14:44:06 GMT
+ETag: "5f820-1eb-340c2636"
+Content-Length: 491
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 3.0//EN">
+<HTML>
+<HEAD>
+
+<TITLE>The Guarantee Life Companies Inc.</TITLE>
+
+
+
+<frameset cols="132,*" border=0>
+<frame src="newsite/menu.htm" name="menu" MARGINWIDTH=0 MARGINHEIGHT=0 NORESIZE NOSCROLLING>
+<frameset rows="80,*" border=0>
+<frame src="newsite/gliclogo.htm" name="gliclogo" MARGINWIDTH=0 MARGINHEIGHT=0 NOSCROLLING NORESIZE>
+<frame src="newsite/home.htm" name="main" MARGINWIDTH=0 MARGINHEIGHT=0 NORESIZE>
+</frameset>
+</frameset>
+
+</HTML>

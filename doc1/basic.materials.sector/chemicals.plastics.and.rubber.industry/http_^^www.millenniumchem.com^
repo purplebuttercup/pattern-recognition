@@ -1,0 +1,124 @@
+Date: Thu, 20 Nov 1997 20:36:53 GMT
+Server: Apache/1.2.4
+Last-Modified: Thu, 19 Jun 1997 16:10:11 GMT
+ETag: "306071-16a5-33a959e3"
+Content-Length: 5797
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>Millennium Chemicals Inc.</TITLE>
+<SCRIPT>
+<!--//
+function GetListing(page) {
+	if (page != "") {
+		self.location = page
+	}
+}
+//-->
+</SCRIPT>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<TABLE WIDTH=100% BORDER=0>
+<TR>
+<TD ALIGN=CENTER ROWSPAN=3 WIDTH=30%><A HREF="#DESCRIPTION"><IMG ALIGN=BOTTOM BORDER=0 WIDTH=150 ALT="Millennium Chemicals Inc. Logo" SRC="main/mch.gif"></A></TD>
+<TD WIDTH=30%><FONT SIZE=-1><A HREF="main/mchcp.htm"><IMG ALT="Profile" BORDER=0 WIDTH=55 HEIGHT=40 ALIGN=MIDDLE SRC="/images/mchtic.gif">&nbsp;Corporate Profile</A></FONT></TD>
+<TD WIDTH=30%><FONT SIZE=-1><IMG ALT="Paper" BORDER=0 WIDTH=55 HEIGHT=40 ALIGN=MIDDLE SRC="/images/news.gif"><A HREF="ne/earnings/">&nbsp;Earnings</A>&nbsp;&nbsp;&nbsp;<A HREF="ne/news/">News</A></FONT></TD>
+</TR>
+<TR>
+<TD><FONT SIZE=-1><A HREF="mgt/mchmgt.htm"><IMG ALT="Management" BORDER=0 WIDTH=55 HEIGHT=40 ALIGN=MIDDLE SRC="/images/ceo.gif">&nbsp;Management</A></FONT></TD>
+<TD><FONT SIZE=-1><A HREF="main/mchpi.htm"><IMG ALT="Product Information" BORDER=0 WIDTH=55 HEIGHT=40 ALIGN=MIDDLE SRC="/images/mchpi.gif">&nbsp;Product Information</A></FONT></TD>
+</TR>
+<TR>
+<TD><FONT SIZE=-1><A HREF="fin/annual/"><IMG ALT="Annual Reports" BORDER=0 WIDTH=55 HEIGHT=40 ALIGN=MIDDLE SRC="/images/mchcov.gif">&nbsp;Annual Reports</A></FONT></TD>
+<TD><FONT SIZE=-1><A HREF="/cgi-bin/iquote?mch"><IMG ALT="Quote" BORDER=0 WIDTH=55 HEIGHT=40 ALIGN=MIDDLE SRC="/images/quotes.gif">&nbsp;Current Quote</A></FONT></TD>
+</TR>
+<TR>
+<TD ALIGN=CENTER><B><FONT SIZE=-1>Millennium Chemicals Inc.<BR>(NYSE:MCH)<BR><A HREF="mailto:mch@investquest.com">mch@investquest.com</A></FONT></A></TD>
+<TD>
+	<FORM METHOD="GET">
+	<IMG ALT="SEC Seal" BORDER=0 WIDTH=55 HEIGHT=40 ALIGN=MIDDLE SRC="/images/sec.gif">
+	<SELECT NAME="url" OnChange="GetListing(this.options[this.selectedIndex].value)">
+ 	<OPTION SELECTED>SEC Filings
+ 	<OPTION>___________
+ 	<OPTION VALUE="fin/10k/">10-K
+	<OPTION VALUE="fin/10q/">10-Q
+	<OPTION VALUE="fin/8k/">8-K
+	<OPTION VALUE="fin/proxy/">Proxy
+	<OPTION VALUE="fin/other/">Other Filings
+	</SELECT>
+	</FORM>
+</TD>
+<TD><FONT SIZE=-1><A HREF="fin/owner/mchown.htm"><IMG ALT="Stock Certificate" BORDER=0 WIDTH=55 HEIGHT=40 ALIGN=MIDDLE SRC="/images/stockc.gif">&nbsp;Ownership</A></FONT></TD>
+</TR>
+<TR>
+<TD ALIGN=CENTER><B><FONT SIZE=-1>99 Wood Avenue South<BR>Iselin, NJ
+08830<BR>(888) MCH-NYSE</FONT></B></TD>
+<TD><FONT SIZE=-1><A HREF="main/undercon.htm"><IMG ALT="Industry Comparables" BORDER=0 WIDTH=55 HEIGHT=40 ALIGN=MIDDLE SRC="/images/mchic.gif">&nbsp;Industry Comparables</A></FONT></TD>
+<TD><FONT SIZE=-1><A HREF="main/mchrc.htm"><IMG ALT="Research" BORDER=0 WIDTH=55 HEIGHT=40 ALIGN=MIDDLE SRC="/images/research.gif">&nbsp;Research Coverage</A></FONT></TD>
+</TR>
+<TR>
+<TD ALIGN=CENTER><FONT SIZE=-1><A HREF="/cgi-bin/email-form2?mch"><IMG ALT="e-mail" BORDER=0 WIDTH=55 HEIGHT=40 ALIGN=MIDDLE SRC="/images/email.gif">&nbsp;E-mail Sign-up</A></FONT></TD>
+<TD><FONT SIZE=-1><A HREF="fin/special"><IMG ALT="Special Reports" BORDER=0 WIDTH=55 HEIGHT=40 ALIGN=MIDDLE SRC="/images/slides.gif">&nbsp;Special Reports</A></FONT></TD>
+<TD><FONT SIZE=-1><A HREF="main/mchpg.htm"><IMG ALT="Performance Graphs" BORDER=0 WIDTH=55 HEIGHT=40 ALIGN=MIDDLE SRC="/images/chart1.gif">&nbsp;Performance Graphs</A></FONT></TD>
+</TR>
+</TABLE>
+<FONT SIZE=-1>
+<HR>
+<P><A NAME="DESCRIPTION">
+<P>
+<CENTER><B>Disclaimer</B></CENTER>
+<P>
+<B><FONT SIZE=2>NOTICE: </FONT></B><FONT SIZE=2>The information
+and recommendations (&quot;Information&quot;) on this World-Wide
+Web (&quot;WWW&quot;) server are presented to you in good faith.
+This Information is believed to be correct as of the date you
+view it, however, Millennium Chemicals Inc. makes no representations
+or warranties as to the completeness or accuracy of any of this
+Information. You assume the entire risk of relying on this Information.</FONT>
+<P>
+<FONT SIZE=2>This Information is supplied to you on the condition
+that you or any other person receiving this Information will make
+their own determination as to its suitability for any purpose
+prior to any use of this Information. In no event will Millennium
+Chemicals Inc. or its subsidiaries be responsible for damages
+of any nature whatsoever resulting from the use of or reliance
+upon this Information or any product referred to in this Information.</FONT>
+<P>
+<FONT SIZE=2>This Information is not to be construed as a recommendation
+to use any Information, product, process, equipment or formulation
+that conflicts with any patent, copyright or trademark, and Millennium
+Chemicals Inc. makes no representation or warranty, express or
+implied, that any use of this Information will not infringe on
+any patent, copyright or trademark.</FONT>
+<P>
+<B><FONT SIZE=2>NO REPRESENTATIONS OR WARRANTIES, EITHER EXPRESS
+OR IMPLIED, OF MERCHANTABILILTY, FITNESS FOR A PARTICULAR PURPOSE
+OR OF ANY OTHER NATURE ARE MADE WITH RESPECT TO THIS INFORMATION
+OR TO ANY PRODUCT REFERRED TO IN THIS INFORMATION.</FONT></B>
+<P>
+<FONT SIZE=2>Millennium Chemicals Inc. makes no commitment to
+update or correct any Information that appears on the Internet
+or on this WWW server. All Information on this WWW server is Copyright,
+Millennium Chemicals Inc. on the date it is first made available
+to the public on this WWW server.<BR>
+</FONT>
+<HR>
+<CENTER>
+<FONT SIZE=-1>
+[
+<A HREF="http://www.investquest.com/">Home</A> |
+<A HREF="http://www.investquest.com/.html/COMPANY_LIST.html">Companies</A> |
+<A HREF="http://www.investquest.com/.html/industries.html">Industries</A> |
+<A HREF="http://www.investquest.com/.html/annuals.html">Annual Reports</A> |
+<A HREF="http://www.investquest.com/.html/prospectuses.html">Prospectuses</A> |
+<A HREF="http://www.investquest.com/.html/iqsearch.html">Search</A>
+]
+<BR>
+InvestQuest&#174;
+</FONT>
+</CENTER>
+</BODY>
+</HTML>

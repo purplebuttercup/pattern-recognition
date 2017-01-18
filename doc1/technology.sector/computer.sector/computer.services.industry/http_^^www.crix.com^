@@ -1,0 +1,143 @@
+Date: Mon, 29 Dec 1997 20:53:24 GMT
+Server: Apache/1.2.4
+Last-Modified: Wed, 28 May 1997 21:30:57 GMT
+ETag: "2f8eb-cd3-338ca411"
+Content-Length: 3283
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+<HTML>
+
+<HEAD>
+
+<TITLE>Computer Research, Inc. Home Page</TITLE>
+
+</HEAD>
+
+<BODY BGCOLOR="#FFFFD7" TEXT="#000000"  LINK="#808000"  
+
+VLINK="#808000" ALINK="#808000">
+<BR><BR>
+<CENTER><IMG SRC="logo-b2.gif" Alt=""></CENTER><BR>
+
+<CENTER><IMG SRC="hr.gif" WIDTH=600 HEIGHT=5 BORDER=0></CENTER>
+
+<CENTER><FONT SIZE=+1><STRONG><I>Welcome to the Home Page of Computer Research, Inc.</I></STRONG></FONT></CENTER>
+<BR>
+<CENTER><IMG SRC="text1.gif" Alt=""></CENTER>
+<BR>
+
+<CENTER><IMG SRC="hr.gif" WIDTH=600 HEIGHT=5 BORDER=0></CENTER>
+<BR><BR><BR>
+<CENTER>
+<TABLE CELLPADDING=2 CELLSPACING=2 WIDTH=550 BORDER=0>
+<TR>
+	<TD> <B>A publicly held corporation providing data processing accounting and record keeping services for securities brokerage firms and financial institutions.  Our common stock is traded in the Over-the-Counter market and quoted on the National Association of Securities Dealers Bulletin Board Trading System under the NASDAQ symbol CRIX.
+</B>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+<BR><BR>
+<CENTER><IMG SRC="hr.gif" WIDTH=600 HEIGHT=5 BORDER=0></CENTER>
+
+<BR>
+<CENTER>
+<IMG SRC="ci.gif" WIDTH=395 HEIGHT=46 BORDER=0><BR>
+<TABLE>
+<TR>
+<TD COLSTART="1">
+
+<IMG SRC="ball3.gif"ALIGN = "BOTTOM" ><A HREF="about.htm"><B>COMPANY PROFILE</B></A>
+<BR>
+
+<IMG SRC="ball3.gif"ALIGN = "BOTTOM"><A HREF="press.htm"><B>PRESS RELEASES</B></A>
+</TD>
+
+<TD COLSTART="2">
+
+<IMG SRC="ball3.gif"ALIGN = "BOTTOM"><A HREF="annual.htm"><B>1996 ANNUAL REPORT HIGHLIGHTS</B></A>
+<BR>
+
+<IMG SRC="ball3.gif"ALIGN = "BOTTOM"><A href="http://qs.secapl.com/cgi-bin/qsnew?tick=crix"><B>CURRENT STOCK QUOTE VIA PAWWS</B></A>
+</TD>
+
+</TR>
+</TABLE>
+
+
+<IMG SRC="ball3.gif"ALIGN = "BOTTOM"><A href="http://quote.yahoo.com/quotes?SYMBOLS=crix&detailed=t"> <B>CURRENT STOCK QUOTE AND NEWS VIA YAHOO</B></A>
+
+<CENTER>
+
+<BR><BR><BR>
+<IMG SRC="ps.gif" WIDTH=395 HEIGHT=46 BORDER=0>
+
+
+
+<BR>
+
+
+<TABLE>
+<TR>
+<TD COLSTART="1"><BR>
+<A HREF="banks.htm">BANK - BOA SYSTEM</A>
+<BR><BR>
+Unique in the data-processing industry, these applications can be utilized independently or fully integrated in any banking environment.
+
+</TD>
+
+<TD COLSTART="2">
+<A HREF="brokers.htm">BROKER/DEALER SYSTEM</A>
+
+<BR><BR>Front and Back Office Accounting Services for equity firms, bond dealers, and correspondent clearing houses.
+
+</TD>
+
+</TR>
+</TABLE>
+<BR><BR>
+<A HREF="custserv.htm">CUSTOMER SERVICE</A>
+<BR><BR>
+The success of any service oriented organization is significantly enhanced by quality Customer Service.
+<BR><BR><BR>
+<CENTER><IMG SRC="hr.gif" WIDTH=750 HEIGHT=5 BORDER=0></CENTER>
+<BR>
+<CENTER><P>
+<B>Pittsburgh</B>--Corporate Headquarters & Eastern Data Center
+<BR> 
+<TABLE>
+<TR>
+<TD COLSTART="1">
+<B>Denver</B>--Western Data Center
+</TD>
+
+<TD COLSTART="1">
+<B>New York</B> -- Client Service Office
+</TD>
+</TR>
+</TABLE>
+
+<A HREF="MAILTO:mailcri@crix.com"><B>E-mail </B></A>
+</P></CENTER>
+
+
+<CENTER><IMG SRC="hr.gif" WIDTH=750 HEIGHT=5 BORDER=0></CENTER>
+<BR><TABLE CELLPADDING=0 CELLSPACING=0 WIDTH=0 BORDER=0 ALIGN=LEFT>
+
+<TR>
+
+	<TD> </TD>
+	<TD> <A HREF= "http://www.interpak.net/"><IMG SRC="b-pow-l.gif" WIDTH=97 HEIGHT=34 BORDER=0> 
+</a></TD>
+	<TD> </TD>
+
+</TR>
+
+</TABLE>
+
+
+</BODY>
+
+</HTML>

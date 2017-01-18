@@ -1,0 +1,201 @@
+Server: Netscape-Enterprise/3.0
+Date: Fri, 21 Nov 1997 02:38:19 GMT
+Content-type: text/html
+Connection: close
+
+<HTML> <HEAD>
+
+<META NAME="Author.Corporate"		CONTENT="Apple Computer, Inc."> <LINK
+REL="Author.Corporate"		HREF="http://www.apple.com/"> <META
+NAME="Publisher"				CONTENT="Apple Computer, Inc."> <LINK
+REL="Publisher"				HREF="mailto:mastersm@apple.com"> <META
+NAME="Keywords"				CONTENT="Apple Computer, graphic design, desktop
+publishing, multimedia"> <META NAME="Description"			CONTENT="Apple
+Design & Publishing (http://www.apple.com/publishing/) promotes and profiles
+excellence in design and creativity. It also provides access to Apple
+technologies, training seminars, strategic planning white papers, and workflow
+solutions. In addition, you'll find news and product information focused on the
+needs of the design and publishing community."> <META
+NAME="Date.Modified"			CONTENT="19971105"> <META
+HTTP-EQUIV="Expires"			CONTENT="Mon, 10 Nov 1997 23:59:59+0100">
+
+<LINK REL="home"		HREF="http://www.apple.com/"> <LINK
+REL="index"		HREF="http://www.apple.com/find/siteindex.html"> <LINK
+REL="find"		HREF="http://www.apple.com/find/"> <LINK
+REL="meta"		HREF="http://www.apple.com/standards/meta.html">
+
+
+<TITLE>Apple - Design &amp; Publishing</TITLE> </HEAD>
+
+<BODY BGCOLOR="#FFFFFF" LEFTMARGIN="8" TOPMARGIN="8">
+
+<TABLE WIDTH="600" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+
+<!-- * ROW 1 * --> <TR>
+
+<!-- COLUMNS 1 - 2:  TOP BANNER --> <TD WIDTH="600" COLSPAN="2"><IMG
+SRC="/main/elements/topbar.gif" WIDTH="600" HEIGHT="25" ALT="Think
+different."></TD> </TR>
+
+<!-- * ROW 2 * --> <TR VALIGN="top">
+
+<!-- COLUMN 1:  LEVEL 2 AREA BANNER, AND PULL DOWN MENUS --> <TD WIDTH="245">
+
+<!-- LEVEL 2 AREA BANNER --> <IMG SRC="/main/elements/publishing.gif" WIDTH="245"
+HEIGHT="54" ALT="Design &amp; Publishing"><BR>
+
+<!-- BEGIN FORM FOR PULL DOWN MENUS --> <FORM METHOD="POST"
+ACTION="/cgi-bin/menu">
+
+<!-- PULL DOWN MENU 1 --> <IMG SRC="/main/elements/masters.gif" WIDTH="245"
+HEIGHT="18" ALT="Masters of Media"><BR> <SELECT NAME="masters"
+onChange="location.href=this.form.masters.options[this.form.masters.selectedIndex].value">
+<OPTION SELECTED VALUE="/publishing/">Choose your destination <OPTION
+VALUE="http://www.masters.media.apple.com/news/">News <OPTION
+VALUE="http://www.masters.media.apple.com/features/">Features <OPTION
+VALUE="http://www.masters.media.apple.com/news/calendar.html">Calendar <OPTION
+VALUE="http://www.masters.media.apple.com/pov/">Point of View <OPTION
+VALUE="http://www.masters.media.apple.com/news/archive.html">Site Archive
+</SELECT> <NOSCRIPT><IMG SRC="/main/elements/spacer.gif" WIDTH="7" HEIGHT="1"
+ALT=""><INPUT TYPE="image" NAME="btn_masters" VALUE="Go"
+SRC="/main/elements/go.gif" WIDTH="25" HEIGHT="20" BORDER="0"
+ALT="Go"></NOSCRIPT> <BR><BR><BR>
+
+<!-- PULL DOWN MENU 2 --> <IMG SRC="/main/elements/facts.gif" WIDTH="245"
+HEIGHT="18" ALT="Just The Facts"><BR> <SELECT NAME="facts"
+onChange="location.href=this.form.facts.options[this.form.facts.selectedIndex].value">
+<OPTION SELECTED VALUE="/publishing/">Choose your destination <OPTION
+VALUE="http://www.masters.media.apple.com/why_apple/">Why Apple <OPTION
+VALUE="http://www.masters.media.apple.com/mac_os/">Mac OS <OPTION
+VALUE="http://www.masters.media.apple.com/technologies/">Technologies <OPTION
+VALUE="http://www.masters.media.apple.com/white_papers/">Collateral <OPTION
+VALUE="http://www.masters.media.apple.com/3rd_party/">Developer Tools <OPTION
+VALUE="http://www.masters.media.apple.com/resources/">Resources <OPTION
+VALUE="http://www.masters.media.apple.com/success/">Finding Success </SELECT>
+<NOSCRIPT><IMG SRC="/main/elements/spacer.gif" WIDTH="7" HEIGHT="1" ALT=""><INPUT
+TYPE="image" NAME="btn_facts" VALUE="Go" SRC="/main/elements/go.gif" WIDTH="25"
+HEIGHT="20" BORDER="0" ALT="Go"></NOSCRIPT> <BR><BR><BR>
+
+<!-- PULL DOWN MENU 3 --> <IMG SRC="/main/elements/tech.gif" WIDTH="245"
+HEIGHT="18" ALT="Publishing Technology"><BR> <SELECT NAME="tech"
+onChange="location.href=this.form.tech.options[this.form.tech.selectedIndex].value">
+<OPTION SELECTED VALUE="/publishing/">Choose your destination <OPTION
+VALUE="http://applescript.apple.com/">AppleScript <OPTION
+VALUE="http://colorsync.apple.com/">ColorSync <OPTION
+VALUE="http://quicktime.apple.com/">QuickTime <OPTION
+VALUE="http://quicktimevr.apple.com/">QuickTime VR <OPTION
+VALUE="http://macos.apple.com/">Mac OS </SELECT> <NOSCRIPT><IMG
+SRC="/main/elements/spacer.gif" WIDTH="7" HEIGHT="1" ALT=""><INPUT TYPE="image"
+NAME="btn_facts" VALUE="Go" SRC="/main/elements/go.gif" WIDTH="25" HEIGHT="20"
+BORDER="0" ALT="Go"></NOSCRIPT>
+
+<!-- END FORM FOR PULL DOWN MENUS --> </FORM> </TD>
+
+<!-- COLUMN 2: PRIMARY PROMOS --> <TD WIDTH="355"> <IMG
+SRC="/main/elements/spacer.gif" WIDTH="1" HEIGHT="45" ALT=""><BR>
+
+<!-- PRIMARY PROMO AREA --> <A HREF="/publishing/maps/promo.map"> <IMG
+SRC="/publishing/images/publishingimage.gif" WIDTH="355" HEIGHT="245" BORDER="0"
+ALT="" ISMAP USEMAP="#promos"></A></TD> <MAP NAME="promos"> <AREA SHAPE="rect"
+COORDS="164,0,352,155"	HREF="http://www.masters.media.apple.com/news/qtcs/">
+<AREA SHAPE="rect"
+COORDS="164,155,259,239"	HREF="http://www.masters.media.apple.com/success/color_publishing/">
+<AREA SHAPE="rect"
+COORDS="259,155,352,239"	HREF="http://www.masters.media.apple.com/news/news1.html#roi">
+</MAP> </TR> </TABLE>
+
+<TABLE WIDTH="600" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+
+<!-- * ROW 1 * --> <TR VALIGN="top">
+
+<!-- COLUMN 1:  LEFT TEXT PROMOS --> <TD WIDTH="290">
+
+<BR>
+
+<STRONG>The Apple Store: Design and Publishing Solutions.</STRONG> The new Apple
+Store permits individuals to customize their new G3 Power Macintosh purchases to
+better meet their needs. If you're a publishing or design
+professional, you may wish to take a look at some of the tips available for <A
+HREF="http://www.masters.media.apple.com/news/news1.html#estorepush">customizing your
+creative workstations.</A> Tips are available for:  Color Publishing, Web Authoring,
+Music Production, Video Publishing, and Interactive Authoring.<BR>
+
+<BR>
+
+<STRONG>Gistics Tech Brief Highlights Apple Return on Investment.</STRONG>
+Gistics Incorporated has produced a technology brief which examines the <A
+HREF="http://www.masters.media.apple.com/news/news1.html#roi">return-on-investment
+(ROI) of digital media professionals</A> and the companies employing them, in the
+use of the technology that maximizes productively and creative values.<BR>
+
+</TD>
+
+<!-- COLUMN 2: CENTER GUTTER --> <TD WIDTH="20"> <IMG
+SRC="/main/elements/spacer.gif" WIDTH="7" HEIGHT="1" ALT=""></TD>
+
+<!-- COLUMN 3: RIGHT TEXT PROMOS --> <TD WIDTH="290">
+
+<BR>
+
+<STRONG>The Masters of Media Solution Provider Program.</STRONG> The <A
+HREF="http://www.masters.media.apple.com/partners/">Masters of Media Solution
+Provider Program</A> provides comprehensive resources for resellers, VARs, and
+consultants focusing on the Design &amp; Publishing markets.<BR>
+
+<BR>
+
+<STRONG>The Apple OS Review Newsletter.</STRONG> Apple is offering an informative
+and entertaining newsletter which provides you with the latest news on the Mac
+OS, from development to delivery. If you're interested in WebObjects, Java, CHRP,
+or the future of Apple, take a look at the <A
+HREF="http://www.masters.media.apple.com/mac_os/">Apple OS Newsletter</A>.<BR>
+
+</TD> </TR>
+
+<!-- * ROW 2 * --> <TR>
+
+<!-- COLUMNS 1-3: GLOBAL NAVIGATION, FIND, & COPYRIGHT INFO --> <TD COLSPAN="3"
+WIDTH="600">
+
+<BR>
+
+<!-- APPLE NAVIGATION --> <A HREF="/main/maps/navbar.map"><IMG
+SRC="/main/elements/navbar.gif" WIDTH="600" HEIGHT="38" BORDER="0" ALT="" ISMAP
+USEMAP="#navbar"></A><BR> <MAP NAME="navbar"> <AREA SHAPE="rect"
+COORDS="0,0,84,37"		HREF="/store/"> <AREA SHAPE="rect"
+COORDS="84,0,192,18"		HREF="/hotnews/"> <AREA SHAPE="rect"
+COORDS="84,18,192,37"	HREF="/signmeup/"> <AREA SHAPE="rect"
+COORDS="192,0,300,18"	HREF="/products/"> <AREA SHAPE="rect"
+COORDS="192,18,300,37" HREF="/support/"> <AREA SHAPE="rect"
+COORDS="300,0,408,18"	HREF="/publishing/"> <AREA SHAPE="rect"
+COORDS="300,18,408,37"	HREF="/education/"> <AREA SHAPE="rect"
+COORDS="408,0,516,18"	HREF="/about/"> <AREA SHAPE="rect"
+COORDS="408,18,516,37"	HREF="/buy/"> <AREA SHAPE="rect"
+COORDS="516,0,599,37"	HREF="/"> </MAP>
+
+<BR>
+
+<!-- FIND FEATURE --> <CENTER> <FORM METHOD="POST"
+ACTION="http://search.apple.com/cgi-bin/nph-apple_search.pl"> <INPUT
+TYPE="hidden" NAME="qparser" VALUE="simple"><INPUT TYPE="hidden" NAME="POINTER"
+VALUE="FRONT"> <STRONG><A HREF="/find/">Find</A>:</STRONG><IMG
+SRC="/main/elements/spacer.gif" WIDTH="10" HEIGHT="1" ALT=""><INPUT TYPE="text"
+NAME="query" SIZE="20"><IMG SRC="/main/elements/spacer.gif" WIDTH="5" HEIGHT="1"
+ALT=""><INPUT TYPE="submit" NAME="buttonshort" VALUE="Shortcut"><IMG
+SRC="/main/elements/spacer.gif" WIDTH="3" HEIGHT="1" ALT=""><INPUT TYPE="submit"
+NAME="buttonsearch" VALUE="Search"><BR> <BR><BR> </FORM>
+
+<!-- TEXT NAVIGATION --> <FONT SIZE="-1"> <A HREF="/store/">The Apple Store</A> |
+<A HREF="/hotnews/">Hot News</A> | <A HREF="/signmeup/">Sign Me Up</A> | <A
+HREF="/products/">Products</A> | <A HREF="/support/">Support</A><BR> <A
+HREF="/publishing/">Design &amp; Publishing</A> | <A
+HREF="/education/">Education</A> | <A HREF="/about/">About Apple</A> | <A
+HREF="/buy/">Where to Buy</A> | <A HREF="/">Home</A><BR> </FONT><BR>
+
+<!-- COPYRIGHT INFORMATION --> <FONT SIZE="-1"> <A
+HREF="/publishing/contact.html">Contact Us</A><BR> Copyright 1997 Apple Computer,
+Inc. <A HREF="/legal/">All rights reserved.</A> </FONT> </CENTER>
+
+</TD> </TR>
+
+</TABLE> </BODY> </HTML>

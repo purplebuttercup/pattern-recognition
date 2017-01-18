@@ -1,0 +1,61 @@
+Date: Thu, 20 Nov 1997 16:28:26 GMT
+Server: Apache/1.2.4
+Connection: close
+Content-Type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Werner Enterprises, Inc. Home Page</TITLE></HEAD>
+
+<BODY BACKGROUND="../graphics/bg_spckl.gif" BGCOLOR="#FFFFFF" VLINK="#6666cc">
+<CENTER>
+<TABLE BORDER="0" WIDTH="530" CELLPADDING="20">
+<TR>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="2"><IMG
+SRC="wernhead.gif" ALT="Werner Enterprises" ALIGN="MIDDLE" WIDTH="550" HEIGHT="120">
+
+<BR>
+<P>Werner Enterprises, Inc., is a truckload carrier of general commodities,
+both inter- and intrastate commerce. The company, headquartered in Omaha, NE,
+offers a number of transportation services. With strong financials and a
+commitment to service, we are one of the nation's top five truckload carriers.
+Premium equipment, superior technology and talented people help keep us ahead of
+our competition. 
+</P>
+<P><IMG SRC="star_g~1.gif" WIDTH="20" HEIGHT="18">New! We have premium used
+Werner trucks <A HREF="trk_sale.html">for sale</A>.</P></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="TOP"><IMG
+SRC="tri-bu-r.gif" ALT="bullet" ALIGN="BASELINE" WIDTH="15" HEIGHT="18"><FONT
+SIZE="+1"><A HREF="transerv.html"><B><NOBR>Transportation Services</NOBR></B></A></FONT>
+<P><IMG SRC="tri-bu-r.gif" ALT="bullet" WIDTH="15" HEIGHT="18"><A
+HREF="finance.html"><FONT SIZE="+1"><B>Investor Information</B></FONT></A></P>
+<P><IMG SRC="tri-bu-r.gif" ALT="bullet" WIDTH="15" HEIGHT="18"><A
+HREF="employ.html" NAME="Employ.html"><FONT SIZE="+1"><B>Career 
+Opportunities</B></FONT></A></P> 
+</TD>
+<TD VALIGN="TOP">
+<P><IMG SRC="tri-bu-r.gif" ALT="bullet" WIDTH="15" HEIGHT="18"><A
+HREF="techno.html" NAME="techno.html"><FONT SIZE="+1"><B>Technology</B></FONT></A></P>
+<P><IMG SRC="tri-bu-r.gif" ALT="bullet" WIDTH="15" HEIGHT="18"><FONT SIZE="+1"><NOBR><A
+HREF="equip.html"><B>Equipment</B></A></NOBR></FONT></P>  
+<P><IMG SRC="tri-bu-r.gif" ALT="bullet" WIDTH="15" HEIGHT="18"><A
+HREF="driver.html"><B><FONT SIZE="+1"><NOBR>For and About Drivers </NOBR></FONT></B></A></P>
+</TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="2">  
+<BR><BR> Our stock is publicly traded on the NASDAQ stock exchange under the
+symbol <A HREF="http://quote.yahoo.com/quotes?symbols=WERN&detailed=2y">WERN</A>.
+<P ALIGN="CENTER"><IMG SRC="bluebar.gif" ALT="bar image" WIDTH="360"></P> 
+Werner can be contacted by e-mail at <A HREF="mailto:werner@werner.com">Werner@Werner.com</A>
+ or call 1-800-228-2240.
+<PRE></PRE>  
+<IMG
+SRC="goldsite.gif" ALT="Netguide award emblem" ALIGN="RIGHT" WIDTH="99" HEIGHT="99">
+<P ALIGN="LEFT">Web site updated November 12, 1997<BR>Copyright &copy;1997
+Werner Enterprises, Inc. All rights reserved.
+</P></TD>
+<TD></TD></TR></TABLE></CENTER></BODY></HTML>

@@ -1,0 +1,88 @@
+Date: Thu, 20 Nov 1997 22:06:57 GMT
+Server: WebSitePro/1.1h
+Accept-ranges: bytes
+Content-type: text/html
+Last-modified: Sat, 25 Oct 1997 02:49:18 GMT
+Content-length: 3432
+
+<!----
+	TVX Gold Inc. WWW Pages
+		
+	Created by:	David Beaupre
+			QUEUE Systems Inc.
+
+	(C) TVX Gold Inc., 1996
+	(C) QUEUE Systems Inc., 1996
+--->
+<HTML>
+<HEAD>
+<TITLE>TVX Gold Inc. - Quarterly Reports</TITLE>
+</HEAD>
+<BODY BACKGROUND="/images/bground.gif" BGCOLOR="#FFFFFF" TEXT="#0000BB"  
+	VLINK="#800020" LINK="#0000FF" ALINK="#FF2020">
+
+<TABLE BORDER="0" VALIGN="TOP" WIDTH=100%>
+	<TR>
+		<TD WIDTH=75 ALIGN=LEFT VALIGN=TOP><A HREF="/"><IMG SRC="/images/tvx_gld.gif" BORDER=0></A></TD>
+		<TD VALIGN=BOTTOM ALIGN=CENTER WIDTH=100%><I><FONT SIZE=+2>Quarterly Reports</FONT></I></TD>
+	</TR>
+</TABLE>
+
+<HR>
+
+<TABLE BORDER=0 VALIGN=TOP WIDTH=100%>
+	<TR VALIGN=TOP>
+		<TD ALIGN=LEFT WIDTH=75>
+			<P><A HREF="/PressReleases/"><IMG ALT="Press Releases" WIDTH=75 HEIGHT=40 BORDER=0 SRC="/images/pressreleases.gif"></A><BR>
+			<P><A HREF="/AnnualReport/"><IMG ALT="Annual Report" WIDTH=75 HEIGHT=40 BORDER=0 SRC="/images/annualreport.gif"></A><BR>
+			<P><A HREF="/QuarterlyReport/"><IMG SRC="/images/quarterlyreport.gif" ALT="Quarterly Reports" WIDTH=75 HEIGHT=40 BORDER=0></A>
+			<P><A HREF="/Stock/"><IMG ALT="Stock Information" WIDTH=75 HEIGHT=40 BORDER=0 SRC="/images/stockinfo.gif"></A><BR>
+			<P><A HREF="/CorporateInformation.htm"><IMG WIDTH=75 HEIGHT=40 BORDER=0 SRC="/images/corporateinfo.gif" ALT="Corporate Information"></A><BR>
+			<P><A HREF="/MiningTerminology.htm"><IMG SRC="/images/MiningTerminology.gif" ALT="Mining Terminology" WIDTH=75 HEIGHT=40 BORDER=0></A>
+			<P><A HREF="/cgi-shl/dbml.exe?Template=/Tvx/GuestBook.dbm"><IMG WIDTH=75 HEIGHT=40 BORDER=0 SRC="/images/guestbook.gif" ALT="Guest Book"></A><BR>
+		</TD>
+		<TD ALIGN=LEFT WIDTH=100%>
+<CENTER>
+		<H2><B>1997</B></H2>
+
+		<P><A HREF="/QuarterlyReport/1997/Q21997.pdf" ALT="1997 Second Quarter Results"><IMG SRC="/images/pdficonsmall.gif" ALT="1997 Second Quarter Results" ALIGN=MIDDLE BORDER=0></A> <FONT SIZE=+1><A HREF="/QuarterlyReport/1997/Q21997.pdf" ALT="1997 Second Quarter Results">Second Quarter</A></FONT>
+
+		<P><A HREF="/QuarterlyReport/1997/Q11997.pdf" ALT="1997 First Quarter Results"><IMG SRC="/images/pdficonsmall.gif" ALT="1997 First Quarter Results" ALIGN=MIDDLE BORDER=0></A> <FONT SIZE=+1><A HREF="/QuarterlyReport/1997/Q11997.pdf" ALT="1997 First Quarter Results">First Quarter</A></FONT>
+		
+		<P><FONT SIZE=-2>The Acrobat Reader is required to view the above Quarterly Reports in the PDF format and is available <I>FREE</I>.</FONT><BR>
+		<A HREF="http://www.adobe.com/prodindex/acrobat/readstep.html"><IMG SRC="/images/getacro.gif" ALT="Get Acrobat Reader" WIDTH=88 HEIGHT=31 BORDER=0></A>
+
+
+		<HR>
+		<H2><B>1996</B></H2>
+
+		<P><FONT SIZE=+1><A HREF="/QuarterlyReport/1996/Q31996.htm">Third Quarter</A></FONT>
+
+		<P><FONT SIZE=+1><A HREF="/QuarterlyReport/1996/Q21996.htm">Second Quarter</A></FONT>
+
+		<P><FONT SIZE=+1><A HREF="/QuarterlyReport/1996/Q11996.htm">First Quarter</A></FONT>
+
+		<HR>
+		<H2><B>1995</B></H2>
+		
+		<P><FONT SIZE=+1><A HREF="/QuarterlyReport/1995/Q31995.htm">Third Quarter</A></FONT>
+
+		<P><FONT SIZE=+1><A HREF="/QuarterlyReport/1995/Q21995.htm">Second Quarter</A></FONT>
+
+		<P><FONT SIZE=+1><A HREF="/QuarterlyReport/1995/Q11995.htm">First Quarter</A></FONT>
+</CENTER>
+		</TD>
+	</TR>
+</TABLE>
+
+<HR>
+
+<CENTER>
+<PRE>&#169; TVX Gold Inc.
+<A HREF="mailto:webmaster@tvxgold.com">webmaster@tvxgold.com</A></PRE>
+</CENTER>
+
+</BODY>
+
+</HTML>
+

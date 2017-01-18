@@ -1,0 +1,155 @@
+Content-Type: text/html
+Date: Thu, 20 Nov 1997 16:04:48 GMT
+Allow: GET, HEAD
+Server: Oracle_Web_Listener_NT_2.1.0.3.1/1.20in2
+
+<HEAD>
+<TITLE>Aviall Airnet</TITLE>
+<script language="javascript">
+var bPOF = false
+var bErrMsg = false
+var bErrMsgShowing = false
+var FlashDelay=1
+var nFrame =1
+var strTitle= " "
+var strMsg=" "
+var strErrMsg=" "
+var strPOType = " "
+var strPONum = " "
+var strPOAmt = " "
+function StartBlankTheFrame(theFrame) {
+nFrame = open("",theFrame)
+nFrame.document.writeln('<body background="/graphics/marb18.jpg" bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#800040" alink="#8000FF">')}
+function BlankTheFrame(theFrame) {
+StartBlankTheFrame(theFrame)
+nFrame.document.close()}
+function LoadTheFrame(theFrame, thePage) {
+open(thePage, theFrame)}
+function ShowTitleFrame() {
+StartBlankTheFrame("headerFrame")
+nFrame.document.writeln("<table border=0>")
+nFrame.document.writeln("<TR><TH>")
+nFrame.document.writeln(strTitle)
+nFrame.document.writeln("</th></TR></table>")
+nFrame.document.close()}
+function SetTheTitle( NewTitle ) {
+strTitle = (NewTitle  == "") ? " " : NewTitle
+ShowTitleFrame()}
+function ShowMessageFrame( theMessage) {
+StartBlankTheFrame("messageFrame")
+nFrame.document.writeln('<table border=0><TR valign="middle"> ')
+nFrame.document.writeln('<col align="center"><col align="center"><TD><FONT SIZE=2>')
+nFrame.document.writeln( theMessage )
+nFrame.document.writeln('</FONT></td></TR></table>')
+nFrame.document.close()}
+function ShowTheMessage() {
+ if (bErrMsg) {ShowErrorMessage()}
+ else {ShowMessageFrame(strMsg)}}
+function ShowErrorMessage() {
+ if (strErrMsg == " "){
+   bErrMsg = false
+   ShowMessageFrame( strMsg)}
+ else {
+   if (bErrMsgShowing) {
+      bErrMsgShowing = false
+      FlashTheMessage( strMsg, 5000)}
+   else {FlashErrorMessage()}}}
+function SetTheMessage( NewMsg ) {
+ clearTimeout(FlashDelay)
+ strMsg = (NewMsg == "") ? " " : NewMsg
+ SetErrorMessage("")}
+function SetErrorMessage(Msg) {
+ if (Msg == "") { strErrMsg = " "}
+ else {strErrMsg = Msg}
+  bErrMsg = true
+  bErrMsgShowing = false
+  ShowErrorMessage()}
+function FlashTheMessage( Msg, TimeLen ) {
+clearTimeout(FlashDelay)
+ShowMessageFrame( Msg )
+FlashDelay=setTimeout("ShowTheMessage()",TimeLen)}
+function FlashInfoMessage(Msg) {
+ bErrMsgShowing = false
+ FlashTheMessage('<img src=/graphics/symbol_info.jpg border=0 align=left hspace=10>'+Msg, 3000)}
+function FlashErrorMessage() {
+ bErrMsgShowing = true
+ FlashTheMessage('<img src="/graphics/symbol_warning.jpg" border=0 align=left hspace=10>'+strErrMsg, 5000)}
+function LoadButtonWait( LinkTo ) {
+PleaseWait()
+BlankTheFrame('buttonFrame')
+LoadTheFrame( LinkTo.target, LinkTo.href)}
+function PleaseWait() {
+SetTheMessage('Please Wait')}
+function getCookieVal (offset) {
+  var endstr = document.cookie.indexOf (";", offset)
+  if (endstr == -1)
+    endstr = document.cookie.length
+  return unescape(document.cookie.substring(offset, endstr))
+}
+function getCookie (name) {
+  var arg = name + "="
+  var alen = arg.length
+  var clen = document.cookie.length
+  var i = 0
+  while (i < clen) {
+    var j = i + alen
+    if (document.cookie.substring(i, j) == arg)
+      return getCookieVal (j)
+    i = document.cookie.indexOf(" ", i) + 1
+    if (i == 0) break
+  }
+  return null
+}
+function fixCookieDate (date) {
+  var base = new Date(0)
+  var skew = base.getTime()
+  if (skew > 0)
+    date.setTime (date.getTime() - skew)
+}
+function CallMenu() {
+BlankTheFrame('buttonFrame')
+SetTheTitle('Sign On Complete.')
+SetTheMessage('Please wait.')
+ShowTheMessage()
+return LoadTheFrame('_top','http://www.aviall.com:9002/airnet2/owa/MenuFrames')}
+function AddBrowseScreen() {
+	var toolDoc = open("","entryFrame2")
+	toolDoc.document.writeln('<html><head><title>Browse Screen</title></head>')
+	toolDoc.document.writeln('<body bgcolor=#CADCFD onLoad="document.forms[0].elements[0].focus()" >')
+	toolDoc.document.writeln('<form action="http://www.aviall.com:9002/airnet2/owa/itm_lkp?" target="listFrame">')
+	toolDoc.document.writeln('<center><table><tr>')
+	toolDoc.document.writeln('<td align=left><font size=2><b>P/N</b></td>')
+	toolDoc.document.writeln('<td align=left><font size=2><b>Supplier</b></td>')
+	toolDoc.document.writeln('<td align=left><font size=2><b>Keyword</b></td><td></td></tr>')
+	toolDoc.document.writeln('<tr><td>')
+	toolDoc.document.writeln('<input type=hidden name="p_action" value="search">')
+ toolDoc.document.writeln('<input type=text name="p_part_num" size=12 maxlength=15>')
+	toolDoc.document.writeln('</td><td>')
+	toolDoc.document.writeln('<input type=text name="p_vendor_name" size=12 maxlength=15>')
+	toolDoc.document.writeln('</td><td>')
+	toolDoc.document.writeln('<input type=text name="p_keyword" size=12 maxlength=15>')
+	toolDoc.document.writeln('</td><td>')
+	toolDoc.document.writeln('<input type=submit value="Search">')
+	toolDoc.document.writeln('</td></tr></table></form>')
+	toolDoc.document.writeln('</center>')
+	toolDoc.document.writeln('</body></html>')
+	toolDoc.document.close()}
+</script>
+</HEAD>
+<FRAMESET ROWS="60,*">
+<FRAMESET COLS="*,180, 345">
+<FRAME SRC="http://www.aviall.com:9002/airnet2/owa/blank" NAME="headerFrame" MARGINWIDTH="1" MARGINHEIGHT="5" SCROLLING="no" NORESIZE border=0
+				frameborder=0>
+<FRAME SRC="http://www.aviall.com:9002/airnet2/owa/logoScreen" NAME="logoFrame" MARGINWIDTH="1" MARGINHEIGHT="1" SCROLLING="no" NORESIZE border=0
+				frameborder=0>
+<FRAME SRC="http://www.aviall.com:9002/airnet2/owa/blank" NAME="buttonFrame" MARGINWIDTH="1" MARGINHEIGHT="5" SCROLLING="no" NORESIZE border=0
+				frameborder=0>
+</FRAMESET>
+<FRAMESET ROWS="60,*">
+<FRAME SRC="http://www.aviall.com:9002/airnet2/owa/blank" NAME="messageFrame" MARGINWIDTH="2" MARGINHEIGHT="2" SCROLLING="no" NORESIZE border=0
+				frameborder=0>
+<FRAME SRC="http://www.aviall.com:9002/airnet2/owa/blank" NAME="entryFrame" MARGINWIDTH="1" MARGINHEIGHT="5" NORESIZE border=0
+				frameborder=0>
+</FRAMESET>
+</FRAMESET>
+</HTML>

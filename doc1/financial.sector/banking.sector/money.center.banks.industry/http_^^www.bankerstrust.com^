@@ -1,0 +1,20 @@
+Server: Netscape-Enterprise/2.01
+Date: Thu, 18 Dec 1997 06:58:29 GMT
+Accept-ranges: bytes
+Last-modified: Mon, 20 Oct 1997 20:56:05 GMT
+Content-length: 421
+Content-type: text/html
+
+<html>
+<title>Bankers Trust Home Page</title>
+<META HTTP-EQUIV="Refresh" CONTENT="0;URL=/cgi-bin/isg/nph-form?FormId=home1">
+<body bgcolor="white" vlink="white" alink="white" link="white">
+<font color="white">
+<a href="/corpcomm/">News &amp; Facts</a> | 
+<a href="/global/">Research</a> | 
+<a href="/hr/">Careers</a> | 
+<a href="/ms/">Markets &amp; Services</a> | 
+<a href="/toolbox.html">Help</a>
+</font>
+</body>
+</html>

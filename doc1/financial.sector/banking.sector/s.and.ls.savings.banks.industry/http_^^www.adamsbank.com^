@@ -1,0 +1,97 @@
+Date: Thu, 18 Dec 1997 13:26:35 GMT
+Server: Apache/1.2.4
+Last-Modified: Wed, 17 Dec 1997 11:28:06 GMT
+ETag: "6bd04-f77-3497b746"
+Content-Length: 3959
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>Adams National bank</TITLE>
+</HEAD>
+<BODY bgcolor="ffffff" VLINK="#009648">
+<center>
+<A HREF="adams.map"><IMG SRC="images/1.gif" ISMAP USEMAP="#adams" BORDER="0"></A>
+<BR>
+<BR>
+<BR>
+<IMG SRC="images/grn_lin.gif">
+<BR>
+<BR>
+<BR>
+<TABLE WIDTH=450><TR><TD>
+<FONT FACE="Helvetica,Ariel" SIZE=-1>
+<H2 ALIGN="center">Welcome to<BR>Adams National Bank</H2>
+<BLOCKQUOTE>The Adams National Bank is committed to providing the very best service to its customers through the use of technology.  Our home page will provide you with a great deal of information about the Bank, including descriptions of our products and services, up to date information on current rates, employment opportunities and financial information as well as an abundance of other important information about the Bank.</BLOCKQUOTE>
+<BR>
+<BR>
+<H3 ALIGN="center">Abigail Adams National Bancorp, Inc.
+<BR>
+to Aquire Ballston Bancorp, Inc.</H3>
+<BLOCKQUOTE>Abigail Adams National Bancorp, Inc., the parent company of The Adams National Bank, has announced  that a definitive agreement was signed for the acquisition of the stock of Ballston Bancorp, Inc.  The agreement provides for the acquisition through merger of the business of Ballston Bancorp's subsidiary,
+<A HREF="http://www.thebankofnova.com">The Bank of Northern Virginia </A>, with offices in Arlington, Va., for a price of approximately $14 million, subject to certain adjustments and offsets. </BLOCKQUOTE>
+<BR>
+
+<H3 ALIGN="center">MCI Center/Chinatown Branch 
+<BR>
+Opens for Business</H3>
+<BLOCKQUOTE>The Adams National Bank is pleased to announce the opening of its fifth office in the rapidly growing business community directly across from the new MCI Center, at 802 7th Street, NW.  Our new branch offers a full range of banking services.</BLOCKQUOTE>
+<P>
+<CENTER><IMG SRC="images/grn_lin.gif"></CENTER>
+<p>
+<CENTER><TABLE align="center" border=0><!-- One row table, with empty columns to fill white space --><TR>        <TD><B><A HREF="about/about.htm">About</A></B>
+<BR>
+<FONT SIZE=-3> <A HREF="about/history.htm">History</A>
+<BR>
+<A HREF="about/branches/branches.htm">Branches</A>
+<BR>
+<A HREF="about/finances/finances.htm">Financials</A><BR></FONT></TD>
+<TD></TD><TD>&</TD><TD></TD><TD><B><A HREF="contact/contact.htm">Contact</A></B>
+<BR>
+<FONT SIZE=-3><A HREF="contact/contact.htm">By Department</A>
+<BR>
+<A HREF="forms/request.htm">Request Information</A>
+<BR>
+<BR></FONT></TD>
+<TD></TD><TD>&</TD><TD></TD><TD><B><A HREF="services/service.htm">Services</A></B>
+<BR>
+<FONT SIZE=-3><A HREF="services/service.htm">Service Descriptions</A>
+<BR>
+<A HREF="forms/credit.htm">Loan Application</A>
+<BR>
+<A HREF="services/commlend/commlend.htm#sba">Related Service Links</A>
+<BR>
+</FONT></TD>
+<TD></TD><TD>&</TD><TD></TD>
+<TD><B><A HREF="whatsnew/new.htm">What's New</A></B>
+<BR>
+<FONT SIZE=-3><A HREF="whatsnew/jobs/jobs.htm">Job Opportunities</A>
+<BR>
+<A HREF="whatsnew/comunity/comunity.htm">Our Community</A>
+<BR>
+<A HREF="whatsnew/rates/rates.htm">Latest Rates </A>
+<BR>
+</FONT></TD>
+<TD></TD></TABLE></CENTER>
+<p>
+<CENTER><IMG SRC="images/grn_lin.gif" BORDER=0>
+<p
+We like Feedback!  Send us yours by clicking: <A HREF="mailto:schohen@adamsbank.com">scohen@adamsbank.com</A></CENTER>
+<p>
+<CENTER><IMG SRC="images/grn_lin.gif" BORDER=0 >
+<p>
+<FONT SIZE=-1>&copy;1997 The Adams National Bank
+<BR>
+Member FDIC
+<BR>
+An Equal Housing Lender</FONT></TD></TR></TABLE></CENTER>
+<MAP NAME="adams"><AREA SHAPE="rect" COORDS="0,0,178,142" HREF="about/about.htm">
+<AREA SHAPE="rect" COORDS="179,1,312,141" HREF="services/service.htm">
+<AREA SHAPE="rect" COORDS="318,1,494,141" HREF="whatsnew/new.htm">
+<AREA SHAPE="rect" COORDS="319,143,492,283" HREF="forms/feedback.htm">
+<AREA SHAPE="rect" COORDS="180,143,313,284" HREF="online/online.htm">
+<AREA SHAPE="rect" COORDS="2,147,175,283" HREF="contact/contact.htm"></MAP>
+</BODY>
+</HTML>

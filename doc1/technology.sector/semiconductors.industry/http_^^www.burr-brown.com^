@@ -1,0 +1,189 @@
+Server: Netscape-FastTrack/2.01
+Date: Sat, 15 Nov 1997 09:37:31 GMT
+Accept-ranges: bytes
+Last-modified: Mon, 10 Nov 1997 18:25:11 GMT
+Content-length: 5798
+Content-type: text/html
+
+<HTML>
+
+<HEAD>
+
+<TITLE>Burr-Brown Corporation</TITLE>
+
+<META NAME="description" CONTENT="Burr-Brown Corporation is a world-wide leader in the development, manufacturing and
+marketing of electronic components including precision linear, data conversion and mixed signal integrated circuits. 
+These products address applications for both analog and digital signal processing relating to communications, industrial
+and process control, test and measurement, medical instrumentation, digital audio, multimedia and personal computer
+systems.">
+<META NAME="keywords" CONTENT="burr-brown, burr brown, op amp, operational amplifier, ic, data
+acquisition, mixed signal, mixed-signal, dac, adc, linear, analog, semiconductor, integrated circuits, multimedia, communications, converter, video, audio, digital, dvd, data conversion, instrumentation amp, optoelectronic, isolation amp">
+<META NAME="copyright" CONTENT="Copyright, Burr-Brown Corporation">
+
+<!-- burr-brown, op amp, op-amp, operational amplifier, ic, data acquisition, mixed ginal, analog, semiconductors, integrated circuits, communications, technology, video, audio, digital -->
+
+</HEAD>
+
+<BODY BACKGROUND="elements/bkgnd.gif" text="#000000">
+
+<!-- Main Table -->
+<TABLE WIDTH="600" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+
+<TR>
+	
+	<!-- Margin Menu -->
+	<TD WIDTH=160 ROWSPAN=1 VALIGN="TOP">
+		<BR>
+		<IMG HEIGHT="43" WIDTH="131" SRC="elements/bb-logo.gif" BORDER="0" ALT="BB-Home"><BR>
+		
+		<BR><BR>
+		
+		<!-- PRODUCTS -->
+		<A HREF="Products/Products.html"><IMG HEIGHT="18" WIDTH="140" BORDER="0" SRC="elements/Products.gif"
+ALT="Products"></A>
+		
+		<BR><BR>
+		
+		<!-- WHAT'S NEW -->
+		<A HREF="WhatsNew/WhatsNew.html"><IMG HEIGHT="18" WIDTH="140" BORDER="0" SRC="elements/WhatsNew.gif" ALT="What's
+New"></A>
+		
+		<BR><BR>
+		
+		<!-- APPLICATIONS -->
+		<A HREF="Applications/Applications.html"><IMG HEIGHT="18" WIDTH="140" BORDER="0" SRC="elements/Applications.gif"
+ALT="Applications"></A>
+		
+		<BR><BR>
+		
+		<!-- SEARCH -->
+		<A HREF="Search/Search.html"><IMG HEIGHT="18" WIDTH="140" BORDER="0" SRC="elements/Search.gif" ALT="Search"></A>
+		
+		<BR><BR>
+		
+		<!-- SALES -->
+		<A HREF="Sales/Sales.html"><IMG HEIGHT="18" WIDTH="140" BORDER="0" SRC="elements/Sales.gif" ALT="Sales"></A>
+		
+		<BR><BR>
+				
+		<!-- EMPLOYMENT -->
+		<A HREF="Employment/Employment.html"><IMG HEIGHT="18" WIDTH="140" BORDER="0" SRC="elements/Employment.gif"
+ALT="Employment"></A>
+		
+		<BR><BR>
+		
+		<!-- ABOUT BB -->
+		<A HREF="AboutBB/AboutBB.html"><IMG HEIGHT="18" WIDTH="140" BORDER="0" SRC="elements/AboutBB.gif" ALT="About
+BB"></A>
+		
+		<BR><BR>
+		
+		<!-- HELP -->
+		<A HREF="Help/Help.html"><IMG HEIGHT="18" WIDTH="140" BORDER="0" SRC="elements/Help.gif" ALT="Help"></A>
+		
+
+	</TD>
+	<!--  End of Margin Menu -->
+	
+	<!-- Right Column -->
+	<TD WIDTH=440 VALIGN="TOP">
+
+	<BR>
+
+	<IMG HEIGHT="138" WIDTH="440" SRC="elements/main.gif" ALT="Welcome to Burr-Brown">
+
+	<HR>
+
+	<BR>
+	<BR>
+
+	<TABLE WIDTH=100% CELLPADDING=10>
+	<TR>
+		<TD>
+<FONT FACE="arial" SIZE="+1"><B>Burr-Brown Announces Industry's Smallest, Lowest Cost Analog Front End Chip for xDSL</B></FONT><BR>
+November 10, 1997&#151;Burr-Brown Corporation today announced the <A HREF="/Products/DataSheets/AFE1124.html">AFE1124</A>, the industry's smallest, lowest cost Analog Front End (AFE) chip available for xDSL (Digital Subscriber Line) network communication systems including HDSL (High-bit-rate DSL) and MDSL (Medium-bit-rate DSL). <A HREF="/AboutBB/PressReleases/M97-025.html">Read complete release.</A>
+		</TD>
+	</TR>
+	<TR>
+		<TD>
+<IMG SRC="elements/CD-ROM.gif" WIDTH="155" HEIGHT="100" ALIGN="RIGHT">
+		<FONT FACE="arial" SIZE="+1"><B>1997 CD-ROM Product Catalog</B></FONT><BR>
+Our electronic catalog features over 3,000 pages of high performance linear and mixed signal product data sheets and applications bulletins. To order your free CD-ROM catalog, fill out our <A HREF="Products/LitForm.html">literature request form</A>. 
+		</TD>
+	</TR>
+	<TR>
+		<TD>
+		<FONT FACE="arial" SIZE="+1"><B>Sales and Marketing Positions</B></FONT><IMG SRC="elements/new-anim.gif" WIDTH="28" HEIGHT="11"><BR>
+		Outstanding <A HREF="special_jobs.html">Sales and Marketing Positions</A> available at Burr-Brown
+		</TD>
+	
+	<TR>
+	<TR>
+		<TD>
+		<FONT FACE="arial" SIZE="+1"><B>A/D Converter Brochure</B></FONT><BR>
+		Check out our wide variety of <A HREF="FrontAds/New-ADS-Flyer/New-ADS-Flyer.html">CMOS Sampling A/D Converters</A>
+		</TD>
+	
+	<TR>
+		<!-- Text Search Form -->
+		<TD>
+		<FONT FACE="arial" SIZE="+1"><B>Search</B></FONT><BR>
+		Search the Burr-Brown Web Site by product name or subject.<BR>
+		<FORM ACTION="/cgi-bin/AT-BB_Collection_1search.cgi" METHOD=POST>
+		<INPUT NAME="search" VALUE="" size=30>
+		<INPUT TYPE="image" SRC="elements/search-button.gif" NAME="searchButton" HEIGHT="20" WIDTH="75" ALT="Search" BORDER=0>
+		<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+		</FORM>
+		</TD>
+	</TR>
+	</TABLE>
+
+
+	<BR>
+	<BR>
+	<BR>
+
+	<HR>
+
+	<FONT SIZE=-1><A HREF="mailto:webmaster@burr-brown.com">webmaster@burr-brown.com</A><BR>
+	Copyright &#169; Burr-Brown Corporation</FONT>
+
+	
+	<HR>
+
+	<!-- Ad Icons -->
+	<TABLE WIDTH=100%>
+
+	<TR>
+
+		<TD>
+		<A HREF="http://home.netscape.com/comprod/mirror/client_download.html"><IMG HEIGHT="31" WIDTH="88" BORDER=0 SRC="elements/netnow3.gif"></A>
+		</TD>
+
+		<TD>
+		<A HREF="http://www.adobe.com/prodindex/acrobat/readstep.html"><IMG HEIGHT="31" WIDTH="88" BORDER=0 SRC="elements/getacro.gif"></A>
+		</TD>
+
+		<TD>
+		<A HREF="http://www.microsoft.com/ie/"><IMG HEIGHT="31" WIDTH="88" BORDER=0 SRC="elements/ie_static.gif"></A>
+		</TD>
+	
+		<TD>
+		<A HREF="http://www.excite.com/navigate/"><IMG HEIGHT="33" WIDTH="84" BORDER=0 SRC="elements/neg_logo.gif"></A>
+		</TD>
+	
+	</TR>
+
+	</TABLE>
+	<!-- End Ad Icons -->
+	
+	</TD>
+	<!-- End Right Column -->
+	
+</TR>
+
+</TABLE>
+
+</BODY>
+
+</HTML>

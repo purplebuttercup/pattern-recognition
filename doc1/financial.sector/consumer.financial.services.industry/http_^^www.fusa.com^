@@ -1,0 +1,29 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 18 Dec 1997 07:58:32 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Tue, 02 Dec 1997 16:28:43 GMT
+Content-Length: 588
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="REFRESH" content="0; URL=http://www.paymentech.com">
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Welcome to Paymentech</title>
+</head>
+
+<body bgcolor="#FFFFFF">
+
+<p align="center"><font size="6" face="Arial">Welcome to
+Paymentech...</font></p>
+
+<p align="center">&nbsp;</p>
+
+<p align="center"><a href="http://206.50.182.3"><font
+face="Arial">www.paymentech.com</font></a></p>
+</body>
+</html>

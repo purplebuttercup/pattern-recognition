@@ -1,0 +1,119 @@
+Server: Netscape-Enterprise/2.01
+Date: Tue, 02 Dec 1997 22:54:20 GMT
+Accept-ranges: bytes
+Last-modified: Wed, 26 Nov 1997 17:09:22 GMT
+Content-length: 3729
+Content-type: text/html
+
+<html> 
+<head><title>Lincoln National Corporation</title></head> 
+<body background="images/bgintro.gif" bgcolor="#ffffff"> 
+
+<!-- ---\/this table goes around everything on the page\/--- -->
+<center><table BORDER=0 WIDTH=620><tr><td>
+<!-- ---/\this table goes around everything on the page/\- -->
+
+<!-- --- top of page including GIF89a and lnc logo--- -->
+<table BORDER=0>
+<tr>
+<td>
+<img vspace=2 src="images/lnclogo.gif" alt="[Logo]"><br>
+<a href="http://www.stockmaster.com/ir/LNC.html"><img border="0" src="http://www.stockmaster.com/irg/LNC-quote.gif" alt="[Quote]"></a>
+</td>
+</tr>
+<!-- TR colspan=2 -->
+<tr>
+<td><center><img src="index.cgi"></center></td>
+</tr>
+</table>
+<p>
+<center>
+<img width="490" hspace="12" src="images/keylnc.gif" alt="[KeyLNC]"><br>
+
+<!-- --- icons ---- -->
+<nobr>
+<a href="/family/"><img hspace="12" vspace="6" WIDTH=72 HEIGHT=108 ALT="Family of Businesses" SRC="images/treetyp.gif" border=0></a>
+
+<a href="/services/"><img WIDTH=72 HEIGHT=108 hspace="12" vspace="6" src="images/producttyp.gif" alt="Products and Services" border=0></a>
+
+<a href="/investor/"><img WIDTH=72 HEIGHT=108 hspace="12" vspace="6" src="images/columnstyp.gif" alt="Investor Relations" border=0></a>
+
+<a href="/shareholder/"><img WIDTH=72 HEIGHT=108 hspace="12" vspace="6" src="images/handtyp.gif" alt="Shareholder Services" border=0></a>
+
+<a href="/news_linc/"><img WIDTH=72 HEIGHT=108 hspace="12" vspace="6" src="images/newslinc.gif" alt="News Linc" border=0></a>
+</nobr><br>
+<nobr>
+<a href="/fun_facts/"><img WIDTH=72 HEIGHT=108 hspace="12" vspace="0" src="images/funfacttyp2.gif" alt="Fun Facts" border=0></a>
+
+<a href="/public_involvement/"><img WIDTH=72 HEIGHT=108 hspace="12" vspace="0" src="images/corpublictyp.gif" alt="Corporate Public Involvement" border=0></a>
+
+<a href="/museum/"><img hspace="12" vspace="0" src="images/lincmustyp.gif" alt="The Lincoln Museum" border=0></a>
+
+<a href="/contact/"><img WIDTH=72 HEIGHT=108 hspace="12" vspace="0" src="images/globetyp.gif" alt="Contact Information" border=0></a>
+</nobr></center>
+
+
+<p>
+<font size="4">LNC holds a prominent position among financial services companies with $120 billion of assets under management and $5.0 billion of annual revenues. Its wealth accumulation and protection products include annuities, life insurance, 401(k) plans, life-health reinsurance, institutional investment management and mutual funds.
+</font>
+<p>
+
+<blockquote>
+<table>
+<tr>
+ <td><a href="customer.html"><img border="0" align="left" src="images/quest.gif" alt="Link"></a></td>
+ <td>Are we the right company for you?</td>
+</tr>
+<tr>
+ <td>&nbsp;</td>
+</tr>
+</table>
+</blockquote>
+<br clear=all>
+
+<center>
+<p>
+<hr width=300>
+<table BORDER=0 width=550>
+<tr>
+<td align="center" valign="bottom">
+
+<!-- center -->
+<nobr>
+| <a href="/site_index.html">Index</a>
+| <a href="/family/">Family of Businesses</a> 
+| <a href="/services/">Products and Services</a>
+|</nobr>
+<br clear=all>
+<nobr>
+| <a href="/investor/">Investor Relations</a> 
+| <a href="/shareholder/">Shareholders Services</a>
+| <a href="/news_linc/">News Linc</a>
+| <a href="/fun_facts/">Fun Facts</a>
+|
+</nobr>
+<br clear=all>
+<nobr>
+| <a href="/public_involvement/">Corporate Public Involvement</a>
+| <a href="/museum/">The Lincoln Museum</a> 
+| <a href="/contact/">Contact Information</a> 
+|
+</nobr>
+
+</td>
+</tr>
+</table>
+<p>
+<I>Clear solutions in a complex world<SUB><FONT SIZE="1">SM</FONT></SUB></I><BR>
+<BR>
+<font size="-1">
+&copy;1996 Lincoln National Corporation. All Rights Reserved.<br>
+<a href="legal.html">Legal</a></font>
+</center>
+
+<!-- ---\/this table goes around everything on the page\/--- -->
+</td></tr></table></center>
+<!-- ---/\This table goes around everything on the page/\--- -->
+
+</body> 
+</html> 

@@ -1,0 +1,55 @@
+Date: Thu, 20 Nov 1997 21:32:45 GMT
+Server: WebSitePro/1.1h
+Accept-ranges: bytes
+Content-type: text/html
+Last-modified: Tue, 03 Jun 1997 20:17:52 GMT
+Content-length: 1856
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+
+<HTML>
+<HEAD>
+	<TITLE>Plum Creek Timber Available Lands</TITLE>
+	<META name=resource-type content="document"> 
+ 	<META name=distribution content="GLOBAL"> 
+ 	<META name="description" content="Information about Plum Creek's northwest Montana lands that are now for sale. Includes photos, detailed descriptions and email contacts.">
+	<META name=keywords content="plum creek, land, real estate, montana, montana real estate, flathead, flathead lake, big mountain, glacier park, northwest montana, western montana"> 
+</HEAD>
+
+<BODY BACKGROUND="IMAGES/Treeback.jpg" BGCOLOR="#FFFFFF">
+<CENTER>
+
+<TABLE WIDTH=525>
+<TR ALIGN="Left"><TD>
+<IMG SRC="IMAGES/REBANNER.GIF" WIDTH=500 HEIGHT=61 BORDER=0 ALT="Plum Creek">
+<IMG SRC="IMAGES/RBLINE.GIF" WIDTH=504 HEIGHT=29 BORDER=0 ALT="Red & Blue Lines">
+<BR>
+<CENTER>
+<H3>Announcing Plum Creek's Montana Property Offering:</H3>
+<H2>Prime Waterfront Land in the Heart of Montana's Rocky Mountains</H2>
+<A HREF="Property.htm"><IMG SRC="IMAGES/Blckft.gif" WIDTH=400 HEIGHT=248 BORDER=0 ALT="A river running through the trees."></A>
+<BR>
+"I am in love with Montana. For other states I have admiration, or even affection..., 
+<BR>
+but with Montana it is love..."
+<BR>
+-John Steinbeck, <EM>Travels with Charley</EM>
+<P>
+
+<TABLE WIDTH="100%">
+<TR>
+	<TD ALIGN="Center"><A HREF="Property.htm"><IMG SRC="IMAGES/BULLET.GIF" WIDTH=37 HEIGHT=21 BORDER=0 ALT="Bullet" ALIGN="Top" HSPACE=5></A><A HREF="Property.htm">Properties</A>.
+</TD>
+	<TD ALIGN="Center"><A HREF="ABOUTPC.HTM"><IMG SRC="IMAGES/BULLET.GIF" WIDTH=37 HEIGHT=21 BORDER=0 ALT="Bullet" ALIGN="Top" HSPACE=5></A><A HREF="ABOUTPC.HTM">About Plum Creek</A>.
+</TD>
+</TR>
+</TABLE>
+<BR>
+<HR WIDTH="50%" NOSHADE>
+</CENTER>
+
+</TD></TR></TABLE>
+<BR>
+<BR>
+</CENTER></BODY>
+</HTML>

@@ -1,0 +1,82 @@
+Date: Thursday, 18-Dec-97 09:49:45 GMT
+Server: TRINET/NCSA/1.3R.2
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Tuesday, 29-Jul-97 19:39:03 GMT
+Content-length: 1919
+
+<HTML>
+<HEAD>
+<TITLE>Welcome to Jefferson-Pilot </TITLE>
+</HEAD>
+
+
+<body BGCOLOR="#00000" TEXT="#0000FF" LINK="#FF8000" VLINK="#FF8000" ALINK="#FF8000">  
+
+<!-------------------------------------------Start Of Page------------------------------------------------------------------------------------------>
+<IMG  border=0 SRC="newtop.gif" ALIGN=LEFT>
+
+<BR CLEAR=right>
+
+
+<BR>
+<!------------------------MAIN MAP------------------------------>
+
+<A HERF="jpn_main.map">
+<IMG ALIGN=center SRC="jpn_main.gif" border=0 alt="Jefferson-Pilot Categories" USEMAP="#jpn_main" ISMAP></A>
+
+<MAP NAME="jpn_main">
+<AREA SHAPE=RECT COORDS="0,1,397,66" HREF="http://www.jpc.com/history.htm">
+<AREA SHAPE=RECT COORDS="2,66,397,117" HREF="http://www.jpc.com/agent-forum/index.html">
+<AREA SHAPE=RECT COORDS="1,119,398,155" HREF="http://www.jpc.com/cservice.htm">
+<AREA SHAPE=RECT COORDS="0,157,397,197" HREF="http://www.jpc.com/jpcc-01.htm">
+<AREA SHAPE=RECT COORDS="1,200,397,274" HREF="http://www.jpc.com/share.htm">
+<AREA SHAPE=default HREF=http://www.jpc.com/></map>
+
+<!------------------------------------------------------------------------->
+<BR CLEAR=all>
+<center>
+
+<A HREF="http://www.jpc.com/lifecomp/lifecomp.htm">
+<IMG  border=0 SRC="lifecomp.gif" ALT="lifecomp" BORDER="0">
+</A>
+<BR>
+<A HREF="http://www.jpc.com/jpcc-job.html">
+<IMG  border=0 SRC="job_opp.gif" ALT="Job Opportunities" BORDER="0">
+</A>
+<br>
+
+<IMG  border=0 SRC="newdiv.gif">
+
+<br>
+
+<FONT SIZE=4> [  <a href="http://www.jpc.com/jpl-pres.htm">A Message From The President</a> ]</FONT>
+
+<hr size=2 width=25%>
+
+[ <a href="http://www.jpc.com/history.htm" border="0">Insurance</a> | <a href="http://www.jpc.com/agent-forum/index.html" border="0">Agent Forum</a> | <a href="http://www.jpc.com/jpcc-01.htm" border="0">Media / Sports</a> ] 
+<br>[ <a href="http://www.jpc.com/share.htm" border="0">Corporate Info</a> ]
+<br>
+
+</CENTER>
+
+</BODY>
+</HTML>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

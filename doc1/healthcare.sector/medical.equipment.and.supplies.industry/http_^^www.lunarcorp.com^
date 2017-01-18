@@ -1,0 +1,84 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 18 Dec 1997 20:22:53 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Mon, 03 Nov 1997 21:20:31 GMT
+Content-Length: 2995
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<html>
+
+<head>
+<title>Welcome to LUNAR!</title>
+<meta name="GENERATOR" content="Microsoft FrontPage 1.1">
+<meta name="FORMATTER" content="Microsoft FrontPage 2.0">
+</head>
+
+<body background="Images/background.gif">
+
+<p align="center"><img src="Images/Home.gif" align="bottom"
+width="467" height="94" naturalsizeflag="3"> </p>
+
+<h2>Welcome to the Lunar Corporation Internet Web Site!</h2>
+
+<h3 align="center"><img src="images/new_ani.gif" align="middle"
+width="75" height="50"><a href="whatsnew.htm">Check out what's
+new on the Lunar Internet Web Site!</a> </h3>
+
+<p><a href="Profile.html">Lunar Corporation</a> is the world
+leader in bone densitometry. LUNAR develops, manufactures, and
+markets medical equipment for the detection and monitoring of
+bone mineral density. Low bone mineral density can be associated
+with <a href="Osteoporosis.html">osteoporosis</a> and other
+metabolic bone diseases. <br>
+<br>
+<a href="Densitometry.html">LUNAR densitometers</a> have proven
+to be valuable tools for radiologists, endocrinologists,
+rheumatologists, gynecologists, internists, orthopedists, sports
+medicine specialists, and rehabilitation medicine specialists. <br>
+<br>
+LUNAR also markets <a href="ARTOSCAN.html">diagnostic imaging
+systems</a> (extremity MRI and compact C-arm) for use by
+orthopedic and radiological professionals.</p>
+<!--webbot bot="Include" u-include="BottomBar.htm" tag="BODY"
+startspan -->
+
+<p>&nbsp;</p>
+
+<p align="center"><a href="/Profile.html"><img
+src="Images/Button1.gif" border="0" width="70" height="70"
+naturalsizeflag="3"></a><a href="Densitometry.html"><img
+src="Images/Button2.gif" border="0" width="70" height="70"
+naturalsizeflag="3"></a><a href="Orthopedics.html"><img
+src="Images/Button6.gif" border="0" width="70" height="70"
+naturalsizeflag="3"></a><a href="Osteoporosis.html"><img
+src="Images/Button3.gif" border="0" width="70" height="70"
+naturalsizeflag="3"></a><a href="LunarNews.htm"><img
+src="Images/Button4.gif" border="0" width="70" height="70"
+naturalsizeflag="3"></a><a href="ContactUs.html"><img
+src="Images/Button5.gif" border="0" width="70" height="70"
+naturalsizeflag="3"></a> <br>
+<br>
+<a href="Profile.html">Corporate Information</a> / <a
+href="Densitometry.html">Densitometer Information</a> / <a
+href="Orthopedics.html">Orthopedic Information</a><br>
+<a href="Osteoporosis.html">Osteoporosis</a> / <a
+href="LunarNews.htm">LunarNews</a> / <a href="ContactUs.html">Contact
+Us</a> </p>
+
+<hr>
+
+<p><i>This page last updated on November 03, 1997.<br>
+Direct questions or comments about the LUNAR internet site to </i><a
+href="mailto:webmaster@lunarcorp.com"><i>webmaster@lunarcorp.com</i></a><i>
+<br>
+Internet services for the LUNAR Home Page by </i><a
+href="http://www.msn.fullfeed.com/"><i>FullFeed Communication</i></a><i>
+</i></p>
+<!--webbot bot="Include" endspan i-checksum="9050" -->
+
+<p><br>
+</p>
+</body>
+</html>

@@ -1,0 +1,59 @@
+Date: Wed, 19 Nov 1997 23:49:28 GMT
+Server: NCSA/1.5.2
+Last-modified: Fri, 26 Sep 1997 15:53:28 GMT
+Content-type: text/html
+Content-length: 2689
+
+<HTML>
+	<HEAD>
+		<META HTTP-EQUIV="content-type" CONTENT="text/html;charset=iso-8859-1">
+		<META NAME="generator" CONTENT="GoLive CyberStudio">
+		<TITLE>Welcome to Meridian Resource</TITLE>
+	</HEAD>
+	<BODY BACKGROUND="assets/corebackgrnd.gif">
+		<P><TABLE COOL WIDTH="616" HEIGHT="490" BORDER="0" CELLPADDING="0" CELLSPACING="0" GRIDX="8" SHOWGRIDX GRIDY="8" SHOWGRIDY>
+
+			<TR HEIGHT="1" CNTRLROW>
+				<TD WIDTH="1" HEIGHT="1"></TD>
+				<TD WIDTH="1" HEIGHT="1"><SPACER TYPE="block" WIDTH="1" HEIGHT="1"></TD>
+				<TD WIDTH="47" HEIGHT="1"><SPACER TYPE="block" WIDTH="47" HEIGHT="1"></TD>
+				<TD WIDTH="565" HEIGHT="1"><SPACER TYPE="block" WIDTH="565" HEIGHT="1"></TD>
+			</TR>
+
+			<TR HEIGHT="77">
+				<TD WIDTH="1" HEIGHT="77"><SPACER TYPE="block" WIDTH="1" HEIGHT="77"></TD>
+				<TD WIDTH="1" HEIGHT="77"></TD>
+				<TD WIDTH="612" HEIGHT="77" COLSPAN="2" ROWSPAN="1" VALIGN="top" ALIGN="left" XPOS="1"><IMG SRC="assets/corehead.gif" ALIGN="middle" WIDTH="610" HEIGHT="68" ALT="The Meridian Resource Corporation"></TD>
+			</TR>
+
+			<TR HEIGHT="62">
+				<TD WIDTH="1" HEIGHT="62"><SPACER TYPE="block" WIDTH="1" HEIGHT="62"></TD>
+				<TD WIDTH="1" HEIGHT="62"></TD>
+				<TD WIDTH="47" HEIGHT="62"></TD>
+				<TD WIDTH="565" HEIGHT="62" COLSPAN="1" ROWSPAN="1" VALIGN="top" ALIGN="left" XPOS="48"><A HREF="profile.html"><IMG SRC="assets/coreprofile.gif" BORDER="0" WIDTH="521" HEIGHT="62" ALT="Go to company profile"></A></TD>
+			</TR>
+
+			<TR HEIGHT="63">
+				<TD WIDTH="1" HEIGHT="63"><SPACER TYPE="block" WIDTH="1" HEIGHT="63"></TD>
+				<TD WIDTH="1" HEIGHT="63"></TD>
+				<TD WIDTH="47" HEIGHT="63"></TD>
+				<TD WIDTH="565" HEIGHT="63" COLSPAN="1" ROWSPAN="1" VALIGN="top" ALIGN="left" XPOS="48"><A HREF="financial.html" TITLE="Financials"><IMG SRC="assets/corefinancial.gif" WIDTH="521" HEIGHT="63" BORDER="0" ALT="Go to financials"></A></TD>
+			</TR>
+
+			<TR HEIGHT="58">
+				<TD WIDTH="1" HEIGHT="58"><SPACER TYPE="block" WIDTH="1" HEIGHT="58"></TD>
+				<TD WIDTH="1" HEIGHT="58"></TD>
+				<TD WIDTH="47" HEIGHT="58"></TD>
+				<TD WIDTH="565" HEIGHT="58" COLSPAN="1" ROWSPAN="1" VALIGN="top" ALIGN="left" XPOS="48"><A HREF="news.html"><IMG SRC="assets/corenew.gif" WIDTH="521" HEIGHT="58" BORDER="0" ALT="Go to Press Releases"></A></TD>
+			</TR>
+
+			<TR HEIGHT="227">
+				<TD WIDTH="1" HEIGHT="227"><SPACER TYPE="block" WIDTH="1" HEIGHT="227"></TD>
+				<TD WIDTH="1" HEIGHT="227"></TD>
+				<TD WIDTH="47" HEIGHT="227"></TD>
+				<TD WIDTH="565" HEIGHT="227" COLSPAN="1" ROWSPAN="1" VALIGN="top" ALIGN="left" XPOS="48"><A HREF="guest.html"><IMG SRC="assets/coreguest.gif" WIDTH="521" HEIGHT="70" BORDER="0" ALT="Go to guest book"></A></TD>
+			</TR>
+		</TABLE>
+		</P>
+	</BODY>
+</HTML>

@@ -1,0 +1,49 @@
+Date: Wed, 19 Nov 1997 22:51:54 GMT
+Server: Apache
+Last-Modified: Fri, 12 Sep 1997 13:03:35 GMT
+ETag: "32219-615-34193da7"
+Content-Length: 1557
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+<html>
+<head><title>Weatherford Enterra</title></head>
+<body background="images/bg_red.gif" bgcolor="#ffffff" link="#aa0000">
+<blockquote><blockquote>
+
+<img src="images/logo2.gif"><br><br>
+<b>"Forged in the oil patch, tempered by experience <br>and ready to work for your success."</b><br><br>
+<center><table><td width=210>
+
+<a href="new/fin_news.htm"><img alt="Company Profile" src="images/comp.jpg" border="0"></a></td>
+<td><a href="new.htm"><img alt="What's New" src="images/whats.jpg" border=0></a></table></center>
+
+</blockquote><font size=+0><center>
+<img src="images/prod_bar.jpg">
+<table>
+<td width=125>
+<a href="oil_serv.htm">
+<img alt="Oilfield Services" src="images/oil.jpg" border=0></a></td>
+<td width=125>
+<a href="ep_serv.htm">
+<img alt="Energy Products" src="images/energy.jpg" border=0></a></td>
+<td width=125>
+<a href="gas_comp.htm">
+<img alt="Gas Compression" src="images/gas.jpg" 
+border=0></a></td>
+</table>
+<br>
+<center>
+<img src="images/bar.jpg"></center>
+<center>
+<a href="index.htm"><img alt="Index" src="images/index.jpg" border=0></a>
+<a href="dwnld.htm"><img alt="Download" src="images/dwnld.jpg" border=0></a>
+<a href="contact.htm"><img alt="Contact" src="images/contact.jpg" border=0></a>
+</center></blockquote>
+<center>
+<a href="http://www.netscape.com"><img alt="Get Netscape Now" src="images/now8.gif"></a><br>
+<font size=-2>This site is specifically designed<br> for the Netscape Browser</font><br><br>
+<font size="-1">&copy Weatherford Enterra, Inc.</font></center>
+</body>
+</html>

@@ -1,0 +1,13 @@
+WWW Alert:  Redirection response from server is not handled by this client
+Date: Fri, 21 Nov 1997 03:00:53 GMT
+Server: Apache/1.2 Exit1/1.0
+Location: http://www.telepad.com/systems/
+Connection: close
+Content-Type: text/html
+
+<HTML><HEAD>
+<TITLE>301 Moved Permanently</TITLE>
+</HEAD><BODY>
+<H1>Moved Permanently</H1>
+The document has moved <A HREF="http://www.telepad.com/systems/">here</A>.<P>
+</BODY></HTML>

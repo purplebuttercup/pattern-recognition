@@ -1,0 +1,49 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 18 Dec 1997 21:50:22 GMT
+Content-Type: text/html
+
+<html>
+<head>
+   <title>Cal Water - Other Useful Sites</title>
+</head>
+<body bgcolor="#FFFFFF">
+   <h2><font SIZE="+3">O</font>ther <font SIZE="+3">U</font>seful <font SIZE="+3">S</font>ites</h2>
+   <p>
+   <hr> 
+   <img SRC="computer.gif" WIDTH="90" HEIGHT="85">
+   <p>
+   <ul>
+       <li><a HREF="http://www.scvwd.dst.ca.us">Santa Clara Valley Water District</a>
+       <li><a HREF="http://www.mwd.dst.ca.us/">Metropolitan Water District of Southern California</a>
+       <li><a HREF="http://wwwdwr.water.ca.gov/">California Department of Water Resources (DWR)</a>
+       <li><a HREF="http://snow.water.ca.gov/">California Cooperative Snow Surveys (DWR)</a>
+       <li><a HREF="http://www.water.ca.gov/">Other DWR WWW Servers</a>
+       <li><a HREF="http://www.cpuc.ca.gov/">California Public Utilities Commission</a>
+       <li><a HREF="http://www.swrcb.ca.gov/">State Water Resources Control Board</a>
+       <li><a HREF="http://www.lib.berkeley.edu/WRCA/">Water Resources Center Archives (UC Berkeley)</a>
+       <li><a HREF="http://www.bay-delta.org">California Water Clearinghouse (Bay-Delta Information Site)</a>
+       <li><a HREF="http://www.watereuse.org">WaterReuse Association of California</a>
+       <li><a HREF="http://www.awwa.org/">American Water Works Association</a>
+       <li><a HREF="http://www.epa.gov/OW/">U.S. Environmental Protection Agency's Office of Water</a>
+       <li><a HREF="http://www.magicnet.net/~metzler/">The Utility Connection (links to utility and utility-related
+           sites)</a>
+       <li><a HREF="http://www.inform.umd.edu:8080/EdRes/Topic/AgrEnv/Water/">Water Quality Information Center (U.S. Department of Agriculture)</a>
+   </ul>
+   <HR>
+<CENTER>
+<H4> <A HREF="/index.stm">Home</A> 
+   | <A HREF="/about_calwater/index.stm">About Cal Water</A>
+   | <A HREF="/annual_report/index.stm">Annual Report</A> 
+   | <A HREF="http://quote.yahoo.com/q?s=cwt&d=t">Current Stock Quote</A> 
+   | <A HREF="/rates/index.stm">Rates</A> 
+   | <A HREF="/districts/index.stm">Cal Water Districts</A>		
+   | <A HREF="/press_releases/index.stm">Press Releases</A>
+   | <A HREF="/conservation/index.stm">Conservation</A> 
+   | <A HREF="/fyi/index.stm">F.Y.I.</A> 
+   | <A HREF="/other_sites.stm">Other Useful Sites</A>
+   | <a href="/job_opportunities/index.stm">Job Opportunities</a>
+   | <A HREF="mailto:arubinstein@calwater.com">Contact Us</a></H4>
+</CENTER>
+
+</body>
+</html>

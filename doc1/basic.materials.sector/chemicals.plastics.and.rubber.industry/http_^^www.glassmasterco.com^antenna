@@ -1,0 +1,9 @@
+WWW Alert:  Redirection response from server is not handled by this client
+Server: Commerce-Builder/2.0 (Win32; ix86; S)
+Content-type: text/html
+Content-length: 200
+Location: http://www.glassmasterco.com/antenna/
+
+
+<html><head><title>302 Moved</title></head>
+<body><h1>302 Moved</h1The desired URL is located at <a href="http://www.glassmasterco.com/antenna/">http://www.glassmasterco.com/antenna/</a></body></html>

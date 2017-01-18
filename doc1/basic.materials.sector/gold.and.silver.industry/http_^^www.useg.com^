@@ -1,0 +1,145 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 20 Nov 1997 22:04:22 GMT
+Content-Type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>US Energy Corporation</title>
+</head>
+
+<body background="images/back.gif" bgcolor="#FFFFFF">
+<script language="JavaScript"><!--
+netscape = 0;
+name = navigator.appName;
+version = parseInt(navigator.appVersion); 
+if (name == "Netscape" && version >= 3) {
+  netscape = 1;
+  
+  homeon = new Image(69,21);
+  homeon.src = "images/homeon.gif";
+  homeoff = new Image(69,21);
+  homeoff.src = "images/homeoff.gif";
+  
+  locationon = new Image(100,21);
+  locationon.src = "images/locon.gif";
+  locationoff = new Image(100,21);
+  locationoff.src = "images/locoff.gif";
+  
+  preson = new Image(116,40);
+  preson.src = "images/preson.gif";
+  presoff = new Image(116,40);
+  presoff.src = "images/presoff.gif";
+  
+  investon = new Image(90,40);
+  investon.src = "images/investon.gif";
+  investoff = new Image(90,40);
+  investoff.src = "images/investoff.gif";
+  
+  extrason = new Image(74,21);
+  extrason.src = "images/extrason.gif";
+  extrasoff = new Image(74,21);
+  extrasoff.src = "images/extrasoff.gif";
+}
+
+function switchto(name, on) {
+  if (netscape == 1) {
+    image = eval(name + (on == 1 ? "on.src" : "off.src"));
+    document[name].src = image;
+  }
+}
+
+// --></script>
+
+<table border="0">
+    <tr>
+        <td align="center"><a name="top"><img
+        src="images/star.gif" width="82" height="75"></a></td>
+        <td width="25"><a name="top"></a>&nbsp;</td>
+        <td halign="right"><img src="images/logo.gif" width="435"
+        height="44"> </td>
+    </tr>
+    <tr>
+        <td valign="top" width="116"><a name="top"><img
+        src="images/homeon.gif" width="69" height="21"
+        name="home"><br>
+        <br>
+        </a><a href="location.html"
+        onmouseover="switchto('location',1)"
+        onmouseout="switchto('location',0)"><img
+        src="images/locoff.gif" border="0" width="100"
+        height="21" name="location"></a><br>
+        <br>
+        <a href="president.html" onmouseover="switchto('pres',1)"
+        onmouseout="switchto('pres',0)"><img
+        src="images/presoff.gif" border="0" width="116"
+        height="40" name="pres"></a><br>
+        <br>
+        <a href="invest.html" onmouseover="switchto('invest',1)"
+        onmouseout="switchto('invest',0)"><img
+        src="images/investoff.gif" border="0" width="90"
+        height="40" name="invest"></a><br>
+        <br>
+        <a href="extras.html" onmouseover="switchto('extras',1)"
+        onmouseout="switchto('extras',0)"><img
+        src="images/extrasoff.gif" border="0" width="74"
+        height="21" name="extras"></a> </td>
+        <td valign="top" rowspan="3" width="25">&nbsp;</td>
+        <td valign="top" rowspan="2"><font color="#800000"><strong>Welcome</strong></font>
+        to <font color="#000080"><strong>U.S. Energy</strong></font>'s
+        home on the Web! This is the ideal place for you to learn
+        about our company and what we have to offer. Browse
+        around and learn about energy production, investment
+        news, and uranium availability, both here in the U.S. and
+        the world.<br>
+        <br>
+        <font color="#800000"><strong>Our NASDAQ symbol: </strong></font>USEG<p><font
+        color="#000080"><strong>U.S. Energy Corp.</strong></font>
+        is a diversified minerals exploration, development, and
+        production company, with interests in uranium, gold,
+        molybdenum and oil/gas properties. The Company's
+        headquarters are in Riverton, Wyoming. </p>
+        <p><font color="#800000"><strong>The pages you shouldn't
+        miss (choose one!):</strong></font> </p>
+        <ul>
+	<li><a href="http://www.useg.com/uranium.html">Uranium - an exciting
+                commodity according to the analysts.</a></li> 
+<li>What the analysts say about U.S. Energy:<br>
+            <a href="http://www.useg.com/raf.html">RAF Financial Corporation's
+                report</a><br>
+	<a href="http://www.useg.com/pmg.html">Pennsylania Merchant Group's
+                report</a></li>
+	<li><a href="http://www.useg.com/nukem.html">The Nukem Arbitration Award</a></li>
+         <li><a href="http://www.useg.com/disc1_frm.htm">Comments by our investors
+                and brokers.</a></li>
+	<li><A href="shootaring.html">The Shootaring Mill.</a></li>
+	<li><A href="sweetwater.html">The Sweetwater Mill.</a></li>
+        
+</ul>
+
+            
+        </td>
+    </tr>
+    <tr>
+        <td><br>
+        </td>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+        <td><a href="#top"><font size="1">BACK TO THE TOP</font></a><br>
+        <br>
+        <font size="1">Comments, suggestions to </font><a
+        href="mailto:webmaster@useg.com"><font size="1">Webmaster</font></a><font
+        size="1">.<br>
+        Site by </font><a href="http://www.wiredrose.com"><font
+        size="1">The Wired Rose</font></a><font size="1">.</font><br>It is <img src="/cgi-bin/clock.exe?format=normal&neat=yes"> and you are visitor number <img
+        src="/cgi-bin/counter.exe?link=usenergy&style=led">
+        to this page!</td>
+    </tr>
+</table>
+</body>
+</html>

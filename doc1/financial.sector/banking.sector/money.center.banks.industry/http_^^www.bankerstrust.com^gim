@@ -1,0 +1,9 @@
+WWW Alert:  Redirection response from server is not handled by this client
+Server: Netscape-Enterprise/2.01
+Date: Thu, 18 Dec 1997 12:24:18 GMT
+Location: http://www.bankerstrust.com/gim/
+Content-type: text/html
+Content-length: 218
+
+<HTML><HEAD><TITLE>Found</TITLE></HEAD><BODY><H1>Found</H1>
+This document has moved to a new <a href="http://www.bankerstrust.com/gim/">location</a>. Please update your documents and hotlists accordingly.</BODY></HTML>

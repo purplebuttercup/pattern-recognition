@@ -1,0 +1,146 @@
+Date: Thu, 20 Nov 1997 16:34:42 GMT
+Server: Apache/1.1.3
+Content-type: text/html
+Last-modified: Mon, 27 Oct 1997 23:02:49 GMT
+
+<HTML>
+
+<TITLE>AMPACE Corporation: People Driving Values</title>
+
+<LINK REV="made" HREF="mailto:info@ampace.com">
+
+<meta name="description" value="AMPACE Corporation" >
+
+<meta name="keywords" value="trucking industry, transporation, trucks,">
+
+<meta name="resource-type" value="document">
+<meta name="author" value="jutano@usit.net">
+
+<SCRIPT>
+<!-- // hide script
+/* Will ignore if using worse than netscape 3 */
+
+/*
+   imageName is the NAME attribute of the IMG
+   imageLocation is the URL/HREF of the new image to be uploaded.
+*/
+function loadimage(imageName, imageLocation)
+{
+if (document.images) document.images[imageName].src = imageLocation;
+return true;
+}
+// finish hiding script -->
+</SCRIPT>
+
+<body bgcolor="#ffffff">
+
+
+<center>
+<table border=0 cellpadding=1 cellspacing=1 width=600>
+	<tr><td width=400>
+	<table border=2 width=400>
+		<tr><td align="center" bgcolor="#BBAA72" colspan=3>
+		<A HREF="/company/indexa.html"><img src="/images/logo.gif" width="400" height="82" border="0"></A>
+		</td></tr>
+		<tr><td bgcolor="#BBAA72">
+		<A HREF="/company/indexa.html"><img src="/images/image2.jpg" width="132" height="132" border="0" align="left"></A>
+		</td><td align="center" bgcolor="#BBAA72">
+		<A HREF="/company/indexa.html"><img src="/images/smampace1.jpg" width="132" height="132" border="0" align="right"></A>
+		</td><td align="center" bgcolor="#BBAA72">
+		<A HREF="/company/indexa.html"><img src="/images/image3.jpg" width="132" height="132" border="0"></A>
+		</td></tr>
+	</table>
+	</td><td align=left valign=center>
+	<table border=0 cellpadding=1 cellspacing=1>
+		<tr><td>
+		<A HREF="/company/indexa.html" onMouseOver="loadimage('ampace1', '/images/goldbutn.gif'); return true" onMouseOut="loadimage('ampace1','/images/blackbutn.gif'); return true"><IMG SRC="/images/blackbutn.gif" width=16 height=16 border=0 name="ampace1"></a>
+		</td><td>
+		<font size="-1" face="Arial"><B>Company Information</B>
+		</td></tr>
+		<tr><td>
+		<A HREF="/services/indexa.html" onMouseOver="loadimage('ampace2', '/images/goldbutn.gif'); return true" onMouseOut="loadimage('ampace2','/images/blackbutn.gif'); return true"><IMG SRC="/images/blackbutn.gif" width=16 height=16 border=0 name="ampace2"></a>
+		</td><td>
+		<font size="-1" face="Arial"><B>Services</B>
+		</td></tr>
+		<tr><td>
+		<A HREF="/investor/indexa.html" onMouseOver="loadimage('ampace3', '/images/goldbutn.gif'); return true" onMouseOut="loadimage('ampace3','/images/blackbutn.gif'); return true"><IMG SRC="/images/blackbutn.gif" width=16 height=16 border=0 name="ampace3"></a>
+		</td><td>
+		<font size="-1" face="Arial"><B>Investor Relations</B>
+		</td></tr>
+		<tr><td>
+		<A HREF="/career/indexa.html" onMouseOver="loadimage('ampace4', '/images/goldbutn.gif'); return true" onMouseOut="loadimage('ampace4','/images/blackbutn.gif'); return true"><IMG SRC="/images/blackbutn.gif" width=16 height=16 border=0 name="ampace4"></a>
+		</td><td>
+		<font size="-1" face="Arial"><B>Job Opportunities</B>
+		</td></tr>
+		<tr><td>
+		<A HREF="/franchise/indexa.html" onMouseOver="loadimage('ampace5', '/images/goldbutn.gif'); return true" onMouseOut="loadimage('ampace5','/images/blackbutn.gif'); return true"><IMG SRC="/images/blackbutn.gif" width=16 height=16 border=0 name="ampace5"></a>
+		</td><td>
+		<font size="-1" face="Arial"><B>Acquisition Opportunities</B>
+		</td></tr>
+		<tr><td>
+		<A HREF="/truckers/indexa.html" onMouseOver="loadimage('ampace6', '/images/goldbutn.gif'); return true" onMouseOut="loadimage('ampace6','/images/blackbutn.gif'); return true"><IMG SRC="/images/blackbutn.gif" width=16 height=16 border=0 name="ampace6"></a>
+		</td><td>
+		<font size="-1" face="Arial"><B>Speak Up Truckers</B>
+		</td></tr>
+		<tr><td>
+		<A HREF="/links/indexa.html" onMouseOver="loadimage('ampace7', '/images/goldbutn.gif'); return true" onMouseOut="loadimage('ampace7','/images/blackbutn.gif'); return true"><IMG SRC="/images/blackbutn.gif" width=16 height=16 border=0 name="ampace7"></a>
+		</td><td>
+		<font size="-1" face="Arial"><B>Favorite Trucking Links</B>
+		</td></tr>
+	</table>
+	</td></tr>
+	<tr><td align="left"  colspan=2>
+	<b><font face="Arial"><B><center>Welcome to Ampace Corporation's WWW Site</center><p>
+	<font size="-1">The pace of America is changing. Businesses are leaner. Experts say a passionate corporate culture is the
+key to success. And Ampace is changing the pace of America's truckload services--with a passion! Headquartered in Knoxville, Tennessee,
+Ampace (Nasdaq/NMS: PACE) is publicly held and growing rapidly. We focus first on our people...who drive our mission and who strive
+to provide values for our customers. 
+		</font></b>
+		</td>
+		</td></tr>
+	</table>
+	<p>
+
+
+<table border=0 cellpadding=1 cellspacing=1 width=600>	<tr><td colspan=1 align=center>	<img src="/images/bar.jpg" alt="Copyright" width="500" height="22">	<br>	</td></tr>	<tr><td colspan=1 align=left>	<center>	<A HREF="employee.phtml?person=dharris" TARGET="employee"  onClick="window.open('empoyee.phtml?person=dharris', 'employee', ' scrollbars=no,status=yes,resizable=yes,width=500,height=300')"><img src="/images/smdharris.jpg" width="183" height="132" border="0" align="left"></A>	</center>	<font size="-1" face="Arial"><p><b>We'd like to introduce you to one of the Ampace Team Members, Dannie Harris, and welcome you to come <A HREF="/company/indexa.html" onMouseover="window.status='Click NOW to come inside';return true;">inside</A> to learn more about the Ampace Vision. <p><br>	<B>Dannie Harris, Driver</B><br>	(Click on Image to bring up an Enlargement)	</font>	</td></tr>	<tr><td colspan=1 align=left>	<P>	<font size="-1" face="Arial"><b>	One of Our Movers and Shakers at MDX!	<p>	MDX, based in Monroe, La., is Ampace’s <a href="/goto.phtml?dir=services&filename=intro.html">long-haul, truckload division</a> that handles freight movements in the Southeast, Central and Midwest United States. MDX became part of Ampace in 1995, and recently underwent restructuring to improve performance and gain cost efficiencies. Those tweaks to the MDX operations have paid off with an on-time performance average of 98 percent and a much-improved profit line.	<p>	Dannie Harris is one of MDX’s <a href="/goto.phtml?dir=career&filename=driverapp.html">over-the-road drivers</a>. He says he is proud to drive for MDX because of the way the company works to satisfy both its customers and drivers.	<p>	As a truck driver, Dannie knows that many in his profession have to spend several weeks away from their families. That’s not the case at MDX. "They listen to your needs and get you home when you want.  MDX has given me a stable life at home," Danny explained, adding that he rests easier knowing the company has consistent, profitable freight.	<p>	Dannie believes MDX’s future is bright and offers him stability. "It eases my mind to know that MDX’s and Ampace’s management has a good, solid understanding of the trucking industry. They not only care about our business, but the people who work here. For me personally, that means I don’t have to worry about finding another job."	</td></tr></table>
+</center><p>
+
+
+
+
+
+<p>
+<center>
+
+<TABLE BORDER="0" CELLSPACING="5" CELLPADDING"5">
+  	<TR>
+    	<TD ALIGN="CENTER" VALIGN="CENTER">
+    	<A HREF="http://home.netscape.com/"><IMG SRC="/images/netscape.gif" WIDTH="88"
+HEIGHT="31" ALT="Netscape Browser 3.0 & above" ALIGN="BOTTOM" BORDER="0"></A>
+    	</TD>
+    	<TD BGCOLOR="F2BC4D" ALIGN="CENTER" VALIGN="CENTER">
+    	<font size="-1" color="#000000"><b>This Site is Best Viewed with These Browsers<br>in 800 x 600 monitor resolution</b></font>
+    	</TD>
+    	<TD ALIGN="CENTER" VALIGN="CENTER">
+    	<A HREF="http://www.microsoft.com/"><IMG SRC="/images/ie.gif" WIDTH="88"
+HEIGHT="31" ALT="Internet Explorer Browser 3.0 & above" ALIGN="BOTTOM" BORDER="0"></A>
+    	</TD>
+  	</TR>
+</TABLE>
+</center>
+<p>
+<center>
+<img src="/images/bar.jpg" alt="Copyright" width="500" height="22">
+<br>
+<font size="-1">
+<b>
+&copy;1997 <I><font color="#F2BC4D"><B>AMPACE CORPORATION</B></I></font>. All Rights Reserved</A><BR>
+</font>
+</b>
+<p>
+
+<A href="http://cgi2.fxweb.com/v2-openstat.cgi?userid=G94557&password2=jutano"><IMG src="http://cgi2.fxweb.com/v2-trackrun.cgi?userid=G94557&quiet=true" border=0></a>---
+</center>
+
+</body>
+</html>

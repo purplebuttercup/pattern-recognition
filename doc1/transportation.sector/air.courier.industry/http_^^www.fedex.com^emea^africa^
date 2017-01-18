@@ -1,0 +1,110 @@
+Server: Netscape-Enterprise/3.0F
+Date: Thu, 20 Nov 1997 17:04:10 GMT
+Content-type: text/html
+Last-modified: Mon, 15 Sep 1997 03:16:56 GMT
+Content-length: 3805
+Accept-ranges: bytes
+Connection: close
+
+<HTML>
+<HEAD><TITLE>Welcome to FedEx Africa</TITLE>
+</HEAD>
+
+<BODY BGCOLOR="#000000" TEXT="#BDB9AD" LINK="#DE5208" VLINK="#9425E6">
+
+<MAP NAME="africa-map">
+<AREA SHAPE=rect HREF="/" COORDS="372,98, 468,110">
+<AREA SHAPE=rect HREF="http://www.fedex.ca/" COORDS="372,111, 468,123">
+<AREA SHAPE=rect HREF="/apac/" COORDS="372,124, 468,136">
+<AREA SHAPE=rect HREF="/emea/euro/" COORDS="372,137, 468,149">
+<AREA SHAPE=rect HREF="/emea/mei/" COORDS="372,150, 468,162">
+<AREA SHAPE=rect HREF="/intlL.html" COORDS="372,163, 468,175">
+</MAP>
+
+<CENTER>
+<A HREF="/emea/africa/africa-images/africa-main.map"><IMG BORDER=0 SRC="/emea/africa/africa-images/africa-main.gif" WIDTH=468
+HEIGHT=288 ALT="Welcome to FedEx Africa - If you can't view this
+graphic, please use the text menu at the bottom of the page."
+USEMAP="#africa-map" ISMAP></A>
+
+<BR>
+<P>
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=468>
+<TR><TD ALIGN=CENTER VALIGN=TOP COLSPAN=5><H3><FONT
+SIZE="+2">S</FONT>ELECT <FONT SIZE="+2">C</FONT>OUNTRY OF <FONT
+SIZE="+2">O</FONT>RIGIN</H3></TD></TR>
+
+<TR><TD WIDTH="8%">&#160;&#160;</TD>
+
+<TD WIDTH="22%" VALIGN=TOP><FONT SIZE="+1">
+<A HREF="/emea/africa/dz/">Algeria</A><BR>
+<A HREF="/emea/africa/ao/">Angola</A><BR>
+<A HREF="/emea/africa/bj/">Benin</A><BR>
+<A HREF="/emea/africa/bw/">Botswana</A><BR>
+<A HREF="/emea/africa/bf/"><NOBR>Burkina Faso</NOBR></A><BR>
+<A HREF="/emea/africa/bi/">Burundi</A><BR>
+<A HREF="/emea/africa/cm/">Cameroon</A><BR>
+<A HREF="/emea/africa/cv/"><NOBR>Cape Verde</NOBR></A><BR>
+<A HREF="/emea/africa/cf/">Central</A><BR>
+&#160;&#160;<A HREF="/emea/africa/cf/">Africa</A><BR>
+<A HREF="/emea/africa/td/">Chad</A><BR>
+<A HREF="/emea/africa/cg/">Congo</A><BR>
+<A HREF="/emea/africa/dj/">Djibouti</A><BR>
+</FONT>
+</TD>
+
+<TD WIDTH="26%" VALIGN=TOP><FONT SIZE="+1">
+<A HREF="/emea/africa/eg/">Egypt</A><BR>
+<A HREF="/emea/africa/gq/">Equatorial</A><BR> 
+&#160;&#160;<A HREF="/emea/africa/gq/">Guinea</A><BR>
+<A HREF="/emea/africa/er/">Eritrea</A><BR>
+<A HREF="/emea/africa/et/">Ethiopia</A><BR>
+<A HREF="/emea/africa/ga/">Gabon</A><BR>
+<A HREF="/emea/africa/gm/">Gambia</A><BR>
+<A HREF="/emea/africa/gh/">Ghana</A><BR>
+<A HREF="/emea/africa/gn/">Guinea</A><BR>
+<A HREF="/emea/africa/gw/"><NOBR>Guinea Bissau</NOBR></A><BR>
+<A HREF="/emea/africa/ci/"><NOBR>Ivory Coast</NOBR></A><BR>
+<A HREF="/emea/africa/ke/">Kenya</A><BR>
+<A HREF="/emea/africa/ls/">Lesotho</A><BR></FONT>
+</TD>
+
+<TD WIDTH="22%" VALIGN=TOP><FONT SIZE="+1">
+<A HREF="/emea/africa/lr/">Liberia</A><BR>
+<A HREF="/emea/africa/mg/">Madagascar</A><BR>
+<A HREF="/emea/africa/mw/">Malawi</A><BR>
+<A HREF="/emea/africa/ml/">Mali</A><BR>
+<A HREF="/emea/africa/mt/">Malta</A><BR>
+<A HREF="/emea/africa/mr/">Mauritania</A><BR>
+<A HREF="/emea/africa/mu/">Mauritius</A><BR>
+<A HREF="/emea/africa/ma/">Morocco</A><BR>
+<A HREF="/emea/africa/mz/">Mozambique</A><BR>
+<A HREF="/emea/africa/na/">Namibia</A><BR>
+<A HREF="/emea/africa/ne/">Niger</A><BR>
+<A HREF="/emea/africa/ng/">Nigeria</A><BR>
+<A HREF="/emea/africa/re/">R&eacute;union</A><BR>
+<A HREF="/emea/africa/rw/">Rwanda</A><BR>
+</FONT>
+</TD>
+
+<TD WIDTH="22%" VALIGN=TOP><FONT SIZE="+1">
+<A HREF="/emea/africa/us/">Senegal</A><BR>
+<A HREF="/emea/africa/sc/">Seychelles</A><BR>
+<A HREF="/emea/africa/sl/"><NOBR>Sierra Leone</NOBR></A><BR>
+<A HREF="/emea/africa/so/">Somalia</A><BR>
+<A HREF="/emea/africa/za/"><NOBR>South Africa</NOBR></A><BR>
+<A HREF="/emea/africa/sd/">Sudan</A><BR>
+<A HREF="/emea/africa/sz/">Swaziland</A><BR>
+<A HREF="/emea/africa/tz/">Tanzania</A><BR>
+<A HREF="/emea/africa/tg/">Togo</A><BR>
+<A HREF="/emea/africa/tn/">Tunisia</A><BR>
+<A HREF="/emea/africa/ug/">Uganda</A><BR>
+<A HREF="/emea/africa/zr/">Zaire</A><BR>
+<A HREF="/emea/africa/zm/">Zambia</A><BR>
+<A HREF="/emea/africa/zw/">Zimbabwe</A></FONT></TD></TR>
+</TABLE>
+</CENTER>
+
+</BODY>
+</HTML>

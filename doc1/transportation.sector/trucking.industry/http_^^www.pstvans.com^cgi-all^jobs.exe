@@ -1,0 +1,50 @@
+Date: Thursday, 20-Nov-97 16:26:28 GMT
+Server: WebSitePro/1.1f (S/N wpo-1FE1)
+Allow-ranges: bytes
+Content-type: text/html
+Content-length: 2298
+
+<HTML><HEAD><TITLE>PST Vans Inc. [Job Opportunities [States]]</TITLE></HEAD>
+<BODY BACKGROUND="/pstvans/IMAGES/BACKGRND.GIF" TEXT="#000000" LINK="#0000FF" ALINK="#FF0000" VLINK="#800080">
+
+<center><IMG SRC="/pstvans/images/pstbarta.gif" WIDTH="98%" HEIGHT="15" ALT=""></center>
+<CENTER>
+<B><IMG SRC="/pstvans/images/pstlogo.gif" ALT=""><FONT SIZE="+34" FACE=ARIAL NEW COLOR="#990000">Vans, Inc.</FONT></B>
+</CENTER>
+<center><IMG SRC="/pstvans/images/pstbarba.gif" WIDTH="98%" HEIGHT="15" ALT=""></center>
+<CENTER><H2>Please select a location to scan for job openings within <FONT SIZE=+2 COLOR=#990000><I>PST</I> Vans, Inc.</FONT></H2><CENTER>
+<P><CENTER><TABLE WIDTH=75% BGCOLOR=#FFFFCC>
+<TR>
+<TD>
+<CENTER><FORM METHOD=POST ACTION=/cgi-all/jobs.exe>
+<INPUT TYPE=HIDDEN NAME=action VALUE=salt_lake>
+<INPUT TYPE=IMAGE SRC=/pstvans/images/utah.gif ALIGN=CENTER BORDER=0><BR><FONT SIZE=+1>Salt Lake City, Utah</FONT>
+</FORM></CENTER>
+</TD>
+<TD WIDTH=25%>
+<CENTER><FORM METHOD=POST ACTION=/cgi-all/jobs.exe>
+<INPUT TYPE=HIDDEN NAME=action VALUE=austell>
+<INPUT TYPE=IMAGE SRC=/pstvans/images/austell.gif ALIGN=CENTER BORDER=0><BR><FONT SIZE=+1>Austell, Georgia</FONT>
+</FORM></CENTER>
+</TD>
+<TD WIDTH=25%>
+<CENTER><FORM METHOD=POST ACTION=/cgi-all/jobs.exe>
+<INPUT TYPE=HIDDEN NAME=action VALUE=bowling_green>
+<INPUT TYPE=IMAGE SRC=/pstvans/images/ky.gif ALIGN=CENTER BORDER=0><BR><FONT SIZE=+1>Bowling Green, Kentucky</FONT>
+</FORM></CENTER>
+</TD>
+<TD WIDTH=25%>
+<CENTER><A HREF="http://www.pstvans.com/pstvans/recruiting.html" >
+<IMG SRC=http://www.pstvans.com/pstvans/images/drapp.gif ALIGN=CENTER BORDER=0 ALT=Driver Recruiting></A>
+<BR><FONT SIZE=+1>Driver Recruiting</FONT>
+</FORM></CENTER>
+</TD></TR>
+</TABLE></CENTER>
+</PRE></PRE></PRE><HR><CENTER>
+ Return to the <FONT COLOR=#990000><I>PST Vans, Inc.</I></FONT> home <A HREF=/><IMG SRC = /pstvans/images/home.jpg BORDER = 0></A> page<P>
+ Problems, questions? Contact us <A HREF=mailto:mis@mail.pstvans.com><IMG SRC =/pstvans/images/coolmail.gif BORDER = 0></A> at
+ <A HREF=mailto:mis@mail.pstvans.com><I>mis@mail.pstvans.com</I></A>
+ </CENTER></B></H4>
+ <HR>
+ <H5><CENTER>Copyright &copy; 1996 by <FONT COLOR=#990000><I>PST Vans, Inc.</I></FONT>   All Rights Reserved.</CENTER></H5>
+ </BODY></HTML>

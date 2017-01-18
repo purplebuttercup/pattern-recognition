@@ -1,0 +1,31 @@
+Date: Fri, 21 Nov 1997 04:28:58 GMT
+Server: Apache/1.2.4
+Last-Modified: Tue, 15 Apr 1997 15:53:12 GMT
+ETag: "206622e-298-3353a468"
+Content-Length: 664
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+<HTML><HEAD><TITLE>Welcome to Ultradata</TITLE></HEAD>
+
+<BODY BGCOLOR=#FFFFFF>
+
+<CENTER>
+<A HREF=/cgi-bin/imagemap/newmain.map>
+<IMG ALIGN=CENTER ALT="IMAGE" SRC="images/newhome.gif" BORDER=0 ISMAP></A><BR><BR>
+<CENTER>
+
+<A HREF="ultra.html"> UltraFinder /</A>
+<A HREF="road.html"> Road Whiz Town & Country /</A>
+<A HREF="trip.html"> Trip Link /</A>
+<A HREF="greens.html"> GreensFinder /</A>
+<A HREF="rv.html"> R.V. Special /</A>
+<A HREF="roadplus.html"> Road Whiz Plus /</A>
+<A HREF="kidsroad.html"> Kids Road Whiz /</A>
+<A HREF="home.html"> Home & Garden /</A>
+<A HREF="company.html"> Company Information /</A>
+<A HREF=form.html> Order Form</A>
+
+</BODY>
+</HTML>

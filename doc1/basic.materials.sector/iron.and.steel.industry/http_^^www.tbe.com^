@@ -1,0 +1,133 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Thursday, 20-Nov-97 22:32:56 GMT
+Content-Type: text/html
+Content-Length: 4767
+Last-Modified: Friday, 26-Sep-97 17:44:28 GMT
+
+<!doctype html public "-//IETF//DTD HTML//EN">
+
+<HTML>
+
+<HEAD>
+<TITLE>Welcome to Teledyne Brown Engineering!</TITLE>
+</HEAD>
+
+<BODY TEXT="333333" LINK="0000CC" VLINK="990066" BGCOLOR="#ffffff">
+<center>
+<A HREF="/img/homepg.conf">
+<IMG ALIGN=bottom border=0 SRC="/gifs/homepg.gif" ISMAP></A>
+<p>
+<A HREF="/overview/overview.html">Overview</A>  |
+<A HREF="/products/products.html">Products</A>  |
+<A HREF="/services/services.html">Services</A>  |
+<A HREF="/whatsnew/whatsnew.html">What's New</A>  |
+<A HREF="/jobs/jobs.html">Jobs</A>  |
+<A HREF="/searchhtml.html">Search</A>
+<p>
+<H1>Welcome to <BR>
+Teledyne Brown Engineering!</H1>
+</center>
+
+For more than 40 years, Teledyne Brown Engineering has provided 
+systems engineering, systems integration, software development, 
+and hardware fabrication services for the U.S. Department of Defense, 
+NASA, and private companies around the world.  We are drawing on our 
+strong engineering and scientific base to diversify and develop 
+innovative, high-quality products for the commercial market.
+<p>
+
+<center>
+<form method="get" action="http://www.tbe.com/cgi-bin/select.scr">
+<select name="prodserv">
+<option value="sel">Select a product or service
+<option value="line1">--------------------------------------------
+
+<option value="hw">HARDWARE PRODUCTS
+<option value="bushy">Bushy Ridge(TM) Hunters' Camouflage
+<option value="hydrogen">Hydrogen and Thermoelectric Generators
+<option value="laser">Laser Products
+<option value="furnaces">Microgravity Furnaces 
+<option value="tents">Military and Commercial Camouflage Tents 
+<option value="line2">--------------------------------------------
+
+<option value="info">INFORMATION PRODUCTS
+<option value="cdex">Clinical Data Exchange (CDEX)
+<option value="cpv">CPV (Clinical Pathway Variance)
+<option value="imperium">Imperium(R) 200H Environmental Control System
+<option value="mdes">Medical Data Exchange System (MDES)
+<option value="smod">SMOD (Sign My Orders and Documents)
+<option value="automet">Utility Information Solutions
+<option value="vector">VECTOR(TM) SCADA Systems
+<option value="xtie">XTie Requirements Management and Tracing
+<option value="line3">--------------------------------------------
+
+<option value="instrument">INSTRUMENTATION PRODUCTS
+<option value="geotech">Geotech Instruments
+<option value="hastings">Hastings Instruments
+<option value="hydro">Hydrophones and Marine Products
+<option value="quick">Transducers and Sensors
+<option value="line4">--------------------------------------------
+
+<option value="defense">DEFENSE PROGRAMS
+<option value="asm">Armored Systems Modernization
+<option value="bmd">Ballistic Missile Defense
+<option value="tents">Camouflage Tents, Military and Commercial 
+<option value="enveng">Environmental Engineering
+<option value="opteng">Optical Engineering
+<option value="sas">Systems Analysis and Simulation
+<option value="line5">--------------------------------------------
+
+<option value="environ">ENVIRONMENTAL PROGRAMS
+<option value="air">Air Quality Improvement
+<option value="chem">Chemical Demilitarization
+<option value="enveng">Environmental Engineering
+<option value="nuc">Nuclear Measurement and Management 
+<option value="remed">Remediation and Waste Management
+<option value="line6">--------------------------------------------
+
+<option value="space">SPACE PROGRAMS
+<option value="iss">International Space Station
+<option value="furnaces">Microgravity Furnaces
+<option value="mission">Mission Planning
+<option value="payload">Payload Mission Integration
+<option value="line7">--------------------------------------------
+
+<option value="special">SPECIALTY SERVICES
+<option value="ems">Emergency Management Systems
+<option value="eas">Engineering Analysis Services
+<option value="multi">Training and Multimedia Services
+</select>
+<input align=middle type=submit value=Go>
+</form>
+<p>
+
+<table TEXT="FFFFFF" border=2>
+<tr><td align=middle width=250><b><TEXT="FFFFFF">For general information, contact:</TEXT></b>
+<p>
+ <A HREF="poc/foster.html">R. Foster Perry</A>, Manager
+  <br>Business Development
+<p>
+John C. Latimer, Manager<br><a href="intl/intl.html">International Business</a> Development
+<p>
+(Additional contacts are also listed<br>on each Product or Service
+page.)
+
+   <td valign=center align=middle width=250><b>Mailing Address:</b><p><A NAME="snailmail">
+     Teledyne Brown Engineering<BR>
+        Cummings Research Park<BR>
+        300 Sparkman Drive<BR>
+        Post Office Box 070007<BR>
+        Huntsville, Alabama  35807-7007</A>
+        
+  <tr><td colspan=2 height=40 valign=bottom align=center><a href="tellinks.html">
+  <h4>Other Teledyne Companies</h4></a>
+  </table>
+    
+    <p>
+<I>Updated 9/8/97 - <A HREF="comments.html">Comments</A> are welcome! -  </I>
+<P>
+</center>
+
+</BODY>
+</HTML>

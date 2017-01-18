@@ -1,0 +1,82 @@
+Date: Wed, 19 Nov 1997 23:57:14 GMT
+Server: Apache/1.2.0
+Last-Modified: Fri, 25 Jul 1997 02:29:51 GMT
+ETag: "7247-be3-33d80f9f"
+Content-Length: 3043
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+<HTML><HEAD>
+<TITLE>Welcome To CABOT OIL &amp; GAS CORPORATION</TITLE>
+<META name="author" content="Paul Boling">
+<META name="description" content="CABOT OIL & GAS CORPORATION (NYSE:COG) is a leading independent producer and marketer of natural gas with operations in the Appalachia, Anadarko, Rocky Mountains and Gulf Coast regions of the United States.">
+<META name="classification" content="domestic oil and natural gas producer and marketer">
+<META name="keyword" content="cabot oil & gas, natural gas producer, natural gas marketer, exploration, oil and gas company, appalachia, gulf coast, rocky mountain, anadarko, natural gas"></HEAD>
+<SCRIPT LANGUAGE="JavaScript">
+
+
+<!-- Baseline text scroller for Navigator
+
+/* Hide Script -->
+<!--
+*/
+
+function scroll_text(seed)
+{
+   var m1  = "Welcome to CABOT OIL & GAS CORPORATION";
+   var m2  = " . . . A Leading Independent Producer and Marketer of Natural Gas.";
+   var msg=m1+m2;
+   var out = " ";
+   var c   = 1;
+
+   if (seed > 100) {
+      seed--;
+      var cmd="scroll_text(" + seed + ")";
+      timerTwo=window.setTimeout(cmd,100);
+
+/* Hide Script -->
+<!--
+*/
+
+   }
+   else if (seed <= 100 && seed > 0) {
+      for (c=0 ; c < seed ; c++) {
+         out+=" ";
+      }
+      out+=msg;
+      seed--;
+      var cmd="scroll_text(" + seed + ")";
+      window.status=out;
+      timerTwo=window.setTimeout(cmd,100);
+
+/* Hide Script -->
+<!--
+*/
+
+   }
+   else if (seed <= 0) {
+      if (-seed < msg.length) {
+         out+=msg.substring(-seed,msg.length);
+         seed--;
+         var cmd="scroll_text(" + seed + ")";
+         window.status=out;
+         timerTwo=window.setTimeout(cmd,100);
+      }
+      else {
+         window.status=" ";
+         timerTwo=window.setTimeout("scroll_text(100)",75);
+      }
+   }
+}
+// End of Script -->
+</SCRIPT>
+
+<BODY BGCOLOR="#ffffff" vlink="#006633" onLoad="timerONE=window.setTimeout('scroll_text(100)',500);"><P>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; <B>&#160; &#160;</B>
+<CENTER><IMG SRC=cablog2.gif></CENTER>
+<P><CENTER><A HREF=http://www.prnewswire.com/comp/129660.html><IMG SRC=prsls.gif ALIGN="MIDDLE" ALT="Cabot Oil & Gas Press Releases" BORDER="0"></A> <A HREF=http://www.prnewswire.com/comp/129660.html><IMG SRC=secflg.gif ALIGN="MIDDLE" ALT="Request Information" BORDER="0"></A> <A HREF="links.htm"><IMG SRC=indlnks.gif ALIGN="MIDDLE" ALT="Information Resources" BORDER="0"></A></CENTER><BR>
+<P><CENTER><IMG SRC=rule.gif></CENTER>
+<P><DL><DT><DD><B>Cabot Oil &amp; Gas Corporation is a leading independent natural gas producer and marketer with substantial interests in the Appalachia, Rocky Mountain, Anadarko and Gulf Coast areas of the United States.</B></DL><BR>
+<P><CENTER><FONT SIZE=-1>For more information <A HREF=mailto:scott.schroeder@cabotog.com>Send Cabot Oil &amp; Gas E-MAIL</A>, or call Scott Schroeder at 1-281-589-4993.</CENTER>
+<CENTER>&copy; 1996 Cabot Oil &amp; Gas Corporation </FONT></CENTER>
+</BODY></HTML>

@@ -1,0 +1,46 @@
+Date: Fri, 21 Nov 1997 02:33:28 GMT
+Server: Apache/1.2.4
+Last-Modified: Mon, 23 Sep 1996 15:54:06 GMT
+ETag: "5d8-7e5-3246b29e"
+Content-Length: 2021
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//SQ//DTD HTML 2.0 HoTMetaL + extensions//EN">
+<HTML>
+<HEAD>
+<TITLE>Capital Associates International Inc. - Home Page</TITLE></HEAD>
+<FRAMESET COLS="160,*">
+<FRAME SRC="sidebar.htm" NAME="leftside" SCROLLING="NO" NORESIZE="NORESIZE">
+<FRAME SRC="home.htm" NAME="rightside" SCROLLING="YES">
+<NOFRAMES>
+<BODY BGCOLOR="FFFFFF" LINK="0000CC" VLINK="0000CC" ALINK="0000CC"><BASEFONT
+SIZE="3">
+<BLOCKQUOTE><IMG
+SRC="graphics/maintopbar.gif" ALT="Capital Associates International Inc." ALIGN="TOP" WIDTH="350" HEIGHT="22">
+<P><BR CLEAR="all"></P><IMG
+SRC="graphics/cover.jpg" ALT="Capital Associates Headquarters" ALIGN="LEFT" WIDTH="231" HEIGHT="283">
+<IMG
+SRC="graphics/peak.gif" ALT="Providing Solutions for Our Customers' Equipment Financing Needs for Over 20 Years" ALIGN="TOP" WIDTH="225" HEIGHT="59">
+<P><BR CLEAR="all"></P>
+<HR SIZE="2" WIDTH="85%" ALIGN="CENTER">
+<P><FONT SIZE="2" COLOR="000000" FACE="arial">	<B>Capital Associates is a
+full function lessor specializing in lease transactions which finance business
+equipment for the nations top companies.</B><BR></FONT></P>
+<P ALIGN="CENTER"><FONT SIZE="2" FACE="arial"><A HREF="lefacts.htm">Leasing
+Facts and Information</A> ||
+<A HREF="equipfin.htm">Equipment Lease Financing</A> ||
+<A HREF="equisale.htm">Equipment Sales</A> || <A HREF="finadv.htm">Financial
+Advisory Services</A> || <A HREF="leacq.htm">Lease Acquisitions</A> ||
+<A HREF="capmkt.htm">Capital Markets Group</A> || <A HREF="capedge.htm">Capital
+Edge</A> ||
+<A
+HREF="http://207.13.58.34/cgi-bin/show.cgi?sno=400376&func=mlist&mode=full&src=bb&index_code=12889">Financial
+Information</A> || <A HREF="info.htm">How to Reach Us</A> ||
+<A HREF="home.htm">Home</A></FONT></P>
+<CENTER><FONT SIZE="2"><B>&copy; 1996 Capital Associates International,
+Incorporated</B><BR>7175 W. Jefferson Avenue, Suite 4000 Lakewood, CO  80235<BR>
+<A HREF="moreinfo.html">Click here for more information on how to reach us.</A><BR>
+
+</FONT></CENTER></BLOCKQUOTE></BODY></NOFRAMES></FRAMESET></HTML>

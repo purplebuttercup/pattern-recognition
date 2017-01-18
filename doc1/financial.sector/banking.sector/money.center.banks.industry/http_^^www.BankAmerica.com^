@@ -1,0 +1,406 @@
+Server: Netscape-Commerce/1.12
+Date: Thursday, 18-Dec-97 12:16:07 GMT
+Last-modified: Wednesday, 17-Dec-97 18:03:58 GMT
+Content-length: 14543
+Content-type: text/html
+
+<HTML>
+
+<HEAD>
+	<META NAME="Description" HTTP-EQUIV="expires" Content="Corporate Banking">
+
+	<META HTTP-EQUIV="expires" CONTENT="text/html;CHARSET=iso-8859-1">
+	<META NAME="DESCRIPTION" CONTENT="Bank of America">
+	<META NAME="keywords" CONTENT="online banking homebanking bank student checking savings">
+	<TITLE>Bank of America</TITLE>
+</HEAD>
+
+<!-- The following JavaScript will only work in Netscape 3.0 or higher -->
+<!-- or Internet Explorer 4.0 or higher.                               -->
+<!--                                                                   -->
+<!-- To change the swaping images, make the change in the var          -->
+<!-- statements immediately below.  Be certain to update the location  -->
+<!-- of the images by changing the baseURL variable.                   -->
+
+<SCRIPT LANGUAGE="JavaScript1.1">
+<!--//
+
+// The baseURL set the global location of the GIF images.
+var baseURL = ""
+
+// Set up compatiblity of JavaScript to Browser.
+
+var compat = "false"
+
+
+// The following statments verify the browser make and version.
+// Note, all JavaScript from here on must contain the IF statement
+// for compatiblity.
+
+browserName = navigator.appName;
+
+browserVer = parseInt(navigator.appVersion);
+
+if (browserName == "Netscape" && browserVer >= 3) compat = "true";
+
+else if (browserName == "Microsoft Internet Explorer" && browserVer >= 4) compat = "true";
+
+
+// Pre-loading the rollovers.
+
+if (compat == 'true') {
+
+	var imgOriginal = new Image()
+	imgOriginal.src = baseURL+"/gifs/right.gif"
+	
+	var imgSpecial = new Image()
+	imgSpecial.src = baseURL+"/gifs/specialroll.gif"
+
+	var imgStory = new Image()
+	imgStory.src = baseURL+"/gifs/storyroll.gif"
+
+	var imgHongKong = new Image()
+	imgHongKong.src = baseURL+"/gifs/bleft4-roll.jpg"
+
+	var imgSpareChange = new Image()
+	imgSpareChange.src = baseURL+"/gifs/spareroll.gif"
+
+	var imgBusiness = new Image()
+	imgBusiness.src = baseURL+"/gifs/bizroll.gif"
+
+	var imgPersonal = new Image()
+	imgPersonal.src = baseURL+"/gifs/personalroll.gif"
+
+	var imgEconomics = new Image()
+	imgEconomics.src = baseURL+"/gifs/econroll.gif"
+
+	var imgCorporate = new Image()
+	imgCorporate.src = baseURL+"/gifs/corporateroll.gif"
+
+	var imgBAToday = new Image()
+	imgBAToday.src = baseURL+"/gifs/batodayroll.gif"
+	
+	var imgByob = new Image()
+	imgByob.src = baseURL+"/gifs/byobroll.gif"
+
+}
+
+
+// Defining the rollovers.
+
+function LoadSpecial() {
+if (compat == 'true') {
+	showDefault = false;
+	document.images["rollover"].src = imgSpecial.src;
+	}
+	}
+	
+function LoadStory() {
+if (compat == 'true') {
+	showDefault = false;
+	document.images["rollover"].src = imgStory.src;
+	}
+	}
+
+function LoadHongKong() {
+if (compat == 'true') {
+	showDefault = false;
+	document.images["rollover"].src = imgHongKong.src;
+	}
+	}
+	
+function LoadSpareChange() {
+if (compat == 'true') {
+	showDefault = false;
+	document.images["rollover"].src = imgSpareChange.src;
+	}
+	}
+	
+function LoadBusiness() {
+if (compat == 'true') {
+	showDefault = false;
+	document.images["rollover"].src = imgBusiness.src;
+	}
+	}
+	
+function LoadPersonal() {
+if (compat == 'true') {
+	showDefault = false;
+	document.images["rollover"].src = imgPersonal.src;
+	}
+	}
+	
+function LoadEconomics() {
+if (compat == 'true') {
+	showDefault = false;
+	document.images["rollover"].src = imgEconomics.src;
+	}
+	}
+
+function LoadCorporate() {
+if (compat == 'true') {
+	showDefault = false;
+	document.images["rollover"].src = imgCorporate.src;
+	}
+	}
+
+function LoadBAToday() {
+if (compat == 'true') {
+	showDefault = false;
+	document.images["rollover"].src = imgBAToday.src;
+	}
+	}
+	
+function LoadByob() {
+if (compat == 'true') {
+    showDefault = false;
+	document.images["rollover"].src = imgByob.src;
+	}
+	}
+
+function setDefault() {
+	if (showDefault) {
+		document.images["rollover"].src = imgOriginal.src;
+	}
+	}
+
+function unLoad() {
+if (compat == 'true') {
+        showDefault = true;
+		setTimeout('setDefault();', 1);
+	}
+}
+	
+//-->
+
+
+<!--                                                                   -->
+<!-- Client Side image map for blocks                                  -->
+<!-- The AREA tags contain JavaScript for the rollovers.               -->
+<!--                                                                   -->
+
+
+<!--                                                                   -->
+</SCRIPT>
+
+<BODY BGCOLOR="#ffffff" link="#0000cc" vlink="#ff000000" alink="#cccccc">
+
+<P>
+<CENTER>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="420" HEIGHT="323">
+	<TR>
+		<TD COLSPAN="3"><A HREF="/maps/titlebar.map"><IMG SRC="/gifs/banner_nohome.gif" WIDTH="590" HEIGHT="35" ALIGN="BOTTOM" BORDER="0" ALT="Bank of America" ISMAP></A></TD>
+	</TR>
+	<TR>
+		<TD><A HREF="/maps/left.map"><IMG SRC="/gifs/left.gif" WIDTH="144" HEIGHT="308" ALIGN="BOTTOM" BORDER="0"  ALT="Bank Online" ISMAP></A></TD>
+		<TD><A HREF="/maps/center.map"><IMG SRC="/gifs/center.gif" WIDTH="312" HEIGHT="308" ALIGN="BOTTOM" BORDER="0" USEMAP="#center" ALT="Bank of America - Click on a block" ISMAP></A></TD>
+		<TD><A HREF="/maps/right.map"><IMG SRC="/gifs/right.gif" WIDTH="144" HEIGHT="308" ALIGN="BOTTOM" BORDER="0" NAME="rollover"  ALT="Money Tip/New and Notable - See links below" ISMAP></A></TD>
+	</TR>
+</TABLE>
+
+<BR>
+<BR>
+<BR>
+</CENTER>
+
+<CENTER>
+ <TABLE BORDER=0 WIDTH=500 CELLSPACING=0 BGCOLOR=#EEEEEE>
+     <TR><TH BGCOLOR=#000066><FONT SIZE=+2 COLOR=WHITE>Table of 
+     Contents</FONT></TH></TR>
+     <TR><TD><P><BR>
+     
+     <DIV ALIGN="right">
+     <BR>
+     
+     <TABLE BORDER=0 WIDTH=400 CELLSPACING=0>
+     <TR><TD BGCOLOR="#666666"><FONT COLOR=WHITE><B>SECTIONS OF OUR 
+     SITE...</B></font></TD></TR>
+     <TR><TD>
+     <BLOCKQUOTE><BR>
+     <A HREF="/new_notable.html"><B>WHAT'S NEW & WHAT'S NOTABLE</B></A><P>
+     
+     <A HREF="/spec_off/spec_off.html"><B>SPECIAL OFFERS</B></A><P>
+     
+     <A HREF="/online/home.html"><B>BANK ONLINE!</B></A><BR>
+     <FONT SIZE=-1>
+     <A HREF="/p-finance/homebanking/homebanking.html">HomeBanking</A> | 
+     <A HREF="http://ihbprod.bankamerica.com/ihb-bin/ihbcgi">HomeBanking 
+     Sign In</A><BR>
+     <A HREF="/creditcards/o_ov.html">BankAmericard&#174;</A> 
+	| <A HREF="http://tbcprod.bankamerica.com/creditcard/">BankAmericard&#174; Sign In</A><BR>
+	<A HREF="/b-banking/bb_onlineov.html">PC Banking for Business</A><BR>
+		
+     
+     </FONT><P>
+     
+     <A HREF="/p-finance/p-finance.html"><B>PERSONAL FINANCE</B><BR></A>     <FONT SIZE=-1>
+     <A HREF="/p-finance/athome.html">At Home</A> | 
+     <A HREF="/p-finance/checking/checkov.html">Checking</A> | 
+     <A HREF="/p-finance/sri.html">Savings & Investments</A><BR>
+     <A HREF="/p-finance/creditov.html">Credit Cards & Other Loans</A> | 
+     <A HREF="/p-finance/homebanking/homebanking.html">HomeBanking</A> | 
+     <A HREF="/studentunion/home.html">Student Union</A><BR>
+     <A HREF="/p-finance/ins_termlife.html">Insurance</A> |
+     <A HREF="http://www.bankamerica.com.hk/">BA Asia</A>
+     </FONT><P>
+     
+     <A HREF="/b-banking/bbankov.html"><B>BUSINESS BANKING</B></A><BR>
+     <FONT SIZE=-1>
+     <A HREF="/p-finance/athome/ho_home.html">Your Home Office</A> | 
+     <A HREF="/b-banking/bb_onlineov.html">PC Banking</A> | 
+     <A HREF="/b-banking/bb_checkov.html">Checking</A> <BR>
+     <A HREF="/b-banking/bb_savov.html">Business Savings & Investments</A> 
+     | 
+     <A HREF="/b-banking/bb_finanov.html">Business Financing</A> <BR> 
+     <A HREF="/b-banking/bbmerchov.html">Merchant Services</A> | 
+     <A HREF="/b-banking/bb_svcsov.html">Business Services</A> | 
+     <A HREF="/dealer/home.html">Dealer Lending</A>
+     </FONT><p>
+     
+     <A HREF="/corporate/corporate.html"><B>CORPORATE</B></A><BR>
+     <FONT SIZE=-1>
+     <A HREF="/corporate/corp_capraising.html">Credit & Capital Raising</A> 
+     | 
+     <A HREF="/corporate/cash_management/cashnew.html">Cash Management</A> 
+     <BR>
+     <A HREF="/corporate/corp_foreign_risk.html">Foreign Exchange & Risk 
+     Management</A> | 
+     <A HREF="/corporate/corp_investments.html">Investments</A> <BR>
+     <A HREF="/b-banking/bbmerchov.html">Merchant Services</A> | 
+     <A HREF="/corporate/corp_govserv.html">Government Services</A> | 
+     <A HREF="/corporate/corp_privatebank.html">The Private Bank</A> <BR> 
+     <A HREF="/corporate/corp_intltradeov.html">Trade Services</A>
+     </FONT><p>
+     
+     <A HREF="/batoday/batoday.html"><B>BANKAMERICA TODAY</B></A><BR>
+     <FONT SIZE=-1>
+     <A HREF="/careers/home.html">Career Opportunities</A> | 
+     <A HREF="/batoday/bacfinancials.html">BAC Financials</A> | 
+     <A HREF="/news">News</A> <br> 
+     <A HREF="/batoday/bacfacts.html">BAC Facts</A> | 
+     <A HREF="/batoday/exec.html">Executive Views</A> | <A 
+     HREF="/shareholder/home.html">Shareholder Resources</A><BR>
+     <A HREF="/community/comm_devov.html">Community Development</A> | 
+     <A HREF="/community/comm_envov.html">Environment</A><BR>
+     <A HREF="/batoday/accessov.html">Access Guide  - includes ATM &amp; Branch 
+     Locations</A>
+     </FONT><p>
+     
+     <A HREF="/spare_change/million.html"><B>SPARE CHANGE</B></A><P>
+     
+     <A HREF="/econ_indicator/econ_indicator.html"><B>ECONOMICS</B></A><BR>
+     <FONT SIZE=-1>
+     <A HREF="/econ_indicator/econ_indicator.html#us">The U.S. Economy</A> 
+     | 
+     <A HREF="/econ_indicator/econ_indicator.html#global">The Global 
+     Economy</A><BR> 
+     <A HREF="/econ_indicator/foreignov.html">Foreign Exchange Markets</A> 
+     | 
+     <A HREF="/econ_indicator/econ_indicator.html#investment">Investment 
+     Strategies</A><BR> 
+     <A 
+     HREF="/econ_indicator/econ_indicator.html#subscription">Publications 
+     by Subscription</A>
+     </FONT><p>
+     
+     
+     <A HREF="/byob/byob.html"><B>BUILD YOUR OWN 
+     BANK</B></A><BR>
+     <FONT SIZE=-1>
+     <A HREF="/byob/byob.html">Learn More</A> | 
+     <A HREF="/secbin/personalpg.pl">Sign In</A><BR> 
+     </FONT><p> <BR>
+     
+          </BLOCKQUOTE>
+     </TD></TR>
+     
+     <TR>
+     	<TD BGCOLOR=666666><FONT COLOR="#FFFFFF"><B>SITE FUNCTIONS</B></font><BR></TD>
+     </TR>
+     
+     <TR>
+  
+     <TD><BLOCKQUOTE><BR><P><FONT SIZE="-1">
+     <A HREF="/secbin/personalpg.pl"><B>BYOB</B></A></FONT></P>
+     <P><FONT SIZE="-1"><A HREF="/contact/contact.html"><B>CONTACT</B></A></FONT></P>
+     <P><FONT SIZE="-1"><A HREF="/help/help.html"><B>HELP</B></A></FONT></P>
+     <P><FONT SIZE="-1"><A HREF="/Excite/AT-searchquery.html"><B>SEARCH</B></A></FONT></P></BLOCKQUOTE>
+     <BR></TD>
+      
+  
+     </TR>
+   
+    
+     </TABLE>
+     </div>
+     </td>
+     </tr>
+     </TABLE>
+     
+     <P><BR>
+     
+
+     
+     <HR>
+     Copyright &copy; 1997, BankAmerica Corporation<BR>
+     All rights reserved.
+
+
+
+<MAP Name="center">
+
+<AREA Shape="Rect" COORDS="218,205,291,279" HREF="/batoday/batoday.html" onMouseOver="LoadBAToday()" onMouseOut="unLoad()">
+<AREA Shape="Rect" coords = "218,88,281,143"  HREF="/econ_indicator/econ_indicator.html" onMouseOver="LoadEconomics()" onMouseOut="unLoad()">
+<AREA Shape="Rect" coords = "225,6,302,89"  HREF="/corporate/corporate.html" onMouseOver="LoadCorporate()" onMouseOut="unLoad()">
+<AREA Shape="Rect" coords = "154,201,218,274"  HREF="/spare_change/million.html" onMouseOver="LoadSpareChange()" onMouseOut="unLoad()">
+<AREA Shape="Rect" coords = "84,203,155,276"  HREF="/spec_off/spec_off.html" onMouseOver="LoadSpecial()" onMouseOut="unLoad()">
+<AREA Shape="Rect" coords = "0,210,84,289"  HREF="/p-finance/p-finance.html" onMouseOver="LoadPersonal()" onMouseOut="unLoad()">
+<AREA Shape="Rect" coords = "23,141,84,210"  HREF="/byob/byob.html" onMouseOver="LoadByob()" onMouseOut="unLoad()">
+<AREA Shape="Rect" coords = "15,13,100,95"  HREF="/b-banking/bbankov.html" onMouseOver="LoadBusiness()" onMouseOut="unLoad()">
+<AREA SHAPE="rect" COORDS="302,0,315,79" HREF="#" onMouseOver="unLoad()"  onMouseOut="unLoad()">
+<AREA SHAPE="rect" COORDS="280,79,314,143" HREF="#" onMouseOver="unLoad()"  onMouseOut="unLoad()">
+<AREA SHAPE="rect" COORDS="271,143,313,205" HREF="#" onMouseOver="unLoad()"  onMouseOut="unLoad()">
+<AREA SHAPE="rect" COORDS="0,0,235,15" HREF="#" onMouseOver="unLoad()"  onMouseOut="unLoad()">
+<AREA SHAPE="rect" COORDS="230,0,304,8" HREF="#" onMouseOver="unLoad()"  onMouseOut="unLoad()">
+<AREA SHAPE="rect" COORDS="0,13,17,94" HREF="#" onMouseOver="unLoad()"  onMouseOut="unLoad()">
+<AREA SHAPE="rect" COORDS="99,15,225,34" HREF="#" onMouseOver="unLoad()"  onMouseOut="unLoad()">
+<AREA SHAPE="rect" COORDS="0,94,45,141" HREF="#" onMouseOver="unLoad()"  onMouseOut="unLoad()">
+<AREA SHAPE="rect" COORDS="0,140,24,211" HREF="#" onMouseOver="unLoad()"  onMouseOut="unLoad()">
+<AREA SHAPE="rect" COORDS="0,289,84,314" HREF="#" onMouseOver="unLoad()"  onMouseOut="unLoad()">
+<AREA SHAPE="rect" COORDS="83,276,155,311" HREF="#" onMouseOver="unLoad()"  onMouseOut="unLoad()">
+<AREA SHAPE="rect" COORDS="155,273,220,308" HREF="#" onMouseOver="unLoad()"  onMouseOut="unLoad()">
+<AREA SHAPE="rect" COORDS="291,204,312,278" HREF="#" onMouseOver="unLoad()"  onMouseOut="unLoad()">
+<AREA SHAPE="rect" COORDS="217,278,314,308" HREF="#" onMouseOver="unLoad()"  onMouseOut="unLoad()">
+<AREA Shape="Rect" coords = "0,0,312,308"  HREF="/b-banking/bbankov.html" onMouseOver="LoadStory()" onMouseOut="unLoad()">
+</MAP>
+
+<!-- the last map entry is the background graphic and ad story -->
+
+
+<MAP Name="right">
+<AREA SHAPE="rect" COORDS="4,126,137,155" HREF="/new_notable.html">
+<AREA Shape="Rect" coords = "45,270,114,294"  HREF="/new_notable.html">
+<AREA Shape="Rect" coords = "47,62,113,85"  HREF="/cgi-bin/money_tip.pl">
+</MAP>
+
+<MAP Name="left">
+<AREA Shape="Rect" coords = "110,274,140,296"  HREF="/help/help.html">
+<AREA Shape="Rect" coords = "73,274,104,296"  HREF="/Excite/AT-searchquery.html">
+<AREA Shape="Rect" coords = "34,274,70,296"  HREF="/contact/contact.html">
+<AREA Shape="Rect" coords = "5,273,31,295"  HREF="/cgi-bin/byob.cgi">
+<AREA Shape="Rect" coords = "7,164,140,185"  HREF="/online/home.html">
+<AREA Shape="Rect" coords = "6,58,139,79"  HREF="/online/home.html">
+<AREA Shape="Rect" coords = "78,241,138,262"  HREF="http://tbcprod.bankamerica.com/creditcard/">
+<AREA Shape="Rect" coords = "7,242,69,262"  HREF="/online/home.html">
+<AREA Shape="Rect" coords = "81,135,136,161"  HREF="http://ihbprod.bankamerica.com/ihb-bin/ihbcgi">
+<AREA Shape="Rect" coords = "7,135,66,159"  HREF="/online/home.html">
+</MAP>
+<MAP Name="titlebar">
+<AREA Shape="Rect" coords = "558,5,593,31"  HREF="http://ihbprod.bankamerica.com/ihb-bin/ihbcgi">
+<AREA Shape="Rect" coords = "518,5,555,32"  HREF="http://tbcprod.bankamerica.com/creditcard/">
+</MAP>
+</center>
+
+</p>
+</BODY>
+</HTML>

@@ -1,0 +1,77 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 20 Nov 1997 15:58:53 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Wed, 19 Nov 1997 17:32:51 GMT
+Content-Length: 2727
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Circle International, Inc.</title>
+</head>
+
+<body bgcolor="#FFFFFF">
+
+<p align="center"><img src="images/homepage.gif" width="468"
+height="289"></p>
+
+<table border="0" width="100%">
+    <tr>
+        <td><a href="WhatsNew/"><img src="images/blue.gif"
+        align="middle" border="0" width="24" height="23">What's
+        New</a></td>
+        <td colspan="2"><a href="Services/"><img
+        src="images/blue.gif" align="middle" border="0"
+        width="24" height="23">Our Services</a></td>
+        <td><a href="Incoterms.html"><img src="images/blue.gif"
+        align="middle" border="0" width="24" height="23">Industry/Incoterms</a></td>
+        <td><a href="Newsletters/"><img src="images/blue.gif"
+        align="middle" border="0" width="24" height="23">Newsletters</a></td>
+    </tr>
+    <tr>
+        <td><a href="Financials/"><img src="images/blue.gif"
+        align="middle" border="0" width="24" height="23">Financials</a></td>
+        <td colspan="2"><a href="ExpertAdvice/"><img
+        src="images/blue.gif" align="middle" border="0"
+        width="24" height="23">Expert Advice</a></td>
+        <td><a href="CEO.html"><img src="images/blue.gif"
+        align="middle" border="0" width="24" height="23">Message
+        from Our CEO</a></td>
+        <td><a href="Directory/"><img src="images/blue.gif"
+        align="middle" border="0" width="24" height="23">Company
+        Directory</a></td>
+    </tr>
+    <tr>
+        <td><a href="Resources.html"><img src="images/blue.gif"
+        align="middle" border="0" width="24" height="23">Other
+        Resources</a></td>
+        <td><img src="images/Trade.mini.gif" align="right"
+        hspace="0" width="48" height="46"></td>
+        <td><a href="CTSL/index.html"><font size="4">Circle Trade
+        Services Limited</font></a></td>
+        <td><a href="http://www.circletrackit.com"><img
+        src="images/tracking.gif" align="middle" border="0"
+        width="150" height="58"></a></td>
+        <td><a href="http://198.94.5.189/circleintl"><img
+        src="images/blue.gif" align="middle" border="0"
+        width="24" height="23">CircleNET</a></td>
+    </tr>
+</table>
+
+<hr>
+
+<p align="center">
+<a href="./">Circle International</a>
+/ 1 (415) 978 0600 / 
+<a href="mailto:marketing@circleintl.com">marketing@circleintl.com</a>
+<br>
+<img src=/scripts/hitcount.dll?counter:circleintl?font:12?zero:6>
+<!-- counter reset to Zero 11/19/9 ** see c:\HitCount\CircleCounters.txt -->
+
+</body>
+</html>

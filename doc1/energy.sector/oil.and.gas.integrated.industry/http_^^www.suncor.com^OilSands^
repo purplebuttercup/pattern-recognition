@@ -1,0 +1,78 @@
+Date: Sun, 16 Nov 1997 21:04:54 GMT
+Server: Apache/1.2.1 mod_perl/1.00
+Last-Modified: Tue, 04 Nov 1997 15:56:11 GMT
+ETag: "73cdf-b22-345f459b"
+Content-Length: 2850
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>Suncor: Shaping 30 Years of Oil Sands History</TITLE>
+</HEAD>
+<BODY bgcolor="#ffffff">
+	<center>
+	<table border="0" cellpadding="0" cellspacing="0" width="500">
+	<tr>
+	<td valign="top" align="center" width="500" colspan="2">
+	<font size="-1">
+	<a href="01foil1K.html">Contents</a> |
+	<a href="01foil1L.html">What's&nbsp;New</a> |
+	<a href="01foil1A.html">Growing&nbsp;Strong&nbsp;for&nbsp;30&nbsp;Years</a> |
+	<a href="../01about/01frameb.html">Project&nbsp;Millennium</a> |
+	<a href="01oil22.html">Oil&nbsp;Sands&nbsp;Process</a> |
+	<a href="01foil1C.html">We&nbsp;Care</a> |
+	<a href="01foil1D.html">News&nbsp;Releases</a> |
+	<a href="01foil1E.html">Image&nbsp;Bank</a> |
+	<a href="../06careers/06frame1.html">Suncareers</a> |
+	<a href="01foil1G.html">Feedback</a> |
+	<a href="01foil1J.html">Legal&nbsp;Notices</a> |
+	<a href="../index.html">Suncor Home</a></font>
+	<p>
+
+	<applet codebase="/java/" code="NavigatorTicker.class" width="500" height=25>
+		<param name=count value=2>
+		<param name=msg0 value=" **** SUNCOR'S 1997 REPORT ON CANADA'S CLIMATE CHANGE VOLUNTARY CHALLENGE  \\http://www.suncor.com/01about/01framek4.html">
+      <param name=msg1 value="  - Click here for more information  \\http://www.suncor.com/01about/01framek4.html">
+		<param name=speed value=5>
+		<param name=bgco value=255,255,255>
+		<param name=txtco value=191,143,0>
+		<param name=linkco value=3,56,94>
+   <a href="http://www.suncor.com/01about/01framek4.html"><img src="/images/01ticker.gif" alt="ticker board" border=0></a>
+		</applet>
+
+<!--
+	<applet codebase="/java/" code="NavigatorTicker.class" width="500" height=25>
+		<param name=count value=1>
+		<param name=msg0 value=" **** PROJECT MILLENNIUM - $2.2 BILLION OIL SANDS EXPANSION  \\http://www.suncor.com/01about/01frameb.html">
+		<param name=speed value=5>
+		<param name=bgco value=255,255,255>
+		<param name=txtco value=191,143,0>
+		<param name=linkco value=3,56,94>
+   <a href="http://www.suncor.com/01about/01frameb.html"><img src="images/00ticker.gif" alt="ticker board" border=0></a>
+		</applet>
+-->
+
+		<p>
+	</td>
+	</tr>
+	<tr>
+	<td valign="bottom" align="left" width="500" height="105">
+	<img src="images/00suncor.gif" align="left" vspace="0" hspace="0" width="118" height="56" border="0" alt="Suncor logo">
+	<a href="images/00home1.map">
+	<img src="images/00home1.jpg" border="0" align="right" vspace="0" hspace="0" width=238 height=103 border=0 alt=" " ismap></a>
+	</tr>
+	<tr>
+	<td valign="top" align="left" width="500">
+	<a href="images/00home2.map">
+	<img src="images/00home2.jpg" border="0" vspace="0" hspace="0" width=500 height=227 border=0 alt=" " ismap></a>
+	</td>
+	</tr>
+	</table>
+<P>
+<FONT SIZE="-1"><A HREF="01foil1J.html">Legal Notices on Website Use and Copyright</A><BR>
+Copyright &copy; 1997 Suncor Energy Inc. All Rights Reserved </FONT>
+</center>
+</BODY>
+</HTML>

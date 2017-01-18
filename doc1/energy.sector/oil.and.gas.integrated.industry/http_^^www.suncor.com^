@@ -1,0 +1,102 @@
+Date: Sun, 16 Nov 1997 21:04:32 GMT
+Server: Apache/1.2.1 mod_perl/1.00
+Last-Modified: Tue, 04 Nov 1997 16:18:39 GMT
+ETag: "3572d-dd7-345f4adf"
+Content-Length: 3543
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>Suncor Home Page</TITLE>
+</HEAD>
+
+<BODY bgcolor="ffffff">
+   <center>
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td valign=top colspan=2>
+
+   <center>
+   <font size=-1>
+  <a href="00frame1.html">Contents</a>&nbsp;
+  | <a href="00frame2.html">What's&nbsp;New</a>
+  | <a href="01about/01frame1.html">About&nbsp;Suncor</a>
+  | <a href="01about/01frameb.html">Project&nbsp;Millennium</a>
+  | <a href="01about/01framee.html">Australia</a>
+  | <a href="02annual/02frame1.html">Annual&nbsp;Report</a>
+  | <a href="03stock/03frame1.html">Stock&nbsp;Talk</a>
+  | <a href="04news/04frame1.html">News&nbsp;Releases</a>
+  | <a href="05speeches/05frame1.html">Speeches</a>
+  | <a href="06careers/06frame1.html">Suncareers</a>
+  | <a href="08contact/08frame1.html">Contacts</a>
+  | <a href="07feedback/07frame1.html">Feedback</a>
+  | <a href="09legal/09frame1.html">Legal&nbsp;Notices</a>
+
+
+    </font>
+   <p>
+
+<applet codebase="/java/" code="NavigatorTicker.class" width=490 height=28>
+      <param name=count value=2>
+	<param name=msg0 value=" **** SUNCOR'S 1997 REPORT ON CANADA'S CLIMATE CHANGE VOLUNTARY CHALLENGE  \\http://www.suncor.com/01about/01framek4.html">
+      <param name=msg1 value="  - Click here for more information  \\http://www.suncor.com/01about/01framek4.html">
+     <param name=speed value=10>
+     <param name=bgco value=255,255,255>
+      <param name=txtco value=00,00,215>
+      <param name=linkco value=250,00,00>
+
+   <a href="http://www.suncor.com/01about/01framek4.html"><img src="/images/01ticker.gif" alt="ticker board" border=0></a>
+
+    </applet></center></td>
+
+<tr>
+<td valign=top align=right>
+
+   <a href="images/survey.map"><img src="images/00hpa_s1.jpg" width=382 height=283 alt="SUNCOR menu" border=0 ismap></a><br clear=all>
+
+   <applet codebase="/java/" code="menu.class" id=menu width=381 height=109>
+
+      <param name=NumberOfButtons value="3">
+      <param name=Allignment value="horizontal"> <!-- Use "vertical" or "horizontal" -->
+      <param name=RefreshRate value="10"> <!-- Optional.  This line may be omitted. -->
+      <param name=ImageDir value="RolloverImages"> <!-- Relative to the codebase -->
+      <param name=Default value=1> <!-- Coming soon!! -->
+
+      <!-- Button 1 info -->
+      <param name=B1Image value="00oilgry.jpg">
+      <param name=B1RolloverImage value="00oilhil.jpg">
+      <param name=B1URL value="http://www.suncor.com/OilSands/">
+
+    <a href="http://www.suncor.com/OilSands/">
+    <img src="java/RolloverImages/00oilhil.jpg" alt="Oil Sands" border=0></a>
+
+   <!-- Button 2 info -->
+      <param name=B2Image value="00resgry.jpg">
+      <param name=B2RolloverImage value="00reshil.jpg">
+      <param name=B2URL value="http://www.suncor.com/01about/01framec.html">
+
+   <a href="01about/01framec.html">
+   <img src="java/RolloverImages/00reshil.jpg" alt="E&P" border=0></a>
+
+   <!-- Button 3 info -->
+      <param name=B3Image value="00sungry.jpg">
+      <param name=B3RolloverImage value="00sunhil.jpg">
+      <param name=B3URL value="http://www.suncor.com/01about/01framed.html">
+
+   <a href="01about/01framed.html">
+   <img src="java/RolloverImages/00sunhil.jpg" alt="Sunoco" border=0></a>
+
+   </applet></td>
+
+<td valign=top>
+   <a href="images/00newmap.map">
+   <img src="images/00hpb.jpg" alt="SUNCOR Home" border=0 ismap></a></td></tr>
+   </table>
+<P>
+<FONT SIZE="-1"><A HREF="09legal/09frame1.html">Legal Notices on Website Use and Copyright</A><BR>
+Copyright &copy; 1997 Suncor Energy Inc. All Rights Reserved </FONT>
+</center>
+</BODY>
+</HTML>

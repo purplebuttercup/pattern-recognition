@@ -1,0 +1,34 @@
+Server: HTTPS/0.98
+Allow: GET HEAD POST
+MIME-version: 1.0
+Content-type: text/html
+Date: Thursday, 25-Apr-96 21:33:17 GMT
+Last-modified: Monday, 23-Jun-97 15:37:24 GMT
+Content-length: 1869
+
+<HTML> 
+<HEAD>
+<TITLE> Praxair Home Page</TITLE>
+</HEAD>
+<BODY>
+
+<P><IMG src="pxweb/pxlogo.gif">  <BR>
+<center><B>Making Our Planet More Productive</B><BR><P><H1><B>WELCOME TO </B><B><I>PRAXAIR ONLINE</I></B><B>!</B></H1><P><P><H3><I>We will be constantly enhancing </I><B><I>Praxair Online</I></B><I> to better serve your needs for real-time industrial gases information, so be sure to visit us regularly!</I></H3><P><P><B>Praxair is the largest industrial gases company in North and South America and one of the largest worldwide, with annual sales of about $4.4 billion.  We serve a diverse group of industries around the world through the production, sale, and distribution of atmospheric, process, and specialty gases, and high-performance surface coatings.  Praxair is also the world's largest supplier of carbon dioxide and a recognized leader in the commercialization of new technologies that bring productivity and environmental benefits to a diverse group of industries.</B><BR><BR>
+
+<P>
+<P><IMG src="pxweb/globe.gif"><BR>
+
+<P><HR><A HREF="pxweb/aag.htm"><IMG src="pxweb/btnaag.gif" BORDER=0></A><A HREF="pxweb/prod.htm"><IMG src="pxweb/btnprod.gif" BORDER=0></A><A HREF="pxweb/news.htm"><IMG src="pxweb/btnnews.gif" BORDER=0></A><A HREF="pxweb/mkt.htm"><IMG src="pxweb/btnmkt.gif" BORDER=0></A><A HREF="pxweb/fininfo.htm"><IMG src="pxweb/btnfin.gif" BORDER=0></A><A HREF="pxweb/nav.htm"><IMG src="pxweb/btnnav.gif" BORDER=0></A><HR><BR>
+
+<P><IMG src="/Scripts/count.exe?df=count.dat" align=absmiddle><BR>
+
+<P>If you need help or desire further information regarding any of our products or services, <BR>
+contact Praxair Information: E-mail: <A HREF="mailto:info@praxair.com"><B>info@praxair.com</B></A>, Phone: 1-800-PRAXAIR </center><BR>
+<BR>
+<I>Copyright &copy; 1996 Praxair Technology, Inc.</I> <BR>
+
+<P>
+<P>
+<P>
+</BODY>
+</HTML>

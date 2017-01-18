@@ -1,0 +1,62 @@
+Date: Thu, 20 Nov 1997 21:21:38 GMT
+Server: Apache/1.0.5
+Content-type: text/html
+Content-length: 2605
+Last-modified: Wed, 08 Jan 1997 18:02:33 GMT
+
+<HTML>
+<HEAD>
+<TITLE>financial information</TITLE>
+</HEAD>
+
+<BODY BACKGROUND="../images/aep-back.jpg" BGCOLOR="#FFFFFF" LINK="#000080" VLINK="#808080">
+
+<IMG SRC="../images/financial-logo.gif" ALT="******[ AEP Financial Information ]******" WIDTH="500" HEIGHT="41" BORDER="0"><BR>
+
+<IMG SRC="../images/blank.gif" ALT="______________________________________________________________"><BR>
+
+<DL>
+
+<DT><IMG SRC="../images/purple-bullet.gif" ALT="--"><FONT SIZE="+2"><B><A HREF="rept95.html">Annual Report 1995 (Form 10K)</A></B></FONT>
+<DD><A HREF="rept95.doc">Word file format - 166K</A><BR>
+<A HREF="rept95.rtf">RTF file format - 254K</A>
+
+<DT><IMG SRC="../images/purple-bullet.gif" ALT="--"><FONT SIZE="+2"><B><A HREF="../newsletters/">News and Announcements</A></B></FONT>
+
+<DT><IMG SRC="../images/purple-bullet.gif" ALT="--"><FONT SIZE="+2"><B><A HREF="3rd_quarter96.html">Third Quarter Report</A></B></FONT>
+<DD>For Period Ending July 31, 1996
+
+<DT><IMG SRC="../images/purple-bullet.gif" ALT="--"><FONT SIZE="+2"><B><A HREF="2nd_quarter96.html">Second Quarter Report</A></B></FONT>
+<DD>For Period Ending April 30, 1996
+
+<DT><IMG SRC="../images/purple-bullet.gif" ALT="--"><FONT SIZE="+2"><B><A HREF="1st_quarter.html">First Quarter Report</A></B></FONT>
+<DD>For Period Ending January 31, 1996
+
+<DT><IMG SRC="../images/purple-bullet.gif" ALT="--"><FONT SIZE="+2"><B><A HREF="financial_highlights.html">Chart Our Growth</A></B></FONT><P>
+
+<DT><IMG SRC="../images/purple-bullet.gif" ALT="--"><FONT SIZE="+2"><B><A HREF="http://www.nasdaq.com/scripts/html3/FQuote.idc?symname=aepi">AEP Industries Stock Quote From NASDAQ</A></B></FONT>
+
+</DL>
+
+<BR>
+<BR>
+
+<IMG SRC="../images/blank.gif" ALT="______________________________________________________________"><BR>
+
+<A HREF="http://www.aepind.com/imagemaps/toolbar.map"><IMG SRC="../images/aep-toolbar-fin.gif" USEMAP="#TOOLBAR" ALT="" BORDER="0" ISMAP></A><P>
+
+<FONT SIZE="-1"><A HREF="../">home</A> | <A HREF="../products/">products</A> | <A HREF="../about/">about</A> | <A HREF="../newsletters/">news</A> | <A HREF="../financial/">financial</A> | <A HREF="../contact/">contact</A></FONT><P>
+
+<FONT SIZE="1">Copyright © 1997 - AEP Industries, Inc.</FONT>
+
+<MAP NAME="TOOLBAR">
+	<AREA SHAPE=RECT COORDS="0,2, 57,28" HREF="../">
+	<AREA SHAPE=RECT COORDS="59,2, 160,28" HREF="../products/">
+	<AREA SHAPE=RECT COORDS="162,2, 235,28" HREF="../about/">
+	<AREA SHAPE=RECT COORDS="237,2, 299,28" HREF="../newsletters/">
+	<AREA SHAPE=RECT COORDS="301,2, 410,28" HREF="../financial/">
+	<AREA SHAPE=RECT COORDS="412,2, 499,28" HREF="../contact/">
+</MAP>
+
+</BODY>
+</HTML>

@@ -1,0 +1,81 @@
+Server: Netscape-Enterprise/3.0D
+Date: Thu, 20 Nov 1997 17:04:05 GMT
+Content-type: text/html
+Last-modified: Thu, 16 Oct 1997 13:28:27 GMT
+Content-length: 3955
+Accept-ranges: bytes
+Connection: close
+
+<HTML>
+<HEAD><TITLE>Welcome to FedEx Middle East/India</TITLE>
+</HEAD>
+
+<BODY BGCOLOR="#000000" TEXT="#BDB9AD" LINK="#DE5208" VLINK="#9425E6">
+
+<MAP NAME="mei-main-upper">
+	<AREA SHAPE=rect HREF="/ship_it.html" COORDS="10,37,127,72">
+</MAP>
+
+<MAP NAME="mei-main-lower">
+	<AREA SHAPE="rect" COORDS="372,16,412,30" HREF="/">
+	<AREA SHAPE="rect" COORDS="372,30,424,43" HREF="http://www.fedex.ca">
+	<AREA SHAPE="rect" COORDS="372,44,424,56" HREF="/apac/">
+	<AREA SHAPE="rect" COORDS="372,56,424,68" HREF="/emea/euro/">
+	<AREA SHAPE="rect" COORDS="372,68,467,82" HREF="/emea/africa/">
+	<AREA SHAPE="rect" COORDS="372,82,452,96" HREF="/intlL.html">
+</MAP>
+
+<CENTER>
+<A HREF="/emea/mei/mei-images/mei-main-upper.map"><IMG BORDER=0 SRC="/emea/mei/mei-images/mei-main-upper.gif" WIDTH=468 HEIGHT=81 ALT="Welcome to FedEx Middle East/India" USEMAP="#mei-main-upper" ISMAP></A><BR><A HREF="/emea/mei/mei-images/mei-main-lower.map"><IMG BORDER=0 SRC="/emea/mei/mei-images/mei-main-lower.gif" WIDTH=468 HEIGHT=205 ALT="Welcome to FedEx Middle East/India" USEMAP="#mei-main-lower" ISMAP></A>
+<BR>
+<P>
+
+<H3><FONT
+SIZE="+2">S</FONT>ELECT <FONT SIZE="+2">C</FONT>OUNTRY OF <FONT
+SIZE="+2">O</FONT>RIGIN</H3>
+
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0><TR><TD VALIGN=TOP><IMG SRC="/emea/emea-images/bullet-iship.gif" WIDTH="14" HEIGHT="14" BORDER="0"></TD><TD VALIGN=TOP>= </TD><TD VALIGN=TOP>Countries from which you can prepare your<BR> shipments online with FedEx interNetShip<FONT SIZE="-1">(TM)</FONT><P></TD></TR></TABLE>
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=468>
+<TR>
+<TD ALIGN=MIDDLE>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR><TD><IMG SRC="/emea/emea-images/bullet-iship.gif" WIDTH="14" HEIGHT="14" BORDER=0></TD><TD><FONT SIZE="+1"><A HREF="/emea/mei/bh/">Bahrain</A></FONT></TD></TR> 
+<TR><TD></TD><TD><FONT SIZE="+1"><A HREF="/emea/mei/bd/">Bangladesh</A></FONT></TD></TR>   
+<TR><TD></TD><TD><FONT SIZE="+1"><A HREF="/emea/mei/bt/">Bhutan</A></FONT></TD></TR>
+<TR><TD></TD><TD><FONT SIZE="+1"><A HREF="/emea/mei/cy/">Cyprus</A></FONT></TD></TR> 
+<TR><TD></TD><TD><FONT SIZE="+1"><A HREF="/emea/mei/in/">India</A></FONT></TD></TR>
+<TR><TD></TD><TD><FONT SIZE="+1"><A HREF="/emea/mei/ir/">Iran</A></FONT></TD></TR>    
+<TR><TD></TD><TD><FONT SIZE="+1"><A HREF="/emea/mei/iq/">Iraq</A></FONT></TD></TR>
+</TABLE>
+</TD>
+<TD ALIGN=MIDDLE>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR><TD></TD><TD><FONT SIZE="+1"><A HREF="/emea/mei/il/">Israel</A></FONT></TD></TR> 
+<TR><TD></TD><TD><FONT SIZE="+1"><A HREF="/emea/mei/jo/">Jordan</A></FONT></TD></TR>   
+<TR><TD><IMG SRC="/emea/emea-images/bullet-iship.gif" WIDTH="14" HEIGHT="14" BORDER=0></TD><TD><FONT SIZE="+1"><A HREF="/emea/mei/kw/">Kuwait</A></FONT></TD></TR>
+<TR><TD></TD><TD><FONT SIZE="+1"><A HREF="/emea/mei/lb/">Lebanon</A></FONT></TD></TR> 
+<TR><TD></TD><TD><FONT SIZE="+1"><A HREF="/emea/mei/ly/">Libya</A></FONT></TD></TR>
+<TR><TD></TD><TD><FONT SIZE="+1"><A HREF="/emea/mei/np/">Nepal</A></FONT></TD></TR>    
+<TR><TD></TD><TD><FONT SIZE="+1"><A HREF="/emea/mei/om/">Oman</A></FONT></TD></TR>
+</TABLE>
+</TD>
+<TD ALIGN=MIDDLE>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR><TD></TD><TD><FONT SIZE="+1"><A HREF="/emea/mei/pk/">Pakistan</A></FONT></TD></TR> 
+<TR><TD></TD><TD><FONT SIZE="+1"><A HREF="/emea/mei/qa/">Qatar</A></FONT></TD></TR>   
+<TR><TD></TD><TD><FONT SIZE="+1"><A HREF="/emea/mei/sa/"><NOBR>Saudi Arabia</NOBR></A></FONT></TD></TR>
+<TR><TD></TD><TD><FONT SIZE="+1"><A HREF="/emea/mei/lk/"><NOBR>Sri Lanka</NOBR></A></FONT></TD></TR> 
+<TR><TD></TD><TD><FONT SIZE="+1"><A HREF="/emea/mei/sy/">Syria</A></FONT></TD></TR>
+<TR><TD><IMG SRC="/emea/emea-images/bullet-iship.gif" WIDTH="14" HEIGHT="14" BORDER=0></TD><TD><FONT SIZE="+1"><A HREF="/emea/mei/ae/"><NOBR>United Arab Emirates</NOBR></A></FONT></TD></TR>    
+<TR><TD></TD><TD><FONT SIZE="+1"><A HREF="/emea/mei/ye/">Yemen</A></FONT></TD></TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+
+</CENTER>
+
+</BODY>
+</HTML>

@@ -1,0 +1,144 @@
+Server: Microsoft-IIS/3.0
+Date: Fri, 21 Nov 1997 04:39:26 GMT
+Connection: Keep-Alive
+Content-Length: 6045
+Content-type: text/html
+Cache-control: private
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Beckman Home Page</title>
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#0000FF"
+vlink="#800080" alink="#FF0000">
+
+<p align="center"><img src="/graphics/home.jpg"
+alt="Welcome to Beckman Instruments, Inc. manufacturer of products used in laboratories for biological analysis from pioneering medical research through drug discovery to clinical diagnostics."
+width="440" height="224"></p>
+
+<p align="center"><img src="/widgets/strip.gif"
+alt="*************" width="599" height="29"></p>
+<div align="center"><center>
+
+<table border="0" cellpadding="2" width="100%">
+    <tr>
+        <td valign="top" width="60%"><table border="0"
+        cellpadding="10" cellspacing="0">
+            <tr>
+                <td valign="top"><a><img
+                src="/graphics/whatsnew.gif" alt="What's New"
+                width="300" height="23"></a><br>
+                <a href="new/whatsnew.htm"><b>Latest Developments
+                and Site Additions</b></a></td>
+            </tr>
+            <tr>
+                <td valign="top"><a><img
+                src="/graphics/prodapps.gif"
+                alt="Products and Applications" width="300"
+                height="23"></a><br>
+                <a href="biorsrch/biorsrch.htm"><b>Research &amp;
+                Drug Discovery</b></a><table border="0"
+                cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td width="15">&nbsp;</td>
+                        <td><b><img src="/widgets/sphere.gif"
+                        alt="* " width="8" height="8"></b></td>
+                        <td>&nbsp;</td>
+                        <td><a href="/biorsrch/faq/faqlink.htm"><strong><b>Frequently
+                        Asked Questions</b></strong></a></td>
+                    </tr>
+                </table>
+                <p><a href="/clindiag/prodinfo/ddcprod.htm"><strong><b>Clinical
+                Diagnostics</b></strong></a></p>
+                </td>
+            </tr>
+            <tr>
+                <td valign="top"><a><img
+                src="/graphics/about.gif" alt="About Beckman"
+                width="300" height="23"></a><br>
+                <a href="/gen-info/aboutbck.htm"><b>Company
+                Information</b></a><b>, </b><a
+                href="/gen-info/careers.htm"><b>Career
+                Opportunities</b></a><b>,<br>
+                </b><a href="/gen-info/foundr.htm"><b>Meet Dr.
+                Beckman</b></a><b>, </b><a
+                href="/gen-info/news-rel.htm"><b>News Releases</b></a></td>
+            </tr>
+            <tr>
+                <td valign="top"><a><b><img
+                src="/graphics/finance.gif" alt="Financials"
+                width="300" height="23"></b></a><b><br>
+                </b><a href="/gen-info/finance.htm"><b>Annual
+                Reports, Stock Quote and Earnings Release</b></a></td>
+            </tr>
+            <tr>
+                <td valign="top"><a><img
+                src="/graphics/wrldwide.gif"
+                alt="Worldwide Locations" width="300" height="23"></a><br>
+                <a href="/wwcontct/wwcont.htm"><b>Worldwide
+                Offices, Dealers and Phone<br>
+                Information</b></a><b>. </b><a
+                href="/wwcontct/japan/jabeck.htm"><b>Japanese</b></a><b>
+                language pages</b></td>
+            </tr>
+        </table>
+        </td>
+        <td valign="top" width="40%"><font size="4"><strong><br>
+        Coulter Acquisition Completed</strong></font><br>
+        Beckman completed its acquisition of <a
+        href="http://www.coulter.com">Coulter Corporation</a>.
+        The new company, Beckman Coulter, joins two of the most
+        recognized global franchises in clinical diagnostics and
+        life sciences, and completes a key Beckman initiative to
+        become a broad-based world leader in <em>in vitro</em>
+        diagnostics testing. <a href="gen-info/coulterclose.htm">See
+        expanded news release.</a><p><font size="4"><strong>Beckman
+        Coulter at MEDICA '97</strong></font><br>
+        At <a href="clindiag/shows/medica.htm">MEDICA '97</a> in
+        Dusseldorf, Germany, Nov. 19-22, Beckman Coulter will
+        demonstrate its exciting new products and a revolutionary
+        process improvement concept. Discover how the dynamic
+        force of Beckman and Coulter can bring the The Power of
+        Process<sup>TM</sup> to your lab.</p>
+        <p><font size="4"><strong>How Can We Serve You Better?<br>
+        </strong></font>Please complete our brief survey and
+        you'll be entered into our monthly drawing for a Palm
+        Pilot Professional! <a href="WebSurvey.htm">Complete
+        survey</a>.</p>
+        </td>
+    </tr>
+</table>
+</center></div><div align="center"><center>
+
+<table border="0">
+    <tr>
+        <td><a href="/feedback"><img src="/widgets/fdbk-btn.gif"
+        alt="Feedback" border="0" width="164" height="43"></a></td>
+        <td><a href="sitemap.htm"><img
+        src="/widgets/navi-btn.gif" alt="Navigation" border="0"
+        width="164" height="43"></a></td>
+        <td><a href="/search"><img src="/widgets/srch-btn.gif"
+        alt="Search" border="0" width="164" height="43"></a></td>
+    </tr>
+</table>
+</center></div>
+
+<hr color="#0000FF">
+
+<p><font size="2">© 1995, 1996, 1997 Beckman Instruments, Inc.</font></p>
+
+<p><font size="2">The information contained in Beckman's World
+Wide Web Information Service is copyrighted and may not be
+redistributed, modified, reused, reposted, or otherwise used
+outside the scope of this service without the express written
+permission of Beckman Instruments, Inc.</font></p>
+</body>
+</html>

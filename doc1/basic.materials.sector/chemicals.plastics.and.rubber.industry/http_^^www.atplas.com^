@@ -1,0 +1,215 @@
+Date: Thu, 20 Nov 1997 20:25:22 GMT
+Server: Apache/1.0.5
+Content-type: text/html
+
+<HTML>
+<!-- Composed by: MarketNet Inc. (www.mknet.com) -->
+<!-- Revised: 8:33 PM on 11/16/97 -->
+
+<HEAD>
+<TITLE>AT Plastics Inc. - Website</TITLE>
+
+<META NAME="description" CONTENT="AT Plastics Inc. is a Canadian-owned
+ company which manufactures olefin based copolymers, specialty resins and 
+compounds, agricultural/horticultural films, industrial packaging,
+ and performance films.">
+
+<META NAME="keywords" CONTENT="films, packaging, polymers, wire and cable, 
+copolymers, olefin based copolymers, specialty resins, specialty polymers, compounds,
+ agricultural/horticultural films, industrial packaging, performance films">
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000" VLINK="7a7777">
+<FONT SIZE="3" color="#000000"><b>
+<SCRIPT LANGUAGE="JavaScript">
+temp_date = new Date();
+hours = temp_date.getHours();
+date = temp_date.getDate();
+month = temp_date.getMonth();
+year = temp_date.getYear();
+if (hours > 12) {
+        hours = hours - 12;
+        am_pm = "PM"
+}
+else {
+        am_pm = "AM"
+}
+minutes = temp_date.getMinutes();
+if (minutes < 10) {
+        minutes = "0" + minutes
+}
+seconds = temp_date.getSeconds();
+
+if (seconds < 10) {
+        seconds = "0" + seconds
+
+}
+if (month == 0) {
+          month = "January"
+}
+else if (month == 1) {
+          month = "February"
+}
+else if (month == 2) {
+          month = "March"
+}
+else if (month == 3) {
+          month = "April"
+}
+else if (month == 4) {
+          month = "May"
+}
+else if (month == 5) {
+          month = "June"
+}
+else if (month == 6) {
+          month = "July"
+}
+else if (month == 7) {
+          month = "August"
+}
+else if (month == 8) {
+          month = "September"
+}
+else if (month == 9) {
+          month = "October"
+}
+else if (month == 10) {
+          month = "November"
+}
+else if (month == 11) {
+          month = "December"
+}
+document.write( month + " " + date + ", " + "19" + year );
+</SCRIPT></FONT></b>
+
+<CENTER>
+<TABLE COLSPEC="L20 L20" width=100% BORDER=0 CELLPADDING=5 CELLSPACING=5>
+<TR>
+
+	<TD width=75%><H2>Welcome to... AT Plastics Inc.</H2>
+	<ul>
+	<font color="#FF0000"><H3>"accelerating growth through<BR><ul><ul>strategic 									expansion"</ul></ul></H3></font></ul></TD>
+	<TD align=right width=25%><img src="images/atlogo3.gif" alt="AT Plastics">
+	</TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<CENTER><HR noshade></CENTER>
+
+<!-- begin AT Plastics  -->
+<CENTER>
+<table border=0  cellpadding=1 cellspacing=0 width=100%>
+<tr><td width=52%>
+<Font size=4><b>AT Plastics Inc.</b></font> is a Canadian-owned
+company which manufactures olefin based copolymers, specialty
+resins and compounds, agricultural/horticultural films, industrial
+packaging, and performance films.<P>
+
+AT Plastics Inc. was established in 1989 from the former plastics
+business ICI Canada Inc.  The name AT Plastics is derived from
+"Advanced Technology", an apt description for the Company, which
+develops and manufactures specialty plastics raw materials and
+fabricated products - the value-added, high margin segment of the plastic
+industry.
+</td>
+<td valign=top>
+
+<!-- begin nested table -->
+<TABLE COLSPEC="L20 L20" BORDER=0 CELLPADDING=3 CELLSPACING=3>
+<TR>
+	<TD><BR><img  src="images/red-ball.gif"></TD>
+	<TD><BR><a href="glance.htm"><B><EM>At a Glance</EM></a></B></TD>
+</TR>
+<TR>
+    <TD valign=top><br><img src="images/red-ball.gif"></TD>
+	<TD><br><B><EM>Polymers</EM></B>
+<BR> <li> <a href="poly.htm"><B><EM><Font size=-1>Specialty Polymers</font></EM></a></B>
+<br> <a href="flexet.htm"><img border=0 src="images/new2.gif"></a> <a href="flexet.htm"><Font size=-1><B><EM>Flexet<SUP></A> &#153;</FONT></SUP></EM></B><br>
+<li><a href="wire.htm"><B><EM><Font size=-1>Wire & Cable</font></EM></a></B>
+<br>
+<li><a href="i_news.htm"><B><EM><Font size=-1>The AT Reporter</font></EM></a></B></TD>
+</TR>
+<TR>
+	<TD><br><img src="images/red-ball.gif"></TD>
+	<TD><BR><a href="pack.htm"><B><EM>Packaging</EM></B></a></TD>
+</TR>
+</TABLE>
+
+</td>
+<TD  valign=top width=20%> 
+
+<!-- begin nested table 2-->
+<TABLE COLSPEC="L20 L20" BORDER=0 CELLPADDING=3 CELLSPACING=3>
+<TR>
+	<TD><BR><img  src="images/red-ball.gif"></TD>
+	<TD><BR><a href="films.htm"><B><EM>Films</EM></B></a></TD>
+</TR>
+<TR>
+	<TD><BR><img  src="images/red-ball.gif"></TD>
+	<TD><BR><a href="i_corp.htm"><B><EM>Corporate</EM></B></a></TD>
+</TR>
+<TR>
+	<TD><BR><img  src="images/red-ball.gif"></TD>
+	<TD><BR><a href="map.htm"><B><EM>Locations</EM></B></a></TD>
+</TR>
+<TR>
+	<TD><BR><img  src="images/red-ball.gif"></TD>
+	<TD align=left><BR><a href="siteindx.htm"><B><EM>Index</EM></B></a></TD>
+</TR>
+</TABLE>
+
+</TD>
+</tr></Table></center>
+
+<CENTER><table cellpadding=3 cellspacing=3>
+<tr><td>
+<img src="images/pipes.jpg"></td>
+<td align=left>
+<font size=5>AT Plastics Inc.</font><BR>
+<font size=4>134 Kennedy Road South.<BR>
+
+Brampton, Ontario<BR>
+L6W 3G5<BR>
+
+Tel:(905) 451-1630<BR>
+
+Fax:(905) 451-0039 
+</font>
+
+</td></tr>
+</table>
+
+</CENTER>
+<hr noshade width=300>
+<br>
+
+<CENTER>
+<TABLE cellspacing=5 cellpadding=1>
+<TR>
+	<TD valign=top><a href="flexet.htm"><img border=0 src="images/logo2.jpg" ALT="AT Plastics Inc. - Flexet"></a></TD>
+	<TD><a href="flexet.htm"><FONT SIZE=3><I><font size=+1><b>Plumbing Just took a turn for the better.</b></font></I></FONT></a></TD>
+</TR></table>
+
+AT Plastics' new water-cured <a href="flexet.htm">Flexet</a> <EM><SUP><FONT SIZE=-2>TM</FONT></SUP></EM> resin has set a new standard for 
+plastic piping. The highest standard for quality. The highest standard for flexibility.
+</center>
+<br>
+<hr noshade>
+<br>
+<TABLE COLSPEC="L20 L20" BORDER=0 WIDTH=100%>
+<TR>
+	<TD>  <A HREF="/cgi-bin/imagemap/atplas.map"><IMG SRC="images/tool2.gif" ALT="AT Plastics toolbar" border=0 ISMAP></A>
+        </TD>
+	<TD align=right valign=bottom><I>E-Mail <A HREF="mailto:info@atplas.com"><STRONG>info@atplas.com</STRONG></A><BR>for more information<BR>and general comments.</I>
+	</TD>
+</TR>
+</TABLE>
+<BR>
+<Font size=-2><STRONG><I>Copyright &reg 1997 AT Plastics Inc.
+All pages created by <A HREF="http://www.mknet.com">MarketNet Inc.</A></I></STRONG>
+</font>
+
+</BODY>
+</HTML>

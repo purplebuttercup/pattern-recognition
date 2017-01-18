@@ -1,0 +1,225 @@
+Server: Netscape-Enterprise/2.01
+Date: Fri, 21 Nov 1997 02:28:42 GMT
+Content-type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//W3C/DTD HTML 3.2 Final//EN">
+
+<HEAD>
+
+  <TITLE>5902</TITLE>
+
+  <META NAME="5902" CONTENT="job number">
+  <META NAME="Owner" CONTENT="Donna Passaglia, ckohr">
+  <META NAME="Keywords" CONTENT="">
+  
+
+
+
+<SCRIPT LANGUAGE = "JavaScript">
+
+<!-- 
+
+
+
+var counter = 0
+var sentry = 0
+var timer
+var imgs = new Array()
+for (var i = 1; i < 8; i++) {
+    imgs[i] = new Image()
+    imgs[i].src = "anim/d" + i + ".jpg"
+}
+
+function animateup(){
+        
+        counter = (counter < 7) ? (counter + 1) : 1
+        document.anim.src = imgs[counter].src
+        if (counter == 7)
+        	timer=setTimeout("animatedown()", 50)
+        else 
+        	timer=setTimeout("animateup()", 50)
+        	
+        
+}
+
+function animatedown(){
+        
+        counter = (counter > 1) ? (counter - 1) : 1
+        document.anim.src = imgs[counter].src
+        if (counter == 1) {
+        	if (sentry == 2) {
+        		stop()
+        		}
+        	else {
+        		sentry++ 
+        		timer=setTimeout("animateup()", 50)
+        		}
+        	}
+        else 
+        	timer=setTimeout("animatedown()", 50)
+        	
+        
+}
+
+function stop(){}
+
+
+// end javascript -->
+
+
+</SCRIPT>
+
+
+  
+</HEAD>
+
+<BODY onload="animateup()" BGCOLOR="#ffffff" LINK="#1e3d6b" TEXT="#000000" VLINK="#850617" ALINK="#ff0000">
+<IMG SRC="/Images/CorpID.gif" ALT="Silicon Graphics, Inc." HEIGHT="43" WIDTH="151">
+<P>  
+<!--end header-->
+
+<UL>
+<TABLE WIDTH="550" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+
+<TR VALIGN="TOP">
+	<TD COLSPAN="4"><IMG SRC="a.jpg" WIDTH="550" HEIGHT="65"></TD>
+</TR>
+
+<TR VALIGN="TOP">
+	<TD COLSPAN="2"><IMG SRC="b.jpg" WIDTH="334" HEIGHT="35"></TD>
+	<TD ROWSPAN="3"><IMG SRC="c.jpg" WIDTH="93" HEIGHT="335"></TD>
+	<TD ROWSPAN="2"><IMG NAME="anim" SRC="anim/d1.jpg" WIDTH="123" HEIGHT="224"></TD>
+</TR>
+
+<TR VALIGN="TOP">
+	<TD COLSPAN="2">
+All the performance and feature-rich environment of Silicon Graphics for our
+lowest O2 price ever.
+The innovative O2 desktop workstation combines Silicon Graphics performance in
+a  highly- integrated, feature-rich user
+environment.
+
+<BR>&nbsp;<BR>
+<P>
+	</TD>
+
+</TR>
+
+<TR VALIGN="TOP">
+	<TD BGCOLOR="#eeefff" ROWSPAN="2">
+<BR><IMG SRC="/Images/dot_clear.gif" WIDTH="284" HEIGHT="1"><BR>
+<IMG SRC="/Images/dot_clear.gif" WIDTH="10" HEIGHT="275" ALIGN="LEFT">
+<FONT SIZE="+1" COLOR="#440044">So what do you get for $5,902*?</FONT>
+<P>
+The O2 $5,902* base price includes:<P>
+
+<I>17" Monitor, 1280 x 1024<BR>
+MIPS<FONT SIZE="1"><SUP>&reg;</SUP></FONT> R5000<FONT SIZE="1"><SUP>&reg;</SUP></FONT> 180Mhz CPU<BR>
+512KB Secondary Cache<BR>
+64MB SDRAM Memory<BR>
+2GB Ultra Fast/Wide SCSI Disk<BR>
+100BaseTX/10BaseT Ethernet<FONT SIZE="1"><SUP>TM</SUP></FONT><BR>
+12x CD-ROM<BR>
+32-Bit Double-buffered Graphics<BR>
+Hardware Texture Mapping<BR>
+Motion JPEG Video Compression<BR>
+Netscape<FONT SIZE="1"><SUP>&reg;</SUP></FONT> Intranet Server and Browser<BR>
+Video and Image Editing Software<BR>
+SoftWindows95<FONT SIZE="1"><SUP>TM</SUP></FONT><BR>
+<P>
+<FONT COLOR="#AA0000" SIZE="-1">*Estimated Street Price--U.S. Only</FONT></I>
+<BR><IMG SRC="/Images/dot_clear.gif" WIDTH="284" HEIGHT="10"><BR>
+	
+	</TD>
+	<TD ROWSPAN="2"><IMG SRC="/Images/dot_clear.gif" WIDTH="50" HEIGHT="1"></TD>
+	<TD><IMG SRC="e.jpg" WIDTH="123" HEIGHT="111"></TD>
+</TR>
+
+<TR VALIGN="TOP">
+	<TD COLSPAN="2">
+	<BR>&nbsp;<BR><A 
+	HREF="contact.html"><IMG 
+	SRC="ready_buy.jpg" WIDTH="216" HEIGHT="39" BORDER="NONE"></A>
+	<BR>
+	<IMG SRC="/Images/dot_clear.gif" WIDTH="1" HEIGHT="50">
+	
+</TD>
+</TR>
+
+</TABLE>
+<P>
+<TABLE WIDTH="550" BORDER="0"><TR VALIGN="TOP"><TD WIDTH=50%>
+<BR>
+<FONT SIZE="+1" COLOR="#440044">
+The Ideal Workstation for You</FONT>
+<BR>
+
+The <A HREF="/Products/hardware/desktop/"><B>O2 desktop workstation</B></A> is the affordable, innovative system that combines
+Silicon Graphics performance in a highly-integrated, feature-rich user
+environment.
+<P>
+O2 gives you industry-leading CPU and graphics performance plus
+breakthrough video and imaging features
+at an unbelievably affordable price.
+<P>
+The O2 Unified Memory Architecture comes standard with stunning 3D graphics,
+fully integrated hardware texture mapping, powerful image processing, and
+real-time video processing far beyond any other machine available in its class.
+<P>
+These features make O2 the ideal workstation for 3D design, animation and
+content creation. O2 partners offer <A 
+HREF="/Products/hardware/desktop/partners/o2/o2_partners.html"><B>innovative 
+software solutions</B></A> that leverage the unique capabilities of the O2 platform.
+<P>
+</TD><TD WIDTH=50%><BR>
+<FONT SIZE="+1" COLOR="#440044">
+<P>
+Multimedia Solutions</FONT>
+<BR>
+If you're in the market for a turn key multimedia production system take a look at 
+the <A HREF="/O2_studio"><B>O2 Studio</B></A> bundle, standard compression hardware and software
+transforms any user into a multi-media video editor, while providing the
+quality that video professionals demand.
+O2 Studio includes Adobe Premiere<FONT SIZE="1"><SUP>TM</SUP></FONT>, 
+Adobe Photoshop<FONT SIZE="1"><SUP>TM</SUP></FONT>, 
+Adobe Illustrator<FONT SIZE="1"><SUP>TM</SUP></FONT>,
+Kai's Power Tools<FONT SIZE="1"><SUP>TM</SUP></FONT> 
+by MetaCreations, and Alias | Wavefront 
+ComposerLite<FONT SIZE="1"><SUP>TM</SUP></FONT>.
+<P>
+<CENTER>
+<IMG SRC="/O2_studio/Images/premiere_anim.gif">
+&nbsp;&nbsp;&nbsp;
+<IMG SRC="/O2_studio/Images/Phs_unix.jpg">
+<P>
+<IMG SRC="/O2_studio/Images/illus_unix.jpg">
+&nbsp;&nbsp;&nbsp;
+<IMG SRC="/O2_studio/Images/composer2.gif">
+</CENTER>
+</TD></TR></TABLE>
+<P>
+</UL>
+<CENTER>
+<FONT SIZE="-1">
+<A HREF="mailto:lkennedy@engr.sgi.com"><B>Questions about the $5,902 O2 workstation?</B></A>
+</FONT>
+<P>
+</CENTER>
+<!--start footer-->
+<HR>
+<P>
+<A HREF="/" onMouseOver="window.status='Silicon Graphics\' Corporate Web site'; return true" onMouseOut="window.status=''; return true">
+<IMG SRC="/Images/Icon/surf.gif" HEIGHT="54" WIDTH="54" BORDER="0" ALT="[Silicon Surf]"></A> 
+<BR>
+<!--- Start Trademark Virtual include --->
+
+<FONT SIZE="-1">We welcome feedback and comments at <A HREF="/cgi-bin/form_feedback/webmaster@www.sgi.com">webmaster@www.sgi.com</A></FONT>
+<BR>
+<FONT SIZE="-2"><A HREF="/Misc/sgi_info.html">Copyright &#169; 1997 Silicon Graphics, Inc.</A> All Rights Reserved.</FONT>
+<FONT SIZE="-3"><A HREF="/Misc/external.list.html">Trademark Information</A></FONT>
+
+
+<BR>
+
+</BODY>
+</HTML>

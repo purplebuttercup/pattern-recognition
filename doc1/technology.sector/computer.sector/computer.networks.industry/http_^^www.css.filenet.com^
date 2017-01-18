@@ -1,0 +1,40 @@
+Server: Netscape-Enterprise/3.01
+Date: Thu, 20 Nov 1997 20:00:39 GMT
+Content-type: text/html
+Content-length: 912
+Accept-ranges: bytes
+
+<HTML>
+
+<TITLE>FileNet Services and Support</TITLE>
+
+<! Frame enabled page>
+<FRAMESET ROWS="40, *" FRAMEBORDER="NO" BORDER = "0">
+ <FRAME SRC="/ibanner.html" NAME="BANNER" SCROLLING=no NORESIZE MARGINWIDTH=0 MAGINHEIGHT=0>
+ <FRAME SRC="/home/index.html" NAME="bigpage" SCROLLING="auto">
+</FRAMESET>
+
+<! Frame challenged page>
+<NOFRAME>
+        <BODY BGCOLOR="#FFFFFF">
+
+        <CENTER>
+        <H2>Welcome to FileNet WebLink</H2>
+        <P>
+        If you are seeing this screen then your browser does<BR>
+        <B>not</B> support frames.<P>
+        You may still browse our Web site, but for best results<BR>
+        this site should be viewed with Netscape Navigator(TM) 2.0<BR>
+        or another web browser capable of displaying frames.<P>
+        
+        <A HREF="http://home.netscape.com"><IMG SRC="images/netscape.gif" BORDER=0 HEIGHT=32 WIDTH=88></A><P>
+
+        </CENTER>       
+</NOFRAME>
+
+
+
+
+
+
+

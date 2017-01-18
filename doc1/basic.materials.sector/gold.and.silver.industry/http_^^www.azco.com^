@@ -1,0 +1,135 @@
+Server: Netscape-Enterprise/2.0a
+Date: Thu, 20 Nov 1997 21:51:41 GMT
+Accept-ranges: bytes
+Last-modified: Wed, 29 Oct 1997 21:53:17 GMT
+Content-length: 5256
+Content-type: text/html
+
+<html>
+<head><title>Azco</title>
+
+
+<!-- SITE DESIGNED BY LONE STAR POSSE PRODUCTIONS INC. lonestar@lynx.bc.ca -->	
+
+
+<script language="JavaScript">
+
+<!--
+
+function imgToggle(imgObjectName, imgObjectState) {
+
+  if (navigator.userAgent.indexOf ("Mozilla/3") >= 0) {
+    imgObject = new Object();
+    imgObject = imgObjectName;
+    imgObject.src = imgObjectState;
+  }
+}
+
+function imgPreLoad(i, img) {
+  if (navigator.userAgent.indexOf ("Mozilla/3") >= 0) {
+    cacheImg[i] = new Image();
+    cacheImg[i].src = img;
+  }
+}
+
+// Declare and Load Images
+navcom = "images/navcom2.gif";
+navhis = "images/navhis2.gif";
+navnew = "images/navnew2.gif";
+navrep = "images/navrep2.gif";
+navres = "images/navres2.gif";
+navpub = "images/navpub2.gif";
+navmap = "images/navmap2.gif";
+navmor = "images/navmor2.gif";
+
+cacheImg = new Array();
+imgPreLoad(0,navcom);
+imgPreLoad(1,navhis);
+imgPreLoad(2,navnew);
+imgPreLoad(3,navrep);
+imgPreLoad(4,navres);
+imgPreLoad(5,navpub);
+imgPreLoad(6,navmap);
+imgPreLoad(7,navmor);
+
+// End Script -->
+
+</script>
+
+</head>
+
+
+<body background="images/bg-index.gif" bgcolor="ffffff">
+
+<table cellspacing=0 cellpadding=0 border=0>
+	<tr>
+		<td align=left valign=top><img src="images/dot.gif" hspace=65><br>
+<!-- Whats new -->	<a href="reports/10k97.htm"><img src="images/wnew.gif" border=0 width=100 height=40></a><br>
+<!-- Sidebar -->	<img src="images/sidebar.gif" width=95 height=245 alt="SideBAR Images" hspace=5><br>
+
+<!-- XXXXX 		<a href="http://www.etrade.com" target="new"><img src="images/etrade.gif" width=100 height=21 vspace=10 border=0 alt="E-Trade"></a><br>
+			<a href="http://www.schwab.com" target="new"><img src="images/schwab.gif" width=110 height=22 border=0 alt="Schwab NOW!"></a><br>
+		-->
+
+<!-- Netscape -->	<a href="http://home.netscape.com"><img src="images/netnow3.gif" border=0 hspace=8 vspace=15 width=90 height=60 alt="Get Netscape 3.0"></a>
+
+
+
+		</td>
+
+
+		<td align=center valign=top>
+
+<!--			<img src="construc.gif">  -->
+
+<!-- Main logo -->	<img src="images/final.gif" vspace=15 width=340 height=100 alt="AZCO's Logo"><br>
+<!-- Header -->		<img src="images/header2a.gif" vspace=0 width=420 height=160><br>
+			<a href="mission.htm"><img src="images/mission.gif" width=140 height=25 alt="Click here for Mission Statement" border=0></a><br>
+			<img src="images/dot.gif" vspace=15>
+
+<!-- nav --><center>
+		<table cellspacing=0 cellpadding=0 border=0>
+			<tr><td><a href="profile.htm"  onMouseover="imgToggle(navcom,'images/navcom2.gif'); window.status='Company Profile';return true" onMouseOut="imgToggle(navcom,'images/navcom.gif')"><img
+			src="images/navcom.gif" border=0 alt="Company Profile" name="navcom" width=112 height=25></a><a href="history.htm"  onMouseover="imgToggle(navhis,'images/navhis2.gif'); window.status='History';return true" onMouseOut="imgToggle(navhis,'images/navhis.gif')"><img
+			src="images/navhis.gif" border=0 alt="History" name="navhis" width=92 height=25></a><a href="news.htm"  onMouseover="imgToggle(navnew,'images/navnew2.gif'); window.status='News';return true" onMouseOut="imgToggle(navnew,'images/navnew.gif')"><img
+			src="images/navnew.gif" border=0 alt="News" name="navnew" width=70 height=25></a><a href="reports.htm"  onMouseover="imgToggle(navrep,'images/navrep2.gif'); window.status='Reports';return true" onMouseOut="imgToggle(navrep,'images/navrep.gif')"><img
+			src="images/navrep.gif" border=0 alt="Reports" name="navrep" width=88 height=25></a></td>
+
+			<td rowspan=2><img src="images/navhome2.gif" border=0 alt="You are HERE"></td></tr>
+			<tr>
+			<td><a href="resrch.htm"  onMouseover="imgToggle(navres,'images/navres2.gif'); window.status='Research';return true" onMouseOut="imgToggle(navres,'images/navres.gif')"><img
+			src="images/navres.gif" border=0 alt="Research" name="navres" width=112 height=25></a><a href="pub.htm"  onMouseover="imgToggle(navpub,'images/navpub2.gif'); window.status='Publication';return true" onMouseOut="imgToggle(navpub,'images/navpub.gif')"><img
+			src="images/navpub.gif" border=0 alt="Publication" name="navpub" width=92 height=25></a><a href="maps.htm"  onMouseover="imgToggle(navmap,'images/navmap2.gif'); window.status='Maps';return true" onMouseOut="imgToggle(navmap,'images/navmap.gif')"><img
+			src="images/navmap.gif" border=0 alt="Maps" name="navmap" width=70 height=25></a><a href="moreinfo.htm"  onMouseover="imgToggle(navmor,'images/navmor2.gif'); window.status='More Info';return true" onMouseOut="imgToggle(navmor,'images/navmor.gif')"><img
+			src="images/navmor.gif" border=0 alt="More Info" name="navmor" width=88 height=25></a></td><td><br></td></tr>
+		</table>
+	</center>
+
+	<br><br>
+
+		<table>
+
+<!-- Web Counter from linko.com  --> <center><font color=000000><font size=1>You are visitor No.
+			<br><img src="http://www.linko.co.kr/counter/count.cgi?dd=D|ft=2|df=A0007327.dat">
+			<br>as of August 4. 1997</font></center>
+
+			<tr>
+					
+			<td align=center>
+			<font size=2><b>Canadian Office</b><br>
+			999 West Hastings St., Vancouver, BC V6C&nbsp;2W2
+			Tel:&nbsp;(604)&nbsp;682-7286 / Fax:&nbsp;(604)&nbsp;685-4320
+
+
+
+
+			</td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+
+
+</body>
+</html>

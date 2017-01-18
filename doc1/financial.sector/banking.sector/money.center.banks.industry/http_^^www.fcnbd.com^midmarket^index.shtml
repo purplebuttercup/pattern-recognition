@@ -1,0 +1,92 @@
+Server: Netscape-Enterprise/2.01
+Date: Thu, 18 Dec 1997 12:31:11 GMT
+Content-type: text/html
+
+<HTML>
+<HEAD>
+  <TITLE>Middle Market Banking</TITLE>
+</HEAD>
+
+<MAP NAME ="maps">
+
+<AREA SHAPE ="RECT"
+      HREF ="http://www.anbchicago.com"
+      COORDS ="229,43,390,134">
+<AREA SHAPE ="RECT"
+      HREF ="nbdmmchoice.shtml"
+      COORDS ="404,43,549,131">
+<AREA SHAPE ="RECT"
+      NOHREF
+      COORDS ="0,0,2000,2000">
+</MAP>
+<BODY LINK="#2A5CB3" VLINK="#6A6767" ALINK="#336633" BGCOLOR="#FFFFFF" TEXT="000000">
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="570">
+<TR ALIGN="LEFT" VALIGN="TOP" WIDTH="570">
+        <TD ALIGN="LEFT" VALIGN="TOP" WIDTH="570">
+        <IMG VSPACE="0" HSPACE="0" src="/images/corporate/ib/pix_trans.gif" ALIGN="LEFT" WIDTH="1" HEIGHT="5" BORDER="0">
+        </TD>
+</TR>
+</TABLE>
+
+
+<!--First line Navigator- Date - Text Links - Logo-->
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="570">
+<TR ALIGN="LEFT" VALIGN="TOP" WIDTH="570">
+        <TD ALIGN="LEFT" VALIGN="TOP" WIDTH="40">
+        
+        
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="28">
+<TR ALIGN=LEFT VALIGN=TOP WIDTH="28"><TD ALIGN=LEFT VALIGN=TOP WIDTH="28">
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="28">
+<TR ALIGN=LEFT VALIGN=TOP WIDTH="28"><TD ALIGN=LEFT VALIGN=TOP WIDTH="28"><IMG SRC="/images/calendar/Thu.gif"></TD></TR>
+<TR ALIGN=LEFT VALIGN=TOP WIDTH="28"><TD ALIGN=LEFT VALIGN=TOP WIDTH="28"><IMG SRC="/images/calendar/18.gif">
+</TD></TR></TABLE>
+</TD></TR></TABLE>
+
+
+        
+        </TD>
+        <TD ALIGN="LEFT" VALIGN="TOP" WIDTH="410">
+        <A HREF="/index.shtml"><FONT FACE="verdana, helvetica, arial" SIZE=1>
+                fcnbd home</FONT></A>
+       
+        </TD>
+        <!-- <TD ALIGN="LEFT" VALIGN="TOP" WIDTH="120">
+        <IMG VSPACE="0" HSPACE="0" src="/images/corporate/ib/lg_fcnbd.gif" ALT="First Chicago Logo" ALIGN="LEFT" WIDTH="110" HEIGHT="20" BORDER="0">
+        </TD> -->
+</TR>
+</TABLE>
+        
+
+
+<!--Spacer-->
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="570">
+<TR ALIGN="LEFT" VALIGN="TOP" WIDTH="570">
+        <TD ALIGN="LEFT" VALIGN="TOP" WIDTH="570">
+        <IMG VSPACE="0" HSPACE="0" src="/images/corporate/ib/pix_trans.gif" ALIGN="LEFT" WIDTH="1" HEIGHT="10" BORDER="0">
+        </TD>
+</TR>
+</TABLE>
+
+<TABLE WIDTH="565" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+<TR>
+<TD COLSPAN="3" VALIGN="TOP"><IMG SRC="/images/midmarket/topbar.gif"
+WIDTH="565" HEIGHT="21"></TD></TR>
+<TR>
+<TD WIDTH="420" VALIGN="TOP" COLSPAN="2"><IMG SRC="/images/midmarket/bar.gif" WIDTH=
+"486" HEIGHT="16"></TD>
+<TD WIDTH="79"><A HREF="/locator/mmlocator.shtml"><IMG SRC="/images/midmarket/locations.gif"
+WIDTH="79" HEIGHT="16" BORDER="0"></A></TD></TR>
+<TR>
+<TD COLSPAN="3" WIDTH="565"><IMG SRC="/images/midmarket/maps.gif" ALIGN=TOP WIDTH="565" HEIGHT="145" BORDER="0" USEMAP="#maps"></TD></TR>
+</TABLE>
+<BR>
+<BR>
+<TABLE WIDTH="565" CELLPADDING="0" BORDER="0" CELLSPACING="0">
+<TR>
+<TD WIDTH="30"><IMG VSPACE="0" HSPACE="0" src="/images/corporate/ib/pix_trans.gif" ALIGN="LEFT" WIDTH="30" HEIGHT="1" BORDER="0"></TD>
+<TD WIDTH="535"><FONT FACE="verdana, helvetica, arial" SIZE=2><A HREF="/per/perchoice.html">personal banking</A> | <A HREF="/business">small business banking</A> | <A HREF="/cor/cmenu.shtml">corporate banking</A></TD></TR></TABLE>
+
+</BODY>
+</HTML>

@@ -1,0 +1,213 @@
+Server: Netscape-Enterprise/2.0a
+Date: Mon, 29 Dec 1997 21:14:53 GMT
+Accept-ranges: bytes
+Last-modified: Fri, 22 Aug 1997 18:28:49 GMT
+Content-length: 8876
+Content-type: text/html
+
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY BGCOLOR=ffffff text="000000">
+<p>
+<img border=0 src=/images/pictures/banh.gif USEMAP="#qrsban" alt="QRS banner" width=550 height=86>
+<br>
+<MAP NAME="qrsban">
+<AREA SHAPE="RECT" COORDS="175,20,200,40" HREF="/" alt="Back">
+<AREA SHAPE="RECT" COORDS="205,20,240,40" HREF="http://www.qrsi.com/excite/at-internetquery.html" alt="Search">
+<AREA SHAPE="RECT" COORDS="245,20,270,40" HREF="/sitemap/" alt="Site Map">
+<AREA SHAPE="RECT" COORDS="275,20,325,40" HREF="/whatsnew/" alt="What's New">
+<AREA SHAPE="RECT" COORDS="330,20,550,40" HREF="/products/" alt="Products and Services">
+</MAP>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border=0 src=/images/pictures/navbar.gif USEMAP="#Admindsk" alt="Navbar" width=500 height=24>
+<br>
+<p>
+<MAP NAME="Admindsk">
+<AREA SHAPE="RECT" COORDS="1,1,92,13" HREF="/products/"alt="Products/Demos">
+<AREA SHAPE="RECT" COORDS="96,1,160,13" HREF="/news/"alt="News and Events">
+<AREA SHAPE="RECT" COORDS="165,1,225,13" HREF="/tech/"alt="Technical Support">
+<AREA SHAPE="RECT" COORDS="227,1,312,13" HREF="/financial/board.html"alt="Meet the Company">
+<AREA SHAPE="RECT" COORDS="316,1,356,13" HREF="/job/"alt="Job Opportunities">
+<AREA SHAPE="RECT" COORDS="360,1,420,13" HREF="/financial/"alt="Financial Information">
+<AREA SHAPE="RECT" COORDS="425,1,500,13" HREF="/bassociates/"alt="Business Associates">
+</MAP>
+<img border=0 src=/images/pictures/rule.gif width=550 height=2>
+<center>
+<font face=arial>This section displays a map of the entire QRS Web Site!</font><p>
+<table border=0 width=60% cellpadding=4>
+<tr>
+<td width=10% bgcolor=black><a href=/index.html><font color=white>Home</font></a></td>
+</tr>
+<tr>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor=eeeeee><a href=/products/><font color=black>Products/Demos</font></a></td>
+</tr>
+<tr>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor=black><a href=/products/keystone.html><font color=white>QRS Keystone (R)</font></a></td>
+</tr>
+<tr>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor=black><a href=/products/keystone2.html><font color=white>QRS Keystone (M)</font></a></td>
+</tr>
+<tr>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor=black><a href=/products/networkserv.html><font color=white>QRS Network Services</font></a></td>
+</tr>
+<tr>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor=black><a href=/products/profession.html><font color=white>QRS Professional Services</font></a></td>
+</tr>
+<tr>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor=black><a href=/products/catalyst.html><font color=white>QRS Catalyst</font></a></td>
+</tr>
+<tr>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor=black><a href=/products/horizon.html><font color=white>QRS Horizon</font></a></td>
+</tr>
+<tr>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor=black><a href=/products/mariner.html><font color=white>QRS Mariner</font></a></td>
+</tr>
+<tr>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor=black><a href=/products/lms.html><font color=white>QRS LMS</font></a></td>
+</tr>
+<tr>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor=black><a href=/financial/demo/><font color=white>Product Demos</font></a></td>
+</tr>
+<tr>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor=eeeeee><a href=/news/><font color=black>News and Events</font></a></td>
+</tr>
+<tr>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor=black><a href=/news/#eve><font color=white>QRS Events</font></a></td>
+</tr>
+<tr>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor=black><a href=/news/#new><font color=white>QRS News</font></a></td>
+</tr>
+<tr>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor=eeeeee><a href=/tech/><font color=black>Technical Support</font></a></td>
+</tr>
+<tr>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor=black><a href=/tech/faq.html><font color=white>FAQ's</font></a></td>
+</tr>
+<tr>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor=black><a href=/tech/techcontact.html><font color=white>Technical Contact</font></a></td>
+</tr>
+<tr>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor=eeeeee><a href=/financial/board.html><font color=black>Meet The Company</font></a></td>
+</tr>
+<tr>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor=black><a href=/financial/board2.html><font color=white>The Board</font></a></td>
+</tr>
+<tr>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor=black><a href=/financial/exec1.html><font color=white>The Executives</font></a></td>
+</tr>
+<tr>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor=black><a href=http://206.99.246.6/analytics/factsheetframe.asp?symbol=qrsi><font color=white>Company Fact Sheet</font></a></td>
+</tr>
+<tr>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor=black><a href=http://206.99.246.6/news/mkcont.asp?usymbol=qrsi&logo=Y&companyname=QuickResponse%20Services,%20Inc.><font color=white>Company News</font></a></td>
+</tr>
+<tr>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor=eeeeee><a href=/job/><font color=black>Job Opportunities</font></a></td>
+</tr>
+<tr>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor=eeeeee><a href=/financial/index.html><font color=black>Financial Information</font></a></td>
+</tr>
+<tr>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor=black><a href=http://www.sec.gov/cgi-bin/srch-edgar?0000906551><font color=white>Sec filings</font></a></td>
+</tr>
+<tr>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor=black><a href=http://206.99.246.6/quotes/fullquote.asp?symbol=qrsi><font color=white>Stock Quote </font></a></td>
+</tr>
+<tr>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor=black><a href=/financial/analyst.html><font color=white>Analyst Coverage</font></a></td>
+</tr>
+<tr>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor=black><a href=http://206.99.246.6/analytics/chartcont.asp?symbol text=qrsi><font color=white>Stock Chart</font></a></td>
+</tr>
+<tr>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor=black><a href=/financial/abec97/index.htm><font color=white>Latest IR Presentation</font></a></td>
+</tr>
+<tr>
+<td width=10% bgcolor="ffffff">&nbsp;</td>
+<td width=10% bgcolor=eeeeee><a href=/bassociates/><font color=black>Business Associates</font></a></td>
+</tr>
+</table>
+</center>
+<img border=0 src=/images/pictures/rule.gif width=550 height=2>
+<br>
+<p>
+<center>
+<font size=1 face=arial>
+<font color=red face=arial><a href="/products/">|Product & Services|</font></a>
+<font color=red face=arial><a href="/news/">News & Events|</font></a>
+<font color=red face=arial><a href="/tech/">Technical Support|</font></a>
+<font color=red face=arial><a href="/financial/board.html">Meet the Company|</font></a>
+<font color=red face=arial><a href="/job/">Job Opps|</font></a>
+<font color=red face=arial><a href="/financial/">Financial Info|</font></a>
+<font color=red face=arial><a href="/bassociates/">Business Associates|</font></a><br>
+<font color=red face=arial><a href="/">|Back|</font></a>
+<font color=red face=arial><a href="http://www.qrsi.com/excite/at-internetquery.html">|Search|</font></a>
+<font color=red face=arial><a href="/sitemap/">Map|</font></a>
+<font color=red face=arial><a href="/whatsnew/">What's New|</font></a>
+<font color=red face=arial><a href="/products/">Products & Services|</font></a>
+</font>
+<br>
+<table width=80%>
+<tr><td width=100% align=center valign=middle>
+<font color=660000 face=arial size=-1><i>Copyright (c)QRS Corporation<br>
+Send your comments and suggestions to <a HREF=mailto:webmaster@qrsi.com>webmaster@qrsi.com</a></i>
+</font>
+<br>
+<font color=660000 size=1 face=arial>Last Updated 8-1-97<font>
+</td></table>
+<br>
+<br>
+</body>
+</html>

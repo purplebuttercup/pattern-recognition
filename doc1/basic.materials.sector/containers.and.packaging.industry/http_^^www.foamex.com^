@@ -1,0 +1,140 @@
+Date: Thu, 20 Nov 1997 21:04:42 GMT
+Server: Apache/1.2.1
+Last-Modified: Thu, 21 Aug 1997 18:27:12 GMT
+ETag: "1701e-f89-33fc8880"
+Content-Length: 3977
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+<html>
+<head><title> FOAMEX</title>
+
+<!Web Development by M. Christensen Assoc. Inc.>
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!-- Beginning of JavaScript Applet -------------------
+
+/* Copyright (C)1996 Web Integration Systems, Inc. DBA Websys, Inc.
+   All Rights Reserved.
+   This applet can be re-used or modified, if credit is given in 
+   the source code.
+   We will not be held responsible for any unwanted effects due to the 
+   usage of this applet or any derivative.  No warrantees for usability 
+   for any specific application are given or implied.
+  Chris Skinner, January 30th, 1996.
+*/
+
+function scrollit_r2l(seed)
+{
+        var msg="Foamex achieves QS - 9000 Certification.  Click 'What's New' to read all about it.";
+        var out = " ";
+        var c   = 1;
+
+        if (seed > 70) {
+                seed--;
+                var cmd="scrollit_r2l(" + seed + ")";
+                timerTwo=window.setTimeout(cmd,70);
+        }
+        else if (seed <= 70 && seed > 0) {
+                for (c=0 ; c < seed ; c++) {
+                        out+=" ";
+                }
+                out+=msg;
+                seed--;
+                var cmd="scrollit_r2l(" + seed + ")";
+                    window.status=out;
+                timerTwo=window.setTimeout(cmd,70);
+        }
+        else if (seed <= 0) {
+                if (-seed < msg.length) {
+                        out+=msg.substring(-seed,msg.length);
+                        seed--;
+                        var cmd="scrollit_r2l(" + seed + ")";
+                        window.status=out;
+                        timerTwo=window.setTimeout(cmd,70);
+                }
+                else {
+                        window.status=" ";
+                        
+timerTwo=window.setTimeout("scrollit_r2l(70)",75);
+                }
+        }
+}
+// -- End of JavaScript code -------------- -->
+
+
+</SCRIPT>
+
+
+
+</head>
+<body bgcolor = "#ff0000"   text = "#000000" link = "#005ACE" vlink = "#FFED1A"  onLoad="timerONE=window.setTimeout('scrollit_r2l(70)',500);">
+<br >
+<center>
+<img src = "fmxlog6redt.gif" >
+
+</center>
+<br><br>
+<img src = "arred.gif" align = left>
+<br clear = all>
+
+<br clear = all>
+<center>
+<h3> <a href = "corp/glance.html">Foamex</a> is the largest and most innovative marketer and manufacturer of flexible polyurethane foam and advanced polymer products in the Western Hemisphere.</h3>
+</center>
+
+
+
+
+<center>
+<table >
+
+
+
+<tr align = center valign = top>
+<td><a href = "auto/auto.html"><img src = "auto/caricon.gif"><br>Automotive<br>Products</a>
+
+</td>
+<td><a href = "cushion/cush.html" ><img src = "cushion/chairicon.gif"><br>Cushioning<br>and<br>Furniture<br>Fabricated<br>Products</a></td>
+<td><a href = "carpet/carp.html"><img src = "carpet/CWicon.gif"><br>Carpet<br>Cushion</a></td>
+<td><a href = "techprod/tech.html"><img src = "techprod/cell6t.gif"><br>Technical<br>Products</a></td>
+<td><a href = "corp/corp.html"><img src = "fmxlog8t.gif"><br>Corporate<br>and<br>Financial<br>Information</a>
+</td>
+<td><a href = "techprod/safety.html"><img src = "techprod/saficon.jpeg"><br>CONSIDER<br>THIS</a></td>
+
+<td ><a href = "news/news.html"><img src = "news/hex4.gif" ><br>What's<br>New</a></td>
+
+</tr>
+
+</table>
+</center>
+<br clear = all><hr>
+<table  border =0 align = left >
+<tr><td  valign = top>
+<b>
+&#169 Foamex International Inc.</b><br>
+1000 Columbia Avenue<br>
+Linwood, Pennsylvania 19061<br>
+800 776-3626</td>
+</tr>
+<tr><td><font size =-1>
+<a href="mailto:juperti@corp.foamex.com">Web Administrator</a><br> James Uperti</font>
+</td></tr>
+</table>
+<br><br><br><br>
+<table border = 0 align = right>
+<tr><td valign bottom><font size = -1>
+<a href = "http://www.netaxs.com/~mchriste">Web Development</a><br>
+M. C. A., Inc.
+</td></tr></table>
+
+<br clear = all>
+<hr>
+
+<center><font size = -1>This page is best viewed through the current <a href = "http://home.netscape.com/">
+Netscape browser</a> or <a href = "http://www.msn.com/">Microsoft Internet Explorer.</a></font>
+</center>
+</body>
+</html>

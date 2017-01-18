@@ -1,0 +1,45 @@
+Date: Fri, 21 Nov 1997 05:04:39 GMT
+Server: Apache/1.2.4
+Last-Modified: Mon, 13 Oct 1997 18:56:07 GMT
+ETag: "5a0b-6f4-34426ec7"
+Content-Length: 1780
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+   <TITLE>Open RAS -- The RASCAL Advantage</TITLE>
+<meta http-equiv="Description" CONTENT="
+Ariel Corporation offers the industry's highest density and most cost-effective remote access data solutions for open systems platforms. Ariel designs and manufactures standard and custom remote access products for open systems servers which include 56K and V.34 modems; PRI and BRI ISDN; and T1 and E1 interfaces.
+"><meta http-equiv="Keywords" CONTENT="Ariel, RAS, RASCAL, Remote Access Server, NT Server, Modems, ISDN, K56flex, X2, Datacom, Data Communications, V.34, T1, E1, PRI, BRI, Networking, Windows NT Server, 56K Modems, Ascend, US Robotics, Livingston, Shiva, modems, remote access server, data communications, Total Control, networking, Bay Networks">
+</HEAD>
+<FRAMESET cols="95,82*" border="0" frameborder="no" framespacing="0">
+<NOFRAMES><BODY
+BGCOLOR="#FFFFFF" background="graphics/ornaments/background.gif">
+
+<P>This page is designed to be viewed by a browser which supports
+Netscape's Frames extension. This text will be shown by browsers
+which do not support the Frames extension.</P>
+
+</BODY>
+</NOFRAMES>
+   <FRAMESET rows="73,67%,73">
+      <FRAME SRC="navigation/message.html" name="message" NORESIZE
+      scrolling="no">
+      <FRAMESET rows="74*,79">
+         <FRAME SRC="navigation/LNavigation_index.html"
+         scrolling="no">
+         <FRAME SRC="navigation/resell-want.html"
+         name="resell / want" NORESIZE scrolling="no">
+      </FRAMESET>
+      <FRAME SRC="navigation/logo.html" name="logo" NORESIZE
+      scrolling="no">
+   </FRAMESET>
+   <FRAMESET rows="87,84*">
+      <FRAME SRC="navigation/nav_top_home.html" name="top" NORESIZE
+      scrolling="no">
+      <FRAME SRC="index2.html" name="main">
+   </FRAMESET>
+</FRAMESET>
+</HTML>

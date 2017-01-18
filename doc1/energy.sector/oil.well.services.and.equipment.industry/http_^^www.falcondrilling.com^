@@ -1,0 +1,23 @@
+Server: Microsoft-IIS/2.0
+Date: Wed, 19 Nov 1997 23:02:46 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Wed, 27 Aug 1997 07:28:05 GMT
+Content-Length: 458
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; iso-8859-1">
+<TITLE>Falcon Drilling Company Home Page</TITLE>
+</HEAD>
+<FRAMESET COLS="24%,76%">
+  <FRAME SRC="falcon2.html" NAME="Frame16147" SCROLLING="yes">
+  <FRAME SRC="falcon1.html" NAME="Frame8342" SCROLLING="yes">
+  <NOFRAMES>
+    <body>
+    <p>Viewing this page requires a browser capable of displaying
+    frames. </p>
+    </body>
+    </NOFRAMES>
+</FRAMESET>
+</HTML>

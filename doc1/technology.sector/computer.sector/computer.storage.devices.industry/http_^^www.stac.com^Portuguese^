@@ -1,0 +1,33 @@
+Server: Microsoft-IIS/3.0
+Date: Fri, 21 Nov 1997 03:52:34 GMT
+Content-type: text/html
+Set-Cookie: ENTRYPOINT=68383; expires=Fri, 21-Nov-1997 08:00:00 GMT; path=/
+Set-Cookie: ASPSESSIONID=BHKUJVIRELZZTUDE; path=/
+Cache-control: private
+
+
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; iso-8859-1">
+<title>Bem-vindo à Stac</title>
+<meta name="FORMATTER" content="Microsoft FrontPage 2.0">
+</head>
+
+<frameset rows="95,100%" frameborder="no" framespacing="0">
+    <frame src="navbar.html" name="Navigation Bars"
+    scrolling="no" noresize>
+    <frame src="news.html" name="News" noresize>
+    <noframes>
+    <body stylesrc="Portuguese/news.html">
+    <!--webbot bot="Include" tag="BODY"
+    u-include="Portuguese/news.html" startspan --><strong>[Portuguese/Portuguese/news.html]</strong><!--webbot
+    bot="Include" endspan i-checksum="26618" -->
+ 
+</body>
+    </noframes>
+</frameset>
+</html>

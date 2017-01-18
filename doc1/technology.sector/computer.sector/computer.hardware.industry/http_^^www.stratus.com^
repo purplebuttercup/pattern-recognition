@@ -1,0 +1,212 @@
+Date: Fri, 21 Nov 1997 02:36:45 GMT
+Server: Apache/1.2.4
+Last-Modified: Tue, 18 Nov 1997 15:27:11 GMT
+ETag: "14ca-1af4-3471b3cf"
+Content-Length: 6900
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+<HTML>
+
+
+<HEAD>
+
+<TITLE>Stratus Computer, Inc.</TITLE>
+
+</HEAD>
+
+<META name="KEYWORDS" content="Stratus, Fault Tolerant, HP-UX, Windows NT, VOS, SERVER">
+<META name="CONTENT" content="Stratus is the premier supplier of computer systems and services where continuous availability is a critical need.">
+
+<BODY BGCOLOR="ffffff" LINK="#a60e52" vLINK="#a60e52">
+
+<CENTER>
+<!-- begin content-->
+<TABLE WIDTH="488"><TR>
+<TD COLSPAN="3">
+
+<A HREF="/media/java"><IMG SRC="/images/Javaclick.gif"
+WIDTH="487" HEIGHT="18" BORDER="0"></A>
+
+
+
+
+<A HREF="/maps/home.map">
+<IMG SRC="home_images/home_lo.jpg" WIDTH="488" HEIGHT="285" BORDER="0" ALT="Stratus
+Computer, Inc." BORDER="0" USEMAP="#home" ISMAP></A>
+
+<!-- client-side image map added by M.Mongeau 10/22/96 -->
+
+<MAP NAME="home">
+<AREA SHAPE="RECT" HREF="/" COORDS="12,6,144,20">
+<AREA SHAPE="RECT" HREF="/toc/" COORDS="145,6,257,20">
+<AREA SHAPE="RECT" HREF="/feedback/" COORDS="258,6,370,20">
+<AREA SHAPE="RECT" HREF="/search/" COORDS="371,6,482,20">
+<AREA SHAPE="RECT" HREF="/corpinfo/" COORDS="256,47,480,70">
+<AREA SHAPE="RECT" HREF="/cont/" COORDS="256,74,480,97">
+<AREA SHAPE="RECT" HREF="/radio/" COORDS="256,101,480,124">
+<AREA SHAPE="RECT" HREF="/ser/cs/" COORDS="256,127,480,149">
+<AREA SHAPE="RECT" HREF="/sol/" COORDS="256,153,480,176">
+<AREA SHAPE="RECT" HREF="/int/" COORDS="255,180,480,202">
+<AREA SHAPE="RECT" HREF="/corpinfo/sub/" COORDS="256,206,480,228">
+<AREA SHAPE="RECT" HREF="/hr/" COORDS="256,233,480,255">
+<AREA SHAPE="RECT" HREF="/events/" COORDS="256,258,480,281">
+
+</MAP>
+<!-- <AREA SHAPE="RECT" HREF="/events/" COORDS="256,285,480,305"> -->
+
+<CENTER>
+
+<FONT FACE="HELVETICA,ARIAL">
+<H3>Welcome to Stratus Computer, Inc.</H3>  <B>Stratus is the premier supplier of computer systems and services where continuous availability is a critical need.</B>
+<BR>
+<HR>
+</CENTER>
+<!-- <A HREF="ftp://ftp.stratus.com/pub/vos/doc/y2k/sray2k01.htm"><IMG -->
+<!-- SRC="/images/2000.gif" WIDTH="100" HEIGHT="70" ALIGN="RIGHT" BORDER="0" -->
+<!-- ALT="Year 2000 issues - VOS Related"></A>-->
+ 
+
+
+<FORM ACTION="/cgi-bin/AT-SRAEXTsearch.cgi" METHOD="POST"> 
+<FONT COLOR="#0000FF"><B>QuickSearch</B></FONT><BR>
+<INPUT TYPE="TEXT" SIZE="15" NAME="search"> 
+<!--
+<SELECT NAME="search">
+<OPTION>Windows NT&reg; Server
+<OPTION>HP-UX&reg; Operating System
+<OPTION>UNIX&reg; Servers
+<OPTION>High Availability Solutions
+<OPTION>Continuous Availability Solutions
+<OPTION>News Releases
+<OPTION>Locations
+<OPTION>Upcoming Events
+<OPTION>Pinnacle Partners Program
+<OPTION>Public Safety Solutions
+<OPTION>Telecommunications Solutions
+<OPTION>Banking Solutions
+<OPTION>Healthcare Solutions
+<OPTION>Securities Solutions
+<OPTION>Travel/Trans. Solutions
+<OPTION>Cross Industry Solutions
+<OPTION>Retail/Dist. Solutions
+</SELECT>
+
+-->
+
+<INPUT TYPE="submit" NAME="submit" VALUE="Go">
+</FORM>
+
+<BR>
+<HR></FONT>
+</TR></TD>
+<TR>
+<TD WIDTH="242" VALIGN="top">
+<FONT FACE="HELVETICA,ARIAL">
+
+
+<FONT COLOR="#0000FF"><B>Upcoming Events at Stratus...</B></FONT><P>
+
+
+Come visit Stratus at the World's Largest Retail Financial Services
+conference in New Orleans, December 2-4. Thousands of financial sevices
+professionals, technology experts and leading solution providers from
+around the world will be there. <A HREF="events/bai.html">Click here for more information</A>
+<HR><P>
+<A HREF="http://www.asmcorp.com/itec/f.phi.html" TARGET="BLANK"><IMG SRC="events/ITEC.GIF" ALIGN="LEFT" BORDER="0"></A>
+Visit the Stratus Exhibit at the 5th Annual Philadelphia Information
+and Technology Exposition and Conference at the Valley Forge Convention Center.
+The conference will be held November 12-13, 1997. For more information,
+<A HREF="http://www.asmcorp.com/itec/f.phi.html" TARGET="BLANK">visit ITEC's website.</A>
+ <P>
+
+<P>
+<HR WIDTH="240" ALIGN="CENTER"> <P><FONT COLOR="#0000FF" FACE="HELVETICA,ARIAL"><B>Can you afford
+the Cost of Downtime?</B></FONT></A><P><FONT FACE="HELVETICA,ARIAL"> Knowing the cost of computer
+downtime to your business operations is key to running a successful
+business.  Stratus has drawn on the expertise of the Gartner Group to
+provide you with a simple method for <B><A
+HREF="/sol/downtime.htm">estimating your cost of downtime.</B></A><P>
+
+
+<HR WIDTH="240" ALIGN="CENTER">
+
+<P> The latest brochures are available to <A
+HREF="media/PDF">download</A> in Adobe Acrobat 3.0 format.  <P>
+
+</FONT>
+ </TD> <TD><BR><IMG SRC="/images/vb.gif"><BR><IMG SRC="/images/vb.gif">
+</TD> <TD WIDTH="243" VALIGN="top">
+<FONT FACE="HELVETICA,ARIAL">
+ <FONT COLOR="#0000FF"><B>Recent
+News at Stratus...</B></FONT><P>
+<B><A HREF="/news/97all/971117.html">November 18, 1997:</B></A> 
+Stratus Computer Names Rod Randall as Vice President Of Worldwide Marketing and Telecom Software 
+
+<P>
+
+<B><A HREF="/news/97all/971105.html">November 5, 1997:</B></A> 
+
+Daly & Wolcott And Stratus To Market Application Software For
+Distribution, Warehousing, And Retailing 
+On Stratus Fault-Tolerant Computers
+<P>
+
+
+
+
+
+
+
+<B><A HREF="/news/97all/971104.html">November 4, 1997:</B></A> 
+Stratus Supports 20 Million Mobile Telecom Subscribers
+Worldwide with Home Location Register<P>
+
+<B><A HREF="/news/97all/q3.html">October 22, 1997:</B></A> Stratus Announces 
+Q3 Earnings<P>
+
+
+<A HREF="/news/97all/971014.html"><B>October 14, 1997: </A></B>
+Stratus Enhances Service Control Point Platform for Intelligent Networks<P>
+ 
+
+
+<A HREF="/news/97all/971006.html"><B>October 06, 1997: </A></B>Stratus and Mitech Computer Systems Provide Flexible,
+Scalable Systems for Retail Merchandising and Distribution<P>
+ 
+<A HREF="/news/97all/971003.html"><B>October 03, 1997: </B></A>
+Stratus Announces Plans for Advanced Fault Tolerant Platforms Based on Intel's IA-64
+Processor Family<P>
+ 
+<B><A HREF="/news/97all/970929.html">September 23, 1997: </A></B>Total Tel Broadens Mobile Market With Stratus-Based Prepaid Phone Service</A><BR>
+<P>
+
+
+<A HREF="/news/97all/970923.html"><B>September 23, 1997: </B></A>Belgacom
+ Selects Stratus Platform for Internet Commerce Services<P>
+
+</FONT>
+<HR WIDTH="240" ALIGN="CENTER">
+
+</TD></TR> <TR><TD COLSPAN="3">
+
+<P></TD></TR> </TABLE> <P>
+
+</CENTER>
+
+<FONT FACE="HELVETICA,ARIAL">
+
+<!--standard footer-->
+  <HR> <P align=center> <A href="/" onMouseover="self.status='Home';
+return true">[HOME]</A> <A href="toc/"
+onMouseover="self.status='Contents'; return true">[Contents]</A> <A
+href="feedback/" onMouseover="self.status='Feedback'; return true">[Feedback]</A> <A href="search/"
+onMouseover="self.status='Search'; return true">[Search]</A> <P
+align=center> For more information call 1-800-STRATUS <BR> All
+Information &copy; 1996 Stratus Computer, Inc. <BR> Questions/Comments
+<A href="mailto:webmaster@stratus.com"
+onMouseover="self.status='Webmaster'; return true">Webmaster@stratus.com</A> <P align=center> <A
+HREF="/news/96all/96Mar04.html"><IMG ALIGN="center"
+SRC="/images/newgifani7.gif" BORDER="0" WIDTH="200" ></A></FONT>
+</TD></TR></TABLE></BODY></HTML>

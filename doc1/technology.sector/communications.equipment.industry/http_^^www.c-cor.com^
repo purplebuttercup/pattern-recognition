@@ -1,0 +1,91 @@
+Server: Netscape-Commerce/1.12
+Date: Friday, 21-Nov-97 02:32:22 GMT
+Last-modified: Thursday, 20-Nov-97 14:10:59 GMT
+Content-length: 4606
+Content-type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE></TITLE>
+   <META NAME="Author" CONTENT="mark">
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.0Gold (Win95; I) [Netscape]">
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000FF" VLINK="#FF00FF" ALINK="#FF0000" BACKGROUND="back.gif">
+
+<DIV ALIGN=right><TABLE CELLPADDING=4 WIDTH="100%" >
+<TR>
+<TD VALIGN=TOP WIDTH="27%"><B><FONT SIZE=+1>Welcome to the C-COR Web Site</FONT></B>
+
+<P><FONT SIZE=-1>For over 44 years, C-COR has taken pride in its ability
+to design and manufacture high-quality electronic equipment used in a variety
+of communications networks worldwide. Principle customers include cable
+television operators, telephone companies, and installers of broadband
+communication networks for manufacturing plants, offices, campuses, institutions,
+airports, and traffic control systems. In support of its products, C-COR
+offers a full line of technical customer services, including network analysis,
+design, installation and maintenance assistance, and training. For emergency
+assistance, call our 24-hour hotline, staffed with highly trained technical
+support personnel. Sales efforts are conducted from headquarters in State
+College, Pennsylvania; from regional offices throughout the United States,
+in Canada, and in The Netherlands; and through numerous distributors worldwide.</FONT></P>
+</TD>
+
+<TD VALIGN=TOP>
+<CENTER><P><IMG ISMAP USEMAP="#newmap" SRC="image.gif" BORDER=0 HEIGHT=371 WIDTH=336>
+<MAP name="newmap"><AREA coords="76,248,196,266" href="general/sitemap.htm"><AREA coords="76,277,241,294" href="http://qs.secapl.com/cgi-bin/qs?tick=CCBL"><AREA coords="76,308,202,324" href="general/siteinfo.htm"><AREA coords="76,336,227,356" href="whatsnew/newsflas.htm"></MAP></P></CENTER>
+
+<CENTER><P><FORM><SELECT NAME="list"><OPTION value="test.htm"><FONT FACE="ARIAL,HELVETICA"><FONT SIZE=-1>Home
+<OPTION value="services/prodserv.htm">Products &amp; Services <OPTION value="catalog/catalog.htm">Online
+&amp; Print Catalog <OPTION value="finance/fina.htm">Financials &amp; Investor
+Info <OPTION value="profile/profile.htm">Get to Know C-COR <OPTION value="contacts/contacts.htm">Contact
+us at C-COR <OPTION value="employ/jobs.htm">Employment <OPTION value="whatsnew/newpr.htm">Hot
+Off the Presses <OPTION value="general/sitemap.htm">Site Map </FONT></FONT></SELECT><INPUT TYPE=BUTTON VALUE="Go!" 
+        onClick="window.location.href=this.form.list.options[this.form.list.selectedIndex].value"></FORM></P></CENTER>
+</TD>
+
+<TD valign=top>
+<CENTER><P><A HREF="http://home.netscape.com"><IMG SRC="netscape.gif" BORDER=0 HEIGHT=31 WIDTH=88></A></P></CENTER>
+<center><p><img ismap usemap="#newmap1" src="navimag.gif" border=0 height=346 width=205>
+<map name="newmap1">
+<area coords="23,1,141,14" href="services/prodserv.htm">
+<area coords="22,15,65,26" href="am/am.htm">
+<area coords="23,28,74,38" href="rf/rf.htm">
+<area coords="23,39,65,49" href="profile/isocert.htm">
+<area coords="23,51,49,61" href="cnm/cnmhome.htm">
+<area coords="22,62,51,73" href="rf/iflex.htm">
+<area coords="80,16,151,26" href="whatsnew/ce.htm">
+<area coords="80,28,155,38" href="services/prodserv.htm">
+<area coords="80,39,164,50" href="services/tech/tech.htm">
+<area coords="80,51,175,61" href="services/techdoc.htm">
+<area coords="21,86,155,102" href="catalog/catalog.htm">
+<area coords="23,104,111,113" href="catalog/catalog.htm">
+<area coords="22,115,104,125" href="catalog/ordering.htm">
+<area coords="23,126,89,137" href="catalog/catapdf.htm">
+<area coords="22,150,172,165" href="finance/fina.htm">
+<area coords="22,166,86,177" href="finance/fina.htm">
+<area coords="110,168,165,178" href="finance/iform.htm">
+<area coords="22,192,156,208" href="profile/profile.htm">
+<area coords="23,207,120,217" href="profile/profile.htm">
+<area coords="24,219,124,230" href="profile/corp.htm">
+<area coords="22,232,64,241" href="profile/dir.htm">
+<area coords="138,207,170,216" href="profile/history.htm">
+<area coords="137,219,187,229" href="profile/timeline.htm">
+<area coords="21,256,101,271" href="whatsnew/newpr.htm">
+<area coords="21,272,78,281" href="whatsnew/newpr.htm">
+<area coords="109,272,149,280" href="whatsnew/newsrl.htm">
+<area coords="22,297,202,309" href="contacts/contacts.htm">
+<area coords="24,313,89,320" href="contacts/contacts.htm">
+<area coords="24,324,68,333" href="email/email.htm">
+<area coords="23,336,79,344" href="employ/jobs.htm">
+<area coords="109,312,161,322" href="contacts/travel.htm">
+<area coords="110,323,185,333" href="whatsnew/shows.htm">
+
+</map></p></center>
+
+</TD>
+</TR>
+</TABLE></DIV>
+
+</BODY>
+</HTML>

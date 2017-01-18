@@ -1,0 +1,49 @@
+Date: Thu, 20 Nov 1997 16:17:56 GMT
+Server: Stronghold/1.3.2 Ben-SSL/1.3 Apache/1.1.1
+Content-type: text/html
+Content-length: 770
+Last-modified: Wed, 26 Mar 1997 00:03:04 GMT
+
+<html>
+<head>
+<title>CN</title>
+<META Name="description" Content="Canadian National Railway, Canada's
+largest freight railroad, provides seamless transportation and intermodal
+service throughout North America.  CN trains haul a variety of 
+commodities.">
+
+<META Name="keywords" Content="Intermodal, train, Canada, rail transportation,
+freight, railroad, CN.">
+</head>
+<body bgcolor="#ffffff">
+<embed src="/cn/train.wav"
+  width=2 height=1
+        autoplay="true"
+        hidden="true">
+<br>
+<br>
+<br>
+<br>
+<p align=center>
+<img src="/cn/cnmove2.gif"
+        border=0
+        alt="CN">
+</p>
+
+
+
+<br>
+<p align=center>
+<a href="/cgi-bin/imagemap/cn/english/maps/splashnav.map">
+<img src="/cn/splashnav.gif" 
+	border=0
+	alt="Navigation"
+	ISMAP></a>
+</p>
+
+
+
+</body>
+</html>
+
+

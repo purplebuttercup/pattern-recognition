@@ -1,0 +1,93 @@
+Server: Netscape-Enterprise/2.0a
+Date: Thu, 18 Dec 1997 19:42:14 GMT
+Content-type: text/html
+
+<HTML> 
+<HEAD> 
+<TITLE>Site Search</TITLE>
+</HEAD>
+<BODY BGCOLOR="#ffffff" TEXT="#000000"
+ LINK="#6600ff" VLINK="#003300" ALINK="#00ff00">
+
+<CENTER>
+
+<TABLE WIDTH=596 CELLSPACING=0 CELLPADDING=0 BORDER=0>
+
+<TR><TD ALIGN=CENTER><A HREF="/images/general_main.map"><IMG
+SRC="/images_top/top_nav/general_main.jpg" ALIGN=TOP WIDTH="585" HEIGHT="154" 
+USEMAP="#general_main.map"  ISMAP BORDER="0"></A>
+
+<TR><TD ALIGN=LEFT><IMG SRC="/images_top/page_titles/pagetitle_searc.gif"
+WIDTH=221 HEIGHT=28 BORDER=0 ALT=""></TD></TR>
+
+</TABLE>
+
+<BR>
+
+
+<!--BEGIN BODY COPY &amp; FORM WITHIN TABLE-->
+
+
+<TABLE WIDTH=596 CELLSPACING=0 CELLPADDING=8 BORDER=0>
+<TR><TD><BR></TD></TR>
+
+<TR>
+<TD><BR></TD>
+<TD ALIGN=RIGHT VALIGN=TOP><IMG SRC="/images_top/body/paratitle_keywo.gif" WIDTH=138 HEIGHT=18 BORDER=0 ALT="Keyword Search"></TD>
+<TD VALIGN=TOP><FORM METHOD="post" ACTION="/cgi-bin/GenerateForm.cgi/site">
+<INPUT TYPE="text" NAME="searchtext" VALUE=""> &nbsp;
+&nbsp; <INPUT TYPE="submit" NAME="submit" VALUE="Search"></FORM></TD>
+<TD><BR></TD>
+</TR>
+<!-- begin extract -->
+<TR>
+<TD><BR></TD>
+<TD WIDTH=230><BR></TD>
+<TD>Please enter keywords or phrases &#173; describing the type of information you are seeking &#173; into
+the field below, then hit &#034;Search.&#034;  Keywords may include product names, job titles, Johnson &amp; Johnson sponsored programs, etc.
+</TD>
+<TD WIDTH=10><BR></TD>
+</TR>
+<!-- end extract -->
+
+
+
+<TR>
+<TD><BR></TD>
+<TD><BR></TD>
+<TD><BR></TD>
+<TD><BR></TD>
+</TR>
+
+<TR>
+<TD></TD>
+<TD></TD>
+<TD><BR><BR><IMG SRC="/images/jnj_sm_logo.gif" WIDTH=138 HEIGHT=28 BORDER=0
+ALT="Johnson+Johnson"><BR><BR>
+<font size ="2">
+<A HREF="../../index.html">Home</A> | 
+<A HREF="../../job_postings/career_ops.html">Career Opportunities</A> | <A HREF="../../feedback.html">Feedback</A> |
+Search <BR><P>
+
+
+
+<A HREF="/innovations/innovations.html">Innovation</A> | 
+<A HREF="/family_care/family_care.html">Family Care</A> | 
+<A HREF="/news_finance/news_finance.html">News &amp; Finance</A> | 
+<a href="/who_is_jnj/who_is_jnj.html"><nobr>This is Johnson &amp; Johnson</nobr></a></font>
+<p>
+<font size="1">All Contents &copy; Copyright Johnson &amp; Johnson 1997<br>
+Last Updated April 24, 1997 </font></TD>
+</TABLE>
+
+<MAP NAME="general_main.map">
+<AREA SHAPE=RECT COORDS="144,0,220,137" HREF="/innovations/innovations.html">
+<AREA SHAPE=RECT COORDS="226,0,307,115" HREF="/family_care/family_care.html">
+<AREA SHAPE=RECT COORDS="313,0,413,121" HREF="/news_finance/news_finance.html">
+<AREA SHAPE=RECT COORDS="419,2,578,137" HREF="/who_is_jnj/who_is_jnj.html">
+<AREA SHAPE=RECT COORDS="0,5,135,135" HREF="/job_postings/career_ops.html">
+<AREA SHAPE=default HREF="general_main.map">
+</MAP>
+
+</BODY> 
+</HTML>

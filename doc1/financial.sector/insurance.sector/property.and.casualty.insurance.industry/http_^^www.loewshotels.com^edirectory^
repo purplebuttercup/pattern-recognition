@@ -1,0 +1,83 @@
+Date: Thu, 18 Dec 1997 10:24:15 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 1404
+Last-modified: Fri, 24 Jan 1997 01:51:05 GMT
+
+<TITLE>Loews Hotels EMail Directory</TITLE>
+
+<BODY bgcolor=#ffffffff>
+
+<TABLE BORDER=0 cellspacing=10>
+<TR><TD valign=middle><IMG
+SRC="../Images/loewslogo.gif"></TD>
+
+<TD><H2>Loews Hotels EMail Directory</H2></TD>
+
+</TR>
+</TABLE>
+
+<HR>
+
+<BR>
+
+
+<FORM METHOD=POST
+ACTION="http://loews.gendat.com/loews/edirectory/edir.qry?function=search">
+<INPUT NAME="SWTH" TYPE=HIDDEN VALUE="SWTH"><BR>
+
+
+<B>To locate a Loews Hotels employee:</B>
+
+<UL>
+
+<LI>Enter the first few letters of any of these fields.
+
+<LI>Then press the "Locate" button below.
+
+<LI>You may search on more than one field if you wish.
+
+</UL>
+
+<P>
+
+<B>Enter your search criteria here:</B>
+
+<BLOCKQUOTE>
+
+<TABLE BORDER=0 CELLSPACING=4>
+
+
+
+<TR><TD>First Name: </TD>
+<TD><INPUT NAME="FIRSTNAME" TYPE=TEXT SIZE=30 MAXLENGTH=30></TD>
+</TR>
+<TR><TD>Last Name:   </TD>
+<TD><INPUT NAME="LASTNAME" TYPE=TEXT SIZE=30 MAXLENGTH=30></TD>
+</TR>
+
+<TR>
+<TD>Title:     </TD>
+<TD> <INPUT NAME="TITLE" TYPE=TEXT SIZE=40 MAXLENGTH=100></TD></TR>
+
+<TR><TD>Hotel:     </TD><TD> <INPUT NAME="HOTEL" TYPE=TEXT SIZE=40 MAXLENGTH=100></TD>
+</TR>
+
+<TR><TD>City:      </TD><TD> <INPUT NAME="CITY" TYPE=TEXT SIZE=30 MAXLENGTH=30></TD></TR>
+<TR><TD>State:     </TD><TD> <INPUT NAME="STATE" TYPE=TEXT SIZE=2 MAXLENGTH=2></TD>
+</TR>
+
+
+
+
+
+<TR><TD> <INPUT TYPE=RESET VALUE="Reset Values"></TD>
+<TD> <INPUT TYPE=SUBMIT VALUE="Locate"></TD>
+</TR>
+
+</TABLE>
+
+</BLOCKQUOTE>
+
+</FORM>
+

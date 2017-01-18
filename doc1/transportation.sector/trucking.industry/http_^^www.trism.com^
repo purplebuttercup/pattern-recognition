@@ -1,0 +1,60 @@
+Server: Netscape-Enterprise/3.0
+Date: Thu, 20 Nov 1997 19:38:01 GMT
+Content-type: text/html
+Link: <http://www.trism.com/?PageServices>; rel="PageServices"
+Last-modified: Fri, 14 Nov 1997 22:50:00 GMT
+Content-length: 1291
+Accept-ranges: bytes
+Connection: close
+
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META HTTP-EQUIV="REFRESH" CONTENT="10; URL=high/index.htm">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.01 [en] (WinNT; U) [Netscape]">
+   <TITLE>TRISM, Inc.</TITLE>
+<!-- SGI_COMMENT COSMOCREATE -->
+<!-- SGI_COMMENT VERSION NUMBER="1.0" -->
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" VLINK="#737373">
+
+<CENTER>
+ <A HREF="high/index.htm">
+   <IMG SRC="collage.jpg" BORDER=0 >
+ </A>
+</CENTER>
+
+<CENTER>
+ <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="300" HEIGHT="35" >
+  <TR>
+   <TD HEIGHT="17">
+    <CENTER>
+     <A HREF="high/index.htm">
+      Graphics
+     </A>
+    </CENTER>
+   </TD>
+   <TD>
+    <CENTER>
+     <A HREF="low/index.htm">
+      Text
+     </A>
+    </CENTER>
+   </TD>
+  </TR>
+ </TABLE>
+</CENTER>
+
+<CENTER><FONT SIZE=-1></FONT></CENTER>
+
+<CENTER><A HREF="http://home.netscape.com/download/index.html"><IMG SRC="now_anim_button.gif" BORDER=0 HEIGHT=30 WIDTH=90></A><FONT SIZE=-1>
+This site is best viewed with Netscape Communicator. Download</FONT></CENTER>
+
+<CENTER><FONT SIZE=-1>Netscape Now!</FONT></CENTER>
+
+<CENTER></CENTER>
+
+<CENTER><FONT SIZE=-2>Copyright &copy; 1997 TRISM, Inc. All Rights Reserved</FONT></CENTER>
+
+</BODY>
+</HTML>

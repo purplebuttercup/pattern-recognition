@@ -1,0 +1,70 @@
+Date: Thu, 20 Nov 1997 22:07:02 GMT
+Server: WebSitePro/1.1h
+Accept-ranges: bytes
+Content-type: text/html
+Last-modified: Tue, 20 May 1997 21:39:34 GMT
+Content-length: 2037
+
+<!----
+	TVX Gold Inc. WWW Pages
+		
+	Created by:	David Beaupre
+			QUEUE Systems Inc.
+
+	(C) TVX Gold Inc., 1996
+	(C) QUEUE Systems Inc., 1996
+--->
+<HTML>
+<HEAD>
+<TITLE>TVX Gold Inc. - Annual Reports</TITLE>
+</HEAD>
+<BODY BACKGROUND="/images/bground.gif" BGCOLOR="#FFFFFF" TEXT="#0000BB"  
+	VLINK="#800020" LINK="#0000FF" ALINK="#FF2020">
+
+<TABLE BORDER="0" VALIGN="TOP" WIDTH=100%>
+	<TR>
+		<TD WIDTH=75 ALIGN=LEFT VALIGN=TOP><A HREF="/"><IMG SRC="/images/tvx_gld.gif" BORDER=0></A></TD>
+		<TD VALIGN=BOTTOM ALIGN=CENTER WIDTH=100%><I><FONT SIZE=+2>Annual Reports</FONT></I></TD>
+	</TR>
+</TABLE>
+
+<HR>
+
+<TABLE BORDER=0 VALIGN=TOP WIDTH=100%>
+	<TR VALIGN=TOP>
+		<TD ALIGN=LEFT WIDTH=75>
+			<P><A HREF="/PressReleases/"><IMG ALT="Press Releases" WIDTH=75 HEIGHT=40 BORDER=0 SRC="/images/pressreleases.gif"></A><BR>
+			<P><A HREF="/AnnualReport/"><IMG ALT="Annual Report" WIDTH=75 HEIGHT=40 BORDER=0 SRC="/images/annualreport.gif"></A><BR>
+			<P><A HREF="/QuarterlyReport/"><IMG SRC="/images/quarterlyreport.gif" ALT="Quarterly Reports" WIDTH=75 HEIGHT=40 BORDER=0></A>
+			<P><A HREF="/Stock/"><IMG ALT="Stock Information" WIDTH=75 HEIGHT=40 BORDER=0 SRC="/images/stockinfo.gif"></A><BR>
+			<P><A HREF="/CorporateInformation.htm"><IMG WIDTH=75 HEIGHT=40 BORDER=0 SRC="/images/corporateinfo.gif" ALT="Corporate Information"></A><BR>
+			<P><A HREF="/MiningTerminology.htm"><IMG SRC="/images/MiningTerminology.gif" ALT="Mining Terminology" WIDTH=75 HEIGHT=40 BORDER=0></A>
+			<P><A HREF="/cgi-shl/dbml.exe?Template=/Tvx/GuestBook.dbm"><IMG WIDTH=75 HEIGHT=40 BORDER=0 SRC="/images/guestbook.gif" ALT="Guest Book"></A><BR>
+		</TD>
+		<TD ALIGN=LEFT WIDTH=100%>
+<CENTER>
+
+		<BR>
+		
+		<H2><B><A HREF="/AnnualReport/1996/">1996</A></B></H2>
+		
+		<BR>
+
+		<H2><B><A HREF="/AnnualReport/1995/">1995</A></B></H2>
+		
+</CENTER>
+		</TD>
+	</TR>
+</TABLE>
+
+<HR>
+
+<CENTER>
+<PRE>&#169; TVX Gold Inc.
+<A HREF="mailto:webmaster@tvxgold.com">webmaster@tvxgold.com</A></PRE>
+</CENTER>
+
+</BODY>
+
+</HTML>
+

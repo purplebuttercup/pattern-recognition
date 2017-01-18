@@ -1,0 +1,52 @@
+Server: Netscape-Enterprise/2.01
+Date: Thu, 18 Dec 1997 12:40:26 GMT
+Content-type: text/html
+
+<html>
+<head>
+<title>Citibank</title>
+
+<meta content="Citibank Home Page " name="Description">
+<meta content="Citibank Services, Credit Card Services,
+Citibank Forums, Direct Access, Business and Professional Banking,
+Personal Banking, Private Banking, Trust, Investments, Cash management,
+Securites, Foreign Exchange, Trading, Global Services,
+International Banking" name="Keywords">
+</head>
+
+<frameset rows="*,62" border="0" frameborder="no" framespacing="0">
+<frame src="/home" name="main" scrolling="NO"
+ frameborder="no" marginheight="0" marginwidth="0">
+<frame src="/agent" name="news" scrolling="AUTO" noresize
+ frameborder="no" marginheight="2" marginwidth="0">
+</frameset>
+
+<noframes>
+<body bgcolor="#FFFFFF">
+<br><br>
+In order to provide our customers with the optimal experience, 
+we have designed the Citibank site using frames technology. This 
+means that it will be easier for you to navigate through the site and 
+download time will be considerably reduced. 
+<br><br>
+Consequently, you can only view this site if you are using a 
+browser that supports frames. <b>If you are seeing 
+this page, your browser does NOT support frames.</b>
+You will have to upgrade your browser to move further into Citibank's website.
+<br><br>
+Browsers that may be used include <a 
+href="http://www.netscape.com/comprod/mirror/index.html">Netscape 
+Navigator 3.0</a> and <a href="http://www.microsoft.com/ie">Microsoft Internet 
+Explorer 3.0</a>. If you are using <a href="http://www.aol.com/try/">America 
+Online</a>, please be sure that you've upgraded to version 3.0.
+<p align="center">
+<a href="http://www.netscape.com/comprod/mirror/index.html"><img 
+src="/pictures/ns.gif" alt="Netscape 3.0" hspace=10 border="0"></a>
+<a href="http://www.microsoft.com/ie"><img src="/pictures/ie.gif" 
+alt="Explorer 3.0" hspace=10 border="0"></a>
+</p>
+</body>
+</noframes>
+
+
+</html>

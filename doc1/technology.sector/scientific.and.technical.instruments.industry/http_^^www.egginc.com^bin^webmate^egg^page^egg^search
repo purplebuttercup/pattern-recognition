@@ -1,0 +1,214 @@
+Date: Fri, 21 Nov 1997 04:43:09 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Last-Modified: Thursday, June 05, 1997 17:03:16 EST
+Content-Length: 8180
+
+
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="Author" CONTENT="Mike Douklias">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.0b3 [en] (Win95; I) [Netscape]">
+   <TITLE>Search the EG&G database</TITLE>
+</HEAD>
+
+<!-- This is the beginning of the page code -->
+<center>
+<script>
+<!--
+bName = navigator.appName;
+bVer = parseInt(navigator.appVersion);
+if  (bName == "Netscape" && bVer >= 3) ver = "n3";
+else ver = "n2";
+if (ver == "n3")
+{
+  news_1 = new Image(120, 20);
+  news_1.src="/bin/webmate/egg/raw/egg/MIME/news_1.gif/data/image/gif";
+  divisions_1 = new Image(120, 20);
+  divisions_1.src="/bin/webmate/egg/raw/egg/MIME/divisions_1.gif/data/image/gif";
+  markets_1 = new Image(120, 20);
+  markets_1.src="/bin/webmate/egg/raw/egg/MIME/markets_1.gif/data/image/gif";
+  products_1 = new Image(120, 20);
+  products_1.src="/bin/webmate/egg/raw/egg/MIME/products_1.gif/data/image/gif";
+  contact_1 = new Image(120, 20);
+  contact_1.src="/bin/webmate/egg/raw/egg/MIME/contact_1.gif/data/image/gif";
+
+  news_0 = new Image(120, 20);
+  news_0.src="/bin/webmate/egg/raw/egg/MIME/news_0.gif/data/image/gif";
+  divisions_0 = new Image(120, 20);
+  divisions_0.src="/bin/webmate/egg/raw/egg/MIME/divisions_0.gif/data/image/gif";
+  markets_0 = new Image(120, 20);
+  markets_0.src="/bin/webmate/egg/raw/egg/MIME/markets_0.gif/data/image/gif";
+  products_0 = new Image(120, 20);
+  products_0.src="/bin/webmate/egg/raw/egg/MIME/products_0.gif/data/image/gif";
+  contact_0 = new Image(120, 20);
+  contact_0.src="/bin/webmate/egg/raw/egg/MIME/contact_0.gif/data/image/gif";
+
+  news_2 = new Image(120, 20);
+  news_2.src="/bin/webmate/egg/raw/egg/MIME/news_2.gif/data/image/gif";
+  divisions_2 = new Image(120, 20);
+  divisions_2.src="/bin/webmate/egg/raw/egg/MIME/divisions_2.gif/data/image/gif";
+  markets_2 = new Image(120, 20);
+  markets_2.src="/bin/webmate/egg/raw/egg/MIME/markets_2.gif/data/image/gif";
+  products_2 = new Image(120, 20);
+  products_2.src="/bin/webmate/egg/raw/egg/MIME/products_2.gif/data/image/gif";
+  contact_2 = new Image(120, 20);
+  contact_2.src="/bin/webmate/egg/raw/egg/MIME/contact_2.gif/data/image/gif";
+
+}
+
+function imgchg(imgst,imgName) {
+if (ver == "n3") {
+     imgc = eval(imgName + "_" + imgst + ".src");
+     document [imgName].src = imgc;
+ }
+}
+
+//-->
+</script>
+
+<BODY BGCOLOR=#ffffff TEXT=#000000 LINK=#cc3333 VLINK=#3366cc ALINK=#FFFFFF>
+
+<!-- This is the beginning of the page code -->
+<TABLE border=0 cellspacing=0 cellpadding=0 width=600>
+
+<TR>
+<TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD><TD width=24></TD>
+</TR>
+
+<TR BGCOLOR=#000000>
+<TD COLSPAN=6 height=56 width=144><a href="/bin/webmate/egg/page/egg/index"><IMG border=0 SRC="/bin/webmate/egg/raw/egg/MIME/egglogo.jpg/data/image/jpeg" width=144 alt="Home"></a></TD>
+<TD COLSPAN=16 height=56 width=384 align=center bgcolor=#000000><font color=red><h2>Search</TD></font></h2>
+<TD COLSPAN=3 height=56 width=72><IMG border=0 SRC="/bin/webmate/egg/raw/egg/MIME/srchme.gif/data/image/gif" height=56 width=72 name="search" alt="Search our database"></a></TD>
+</TR>
+
+<TR>
+<TD COLSPAN=5 height=20 width=120><a href="/bin/webmate/egg/page/egg/view_press/EGG" onmouseover="imgchg('1','news')" onmouseout="imgchg('0','news')"><img border=0 height=20 width=120 name="news" src="/bin/webmate/egg/raw/egg/MIME/news_0.gif/data/image/gif" alt="What's New"></a></TD>
+<TD COLSPAN=5 height=20 width=120><a href="/bin/webmate/egg/page/egg/divisions" onmouseover="imgchg('1','divisions')" onmouseout="imgchg('0','divisions')"><img border=0 height=20 width=120 name="divisions" src="/bin/webmate/egg/raw/egg/MIME/divisions_0.gif/data/image/gif" alt="Division listing"></a></TD>
+<TD COLSPAN=5 height=20 width=120><a href="/bin/webmate/egg/page/egg/mktframe/EGG" onmouseover="imgchg('1','markets')" onmouseout="imgchg('0','markets')"><img border=0 height=20 width=120 name="markets" src="/bin/webmate/egg/raw/egg/MIME/markets_0.gif/data/image/gif" alt="Market driven listing"></a></TD>
+<TD COLSPAN=5 height=20 width=120><a href="/bin/webmate/egg/page/egg/prodfram/all/EGG" onmouseover="imgchg('1','products')" onmouseout="imgchg('0','products')"><img border=0 height=20 width=120 name="products" src="/bin/webmate/egg/raw/egg/MIME/products_0.gif/data/image/gif" alt="Products and Services"></a></TD>
+<TD COLSPAN=5 height=20 width=120><a href="/bin/webmate/egg/page/egg/emailtop" onmouseover="imgchg('1','contact')" onmouseout="imgchg('0','contact')"><img border=0 height=20 width=120 name="contact" src="/bin/webmate/egg/raw/egg/MIME/contact_0.gif/data/image/gif" alt="Send us an e-mail"></a></TD>
+</TR>
+
+</TABLE>
+
+
+</center>
+<SCRIPT>
+<!--  Start of comments
+
+function handleClick(theButton, theForm)
+{
+//   theForm.who.value = theButton.name;
+   if (theButton.name == "or_all")
+   {  
+        theForm.or_press.checked = 0;
+        theForm.or_financial.checked = 0;
+        theForm.or_location.checked = 0;
+        theForm.or_history.checked = 0;
+        theForm.or_groups.checked = 0;
+        theForm.or_divisions.checked = 0;
+        theForm.or_products.checked = 0;
+        theForm.or_markets.checked = 0;
+   }
+   else
+   {
+        theForm.or_all.checked = 0;
+   }
+}
+
+// End of Script -->
+</SCRIPT>
+
+<BR>
+<BR><B><FONT SIZE=+1>Search the EG&G Website</FONT></B>
+<HR WIDTH="100%">
+<BR>Type in a word or exact phrase to search on. To speed up the search, check
+only the categories you want to search in. It is best to use all lowercase.
+<BR><FORM METHOD="POST" ACTION="/bin/webmate/egg/update/egg/call_search">
+
+<CENTER><TABLE COLS=6 >
+<TR VALIGN=TOP>
+<TD ALIGN=RIGHT VALIGN=TOP WIDTH="130">Press Releases
+</TD>
+
+<TD WIDTH="20"><INPUT TYPE=checkbox NAME=or_press VALUE="press" onClick="handleClick(this, this.form)">
+</TD>
+
+<TD ALIGN=RIGHT WIDTH="130">Financials
+</TD>
+
+<TD WIDTH="20"><INPUT TYPE=checkbox NAME=or_financial VALUE="financial" onClick="handleClick(this, this.form)">
+</TD>
+
+<TD ALIGN=RIGHT WIDTH="130">Locations Directory
+</TD>
+
+<TD WIDTH="20"><INPUT TYPE=checkbox NAME=or_location VALUE="location" onClick="handleClick(this, this.form)">
+</TD>
+</TR>
+
+<TR ALIGN=RIGHT VALIGN=TOP>
+<TD>History
+</TD>
+
+<TD><INPUT TYPE=checkbox NAME=or_history VALUE="history" onClick="handleClick(this, this.form)">
+</TD>
+
+<TD>Groups
+</TD>
+
+<TD><INPUT TYPE=checkbox NAME=or_groups VALUE="groups" onClick="handleClick(this, this.form)">
+</TD>
+
+<TD>Divisions
+</TD>
+
+<TD><INPUT TYPE=checkbox NAME=or_divisions VALUE="divisions" onClick="handleClick(this, this.form)">
+</TD>
+</TR>
+
+<TR>
+<TD ALIGN=RIGHT WIDTH="130">Products
+</TD>
+
+<TD><INPUT TYPE=checkbox NAME=or_products VALUE="products" onClick="handleClick(this, this.form)">
+</TD>
+
+<TD ALIGN=RIGHT VALIGN=TOP>Markets
+</TD>
+
+<TD><INPUT TYPE=checkbox NAME=or_markets VALUE="markets" onClick="handleClick(this, this.form)">
+</TD>
+
+<TD ALIGN=RIGHT>All
+</TD>
+
+<TD ALIGN=RIGHT><INPUT TYPE=checkbox checked NAME=or_all VALUE="all" onClick="handleClick(this, this.form)">
+</TD>
+</TR>
+</TABLE></CENTER>
+<CENTER>Find:<INPUT TYPE=text   NAME=query SIZE=30 VALUE=""><INPUT TYPE=SUBMIT NAME=wmMACRO:xx:search VALUE="Search">
+</CENTER>
+</FORM>
+<p><p>
+
+<table width=600><tr valign=center><td>
+<p><center><font size=-2>
+<a href="/bin/webmate/egg/page/egg/index"> EG&G Home</a> |
+<a href="/bin/webmate/egg/page/egg/view_press/EGG"> News</a> |
+<a href="/bin/webmate/egg/page/egg/divisions"> Divisions</a> |
+<a href="/bin/webmate/egg/page/egg/mktframe/EGG"> Markets</a> |
+<a href="/bin/webmate/egg/page/egg/prodfram/all/EGG"> Products & Services</a> |
+<a href="/bin/webmate/egg/page/egg/emailtop"> Contact Us</a> |
+ Search
+<p>
+<A HREF="/bin/webmate/egg/page/egg/copyright">Copyright© 1997 EG&G, Inc. Legal Notices</A><BR>
+45 William Street, Wellesley, Massachusetts, U.S.A.  All Rights Reserved.<BR>
+</font></center>
+</td></tr></table>
+
+
+</BODY>
+</HTML>

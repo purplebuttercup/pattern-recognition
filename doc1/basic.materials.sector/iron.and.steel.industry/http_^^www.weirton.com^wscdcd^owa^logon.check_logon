@@ -1,0 +1,55 @@
+Content-Type: text/html
+Date: Thu, 20 Nov 1997 22:21:48 GMT
+Allow: GET, HEAD
+Server: Oracle_Web_Listener_NT_2.1.1/1.20in2
+
+
+<html>
+<head>
+<title>Login Screen</title>
+</head>
+<body link="#ff0000" bgcolor="#ffffff" "#FFFFFF" onLoad="document.enterinfo.in_internet_id.focus()">
+<table border=0 width="100%">
+<tr>
+	<td width="23%"><form><input type="button" name="home_page" value="WSC Home Page" onClick="location.href='http://www.weirton.com/'"></form></td>
+	<td><h2><center><font color="#0000dd"      >Order Status Login</FONT></center></h2></td>
+	<td width="23%" align=right><form><input type="button" value="Contact Us!" onClick="open('ordrstat_shr.contact_list','contactWindow','resizable=1,toolbar=1,location=0,directories=0,status=0,menubar=0,scrollbars=1,width=750,height=380,top=0,left=0')"></form></td>
+</tr>
+</table>
+<hr>
+<form name="enterinfo" method="POST" action="logon.find_logon_id">
+<img src="http://www.weirton.com/blue-exclamation.gif" align="baseline"> If you are logging in to the Order Status application for the first time, we recommend that you click <a href="http://www-test.weirton.com/userpref.htm">here</a> for important information concerning the desktop and browser requirements for using the Order Status application.<p>
+<table border=0 width="100%" cellspacing=0 cellpadding=0>
+<tr>
+   <td align="left" valign="top">- </td>
+   <td align="left"> If you are a registered user, enter your ID and password and click on the Login button to access the WSC Order Status System.</td>
+</tr>
+<tr>
+   <td align="left" valign="top">- </td>
+   <td align="left"> If you would like to become a registered user, click on the Register Now button to proceed to the registration screen.</td>
+</tr>
+</table><br>
+<table border=0>
+<tr valign="top">
+   <td><b>User ID: </b><p></td>
+   <td><input type="text" name="in_internet_id" size="20" maxlength="20" value= ></td>
+</tr>
+<tr valign="top">
+   <td><b>Password: </b><p></td>
+   <td><input type="password" size="10" maxlengh="10" name="in_internet_password" VALUE= ></td>
+</tr>
+</table>
+<p>
+<center>
+<table border=1>
+<tr valign="bottom">
+   <td align="center" bgcolor="#ff0000"><input type="submit" value="Login To Order Status"></td>
+   <td align="center" bgcolor="#ff0000"><input type="button" value="Register Now" onClick="location.href='ordrstat_reg.register_screen'"></td>
+</tr>
+</table>
+</center>
+</form>
+<p>
+
+</body>
+</html>

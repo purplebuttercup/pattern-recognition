@@ -1,0 +1,389 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 18 Dec 1997 19:25:19 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Thu, 04 Dec 1997 19:01:28 GMT
+Content-Length: 13283
+
+<HTML>
+<HEAD>
+<META NAME="DESCRIPTION"
+      CONTENT="Express Scripts, Inc. is a leading pharmacy benefits management company.  
+               It manages the drug benefit for over 9 million members.  
+               Health Maintenance Organizations (HMOs).
+               Practice Patterns Science provides disease state management.  
+               Vision and home infusion."
+>
+
+<TITLE>Express Scripts On-Line</TITLE>
+
+<SCRIPT LANGUAGE="JavaScript">
+
+function MakeArray(n)
+
+    {
+        this.length = n
+        return this
+    }
+
+months = new MakeArray(12)
+months[1] = "January"
+months[2] = "February"
+months[3] = "March"
+months[4] = "April"
+months[5] = "May"
+months[6] = "June"
+months[7] = "July"
+months[8] = "August"
+months[9] = "September"
+months[10] = "October"
+months[11] = "November"
+months[12] = "December"
+
+days = new MakeArray(7)
+days[1] = "Sunday"
+days[2] = "Monday"
+days[3] = "Tuesday"
+days[4] = "Wednesday"
+days[5] = "Thursday"
+days[6] = "Friday"
+days[7] = "Saturday"
+
+function today(getDate)
+    
+    {
+       var Day = days[getDate.getDay() + 1]
+       var Month = months[getDate.getMonth() + 1]
+       var Year = getDate.getYear() + 1900
+
+       return Day + ", " + Month + " " + getDate.getDate() + ", " + Year
+    }
+
+function news()
+
+    {
+       ms = 24*60*60*1000
+       var Expire = new Date("November 10, 1997"),
+           Now    = new Date(),
+           left   = Math.round((Expire.getTime() - Now.getTime())/ms);
+       
+          if (left > 0)
+             {document.write ("<IMG SRC='/esi/images/new.gif' HEIGHT=16 WIDTH=16 BORDER=0>")}
+          else 
+             {}
+     }                 
+
+
+</SCRIPT>
+
+</HEAD>
+
+<BODY  BGCOLOR="#9999FF" TEXT="#000000" LINK="#9C0829" VLINK="#000000" ALINK="#FF0000">
+<!-- 
+       BACKGROUND="/esi/image/front_bg.gif">
+-->
+<CENTER>
+
+<TABLE WIDTH=550 CELLPADDING=0 CELLSPACING=0 BORDER=0>
+
+<TR>
+    <TD WIDTH=115 ALIGN=right VALIGN=top>
+        <IMG WIDTH=115 HEIGHT=141 VSPACE=0 HSPACE=0 BORDER=0
+             SRC="/esi/image/logo_diamond.gif"
+             ALT="ESI Logo">
+    </TD>
+    <TD WIDTH=435 ALIGN=center VALIGN=center>
+        <P>
+        <IMG WIDTH=434 HEIGHT=81 VSPACE=5 HSPACE=0 BORDER=0
+             SRC="/esi/image/logo_words.gif"
+             ALT="Express Scripts, Inc."><BR>
+        <IMG WIDTH=302 HEIGHT=35 VSPACE=0 HSPACE=0 BORDER=0
+             SRC="/esi/image/ani_tag.gif" 
+             ALT="Progressive Healthcare Mangement"><BR>
+    </TD>
+</TR>
+</TABLE>
+
+<P>
+<TABLE WIDTH=580 CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR>
+    <TD WIDTH=25><BR>    </TD>
+    <TD WIDTH=250 ALIGN=left VALIGN=top>
+    <FONT FACE="HELVITICA, ARIAL" SIZE="+1"><B>
+    In the Spotlight
+    <BR>
+    <FONT FACE="HELVITICA, ARIAL" SIZE="1">
+       <!--  Insert today's date -->
+       <SCRIPT LANGUAGE="JavaScript">
+          
+               document.write(today(new Date()))
+          
+       </SCRIPT>
+    <P>
+    <FONT FACE="HELVITICA, ARIAL" SIZE="+1"><B><I>
+    December 1997</FONT></B></I>
+<P>
+
+<FONT SIZE="1">
+<A HREF="/esi/bureau.asp">Express Scripts conducts managed care seminars 
+and its executives speak on a number of topics to professionals in the healthcare, 
+insurance and pharmaceutical industries.  Click here to find out more.</a></FONT>
+<P>
+<FONT SIZE=2>
+
+<B>December 4, 1997</B> 
+
+<BR>
+        <A HREF="/esi/news/ppsreg.asp">
+             Practice Patterns Science’s Health Services Research 
+             Provides Quality Standard Practice Patterns for Health Plans</A>
+
+<P>
+<B>November 21, 1997</B> 
+
+<BR>
+        <A HREF="/esi/news/walmart.asp">
+             Express Scripts Announces Pharmacy Benefit Management  
+             Agreement with Wal-Mart Stores</A>
+
+<P>
+
+<B>November 17, 1997</B> 
+
+<BR>
+        <A HREF="/esi/news/conf98.asp">
+             Express Scripts’ Second Annual Outcomes Conference, 
+             St. Louis, Missouri, June 17 - 19, 1998</A>
+
+<P>
+
+<B>October 23, 1997</B> 
+
+<BR>
+        <A HREF="/esi/finance/q397.asp">
+        EXPRESS SCRIPTS REPORTS STRONG GROWTH AND RECORD INCOME FOR THIRD QUARTER OF 1997
+		<BR>Enrollment Gains Pace 64.6 Percent Revenue Gain; 22.8 Percent Net Income Increase
+        </A> 
+
+<P>
+<B>October 22, 1997</B> <SCRIPT LANGUAGE="JavaScript"> news()  </SCRIPT>
+
+<BR>
+        <A HREF="/esi/news/PPScdw.asp">
+        Practice Patterns Science Develops
+        Clinical Data Warehouses For Health Plans
+        </A> 
+
+<P>
+<B>September 19, 1997</B>
+        <IMG WIDTH=45 HEIGHT=34 VSPACE=0 HSPACE=0 BORDER=0 ALIGN="BOTTOM"
+             SRC="/esi/images/star.gif" 
+             ALT="Number 1"> 
+<BR>
+        <A HREF="/esi/news/pbmi97.asp">
+             Express Scripts ranks FIRST in Customer Satisfaction</A>
+			 
+<P>
+
+<P>
+<B>August 21, 1997</B> 
+<BR>
+        <A HREF="/esi/news/thorvp.asp">
+        Express Scripts Names Thor Anderson Vice President, Marketing</A> 
+
+<P>
+
+<B>July 23, 1997</B> <SCRIPT LANGUAGE="JavaScript"> news()  </SCRIPT>
+
+<BR>
+        <A HREF="/esi/finance/q297.asp">
+        Express Scripts Tallies Net Income Gain
+        of 27.0 Percent for Second Quarter of 1997
+        </A> 
+
+<P>
+<B>June 30, 1997</B> 
+
+<BR>
+        <A HREF="/esi/news/news40.asp">
+        Express Scripts, Inc. Report Dissects Pharmacy Costs, 
+        Explains Trends</A>
+
+
+<P>         <FONT FACE="HELVITICA, ARIAL" SIZE="+1"><B>
+         Financial Performance
+         </FONT>
+<P>
+        <A HREF="/esi/finance/finsum96.asp">
+        <FONT FACE="HELVITICA, ARIAL" SIZE="2" COLOR="red"><B>
+        Selected Financial and Operating Data 1992-1996
+        </A>     
+<P>
+        <A HREF="/esi/report96/index.htm">
+        <FONT FACE="HELVITICA, ARIAL" SIZE="2" COLOR="red"><B>
+        1996 Annual Report</A> 
+        
+<P>
+        <A HREF="/esi/report95/index1.asp">
+        <FONT FACE="HELVITICA, ARIAL" SIZE="2" COLOR="red"><B>
+        1995 Annual Report
+        </A>
+<BR>
+
+    </TD>
+    <TD WIDTH=30><BR>    
+    </TD>
+
+<!-- TOP OF COLUMN TWO -->
+
+    <TD WIDTH=280 ALIGN=left VALIGN=top>
+           <A HREF="/esi/formulary/default.htm">
+               <IMG WIDTH=20 HEIGHT=20 VSPACE=0 HSPACE=7 BORDER=0 ALIGN=middle
+                    SRC="/esi/image/d_ani.gif"><IMG 
+                                                         WIDTH=225 HEIGHT=23 
+                                                         VSPACE=0 HSPACE=0 BORDER=0 align=middle
+                                                         alt="Formulary Made Easy"
+                                                         SRC="/esi/image/f_fme.gif"></A>
+<BR>
+
+<HR WIDTH=70%  SIZE=2>
+
+<BR>
+           <A HREF="/esi/corporate/about.asp">
+                <IMG WIDTH=20 HEIGHT=20 VSPACE=0 HSPACE=7 BORDER=0 ALIGN=baseline
+                     SRC="/esi/image/d_red.gif"><IMG 
+                                                  WIDTH=100 HEIGHT=20 VSPACE=0 HSPACE=0 BORDER=0
+                                                  alt="Express Scripts Overview"
+                                                  SRC="/esi/image/f_over.gif"></A>
+<P>           
+           <A HREF="/esi/products.asp">
+               <IMG WIDTH=20 HEIGHT=20 VSPACE=0 HSPACE=7 BORDER=0 ALIGN=baseline
+                    SRC="/esi/image/d_purple.gif"><IMG 
+                                                    WIDTH=175 HEIGHT=20 VSPACE=0 HSPACE=0 BORDER=0
+                                                    alt="Product Profiles"
+                                                    SRC="/esi/image/f_prod.gif"></A>
+<!--
+<P>
+            <A HREF="/esi/services/services.asp">
+                <IMG WIDTH=20 HEIGHT=20 VSPACE=0 HSPACE=7 BORDER=0 ALIGN=baseline
+                     SRC="/esi/image/d_yellow.gif"><IMG 
+                                                   WIDTH=175 HEIGHT=20 VSPACE=0 HSPACE=0 BORDER=0
+                                                   alt="Member Services"
+                                                   SRC="/esi/image/f_serv.gif"></A>
+<P>
+            <A HREF="/esi/provider/provider.asp">
+                <IMG WIDTH=20 HEIGHT=20 VSPACE=0 HSPACE=7 BORDER=0 ALIGN=baseline
+                     SRC="/esi/image/d_green.gif"><IMG 
+                                                   WIDTH=186 HEIGHT=19 VSPACE=0 HSPACE=0 BORDER=0
+                                                   alt="Provider Relations"
+                                                   SRC="/esi/images/p1_store.gif"></A>
+-->
+<P>
+            <A HREF="/esi/news.asp">
+                <IMG WIDTH=20 HEIGHT=20 VSPACE=0 HSPACE=7 BORDER=0 ALIGN=baseline
+                     SRC="/esi/image/d_blue.gif"><IMG 
+                                                   WIDTH=125 HEIGHT=20 VSPACE=0 HSPACE=0 BORDER=0
+                                                   alt="Press Room"
+                                                   SRC="/esi/image/f_press.gif"></A>
+<P>            
+            <A HREF="/esi/corporate/bios.asp">
+                <IMG WIDTH=20 HEIGHT=20 VSPACE=0 HSPACE=7 BORDER=0 ALIGN=baseline
+                     SRC="/esi/image/d_red.gif"><IMG 
+                                                   WIDTH=135 HEIGHT=23 VSPACE=0 HSPACE=0 BORDER=0
+                                                   alt="Corporate Management"
+                                                   SRC="/esi/image/f_mgmt.gif"></A>
+<P>
+            <A HREF="/esi/corporate/rmd.asp">
+                <IMG WIDTH=20 HEIGHT=20 VSPACE=0 HSPACE=7 BORDER=0 ALIGN=baseline
+                     SRC="/esi/image/d_purple.gif"><IMG 
+                                                  WIDTH=225 HEIGHT=23 VSPACE=0 HSPACE=0 BORDER=0
+                                                  alt="Sales Organization"
+                                                  SRC="/esi/image/f_sales.gif"></A>
+
+<!-- Forums 
+<P>            
+            <A HREF="/forum.htm">
+                <IMG WIDTH=20 HEIGHT=20 VSPACE=0 HSPACE=7 BORDER=0 ALIGN=baseline
+                     SRC="/esi/image/.gif"><IMG 
+                                                     WIDTH=71 HEIGHT=20 VSPACE=0 HSPACE=0 BORDER=0
+                                                     alt="ESI Forums"
+                                                     SRC="/esi/image/front_forums.gif"></A>
+-->
+<P>
+            <A HREF="/esi/links.asp">
+                <IMG WIDTH=20 HEIGHT=20 VSPACE=0 HSPACE=7 BORDER=0 ALIGN=baseline
+                     SRC="/esi/image/d_green.gif"><IMG 
+                                                    WIDTH=175 HEIGHT=20 VSPACE=0 HSPACE=0 BORDER=0
+                                                    alt="Healthcare Links"
+                                                    SRC="/esi/image/f_links.gif"></A>
+<P>
+<CENTER>
+           <A HREF="/esi/faq.asp">
+
+                <IMG WIDTH=114 HEIGHT=35 VSPACE=0 HSPACE=0 BORDER=0
+                     alt="Frequently Asked Questions"
+                     SRC="/esi/image/front_faq.gif"></A>
+<BR>
+         
+           <IMG WIDTH=20 HEIGHT=20 VSPACE=10 HSPACE=0 BORDER=0
+                     SRC="/esi/image/d_purple.gif">
+<BR>
+           <A HREF="/esi/mailto.asp">
+
+                <IMG WIDTH=57 HEIGHT=18 VSPACE=0 HSPACE=0 BORDER=0
+                     alt="Register"
+                     SRC="/esi/image/front_register.gif"></A>
+
+<BR>
+            <IMG WIDTH=20 HEIGHT=20 VSPACE=10 HSPACE=0 BORDER=0
+                 SRC="/esi/image/d_green.gif">
+<BR>
+            <A HREF="/esi/corporate/jobs.asp">
+
+                 <IMG WIDTH=90 HEIGHT=39 VSPACE=0 HSPACE=0 BORDER=0
+                      alt="Employment Opportunties"
+                      SRC="/esi/image/front_employ.gif"></A>
+<P>
+<!-- XREF 
+            <A HREF="http://www.stockcenter.com/cgi-bin/qtviaget.cgi?ESRX">
+-->
+            <A HREF="http://www.nasdaq.com/scripts/redir.asp?symbol=ESRX">
+                  <IMG WIDTH=109 HEIGHT=35 VSPACE=0 HSPACE=0 BORDER=0
+                      alt="Stock Quote"
+                      SRC="/esi/image/front_stock.gif"><BR>
+                  <IMG WIDTH=80 HEIGHT=19 VSPACE=0 HSPACE=0 BORDER=0
+                      alt="NASDAQ"
+                      SRC="/esi/images/nasdaq.gif"></A>
+<BR>
+
+<!-- AD:  Microsoft Explorer -->
+        <font face="Arial, Helvetica" size="1">
+    <BR><BR>
+    <nobr><b>Best experienced with
+    <BR>
+       <a href="http://www.microsoft.com/ie/ie.htm">
+           <img src="/esi/images/ie_static.gif" width="88" height="31" border="0"
+                alt="Microsoft Internet Explorer"
+                align="middle" hspace="5"><BR></a>Click here to start.
+    </b></nobr>
+
+    <BR><BR>
+<!-- AD:  Netscape Navigator -->
+    <A HREF="http://home.netscape.com/comprod/mirror/index.html">
+    <IMG SRC="/esi/images/netscape.gif" WIDTH="88" HEIGHT="32" BORDER=0 ALT="Netscape Navigator"></A>
+    </font>
+
+    </TD>
+</TR>
+
+</TABLE>
+
+</CENTER>
+
+<HR>
+<CITE>Copyright &#169; 1997, Express Scripts, Inc.  All rights reserved.</CITE>
+<I>Comments to: <A HREF = "mailto:webmaster@express-scripts.com">webmaster@express-scripts.com</A>. 
+Please include your email address if you want a response.  Thanks for visiting!</I>
+</BODY>
+</HTML>
+

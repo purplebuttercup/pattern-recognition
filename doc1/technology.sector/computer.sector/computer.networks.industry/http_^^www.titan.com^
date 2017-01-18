@@ -1,0 +1,166 @@
+Server: Netscape-FastTrack/2.0
+Date: Fri, 21 Nov 1997 02:55:52 GMT
+Accept-ranges: bytes
+Last-modified: Thu, 06 Nov 1997 18:33:08 GMT
+Content-length: 7000
+Content-type: text/html
+
+<HTML>
+<HEAD>
+<BASE HREF="http://www.titan.com/titan.html">
+<TITLE>The Titan Corporation</TITLE>
+<meta name="KeyWords" content="medical device sterilization;
+electron beam technology; in-line sterilization; on-site system; satellite communications;
+defense systems; mini dama; dama capabilities; lst 8000; lst 5D; titan; titan corp; the titan corporation; titan linkabit; titan systems; titan scan;
+titan environmental; titan beta, pulse sciences inc; titan information systems; xpress connection; titan employment opportunities; titan eldyne;
+eldyne; titan unidyne; unidyne; titan research and technology">
+<SCRIPT Language="JavaScript">
+<!-- Hiding script from old browsers
+
+bName = navigator.appName;
+bVer = parseInt(navigator.appVersion);
+
+if      (bName == "Netscape" && bVer >= 3) ver = "n3";
+else if (bName == "Netscape" && bVer == 2) ver = "n2"; else if (bName == "Microsoft Internet Explorer" && bVer >= 2) ver = "e3";
+
+if (ver == "n3") {
+button0=new Image();
+button1=new Image();
+button10=new Image();
+button11=new Image();
+button12=new Image();
+button20=new Image();
+button21=new Image();
+button22=new Image();
+button30=new Image();
+button31=new Image();
+button32=new Image();
+button40=new Image();
+button41=new Image();
+button42=new Image();
+button50=new Image();
+button51=new Image();
+button52=new Image();
+button60=new Image();
+button61=new Image();
+button62=new Image();
+
+
+
+button0.src="/images/no_desc.gif";
+button1.src="/images/descr_link3.gif";
+button10.src="/images/news_blue.gif";
+button11.src="/images/news_red.gif";
+button12.src="/images/news_desc.gif";
+button20.src="/images/press_blue.gif";
+button21.src="/images/press_red.gif";
+button22.src="/images/press_desc.gif";
+button30.src="/images/ops_blue.gif";
+button31.src="/images/ops_red.gif";
+button32.src="/images/ops_desc.gif";
+button40.src="/images/emp_blue.gif";
+button41.src="/images/emp_red.gif";
+button42.src="/images/emp_desc.gif";
+button50.src="/images/invest_blue.gif";
+button51.src="/images/invest_red.gif";
+button52.src="/images/invest_desc2.gif";
+button60.src="/images/trade_blue.gif";
+button61.src="/images/trade_red.gif";
+button62.src="/images/descr_link3.gif";
+
+
+
+}
+
+timer = 0;
+
+function display(num) {
+	if (ver == "n3")   {
+		clearTimeout(timer);
+		if (num=="0") document.description.src=button0.src;
+		if (num=="10") document.news.src=button10.src;
+		if (num=="11") document.news.src=button11.src;
+		if (num=="12") document.description.src=button12.src;
+		if (num=="20") document.press.src=button20.src;
+		if (num=="21") document.press.src=button21.src;
+		if (num=="22") document.description.src=button22.src;
+		if (num=="30") document.ops.src=button30.src;
+		if (num=="31") document.ops.src=button31.src;
+		if (num=="32") document.description.src=button32.src;
+		if (num=="40") document.emp.src=button40.src;
+		if (num=="41") document.emp.src=button41.src;
+		if (num=="42") document.description.src=button42.src;
+		if (num=="50") document.invest.src=button50.src;
+		if (num=="51") document.invest.src=button51.src;
+		if (num=="52") document.description.src=button52.src;
+		if (num=="60") document.trade.src=button60.src;
+		if (num=="61") document.trade.src=button61.src;
+		if (num=="62") document.description.src=button62.src;
+	}
+}
+
+function changeback() {
+	if ( ver == "n3" ) {
+		document.description.src = button1.src;
+	}
+}
+//-->
+</SCRIPT>
+</HEAD>
+
+<BODY BGCOLOR=#FFFFFF LINK=#0036A6 VLINK=#7F007F>
+
+<CENTER>
+<IMG SRC="/images/titan_header.gif" ALT="The Titan Corporation" ALIGN=baseline WIDTH=522 HEIGHT=46>
+<BR>
+<IMG SRC="/images/titan_desc.gif" ALT="Titan provides sophisticated communications and information systems to large commercial and government customers." ALIGN=baseline WIDTH=522 HEIGHT=147>
+<P>
+
+<TABLE CELLSPACING=0 CELLPADDING=3 WIDTH=470 BORDER=0>
+<TR>
+<TD ALIGN=LEFT VALIGN=TOP>
+<A HREF="/news.html" onMouseOver="display(11);display(12);self.status = 'News Flash!'; return true " onMouseOut="display(10);timer=setTimeout('changeback()',500)"><IMG SRC="/images/news_blue.gif" ALT="News Flash!" ALIGN=baseline WIDTH=211 HEIGHT=22 BORDER=0 NAME="news"></A><BR>
+<A HREF="/pressreleases/" onMouseOver="display(21);display(22);self.status = '1995-1997 Press Releases'; return true " onMouseOut="display(20);timer=setTimeout('changeback()',500)"><IMG SRC="/images/press_blue.gif" ALT="Press Releases" ALIGN=baseline WIDTH=211 HEIGHT=22 BORDER=0 NAME="press"></A><BR>
+<A HREF="/offices/" onMouseOver="display(31);display(32);self.status = 'Titan Operations and Locations'; return true " onMouseOut="display(30);timer=setTimeout('changeback()',500)"><IMG SRC="/images/ops_blue.gif" ALT="Titan Operations and Locations" ALIGN=baseline WIDTH=211 HEIGHT=22 BORDER=0  NAME="ops"></A><BR>
+<A HREF="/jobs/" onMouseOver="display(41);display(42);self.status = 'Employment Opportunities'; return true " onMouseOut="display(40);timer=setTimeout('changeback()',500)"><IMG SRC="/images/emp_blue.gif" ALT="Employment Opportunities" ALIGN=baseline WIDTH=211 HEIGHT=22 BORDER=0 NAME="emp"></A><BR>
+<A HREF="/documents/corp/info.html" onMouseOver="display(51);display(52);self.status = 'Investor Information'; return true " onMouseOut="display(50);timer=setTimeout('changeback()',500)"><IMG SRC="/images/invest_blue.gif" ALT="Investor Information" ALIGN=baseline WIDTH=211 HEIGHT=22 BORDER=0 NAME="invest"></A><BR>
+<A HREF="/tradeshows/" onMouseOver="display(61);display(62);self.status = 'Trade Shows'; return true " onMouseOut="display(60);timer=setTimeout('changeback()',500)"><IMG SRC="/images/trade_blue.gif" ALT="Trade Show Information" ALIGN=baseline WIDTH=211 HEIGHT=22 BORDER=0 NAME="trade"></A><BR>
+</TD>
+<TD ALIGN=LEFT VALIGN=TOP>
+<A HREF="/linkabit/" onMouseOver="self.status = 'Titan Linkabit'; return true "><IMG SRC="/images/descr_link3.gif" ALIGN=baseline WIDTH=272 HEIGHT=121 BORDER=0 NAME="description"></A><BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+<FONT SIZE=2>
+[ <A HREF="/news.html">News Flash!</A> |
+<A HREF="/pressreleases/">Press Releases</A> |
+<A HREF="/offices/">Operations & Locations</A> |
+<A HREF="/jobs/">Employment</A> |
+<A HREF="/documents/corp/info.html">Investor Information</A> |
+<A HREF="/tradeshows/">Trade Shows</A> |
+<A HREF="/documents/titanindex.html">Index</A> |
+<A HREF="/documents/AT-titanquery.html">Search</A> ]
+</FONT>
+<BR>
+<HR WIDTH=480 SIZE=1 NOSHADE>
+<FONT SIZE=2>
+<STRONG>Date of Last Update to Site: November 6, 1997</STRONG><P>
+Questions? Comments? contact the
+<A HREF="mailto:webmaster@titan.com">webmasters@titan.com</A><A HREF="mailto:webmaster@titan.com"><img align=middle border="0" Alt="*" src="/images/spider.gif"></A>
+</FONT>
+<HR SIZE=6>
+<A HREF="/titannet/titannet.html">
+<IMG WIDTH=478 HEIGHT=45 BORDER="0" ALT="TitanNet"
+SRC="/images/titannet_home.gif"></A>
+<P>
+<FONT SIZE=2>
+<A HREF="http://www.titan.com/documents/copyright.html">Copyright &#169; 1997
+The Titan Corporation</A>. All rights reserved.<BR>
+</FONT>
+<HR ALIGN="CENTER" WIDTH="80%" SIZE="3">
+<HR ALIGN="CENTER" WIDTH="35%" SIZE="3">
+<HR ALIGN="CENTER" WIDTH="5%" SIZE="3">
+</CENTER>
+</BODY>
+</HTML>

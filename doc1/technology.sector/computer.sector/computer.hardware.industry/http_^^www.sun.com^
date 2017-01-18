@@ -1,0 +1,152 @@
+Server: Netscape-Enterprise/2.01
+Date: Thu, 20 Nov 1997 08:00:06 GMT
+Accept-ranges: bytes
+Last-modified: Wed, 19 Nov 1997 08:13:30 GMT
+Content-length: 4568
+Content-type: text/html
+
+<!-- HEAD_START -->
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Expires" CONTENT="July 1997 21:29:02 GMT">
+<TITLE>Sun Microsystems</TITLE>
+</HEAD>
+<BODY bgcolor="#ffffff" text="#000000" alink="#ff0000" vlink="#551a8b" link="#0000ee">
+<!-- HEAD_END -->
+<center><A HREF="/index.java.html"><SMALL>Java version</SMALL></A> |
+    <A HREF="/index.textonly.html"><SMALL>text-only version</SMALL></A></center>
+<p>
+
+<table cellspacing=0 cellpadding=0 border=0>
+<tr>
+<td valign=top align=right width=158><IMG src="/970923/hpimages/leftnav.gif" alt="Sun Site Navigation" USEMAP="#navbar" border=0 WIDTH=160 HEIGHT=409>
+
+</td>
+
+
+<!-- Center Graphic -->
+
+<td valign=top align=right width=266>
+<img src="/971111/sh11.11.97imap.gif" usemap="#cover" ismap height=403 width=266 border=0 alt="Sun Cover Stories">
+
+<map name="cover">
+<area shape=rect href="/971111/cover-100percent" coords="0,0 266,150">
+<area shape=rect href="/webtone" coords="0,151 266,270">
+<area shape=rect href="/roadtojava" coords="0,271 266,403">
+</map>
+
+</td>
+
+<td valign=top width=193 align=left>
+
+<FORM ACTION="/search/cgi/search.cgi" METHOD="POST">
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 width=193>
+<TR>
+<TD><STRONG><font face="helvetica">&nbsp;Search Sun's Site:</font></STRONG></TD></TR>
+<tr>
+<TD><center><INPUT TYPE="text" NAME="search" size=15>&nbsp;<INPUT TYPE="submit" VALUE="Search" ALIGN=CENTER border=0></center></TD></TR>
+<!-- close FORM at bottom to keep spacing closed -->
+</TABLE>
+
+
+<IMG src="/current/hpimages/hottopics.gif" alt="Hot Topics" border=0 WIDTH=193 HEIGHT=35>
+
+<table>
+<tr>
+<td width=3></td>
+<td>
+
+
+<b><font size=2 face=helvetica>
+<a href="/smi/Press/sunflash/9711/sunflash.971118.1.html">Sun Responds</a> to Microsoft Counterclaims
+<br><br>
+<a href="/desktop/products/Multimedia/SunVideoPlus">SunVideo Plus</a> - enhanced<br>digital media on Sun
+<br><br>
+This week on c|net Radio:<br>Sun's <a href="/access">Enabling Technologies</a>
+<br><br>
+Stop the Technology <a href="/971020/cover-ad">Madness</a>
+
+</font></b>
+</td>
+</tr>
+</table>
+
+
+<IMG src="/current/hpimages/newsinbrief.gif" alt="News In brief" border=0 WIDTH=193 HEIGHT=40>
+<table>
+<tr>
+<td width=3>&nbsp;</td>
+<td>
+
+<b><font face=helvetica size=-1>
+<a href="/smi/Press/sunflash/9711/sunflash.971117.4.html">ISO Members Approve Sun's PAS<br>Application</a> for Java Technology
+<br><br>
+<a href="/solaris/tradein2.html">Solaris Competitive OS Trade-in</a><br> promotion through Jan 31, 1998
+<br><br>
+Sun at <a href="/servers/news/sc97/">SC97</a>
+<br><br>
+New Data Center Server <a href="/servers/compete/">Consolidation Program</a>
+<br><br>
+Sun's Hottest Newsletter: Fall<br>Issue Now Available <a href="/corporateoverview/news/hottest">On-line</a>
+<br><br>
+InfoWorld Favorably Reviews<br><a href="/studio/iworld.html">Java Studio 1.0</a>
+<br><br>
+<a href="/logos/poweredbysun">Powered by Sun Logo Program</a>
+<br><br>
+<a href="/events">Trade Shows and Industry Events</a>
+<br><br>
+<a href="/sunsoft/Whats-new/">Software News</a>
+<br><br>
+<a href="/smi/Press">Recent Press Releases</a>
+</font></b>
+
+
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<center><a href="/moreinfo"><img src="/moreinfo/more.gif" alt="More Hot Topics and News in Brief" border=0></a></center>
+</td>
+</tr>
+
+</table>
+
+</td>
+</tr>
+</table>
+<br>
+
+
+<MAP name="navbar">
+<area shape="rect" coords="46,76 160,94" href="/java/">
+<area shape="rect" coords="16,98 160,116" href="/products-n-solutions/">
+<area shape="rect" coords="62,125 160,158" href="/service">
+<area shape="rect" coords="8,168 160,182" href="/tech/">
+<area shape="rect" coords="55,193 160,207" href="/developers/developers.html">
+<area shape="rect" coords="41,214 160,233" href="/corporateoverview/">
+<area shape="rect" coords="41,234 160,247" href="/corp_emp">
+<area shape="rect" coords="44,264 143,279" href="/sun-on-net/">
+<area shape="rect" coords="18,282 144,296" href="/sunworldonline/sun.index.html">
+<area shape="rect" coords="64,300 142,316" href="/backissues.html">
+<area shape="rect" coords="77,318 142,333" href="/sunsite/">
+<area shape="rect" coords="83,336 144,351" href="/smi/contacts.html">
+<area shape="rect" coords="114,355 144,371" href="/sales">
+<area shape="rect" coords="18,375 160,405" href="/worldwide">
+</map>
+
+
+</form>
+<!-- FOOT_START -->
+<HR>
+<FONT SIZE=2> Questions or comments regarding this service?
+<A HREF="/cgi-bin/comment-form.pl"><EM>webmaster@sun.com</EM></A>
+</FONT>
+<P>
+<H5><A HREF="/share/text/SMICopyright.html">Copyright</A> 1994-1997 Sun Microsystems, Inc., 901 San Antonio Road, Palo Alto, CA 94303 USA.  All Rights Reserved
+</H5>
+</BODY></HTML>
+<!-- FOOT_END -->
+
+
+

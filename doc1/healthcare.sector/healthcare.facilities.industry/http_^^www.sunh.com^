@@ -1,0 +1,141 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 18 Dec 1997 19:15:13 GMT
+Content-type: text/html
+Set-Cookie: ASPSESSIONID=HNORXVMWLJEDKJDI; path=/
+Cache-control: private
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Sun Healthcare Group, Inc. </title>
+<meta name="FORMATTER" content="Microsoft FrontPage 2.0">
+</head>
+
+<body stylesrc="_includes/style.htm"
+background="images/backgrd.jpg" bgcolor="#FFFFFF" link="#993399"
+vlink="#B43C0A" alink="#993399">
+<!--webbot bot="Include"
+u-include="_includes/header_homepage.htm" tag="BODY" startspan
+--><div align="left">
+
+<table border="0">
+    <tr>
+        <td><img src="images/space80.gif" width="80" height="10"></td>
+        <td align="center" width="500"><img
+        src="images/hdrSun.jpg" alt="Sun Healthcare Group, Inc."
+        width="360" height="72"><br>
+        &nbsp;</td>
+    </tr>
+</table>
+</div><!--webbot bot="Include" endspan i-checksum="56853" -->
+
+<table border="0">
+    <tr>
+        <td>&nbsp;</td>
+        <td align="center" valign="top"><a href="pages/about.htm"><img
+        src="images/butcomp.jpg" alt="About Our Company"
+        border="0" width="107" height="36"></a> </td>
+        <td align="center" valign="top" rowspan="4"><img
+        src="images/welcome.jpg" alt="Welcome Photo" border="2"
+        width="153" height="227"> </td>
+        <td align="center" valign="top"><a
+        href="pages/whatsnew.htm"><img src="images/news.jpg"
+        alt="What's New" border="0" width="107" height="35"></a> </td>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+        <td align="center" valign="top"><a
+        href="pages/investor.htm"><img src="images/butinves.jpg"
+        alt="Investor Information" border="0" width="107"
+        height="35"></a> </td>
+        <td align="center" valign="top"><a
+        href="pages/subsid.htm"><img src="images/butsubsi.jpg"
+        alt="Our Subsidiaries" border="0" width="107" height="35"></a>
+        </td>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+        <td align="center" valign="top"><a
+        href="pages/employ.htm"><img src="images/butjobs.jpg"
+        alt="Employment Opportunities" border="0" width="107"
+        height="35"></a> </td>
+        <td align="center" valign="top"><a
+        href="pages/sunrise.htm"><img
+        src="images/but_subacute.jpg"
+        alt="Skilled Nursing Facilities" border="0" width="108"
+        height="36"></a> </td>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+        <td align="center" valign="top"><a
+        href="pages/moreinfo.htm"><img
+        src="images/butmoreinfo.jpg" alt="More Information"
+        border="0" width="108" height="36"></a></td>
+        <td align="center" valign="top"><a
+        href="pages/sunbridge.htm"><img
+        src="images/assisted_living.jpg"
+        alt="Assisted Living Residences" border="0" width="108"
+        height="36"></a></td>
+    </tr>
+    <tr>
+        <td><img src="images/space80.gif" width="80" height="10"></td>
+        <td colspan="3" width="500" cellpadding="10"><h1
+        align="center">Sun Healthcare Group, Inc. </h1>
+        <p><b>Sun Healthcare Group, Inc. (NYSE: SHG) provides
+        high-quality long-term and subacute healthcare in
+        facilities in the United States and the United Kingdom.
+        Founded in 1989, the company has expanded dramatically
+        and is now the third largest contract rehabilitation
+        therapy provider, and one of the largest nursing home
+        operators in the United States. Sun's operations
+        encompass more than 300 inpatient facilities and nearly
+        30,000 beds worldwide. </b></p>
+        <p><b>If you, or someone you love, requires the services
+        of a long-term care or skilled nursing facility, we at
+        Sunrise Healthcare Corporation would like to help. Our
+        &quot;</b><a href="pages/sunrise.htm"><b>Skilled Nursing
+        Facilities</b></a><b>&quot; section will help you find a
+        nursing facility close to your home or with the special
+        services you require. </b></p>
+        <p><b>For more information about Sun Healthcare Group,
+        Inc., read &quot;</b><a href="pages/about.htm"><b>About
+        Our Company</b></a><b>&quot; or </b><a
+        href="pages/moreinfo.htm"><b>fill out this form</b></a><b>.</b>
+        </p>
+        </td>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+        <td colspan="3" width="500"><p align="center"><a
+        href="pages/about.htm"><font size="2">About</font></a><font
+        size="2"> | </font><a href="pages/investor.htm"><font
+        size="2">Investors</font></a><font size="2"> | </font><a
+        href="pages/employ.htm"><font size="2">Employment</font></a><font
+        size="2"><br>
+        </font><a href="pages/whatsnew.htm"><font size="2">What's
+        New</font></a><font size="2"> | </font><a
+        href="pages/subsid.htm"><font size="2">Subsidiaries</font></a><font
+        size="2"> | </font><a href="pages/sunrise.htm"><font
+        size="2">Skilled Nursing</font></a><font size="2"> | </font><a
+        href="pages/sunbridge.htm"><font size="2">Assisted Living</font></a><font
+        size="2"><br>
+        </font><a href="pages/moreinfo.htm"><font size="2">More
+        Info</font></a><font size="2"> </font></p>
+        <p><br>
+        </p>
+        <p><font size="1"><strong>©1997 Sun Healthcare Group,
+        Inc. <br>
+        Last Updated:</strong> <em><!--webbot bot="Timestamp"
+        s-type="EDITED" s-format="%B %d, %Y" startspan -->November
+        14, 1997<!--webbot bot="Timestamp" endspan
+        i-checksum="49445" --></em></font></p>
+        </td>
+    </tr>
+</table>
+</body>
+</html>

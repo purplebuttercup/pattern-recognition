@@ -1,0 +1,87 @@
+Server: Netscape-Commerce/1.12
+Date: Thursday, 18-Dec-97 11:39:06 GMT
+Content-type: text/html
+
+<HTML>
+<HEAD>
+  <TITLE>The Lion Account</TITLE>
+</HEAD>
+<BODY BGCOLOR="#cc9933" LINK="#660000" ALINK="#003333" VLINK="#003333" 
+BACKGROUND="../../shared/products/bckgrnds/products.gif">
+
+<MAP NAME="home_pro">
+    <AREA SHAPE="rect" COORDS="4,5,76,94" HREF="../../">
+</MAP>
+
+<MAP NAME="top">
+    <AREA SHAPE="rect" COORDS="288,17,333,46" HREF="../../potpourr/contact/">
+    <AREA SHAPE="rect" COORDS="227,18,267,42" HREF="../../potpourr/search/">
+    <AREA SHAPE="rect" COORDS="154,17,215,42" HREF="../../potpourr/">
+    <AREA SHAPE="rect" COORDS="79,16,139,43" HREF="../../assist/">
+    <AREA SHAPE="rect" COORDS="15,15,68,42" HREF="../">
+</MAP>
+
+<TABLE WIDTH="592" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+<TR>
+<TD WIDTH="2"><!-- &nbsp;&nbsp; --></TD>
+<TD WIDTH="82" VALIGN="TOP"><IMG SRC="../../shared/products/home_pro.gif" WIDTH="82" HEIGHT="126" ALIGN= "BOTTOM" NATURALSIZEFLAG="3" USEMAP="#home_pro" ISMAP BORDER="0"></TD>
+<TD WIDTH="508" VALIGN="TOP"><P>
+<TABLE WIDTH="508" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+<TR>
+<TD WIDTH="331" VALIGN="TOP">
+<IMG SRC="../../shared/products/top/top_lion.gif" WIDTH="331" HEIGHT="58" ALIGN="BOTTOM" NATURALSIZEFLAG="3" USEMAP="#top" ISMAP BORDER="0"></TD>
+<TD WIDTH="177" VALIGN="TOP">
+<IMG SRC="../../shared/products/lion/section.gif" WIDTH="177" HEIGHT="58" ALIGN="BOTTOM" NATURALSIZEFLAG="3" BORDER="0"></TD></TR></TABLE><BR>
+
+<BLOCKQUOTE>
+  <P><H2><FONT COLOR="#663300">The Lion Account</FONT><FONT COLOR="#663300"><SUP>SM</SUP></FONT></H2>
+
+</BLOCKQUOTE><H3><IMG SRC="../../shared/products/divider.gif" WIDTH="508" HEIGHT="10" ALIGN="BOTTOM" NATURALSIZEFLAG=
+"2"></H3>
+
+<BLOCKQUOTE>
+  <P>
+<B> The Lion Account</B><SUP>SM</SUP> is a new product from Dreyfus that will change the way we do business forever.  This account can empower you to rule your financial kingdom.
+</P>
+<P> The Lion Account offers you access to financial planning. You can set your financial goals and make  investment decisions with the help of a financial planning professional or by using self-help guides. These resources are available to you on an on-going basis.*</P>
+
+
+
+  <P>
+To carry out your plan, The Lion Account gives you the opportunity to invest in many types of investments.  You will have access to thousands of  mutual funds, including over one thousand no-loads, many without a transaction fee**, from well-known fund families such as Invesco, Janus, Neuberger & Berman, Strong and Robertson Stephens. In addition, you can buy and sell common and preferred stocks, options, as well as fixed income securities (Treasury, municipal, corporate and zero coupon bonds along with certificates of deposit).</P>
+ <P>
+Once your plan is in place, you will want to see how you are doing.  The Lion Account provides you with a single, consolidated statement of all your transactions.  It's simple to review each month's activities, follow the progress of your investments and monitor your financial situation.</P>
+  <P>
+With a broad array of services such as Direct Deposit, Dreyfus BillPay, Gold MasterCard Access Card, checks and more, The Lion Account can also simplify your day to day financial tasks.</P>
+  <P>
+We would like to show you how the The Lion Account will empower you to rule your financial kingdom. Order an <a href="../../cgi-bin/orderkit?FundCode=0873&FundName=The+Lion+Account&IraState=Y">information kit</A> including a Prospectus online or call 1-800-THE LION ext. 6501.  Read the Prospectus carefully before you invest.  The minimum initial investment to open a Lion Account is $10,000.
+</P>
+
+<P><B> To learn more about the Lion Account-check out how we've <A HREF="../../shock/">SHOCKED THE LION</A>. </B> </P> <P>If you don't have shockwave, click <A HREF="http://www.macromedia.com/shockwave/download/"><IMG SRC="../../shared/products/lion/shock.gif" WIDTH=88 HEIGHT=31 ALT="get shockwave"></A> to get it </P>
+<P>*Financial planning services are offered through Dreyfus Investment Advisors, Inc.</P>
+<P>**These transactions are subject to minimum purchase requirements and short-term redemption fees.  A transaction fee may be imposed in connection with purchases of certain no-load mutual funds. </P>
+</BLOCKQUOTE>
+
+
+<IMG SRC="../../shared/products/divider.gif" WIDTH="508" HEIGHT="10" ALIGN="BOTTOM" NATURALSIZEFLAG="2">
+
+
+<P ALIGN=CENTER><A HREF="../"><FONT SIZE=-1>PRODUCTS</FONT></A><FONT SIZE=-1>: | <A HREF="../mf/">Mutual Funds</A> | Lion Account<SUP><FONT SIZE=-2>SM</FONT></SUP></FONT><BR>
+<FONT SIZE=-1><A HREF="../annuity/">Variable Annuity</A></FONT>
+| <FONT SIZE=-1><A HREF="../retire/">Retirement Products</A>
+| <A HREF="../more/">More</A> | <A HREF="../prices/nav-retail.html">Daily
+Numbers</A></FONT></TD></TR>
+</TABLE>
+
+<BR>
+
+<TABLE WIDTH="592" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+<TR>
+<TD WIDTH="2"><!-- &nbsp;&nbsp; --></TD>
+<TD WIDTH="590" VALIGN="TOP"><IMG SRC="../../shared/products/bottom.gif" WIDTH="590" HEIGHT="6" ALIGN="BOTTOM" NATURALSIZEFLAG="3"></TD></TR>
+</TABLE>
+
+</TD></TR>
+</TABLE>
+</BODY>
+</HTML>

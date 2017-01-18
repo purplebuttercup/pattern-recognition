@@ -1,0 +1,50 @@
+Server: Netscape-Communications/1.1
+Date: Friday, 21-Nov-97 04:19:29 GMT
+Last-modified: Thursday, 26-Jun-97 19:55:30 GMT
+Content-length: 827
+Content-type: text/html
+
+<html>
+<head>
+<title>Vicor Web Site</title>
+</head>
+
+
+<!---->
+<frameset cols="160,*">
+
+      <frame src="/a/menu_site.html"
+            marginheight=5
+            marginwidth=5
+            name="menu">
+
+      <frame src="/a/vicor.html" name="display">
+
+</frameset>
+
+
+<!-------------------------------------------------->
+<noframes>
+<body background="/images/backgrnd.gif">
+
+<center>
+
+<table><tr><td align=center>
+
+<h2 align=center>WELCOME TO VICOR</h2>
+<img src="/images/vicorlogo.gif" width=111 height=32 alt="Vicor Logo">
+
+<br><br>
+
+Please click <a href="/a/vicor.html" target=_top>No Frames</a> to view the Vicor Web site without a frames-capable browser.<br><br>
+
+</td></tr></table>
+
+</center>
+
+</body>
+</noframes>
+<!-------------------------------------------------->
+
+
+</html>

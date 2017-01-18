@@ -1,0 +1,23 @@
+Date: Fri, 21 Nov 1997 02:27:53 GMT
+Server: Stronghold/1.3.4 Ben-SSL/1.3 Apache/1.1.3
+Content-type: text/html
+Content-length: 592
+Last-modified: Sat, 28 Jun 1997 03:34:07 GMT
+
+<HTML>
+<HEAD>
+   <TITLE>Computer Marketplace Home Page</TITLE>
+   <META NAME="Author" CONTENT=Lee Kiley">
+</HEAD>
+<FRAMESET COLS="154,*" BORDER=5 BORDERCOLOR="#0000FF">
+  <FRAMESET ROWS="170,*,60" BORDER=0 NORESIZE>
+    <FRAME SRC="Frame2.htm" NAME="frame2" WIDTH=146 HEIGHT=162 SCROLLING=NO BORDER=0
+     MARGINWIDTH=1 MARGINHEIGHT=1 NORESIZE>
+    <FRAME SRC="Frame1.htm" NAME="frame1">
+     <FRAME SRC="Menu_bar.htm" NAME="menu" SCROLLING=NO MARGINWIDTH=0 MARGINHEIGHT=0 NORESIZE></A>
+    </FRAMESET>
+  <FRAME SRC="Content.htm" NAME="content">
+</FRAMESET>
+
+</BODY>
+</HTML>

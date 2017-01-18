@@ -1,0 +1,36 @@
+Server: Microsoft-IIS/3.0
+Date: Fri, 21 Nov 1997 03:52:39 GMT
+Content-type: text/html
+Set-Cookie: ENTRYPOINT=68384; expires=Fri, 21-Nov-1997 08:00:00 GMT; path=/
+Set-Cookie: ASPSESSIONID=HNPGECTNAGFZAJZV; path=/
+Cache-control: private
+
+
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Stac Products</title>
+</head>
+
+<body bgcolor="#FFFFFF">
+
+<div align=center><center><img src="images/Soliton_summary_pg.gif" ismap usemap="#ordmantell" border="0"></center></div>
+<map name="ordmantell">
+<area shape="rect" coords="0,0,494,90" href="http://www.soliton.co.jp/" alt="Soliton">
+<area shape="rect" coords="6,129,333,145" href="http://www.soliton.co.jp/wg/replica/replica.html 
+" alt="Replica">
+<area shape="rect" coords="6,163,446,181" href="http://www.soliton.co.jp/r&d/reach7.html" alt="ReachOut 7">
+<area shape="rect" coords="6,203,446,225" href="http://www.soliton.co.jp/r&d/reach.html" alt="ReachOut 5">
+
+</map>
+
+
+
+
+</body>
+</html>

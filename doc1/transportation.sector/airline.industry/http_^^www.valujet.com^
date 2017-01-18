@@ -1,0 +1,43 @@
+Server: Netscape-Commerce/1.12
+Date: Thursday, 20-Nov-97 15:45:30 GMT
+Last-modified: Wednesday, 24-Sep-97 01:02:39 GMT
+Content-length: 1220
+Content-type: text/html
+
+<!doctype html public "-//IETF//DTD HTML 3.2//EN">
+<html>
+<head>
+
+<title>Welcome To AirTran Airlines</title>
+
+<!--## Created: Tuesday, September 23, 1997, 6:03 PM ##-->
+<!--## Updated: <INSERT DATE(LONG,hourOffset) <INSERT TIME(hourOffset)> ##-->
+
+<!--## Designed and coded by Interweb, Inc. ##-->
+<!--##           http://www.iweb.net                 ##-->
+ 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Author" content="Interweb">
+<meta name="Relpy-to" content="info@iweb.net">
+<meta http-equiv="Refresh" content="15; URL=html/frame.html">
+
+</head>
+<body text="#000000" link="#990000" vlink="#330066" alink="#66ff00" bgcolor="#006666">
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" height="100%">
+<tr>
+<td valign="center" align="center">
+
+<table border="0" cellpadding="0" cellspacing="0" width="413">
+<tr>
+	<td valign="center"><img src="images/3.gif" alt="" width="117" height="20" border="0"></td><td><a href="html/frame.html"><img src="images/animation3.gif" alt="" width="178" height="187" border="0"></a></td><td valign="center"><img src="images/o.gif" alt="" width="117" height="20" border="0"></td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+
+</body>
+</html>

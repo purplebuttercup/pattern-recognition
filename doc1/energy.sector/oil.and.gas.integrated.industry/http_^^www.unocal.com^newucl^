@@ -1,0 +1,48 @@
+Date: Wed, 19 Nov 1997 23:37:08 GMT
+Server: Apache/1.2.4
+Connection: close
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+<TITLE> </TITLE>
+</HEAD>
+<BODY background="/images/newback.gif" link="750000" vlink="0000A0">
+
+
+<blockquote>
+<TABLE BORDER=0>
+  
+     <TR>
+          <TD width=180 valign=top><B><center>Unocal Corporation is now the world's largest publicly traded independent exploration and production company. With the completion of the sale of its West Coast U.S. refining, marketing and transportation assets, the new Unocal will concentrate on aggressive expansion into international energy project development in Asia and launch an intensive U.S. Gulf Coast exploration program.</B></TD>
+          <TD width=370 valign=top><center><IMG SRC="/images/newtop.gif" width=294 height=131 alt="A New Unocal" ><P>
+<IMG SRC="/images/newucl2.gif" USEMAP="#newucl" border=0>
+<MAP NAME="newucl">
+<!-- #$-:Image Map file created by Map THIS! -->
+<!-- #$-:Map THIS! free image map editor by Todd C. Wilson -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:1.20 -->
+<!-- #$DATE:Fri May 02 10:37:35 1997 -->
+<!-- #$PATH:O:\WEBHTML\newucl\images\ -->
+<!-- #$GIF:Table.gif -->
+<AREA SHAPE=RECT COORDS="0,0,85,111" HREF=letter.htm>
+<AREA SHAPE=RECT COORDS="87,0,275,124" HREF=ahead.htm>
+<AREA SHAPE=RECT COORDS="1,112,86,213" HREF=strong.htm>
+<AREA SHAPE=RECT COORDS="87,126,275,214" HREF=world.htm>
+<AREA SHAPE=RECT COORDS="1,215,275,255" HREF=assets.htm>
+</MAP></TD>
+     </TR>
+<td colspan=2><IMG SRC="/images/uclbar.jpg"></td><tr>
+
+ <TD colspan=2 valign=top><center><font size=-1><A HREF="letter.htm">CEO Letter</A> | <A HREF="ahead.htm">Looking Ahead</A> | <A HREF="strong.htm">Unocal's Strengths</A> | <A HREF="world.htm">Unocal's World</A> | <A HREF="assets.htm">Unocal's Assets</A><P>
+<A HREF="/">Back to Unocal Home Page</A></TD>
+     </TR>
+<TR>
+          <TD width=180></TD>
+          <TD width=370><BR>
+</TD>
+     </TR>
+</TABLE>
+
+</BODY>
+</HTML>

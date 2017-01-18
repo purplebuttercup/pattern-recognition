@@ -1,0 +1,77 @@
+Server: Netscape-Enterprise/2.01
+Date: Thu, 20 Nov 1997 15:48:05 GMT
+Accept-ranges: bytes
+Last-modified: Mon, 21 Jul 1997 14:28:54 GMT
+Content-length: 2248
+Content-type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<!-- Created by Modem Media -->
+
+<HTML>
+
+<HEAD>
+
+<META NAME="keywords" CONTENT="SkyMiles: You can enroll instantly, check 
+your SkyMiles account balance or create a Delta Personal Identification 
+Number (PIN).  Read the Membership Guide And Program Rules. Read Delta 
+SkyLines&#174; The Delta SkyMiles Newsletter.  Apply online for the Delta 
+SkyMiles Credit Cards from American Express. SkyRewards and SkyMiles Dining 
+Program information.">
+
+ <TITLE>
+Delta SkyLinks Home Page
+ </TITLE>
+
+<BASE TARGET="_top">
+
+</HEAD>
+
+<FRAMESET ROWS="*,51" NAME="main">
+	<FRAME SRC="/home/home.htm" NAME="body" MARGINHEIGHT="0" MARGINWIDTH="0" SCROLLING="Auto" NORESIZE>
+	<FRAME SRC="/home/bottom.html" NAME="bottom" MARGINHEIGHT="0" MARGINWIDTH="0" SCROLLING="No" NORESIZE>
+</FRAMESET>
+
+<NOFRAMES>
+
+<BODY BGCOLOR="#FFFFFF">
+
+<P ALIGN="center">
+<IMG SRC="/images/home/delsky.gif" WIDTH="433" HEIGHT="77" BORDER="0" 
+ALT="Delta SkyLinks Header">
+</P>
+
+<P ALIGN="center">
+<IMG SRC="/images/home/cityscap_old.gif" WIDTH="301" HEIGHT="88" BORDER="0" 
+ALT="CityScape"> 
+</P>
+
+<BR><BR>
+In order to provide our customers with the optimal experience, 
+we have designed the Delta Air Lines site using frames technology. This 
+means that it will be easier for you to navigate through the site and 
+download time will be considerably reduced. 
+<BR><BR>
+Consequently, you can only view this site if you are using a 
+browser that supports frames. <B>If you are seeing 
+this page, your browser does NOT support frames.</B>
+You will have to upgrade your browser to move further into SkyLinks.
+<BR><BR>
+Browsers that may be used include <A 
+HREF="http://www.netscape.com/comprod/mirror/index.html">Netscape 
+Navigator 3.0</A> and <A HREF="http://www.microsoft.com/ie">Microsoft Internet 
+Explorer 3.0</A>. If you are using <A HREF="http://www.aol.com/try/">America 
+Online</A>, please be sure that you've upgraded to version 3.0.
+
+<P ALIGN="center">
+<A HREF="http://www.netscape.com/comprod/mirror/index.html"><IMG 
+SRC="/images/home/netnow3.gif" ALT="Netscape 3.0" BORDER="0"></A>
+<A HREF="http://www.microsoft.com/ie"><IMG SRC="/images/home/explorer.gif" 
+ALT="Explorer 3.0" BORDER="0"></A>
+</P>
+
+</BODY>
+
+</NOFRAMES>
+
+</HTML>

@@ -1,0 +1,229 @@
+Date: Thu, 18 Dec 1997 21:08:20 GMT
+Server: Apache/1.2.4
+Last-Modified: Mon, 15 Dec 1997 20:24:28 GMT
+ETag: "3bd25-1bfa-349591fc"
+Content-Length: 7162
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<html>
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Energynorth, Inc. Customer Feedback Form</title>
+<meta name="FORMATTER" content="Microsoft FrontPage 2.0">
+</head>
+
+<body bgcolor="#FFFFFF">
+
+<h1 align="center"><font color="#0000FF">EnergyNorth, Inc. <br>
+Customer Feedback Form</font></h1>
+
+<hr>
+
+<p>Tell us what you think about our web site, our products, our
+organization, or anything else that comes to mind. We welcome all
+of your comments and suggestions.</p>
+<!--webbot bot="GeneratedScript" preview=" " startspan --><script
+language="JavaScript"><!--
+function FrontPage_Form1_Validator(theForm)
+{
+
+  if (theForm.Name.value == "")
+  {
+    alert("Please enter a value for the \"name\" field.");
+    theForm.Name.focus();
+    return (false);
+  }
+
+  if (theForm.Name.value.length < 1)
+  {
+    alert("Please enter at least 1 characters in the \"name\" field.");
+    theForm.Name.focus();
+    return (false);
+  }
+
+  if (theForm.Name.value.length > 256)
+  {
+    alert("Please enter at most 256 characters in the \"name\" field.");
+    theForm.Name.focus();
+    return (false);
+  }
+
+  var checkOK = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz, . ' - \t\r\n\f";
+  var checkStr = theForm.Name.value;
+  var allValid = true;
+  for (i = 0;  i < checkStr.length;  i++)
+  {
+    ch = checkStr.charAt(i);
+    for (j = 0;  j < checkOK.length;  j++)
+      if (ch == checkOK.charAt(j))
+        break;
+    if (j == checkOK.length)
+    {
+      allValid = false;
+      break;
+    }
+  }
+  if (!allValid)
+  {
+    alert("Please enter only letter, whitespace and \", . ' -\" characters in the \"name\" field.");
+    theForm.Name.focus();
+    return (false);
+  }
+
+  if (theForm.Email.value == "")
+  {
+    alert("Please enter a value for the \"e-mail\" field.");
+    theForm.Email.focus();
+    return (false);
+  }
+
+  if (theForm.Email.value.length < 1)
+  {
+    alert("Please enter at least 1 characters in the \"e-mail\" field.");
+    theForm.Email.focus();
+    return (false);
+  }
+
+  if (theForm.Email.value.length > 256)
+  {
+    alert("Please enter at most 256 characters in the \"e-mail\" field.");
+    theForm.Email.focus();
+    return (false);
+  }
+
+  var checkOK = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-@ . - _ \t\r\n\f";
+  var checkStr = theForm.Email.value;
+  var allValid = true;
+  for (i = 0;  i < checkStr.length;  i++)
+  {
+    ch = checkStr.charAt(i);
+    for (j = 0;  j < checkOK.length;  j++)
+      if (ch == checkOK.charAt(j))
+        break;
+    if (j == checkOK.length)
+    {
+      allValid = false;
+      break;
+    }
+  }
+  if (!allValid)
+  {
+    alert("Please enter only letter, digit, whitespace and \"@ . - _\" characters in the \"e-mail\" field.");
+    theForm.Email.focus();
+    return (false);
+  }
+
+  if (theForm.Telephone.value.length < 7)
+  {
+    alert("Please enter at least 7 characters in the \"telephone\" field.");
+    theForm.Telephone.focus();
+    return (false);
+  }
+
+  if (theForm.Telephone.value.length > 256)
+  {
+    alert("Please enter at most 256 characters in the \"telephone\" field.");
+    theForm.Telephone.focus();
+    return (false);
+  }
+
+  var checkOK = "0123456789-( ) -";
+  var checkStr = theForm.Telephone.value;
+  var allValid = true;
+  for (i = 0;  i < checkStr.length;  i++)
+  {
+    ch = checkStr.charAt(i);
+    for (j = 0;  j < checkOK.length;  j++)
+      if (ch == checkOK.charAt(j))
+        break;
+    if (j == checkOK.length)
+    {
+      allValid = false;
+      break;
+    }
+  }
+  if (!allValid)
+  {
+    alert("Please enter only digit and \"( ) -\" characters in the \"telephone\" field.");
+    theForm.Telephone.focus();
+    return (false);
+  }
+  return (true);
+}
+//--></script><!--webbot bot="GeneratedScript" endspan -->
+<form action="http://www.empire.net/cgi-bin/formmail.pl"
+method="POST" onsubmit="return FrontPage_Form1_Validator(this)"
+name="FrontPage_Form1">
+    <input type="hidden" name="recipient"
+    value="netkovick@energynorth.com"><input type="hidden"
+    name="redirect" value="http://www.energynorth.com/thanks.htm"><input
+    type="hidden" name="subject"
+    value="Energynorth Response Form"><p><strong>What about us do
+    you want to comment on?</strong></p>
+    <dl>
+        <dd><select name="Subject" size="1">
+                <option selected>Web Site</option>
+                <option>Company</option>
+                <option>Products</option>
+                <option>Store</option>
+                <option>Employee</option>
+                <option>(Other)</option>
+            </select> Other: <input type="text" size="26"
+            maxlength="256" name="SubjectOther"></dd>
+    </dl>
+    <p><strong>Enter your comments in the space provided below:</strong></p>
+    <dl>
+        <dd><textarea name="Comments" rows="5" cols="42"
+            wrap="physical"></textarea></dd>
+    </dl>
+    <p><strong>Tell us how to get in touch with you:</strong></p>
+    <dl>
+        <dd><pre>Name     <!--webbot bot="Validation"
+s-display-name="name" s-data-type="String" b-allow-letters="TRUE"
+b-allow-whitespace="TRUE" s-allow-other-chars=", . ' -"
+b-value-required="TRUE" i-minimum-length="1"
+i-maximum-length="256" --><input type="text" size="35"
+maxlength="256" name="Name">
+E-mail   <!--webbot bot="Validation" s-display-name="e-mail"
+s-data-type="String" b-allow-letters="TRUE" b-allow-digits="TRUE"
+b-allow-whitespace="TRUE" s-allow-other-chars="@ . - _"
+b-value-required="TRUE" i-minimum-length="1"
+i-maximum-length="256" --><input type="text" size="35"
+maxlength="256" name="Email">
+Tel      <!--webbot bot="Validation" s-display-name="telephone"
+s-data-type="String" b-allow-digits="TRUE"
+s-allow-other-chars="( ) -" i-minimum-length="7"
+i-maximum-length="256" --><input type="text" size="35"
+maxlength="256" name="Telephone">
+FAX      <input type="text" size="35" maxlength="15" name="FAX"> </pre>
+        </dd>
+    </dl>
+    <dl>
+        <dd><input type="checkbox" name="ContactRequested"
+            value="ContactRequested"> Please contact me as soon
+            as possible regarding this matter.</dd>
+    </dl>
+    <p><input type="submit" value="Submit Comments"> <input
+    type="reset" value="Clear Form"></p>
+</form>
+
+<hr>
+
+<h5>Copyright © 1997 EnergyNorth, Inc. <br>
+All rights reserved.<br>
+Revised: <!--webbot bot="TimeStamp" s-type="EDITED"
+s-format="%B %d, %Y" startspan -->December 15, 1997<!--webbot
+bot="TimeStamp" endspan i-checksum="41183" -->. <script
+language="JavaScript"><!--
+// Webs Unlimited's J-BOTS Generator version 1.1
+// Copyright Webs Unlimited 1997 All rights reserved - http://WebsUnlimited.com
+var i = 0;var Speed = 200;TextInput = new Object();TotalTextInput = 0;TextInput[0]= "Please fill in ALL the applicable entries. Thank you!";
+var timer; var nspace = 100;var msg = '';function startBanner(i) { clearTimeout(timer); for (i =0 ; i < TotalTextInput+1; i++) { msg = msg + ' ' + TextInput[i]; } for (i=0; i < nspace; i++) { msg=' ' + msg; } scrollMe(); }function scrollMe() { window.status = msg; msg = msg.substring(1, msg.length) +  msg.substring(0,1); timer = setTimeout('scrollMe()',Speed ); }startBanner();
+// --></script></h5>
+</body>
+</html>

@@ -1,0 +1,121 @@
+Date: Thu, 18 Dec 1997 11:33:33 GMT
+Server: NCSA/1.5.2
+Last-modified: Wed, 17 Dec 1997 23:40:37 GMT
+Content-type: text/html
+Content-length: 3972
+
+<HTML>
+<HEAD>
+<TITLE>Equus II Incorporated</TITLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Beginning of JavaScript Applet -------------------
+function scrollit_r2l(seed)
+{
+        var m1  = "NAV per share at 12/17/97 - $29.04";
+<!--         var m2  = "Insert NAV information here........."; -->
+<!--         var m3  = "Insert NAV information here........."; -->
+<!--         var m4  = "Insert NAV information here........."; -->
+
+        var msg=m1;
+        var out = " ";
+        var c   = 0;
+        if (seed > 100) {
+                seed--;
+                var cmd="scrollit_r2l(" + seed + ")";
+                timerTwo=window.setTimeout(cmd,50);
+        }
+        else if (seed <= 100 && seed > 0) {
+                for (c=0 ; c < seed ; c++) {
+                        out+=" ";
+                }
+                out+=msg;
+                seed--;
+                var cmd="scrollit_r2l(" + seed + ")";
+                    window.status=out;
+                timerTwo=window.setTimeout(cmd,50);
+        }
+        else if (seed <= 0) {
+                if (-seed < msg.length) {
+                        out+=msg.substring(-seed,msg.length);
+                        seed--;
+                        var cmd="scrollit_r2l(" + seed + ")";
+                        window.status=out;
+                        timerTwo=window.setTimeout(cmd,50);
+                }
+                else {
+                        window.status=" ";
+                        timerTwo=window.setTimeout("scrollit_r2l(50)",75);
+                }
+        }
+}
+// -- End of JavaScript code -------------- -->
+</SCRIPT>
+</head>
+<BODY BACKGROUND="graphics/equusbak.jpg" BGPROPERTIES=FIXED BGCOLOR="#FFFFFF" LINK="#FF0000" VLINK="#0000FF"
+onLoad="timerONE=window.setTimeout('scrollit_r2l(50)',100);">
+<P>
+<CENTER><IMG SRC="graphics/equuslogo.gif"></CENTER>
+<P>
+<CENTER><B><FONT SIZE=5 COLOR=#0000FF>Equus II Incorporated (AMEX - "EQS")<BR>
+</FONT></B></CENTER>
+<P>
+<FONT SIZE=3 FACE="Arial">Equus II Incorporated is a business
+development company that trades as a closed-end fund on the American
+Stock Exchange, under the symbol &quot;EQS&quot;. The Fund seeks
+to generate long-term capital gains by making equity investments
+in small to medium-sized privately-owned companies. The current
+portfolio consists of investments in 27 businesses in various
+industries throughout the United States. Nine companies in the
+portfolio, whose values represent approximately 70% of the net
+assets at September 30, 1997, are publicly traded.<BR>
+</FONT>
+<P>
+<FONT SIZE=3 FACE="Arial">Current NAV as of 12/17/97:  <SUP>$</SUP>29.04
+<P>
+<FONT SIZE=3 FACE="Arial">Closing Market as of
+12/17/97:  <SUP>$</SUP>23.00
+<!-- <P> <A HREF="http://quote.yahoo.com/quotes?symbols=EQS&detailed=f&options=s"> Equus II stock prices from
+Yahoo</A> -->
+<P>
+<FONT SIZE=5 COLOR=#FF0000 FACE="Arial"><A HREF="e2_gener.html">General Information</A>
+<BR>
+</FONT>
+<P>
+<FONT SIZE=5 COLOR=#FF0000 FACE="Arial"><A HREF="e2recent.html"> Recent Press Releases</A><BR>
+</FONT>
+<P>
+<FONT SIZE=5 COLOR=#FF0000 FACE="Arial"><A HREF="eq2_dir.html">Directors</A>
+<BR>
+</FONT>
+<P>
+<FONT SIZE=5 COLOR=#FF0000 FACE="Arial"><A HREF="eq2_man.html">Management</A>
+<BR>
+</FONT>
+<P>
+<FONT SIZE=5 COLOR=#FF0000 FACE="Arial"><A HREF="e2_finan.html">Financial Information</A>
+<BR>
+</FONT>
+<P>
+<FONT SIZE=5 COLOR=#FF0000 FACE="Arial"><A HREF="stock.html">Current Stock Price and Company Profile</A>
+<BR>
+</FONT>
+<HR>
+<TABLE>
+<TR><TD WIDTH=60><A HREF="index.html"><IMG BORDER=0 ALIGN=MIDDLE  SRC="graphics/back2.gif"></A>
+</TD><TD WIDTH=439><A HREF="index.html">To return to Equus' home page, click this icon.</A>
+</TD></TR>
+<TR><TD WIDTH=60><IMG ALIGN=MIDDLE SRC="graphics/email.gif">
+</TD><TD WIDTH=439>To send mail to Equus <A HREF="mailto:cohen@equuscap.com">click here</A>.
+</TD></TR>
+</TABLE>
+<HR>
+<P>
+To send mail to the creator of this page click here:
+<P>
+<CENTER><BLINK><A HREF="mailto:jgary@cpy.com"  <I>jgary@cpy.com</A>
+<BR>
+</BLINK> </CENTER>
+</BODY>
+</HTML>
+
+

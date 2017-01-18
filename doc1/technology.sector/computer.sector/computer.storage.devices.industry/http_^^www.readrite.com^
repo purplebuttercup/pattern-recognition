@@ -1,0 +1,96 @@
+Date: Fri, 21 Nov 1997 03:36:25 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+
+<html>
+<head>
+<title>Read-Rite</title>
+<META  Name="description" Content="World's leading independent manufacturer of recording heads and headstack assemblies for disk drives and magnetoresistive heads for quarter inch cartridge tape drives.">
+
+<META Name="keywords" Content="inductive, magnetoresistive, magnetic, recordings, thin film, heads, manufacturing, Business, Computer, Dealers, ReadRite, Read-Rite, Supplies Technology ">
+
+</head>
+<body bgcolor="#ffffff">
+<script language = "JavaScript">
+
+<!-- 
+
+
+        function Form_Handler(){
+        
+
+         var dest = document.navigate.section.options[document.navigate.section.selectedIndex].value
+
+         window.location.href = dest        }
+         
+
+// -->
+
+</script>
+
+<center>
+
+<img src="images/cover/logo.gif" border="0" alt="Read-Rite Corporation">
+
+<table border="0">
+<tr>
+<td valign="MIDDLE">
+<a href="html/whatnew.htm"><img src="images/cover/whatnew.gif" border="0" alt="What's New"></a><br><br><br>
+<a href="html/corpview.htm"><img src="images/cover/corpview.gif" border="0" alt="Corporate Overview"></a>
+<td>
+
+<td nowrap valign="MIDDLE"><img src="images/cover/photo1.gif" border="0"> 
+<img src="images/cover/photo2.gif" border="0"><br>
+<img src="images/cover/photo3.gif" border="0">
+<img src="images/cover/photo4.gif" border="0">
+</td>
+
+<td valign="MIDDLE">
+<a href="html/investor.htm"><img src="images/cover/investor.gif" border="0" alt="Investor Relations"></a><br><br>
+<a href="html/tech.htm"><img src="images/cover/tech.gif" border="0" alt="Technology"></a><br><br>
+<a href="html/employ.htm"><img src="images/cover/employ.gif" border="0" alt="Employment"></a>
+</td>
+</tr>
+</table>
+
+<img src="images/cover/words.gif" border="0"><BR>
+
+<form name = "navigate" method ="get" action="cgi-script/redirect.cgi">
+<SELECT NAME="section" SIZE=1 onChange ="Form_Handler()">
+<OPTION SELECTED>Our sites around the world
+<OPTION VALUE="http://www.readrite.com/html/corpview/japan.htm">Japan
+<OPTION VALUE="http://www.readrite.com/html/corpview/malaysia.htm">Malaysia
+<OPTION VALUE="http://www.readrite.com/html/corpview/philipp.htm">Philippines
+<OPTION VALUE="http://www.readrite.com/html/corpview/singpore.htm">Singapore
+<OPTION VALUE="http://www.readrite.com/html/corpview/thailand.htm">Thailand
+<OPTION VALUE="http://www.readrite.com/html/corpview/usa.htm">U.S.A.
+</SELECT>
+<INPUT TYPE=submit VALUE="GO!">
+</form>
+
+</center>
+
+<blockquote>
+<hr noshade>
+<font size="2">
+As you view Read-Rite Corporation's home page and the information it contains, you may come across projections or other forward looking statements regarding future events or the future financial performance of the company.  Read-Rite would like to caution you that such statements are predictions only and that actual events or results may differ materially.  We refer you to the documents the company files from time-to-time with the Securities and Exchange Commission, specifically the company's last filed Form 10-K and or Form 10-Q and the Certain Additional Business Risks section.  These and other documents, which are included in the home page, contain and identify important factors that could cause the actual results to differ materially from those contained in the company's projections or forward looking statements.
+</font></br>
+
+<hr noshade>
+
+<center><h4><font color="#FF0000">You are visitor number:</font> 48504</h4></center>
+</blockquote>
+<p>
+<center>
+<table>
+<td align=center nowrap>
+<a href="http://www.sec.gov/edgarhp.htm"><img src="images/bar_logo/sec.gif" border="0" alt="SEC EDGAR Database"></a><a href="http://www.nasdaq.com/scripts/html3/fquote.idc?symname=RDRT"><img src="images/bar_logo/nasdaq.gif" border="0" alt="Nasdaq"></a><a href="http://www.firstcall.com"><img src="images/bar_logo/firstcll.gif" border="0" alt="First Call"></a><a href="http://www.cmssonline.com/"><img src="images/bar_logo/chase.gif" border="0" alt="Chase Mellon"><a/><a href="http://www.prnewswire.com"><img src="images/bar_logo/prnglobe.gif" border="0" naturalsizeflag="0" alt="PRNEWS"></a></td>
+</table>
+</center>
+<br>
+
+</body>
+</html>
+
+
+

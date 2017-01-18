@@ -1,0 +1,30 @@
+Server: Netscape-Enterprise/3.0
+Date: Thu, 20 Nov 1997 16:10:40 GMT
+Content-type: text/html
+Connection: close
+
+<title>Search the Norfolk Southern Web Site</title>
+<h1>Search the Norfolk Southern Web Site</h1>
+<hr><form method="POST" action="http://www.nscorp.com/cgi-bin/wwwwais">
+This lets you search our Web site by entering key words below. If entering more than one word, you may use <B>and, or</B>, and <B>not</B> to refine your search.  For example, <b>railroad and track</b> returns all documents with <I>both</I> words in them; <b>railroad or track</b> returns all documents with <I>either</I> word, and <b>railroad not track</b> returns only documents with <I>railroad</I> that exclude <I>track</I>.<br>
+<b>Note:</b> <i>This service can only be used from a forms-capable browser.</i><p>
+Enter keyword(s): <input type=text name="keywords" value="" size=30> <input type=submit value="  Search  "> <input type=reset value="  Reset  ">
+<p>
+<br>Documents may be retrieved either in their original form or
+	with the key words in <B>boldface</B>. (Preformatted text will not appear in boldface.)<br><br>
+Select an index to search: <select name="selection">
+<option selected> Search NSCORP's Web (plain results)
+<option> Search NSCORP's Web (bolded results)
+</select>
+<p>
+<input type=hidden name=message value="If you can see this, then your browser can't support hidden fields.">
+<input type=hidden name=source value="index.src">
+<input type=hidden name=sourcedir value="/usr/ns-home/docs/wais/">
+<input type=hidden name=maxhits value="60">
+<input type=hidden name=sorttype value="score">
+<input type=hidden name=host value="">
+<input type=hidden name=port value="">
+<input type=hidden name=searchprog value="waisq">
+<input type=hidden name=iconurl value="http://www.nscorp.com/nscorp/html/wwwicons">
+<input type=hidden name=useicons value="yes">
+</form><hr>

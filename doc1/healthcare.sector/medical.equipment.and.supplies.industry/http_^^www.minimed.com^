@@ -1,0 +1,100 @@
+Server: Netscape-Communications/1.1
+Date: Thursday, 18-Dec-97 20:13:51 GMT
+Last-modified: Thursday, 04-Dec-97 19:33:14 GMT
+Content-length: 3374
+Content-type: text/html
+
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>MiniMed Web</TITLE>
+</HEAD>
+<BODY BACKGROUND="images/bkgrd_a.jpg" BGCOLOR=#ffffff TEXT="#000000" LINK="#3300ff" VLINK="#cc0000">
+
+<!-- MAIN TABLE -->
+<CENTER>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=12>
+
+<!-- NAVIGATION -->
+<TR><TD ROWSPAN=100 WIDTH=110 VALIGN=top ALIGN=center>
+
+<IMG SRC="images/logo_an1.gif" ALIGN=top VSPACE=10 ALT=Logo><BR>
+
+<A HREF="cgi/nav1.map"><IMG SRC="images/nav_01.gif" BORDER=0 ALIGN=top ALT=Navigation ISMAP USEMAP="#nav1"></A>
+</TD>
+
+<!-- TITLE -->
+<TD VALIGN=TOP>
+<IMG SRC="images/logo_28.gif" ALT="MiniMed Web"> <BR>
+<B>The HomePage for Insulin Pump Therapy</B>
+<HR ALIGN=Left WIDTH=60%>
+<P>
+
+<!-- COPY -->
+<CENTER>
+<B><A HREF="files/specl_01.htm">Year End Special!</A></B><BR>
+ - Order infusion sets <BLINK><B><FONT COLOR=red>NOW</FONT></B></BLINK>, and receive a choice of gifts! -
+</CENTER>
+<P>
+
+<FONT SIZE=+2><B>MiniMed</B></FONT> is the leading supplier of insulin pumps for people with
+diabetes. If you haven't been introduced to insulin pumps, and want a quick run down
+on what they are and how they work, check out: <A HREF="files/how.htm"><B>"What Is An Insulin Pump and How Does It Work?"</B></A>.
+<P>
+For a more comprehensive overview of pump therapy, OR if you have diabetes
+and want to know if it's the thing for you, check out: <A HREF="menus/is_right.htm"><B>"Is an Insulin Pump Right for You?"</B></A>.
+<P>
+If you're familiar with pumps and MiniMed already, and want to cut right to the chase and check out MiniMed's most advanced external insulin pump, go to: <A HREF="files/mmn078.htm"><B>The MiniMed 507</B></A>.
+
+<P>
+Whether you're a pump "newbie" or a long time user, you'll find lots of product information and pumping tips on MiniMed Web. We try to keep MiniMed Web current, so stop by every now and again and check out <A HREF="menus/whats_nu.htm"><B>What's New</B></A>. 
+<P>
+Send us an email; we love getting your <A HREF="files/feedbak1.htm"><B>FeedBack</B></A>.
+<P>
+<HR>
+
+</TD></TR>
+<TR><TD>
+<B>
+<ADDRESS>MiniMed, Inc.<BR>
+12744 San Fernando Rd. <BR>
+Sylmar, CA 91342 <BR>
+USA <BR>
+(800) 933-3322 <BR>
+(818) 362-5958 <BR>
+</ADDRESS>
+</B>
+</TD></TR>
+
+<TR><TD ALIGN=center VALIGN=bottom><B><FONT SIZE=-1>
+<A HREF="menus/company.htm"> Company</A>&nbsp;&#149;
+<A HREF="menus/is_right.htm">Pump Therapy</A>&nbsp;&#149;
+<A HREF="menus/product.htm">Products</A>&nbsp;&#149;
+<A HREF="menus/top_tip.htm">Topics &amp; Tips</A>&nbsp;&#149;
+<A HREF="files/form6.htm">InfoPak</A><BR>
+<A HREF="menus/whats_nu.htm">What's New</A>&nbsp;&#149;
+<A HREF="files/dia_link.htm">Links</A>&nbsp;&#149;
+<A HREF="menus/sales.htm">Sales</A>&nbsp;&#149;
+<A HREF="cgi/search.pl">Search</A>&nbsp;&#149;
+<A HREF="files/feedbak1.htm">FeedBack</A>
+</FONT></B>
+
+</TD></TR></TABLE>
+</CENTER>
+
+
+<P>
+<MAP NAME="nav1">
+<area coords="0,0,120,34" HREF="menus/company.htm">
+<area coords="0,35,120,70" HREF="menus/is_right.htm">
+<area coords="0,71,120,107" HREF="menus/product.htm">
+<area coords="0,108,120,141" HREF="menus/top_tip.htm">
+<area coords="0,142,120,179" HREF="files/form6.htm">
+<area coords="0,180,120,221" HREF="menus/whats_nu.htm">
+<area coords="0,222,120,262" HREF="files/dia_link.htm">
+<area coords="0,263,120,304" HREF="menus/sales.htm">
+<area coords="0,305,120,344" HREF="cgi/search.pl">
+<area coords="0,345,120,393" HREF="files/feedbak1.htm">
+</map>
+
+</BODY></HTML>

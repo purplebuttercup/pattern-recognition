@@ -1,0 +1,93 @@
+Server: Netscape-Enterprise/2.01
+Date: Thu, 20 Nov 1997 21:37:26 GMT
+Accept-ranges: bytes
+Last-modified: Wed, 12 Mar 1997 21:42:55 GMT
+Content-length: 1577
+Content-type: text/html
+
+<html>
+  <head>
+    <title>Georgia-Pacific</title>
+  </head>
+
+  <body background="images/tile.jpg" bgcolor=#ffffff>
+
+<center>
+<table width=500>
+
+<tr>
+<td align=center valign=center>
+<img	src="images/logo.gif"
+	width=405
+	height=48
+	vspace=7
+	align=center
+	alt="Georgia-Pacific">
+</td>
+</tr>
+
+<tr>
+<td>	<table cellpadding=0 cellspacing=0>
+	<tr>
+	<td>
+	<a href="images/bpNchem.map">
+	<img	src="images/bpNchem.jpg"
+		width=177
+		height=300
+		alt="Navigational Graphic"
+		border=0
+		ismap></a></td>
+	<td>
+        <a href="images/feNinfo.map">	
+	<img	src="images/feNinfo.jpg"
+		width=131
+		height=300
+		alt="Navigational Graphic"
+		border=0
+		ismap></a></td>
+	<td>
+        <a href="images/papNpulp.map">
+	<img	src="images/papNpulp.jpg"
+		width=175
+		height=300
+		alt="Navigational Graphic"
+		border=0
+		ismap></a></td>
+	</tr>
+	</table>
+</td>
+</tr>
+</table>
+</p>
+
+Welcome to Georgia-Pacific Corp., one of the world&#146;s leading forest 
+products companies.
+
+<p>
+<font size=2>
+
+<a href="build/index.html">Building Products</a> | 
+<a href="enviro/index.html">Forestry and The Environment</a> | 
+<a href="paper/index.html">Paper and Tissue</a><br>
+<a href="chemical/index.html">Chemicals</a> | 
+<a href="center/index.html">Info Center</a> | 
+<a href="pulp/index.html">Pulp and Paperboard</a>
+
+<br clear=all>
+<p>
+<a href="help.html">Help</a> | <a 
+href="search.html">Search</a> 
+| <a href="index2.html">Site Map</a>
+</font>
+
+<br clear=all>
+<font size=1>
+<p>
+<a href="copyright.html">&copy; 1997 GEORGIA-PACIFIC CORPORATION</a>
+</p>
+</font>
+
+</center>
+</body>
+<!-- (c)  1996 -->
+</html>

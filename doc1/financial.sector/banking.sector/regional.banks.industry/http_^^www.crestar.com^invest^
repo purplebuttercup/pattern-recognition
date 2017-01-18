@@ -1,0 +1,455 @@
+Server: Microsoft-IIS/4.0
+Date: Thu, 18 Dec 1997 12:49:40 GMT
+Content-Type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="description"
+content="You have access to an array of innovative investment strategies through the Crestar Investment Group - combining the professional expertise of Crestar Investment Group.">
+<meta name="keywords"
+content="investment management, invest, brokerage, business plan, cash, crestfunds, mutual funds, estate, education, income, custodial, retirement, assets, guidance, crestar bank">
+<meta name="author" content="jb">
+<meta name="resource-type" content="document">
+<meta name="copyright" content="1997 Crestar Bank">
+<meta name="distribution" content="global">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Crestar Bank - Invest</title>
+<script language="JavaScript">
+
+<!--
+agent = navigator.userAgent
+
+browserVer = 2;
+
+if (agent.substring(0,7) == "Mozilla"){
+
+    if (parseInt(agent.substring(8,9)) >= 3) {browserVer = 1;}
+
+}
+
+
+if (browserVer == 1) {
+
+	bankonline_white = new Image(135, 15);
+	bankonline_white.src = "../images_nav/bankonline_white.gif";
+	bankonline_y = new Image(135, 15);
+	bankonline_y.src = "../images_nav/bankonline_y.gif";
+
+	bank24_white = new Image(135, 15);
+	bank24_white.src = "../images_nav/bank24_white.gif";
+	bank24_y = new Image(135, 15);
+	bank24_y.src = "../images_nav/bank24_y.gif";
+
+	borrow_white = new Image(135, 15);
+	borrow_white.src = "../images_nav/borrow_white.gif";
+	borrow_y = new Image(135, 15);
+	borrow_y.src = "../images_nav/borrow_y.gif";
+
+	discovercrestar_white = new Image(135, 15);
+	discovercrestar_white.src = "../images_nav/discovercrestar_white.gif";
+	discovercrestar_y = new Image(135, 15);
+	discovercrestar_y.src = "../images_nav/discovercrestar_y.gif";
+
+	checking_white = new Image(135, 15);
+	checking_white.src = "../images_nav/checking_white.gif";
+	checking_y = new Image(135, 15);
+	checking_y.src = "../images_nav/checking_y.gif";
+
+	communicate_white = new Image(135, 15);
+	communicate_white.src = "../images_nav/communicate_white.gif";
+	communicate_y = new Image(135, 15);
+	communicate_y.src = "../images_nav/communicate_y.gif";
+
+	discover_white = new Image(135, 15);
+	discover_white.src = "../images_nav/discover_white.gif";
+	discover_y = new Image(135, 15);
+	discover_y.src = "../images_nav/discover_y.gif";
+
+	explorebb_white = new Image(135, 15);
+	explorebb_white.src = "../images_nav/explorebb_white.gif";
+	explorebb_y = new Image(135, 15);
+	explorebb_y.src = "../images_nav/explorebb_y.gif";
+
+	home_white = new Image(135, 15);
+	home_white.src = "../images_nav/home_white.gif";
+	home_y = new Image(135, 15);
+	home_y.src = "../images_nav/home_y.gif";
+
+	insure_white = new Image(135, 15);
+	insure_white.src = "../images_nav/insure_white.gif";
+	insure_y = new Image(135, 15);
+	insure_y.src = "../images_nav/insure_y.gif";
+
+	invest_white = new Image(135, 15);
+	invest_white.src = "../images_nav/invest_white.gif";
+	invest_y = new Image(135, 15);
+	invest_y.src = "../images_nav/invest_y.gif";
+
+	save_white = new Image(135, 15);
+	save_white.src = "../images_nav/save_white.gif";
+	save_y = new Image(135, 15);
+	save_y.src = "../images_nav/save_y.gif";
+
+	assetmgmt_white = new Image(135, 15);
+	assetmgmt_white.src = "../images_nav/assetmgmt_white.gif";
+	assetmgmt_y = new Image(135, 15);
+	assetmgmt_y.src = "../images_nav/assetmgmt_y.gif";
+
+	crestfunds2_white = new Image(135, 15);
+	crestfunds2_white.src = "../images_nav/crestfunds2_white.gif";
+	crestfunds2_y = new Image(135, 15);
+	crestfunds2_y.src = "../images_nav/crestfunds2_y.gif";
+
+	crestarinvest_white = new Image(135, 15);
+	crestarinvest_white.src = "../images_nav/crestarinvest_white.gif";
+	crestarinvest_y = new Image(135, 15);
+	crestarinvest_y.src = "../images_nav/crestarinvest_y.gif";
+	
+	guidance_white = new Image(135, 15);
+	guidance_white.src = "../images_nav/guidance_white.gif";
+	guidance_y = new Image(135, 15);
+	guidance_y.src = "../images_nav/guidance_y.gif";
+	
+	personal_white = new Image(135, 15);
+	personal_white.src = "../images_nav/personal_white.gif";
+	personal_y = new Image(135, 15);
+	personal_y.src = "../images_nav/personal_y.gif";
+	
+	business_white = new Image(135, 15);
+	business_white.src = "../images_nav/business_white.gif";
+	business_y = new Image(135, 15);
+	business_y.src = "../images_nav/business_y.gif";
+	
+	retireplan2_white = new Image(135, 15);
+	retireplan2_white.src = "../images_nav/retireplan2_white.gif";
+	retireplan2_y = new Image(135, 15);
+	retireplan2_y.src = "../images_nav/retireplan2_y.gif";
+	
+	educationplan2_white = new Image(135, 15);
+	educationplan2_white.src = "../images_nav/educationplan2_white.gif";
+	educationplan2_y = new Image(135, 15);
+	educationplan2_y.src = "../images_nav/educationplan2_y.gif";
+	
+	estateplan2_white = new Image(135, 15);
+	estateplan2_white.src = "../images_nav/estateplan2_white.gif";
+	estateplan2_y = new Image(135, 15);
+	estateplan2_y.src = "../images_nav/estateplan2_y.gif";
+	
+	busplan2_white = new Image(135, 15);
+	busplan2_white.src = "../images_nav/busplan2_white.gif";
+	busplan2_y = new Image(135, 15);
+	busplan2_y.src = "../images_nav/busplan2_y.gif";
+	
+	brokerage2_white = new Image(135, 15);
+	brokerage2_white.src = "../images_nav/brokerage2_white.gif";
+	brokerage2_y = new Image(135, 15);
+	brokerage2_y.src = "../images_nav/brokerage2_y.gif";
+	
+	secbrokerage2_white = new Image(135, 15);
+	secbrokerage2_white.src = "../images_nav/secbrokerage2_white.gif";
+	secbrokerage2_y = new Image(135, 15);
+	secbrokerage2_y.src = "../images_nav/secbrokerage2_y.gif";
+	
+	investorsad2_white = new Image(135, 15);
+	investorsad2_white.src = "../images_nav/investorsad2_white.gif";
+	investorsad2_y = new Image(135, 15);
+	investorsad2_y.src = "../images_nav/investorsad2_y.gif";
+	
+	custodialacct2_white = new Image(135, 15);
+	custodialacct2_white.src = "../images_nav/custodialacct2_white.gif";
+	custodialacct2_y = new Image(135, 15);
+	custodialacct2_y.src = "../images_nav/custodialacct2_y.gif";
+	
+	investmgmt2_white = new Image(135, 15);
+	investmgmt2_white.src = "../images_nav/investmgmt2_white.gif";
+	investmgmt2_y = new Image(135, 15);
+	investmgmt2_y.src = "../images_nav/investmgmt2_y.gif";
+	
+	fixedincome2_white = new Image(135, 15);
+	fixedincome2_white.src = "../images_nav/fixedincome2_white.gif";
+	fixedincome2_y = new Image(135, 15);
+	fixedincome2_y.src = "../images_nav/fixedincome2_y.gif";
+	
+	shortterm2_white = new Image(135, 15);
+	shortterm2_white.src = "../images_nav/shortterm2_white.gif";
+	shortterm2_y = new Image(135, 15);
+	shortterm2_y.src = "../images_nav/shortterm2_y.gif";
+	
+	cashinvest2_white = new Image(135, 15);
+	cashinvest2_white.src = "../images_nav/cashinvest2_white.gif";
+	cashinvest2_y = new Image(135, 15);
+	cashinvest2_y.src = "../images_nav/cashinvest2_y.gif";
+	
+	brokerage2_white = new Image(135, 15);
+	brokerage2_white.src = "../images_nav/brokerage2_white.gif";
+	brokerage2_y = new Image(135, 15);
+	brokerage2_y.src = "../images_nav/brokerage2_y.gif";
+	
+	cashadv2_white = new Image(135, 15);
+	cashadv2_white.src = "../images_nav/cashadv2_white.gif";
+	cashadv2_y = new Image(135, 15);
+	cashadv2_y.src = "../images_nav/cashadv2_y.gif";
+	
+	retireplan2_white = new Image(135, 15);
+	retireplan2_white.src = "../images_nav/retireplan2_white.gif";
+	retireplan2_y = new Image(135, 15);
+	retireplan2_y.src = "../images_nav/retireplan2_y.gif";
+	
+	kplans2_white = new Image(135, 15);
+	kplans2_white.src = "../images_nav/kplans2_white.gif";
+	kplans2_y = new Image(135, 15);
+	kplans2_y.src = "../images_nav/kplans2_y.gif";
+	
+	sitemap_white = new Image(135, 15);
+	sitemap_white.src = "../images_nav/sitemap_white.gif";
+	sitemap_y = new Image(135, 15);
+	sitemap_y.src = "../images_nav/sitemap_y.gif";
+
+	callback_white = new Image(135, 60);
+	callback_white.src = "../images_nav/callback_white.gif";
+	callback_y = new Image(135, 60);
+	callback_y.src = "../images_nav/callback_y.gif";
+
+	backtotop_white = new Image(135, 15);
+	backtotop_white.src = "../images_nav/backtotop_white.gif";
+	backtotop_y = new Image(135, 15);
+	backtotop_y.src = "../images_nav/backtotop_y.gif";
+}
+
+function hiLite(imgDocID,imgObjName) {
+
+	if (browserVer == 1) {
+
+		document.images[imgDocID].src = eval(imgObjName + ".src");
+	}
+
+}
+//-->
+
+</script>
+
+<BODY BGCOLOR="#FFFFFF" LINK="000099" ALINK="#FFFFFF" VLINK="#666666" BACKGROUND="../images/standard_bg.gif" topmargin=0><a name=top></a>
+</head>
+
+<body>
+
+<table border="0" cellpadding="0" width="600">
+    <tr>
+        <td colspan="2" bgcolor="#FF0000" height="25"><img
+        src="../images/logo.gif" width="600" height="25"></td>
+    </tr>
+    <tr>
+        <td valign="top" width="150" font color="#ffffff"><img
+        src="../images_nav/invest_y.gif"
+        alt="Current Section: Invest" width="135" height="15"><br>
+        <a href="asset_mgmt.stm"
+        onmouseover="hiLite('assetmgmt_white','assetmgmt_y'); window.status='Link to Asset Management'; return true;"
+        onmouseout="hiLite('assetmgmt_white','assetmgmt_white');"><img
+        src="../images_nav/assetmgmt_white.gif"
+        alt="Link: Asset Management" border="0" width="135"
+        height="15" name="assetmgmt_white"></a><br>
+        <a href="crestfunds.stm"
+        onmouseover="hiLite('crestfunds2_white','crestfunds2_y'); window.status='Link to CrestFunds'; return true;"
+        onmouseout="hiLite('crestfunds2_white','crestfunds2_white');"><img
+        src="../images_nav/crestfunds2_white.gif"
+        alt="Link: Crestfunds" border="0" width="135" height="15"
+        name="crestfunds2_white"></a><br>
+        <a href="http://www.crestarinvest.com"
+        onmouseover="hiLite('crestarinvest_white','crestarinvest_y'); window.status='Link to CrestarInvest'; return true;"
+        onmouseout="hiLite('crestarinvest_white','crestarinvest_white');"><img
+        src="../images_nav/crestarinvest_white.gif"
+        alt="Link: CrestarInvest" border="0" width="135"
+        height="15" name="crestarinvest_white"></a><br>
+        <a href="guide.stm"
+        onmouseover="hiLite('guidance_white','guidance_y'); window.status='Link to Guidance'; return true;"
+        onmouseout="hiLite('guidance_white','guidance_white');"><img
+        src="../images_nav/guidance_white.gif"
+        alt="Link: Guidance" border="0" width="135" height="15"
+        name="guidance_white"></a><br>
+        <a href="persinvest.stm"
+        onmouseover="hiLite('personal_white','personal_y'); window.status='Link to Personal'; return true;"
+        onmouseout="hiLite('personal_white','personal_white');"><img
+        src="../images_nav/personal_white.gif"
+        alt="Link: Personal" border="0" width="135" height="15"
+        name="personal_white"></a><br>
+        <a href="businvest.stm"
+        onmouseover="hiLite('business_white','business_y'); window.status='Link to Business'; return true;"
+        onmouseout="hiLite('business_white','business_white');"><img
+        src="../images_nav/business_white.gif"
+        alt="Link: Business" border="0" width="135" height="15"
+        name="business_white"></a><br>
+        <img src="../images_nav/black_15x135.gif" width="135"
+        height="15"><br>
+        <a href="../bankonline/index.stm"
+        onmouseover="hiLite('bankonline_white','bankonline_y'); window.status='Link to Bank Online'; return true;"
+        onmouseout="hiLite('bankonline_white','bankonline_white');"><img
+        src="../images_nav/bankonline_white.gif"
+        alt="Link: Bank Online" border="0" width="135"
+        height="15" name="bankonline_white"></a><br>
+        <a href="../save/index.stm"
+        onmouseover="hiLite('save_white','save_y'); window.status='Link to Save'; return true;"
+        onmouseout="hiLite('save_white','save_white');"><img
+        src="../images_nav/save_white.gif" alt="Link: Save"
+        border="0" width="135" height="15" name="save_white"></a><br>
+        <a href="../borrow/index.stm"
+        onmouseover="hiLite('borrow_white','borrow_y'); window.status='Link to Borrow'; return true;"
+        onmouseout="hiLite('borrow_white','borrow_white');"><img
+        src="../images_nav/borrow_white.gif" border="0"
+        width="135" height="15" name="borrow_white"></a><br>
+        <a href="../checking/index.stm"
+        onmouseover="hiLite('checking_white','checking_y'); window.status='Link to Checking'; return true;"
+        onmouseout="hiLite('checking_white','checking_white');"><img
+        src="../images_nav/checking_white.gif"
+        alt="Link: Check Out Checking" border="0" width="135"
+        height="15" name="checking_white"></a><br>
+        <a href="../explorebb/index.stm"
+        onmouseover="hiLite('explorebb_white','explorebb_y'); window.status='Link to Explore Business Banking'; return true;"
+        onmouseout="hiLite('explorebb_white','explorebb_white');"><img
+        src="../images_nav/explorebb_white.gif"
+        alt="Link: Explore Business Banking" border="0"
+        width="135" height="15" name="explorebb_white"></a><br>
+        <a href="../insure/index.stm"
+        onmouseover="hiLite('insure_white','insure_y'); window.status='Link to Insure'; return true;"
+        onmouseout="hiLite('insure_white','insure_white');"><img
+        src="../images_nav/insure_white.gif" alt="Link: Insure"
+        border="0" width="135" height="15" name="insure_white"></a><br>
+        <a href="../bank24/index.stm"
+        onmouseover="hiLite('bank24_white','bank24_y'); window.status='Link to Bank 24 Hours'; return true;"
+        onmouseout="hiLite('bank24_white','bank24_white');"><img
+        src="../images_nav/bank24_white.gif"
+        alt="Link: Bank 24hours" border="0" width="135"
+        height="15" name="bank24_white"></a><br>
+        <a href="../communicate/index.stm"
+        onmouseover="hiLite('communicate_white','communicate_y'); window.status='Link to Communicate'; return true;"
+        onmouseout="hiLite('communicate_white','communicate_white');"><img
+        src="../images_nav/communicate_white.gif"
+        alt="Link: Communicate" border="0" width="135"
+        height="15" name="communicate_white"></a><br>
+        <a href="../discover/index.stm"
+        onmouseover="hiLite('discover_white','discover_y'); window.status='Link to Discover'; return true;"
+        onmouseout="hiLite('discover_white','discover_white');"><img
+        src="../images_nav/discover_white.gif"
+        alt="Link: Discover Crestar" border="0" width="135"
+        height="15" name="discover_white"></a><br>
+        <a href="../sitemap/index.stm"
+        onmouseover="hiLite('sitemap_white','sitemap_y'); window.status='Link to Site Map'; return true;"
+        onmouseout="hiLite('sitemap_white','sitemap_white');"><img
+        src="../images_nav/sitemap_white.gif" alt="Link: Sitemap"
+        border="0" width="135" height="15" name="sitemap_white"></a><br>
+        <a href="../index.html"
+        onmouseover="hiLite('home_white','home_y'); window.status='Link to Home'; return true;"
+        onmouseout="hiLite('home_white','home_white');"><img
+        src="../images_nav/home_white.gif"
+        alt="Link: Return Home" border="0" width="135"
+        height="15" name="home_white"></a><br>
+        <a
+        href="http://speakwithagent.att.net/cgi-bin/welcome?SN=crestar+bank&amp;SC=default"
+        onmouseover="hiLite('callback_white','callback_y'); window.status='Link to Instant Callback'; return true;"
+        onmouseout="hiLite('callback_white','callback_white');"><img
+        src="../images_nav/callback_white.gif"
+        alt="Link: Instant Callback" border="0" vspace="8"
+        width="135" height="60" name="callback_white"></a><br>
+        <br>
+        </td>
+        <td valign="top" rowspan="2"><table border="0"
+        cellpadding="0" cellspacing="0">
+            <tr>
+                <td><font size="2" face="arial,helvetica"><img
+                src="../images/invest_mainhead.gif"
+                alt="We Can Help Simplify the Complicated World of Investing"
+                width="450" height="67"></font></td>
+            </tr>
+            <tr>
+                <td><font size="2" face="arial,helvetica"><img
+                src="../images/drop_y.gif" alt="Y" align="left"
+                hspace="0" width="22" height="28"></font><font
+                size="2" face="arial,helvetica"><img
+                src="../images/invest_wsj.gif"
+                alt="Making the Most of Your Time and Money"
+                align="right" hspace="0" vspace="15" width="200"
+                height="175"></font><font size="2"
+                face="arial,helvetica"> ou have access to an
+                array of innovative investment strategies through
+                the Crestar Investment Group - advice;
+                securities, retirement plans, trusts, investment
+                management: Crestar Investment Group offers you
+                all of the tools you need to invest for a
+                lifetime. </font><p><font size="2"
+                face="arial,helvetica">Experienced Crestar
+                Investment Group representatives will be pleased
+                to meet with you to discuss your current
+                financial situation and assist you in determining
+                the best ways to meet your objectives. </font></p>
+                <p><font size="2" face="arial,helvetica">Use this
+                web site to get valuable guidance about </font><a
+                href="retireplan.stm"><font size="2"
+                face="arial,helvetica">retirement</font></a><font
+                size="2" face="arial,helvetica">, </font><a
+                href="eduplan.stm"><font size="2"
+                face="arial,helvetica">education</font></a><font
+                size="2" face="arial,helvetica">, </font><a
+                href="estateplan.stm"><font size="2"
+                face="arial,helvetica">estate</font></a><font
+                size="2" face="arial,helvetica"> or </font><a
+                href="busplan.stm"><font size="2"
+                face="arial,helvetica">business</font></a><font
+                size="2" face="arial,helvetica"> planning, manage
+                your investments online, find out about </font><a
+                href="crestfunds.stm"><font size="2"
+                face="arial,helvetica">CrestFunds</font></a><font
+                size="2" face="arial,helvetica"> -- a family of
+                mutual funds, or learn more about asset
+                management with the Crestar Investment Group.
+                Whether your investing for </font><a
+                href="persinvest.stm"><font size="2"
+                face="arial,helvetica">yourself</font></a><font
+                size="2" face="arial,helvetica"> or for your </font><a
+                href="businvest.stm"><font size="2"
+                face="arial,helvetica">business</font></a><font
+                size="2" face="arial,helvetica">, Crestar wants
+                to work with you. </font></p>
+                <p><font size="2" face="arial,helvetica">Crestar
+                Investment Group(SM) consists of Crestar
+                Securities Corporation and investment-related
+                areas of Crestar Bank and subsidiaries and is a
+                service mark of Crestar Financial Corporation.
+                Securities are offered through Crestar Securities
+                Corporation, a registered broker dealer, member
+                of the NASD and SIPC and wholly owned subsidiary
+                of Crestar Financial Corporation. Investments
+                available through CSC are:</font></p>
+                <ul type="square">
+                    <li><font size="2" face="arial,helvetica">Not
+                        FDIC insured</font></li>
+                    <li><font size="2" face="arial,helvetica">No
+                        bank guarantee</font></li>
+                    <li><font size="2" face="arial,helvetica">May
+                        lose value</font></li>
+                    <li><font size="2" face="arial,helvetica">Some
+                        services offered may not be available in
+                        all states</font></li>
+                </ul>
+                </td>
+            </tr>
+        </table>
+        </td>
+    </tr>
+    <tr>
+        <td valign="bottom"><a href="#top"
+        onmouseover="hiLite('backtotop_white','backtotop_y'); window.status='Link to Top'; return true;"
+        onmouseout="hiLite('backtotop_white','backtotop_white');"><font
+        size="2" face="arial,helvetica"><img
+        src="../images_nav/backtotop_white.gif"
+        alt="Link: Back to Top" border="0" width="135"
+        height="15" name="backtotop_white"></font></a><font
+        size="2" face="arial,helvetica"> <br>
+        <img src="../images_nav/copyright.gif"
+        alt="Copyright 1997 Crestar Bank" width="150" height="15"></font></td>
+    </tr>
+</table>
+</body>
+</html>

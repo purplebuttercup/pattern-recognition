@@ -1,0 +1,45 @@
+Server: Netscape-Commerce/1.1
+Date: Thursday, 18-Dec-97 18:40:53 GMT
+Content-type: text/html
+
+<HTML>
+<HEAD>
+  <META NAME="GENERATOR" CONTENT="Adobe PageMill 2.0 Mac">
+  <TITLE>Welcome to VillageNet</TITLE>
+</HEAD>
+<FRAMESET BORDER="0" COLS="16%,84%">
+<FRAME SRC="navigate.html" NAME="navigation frame" MARGINWIDTH=1>
+<FRAME SRC="opener.html" NAME="opener frame" MARGINWIDTH=1>
+<NOFRAMES>
+<BODY>
+<P>Welcome to VillageNet</P>
+
+<P><CENTER><IMG SRC="pic/smvnet.gif" ALIGN="BOTTOM"></CENTER></P>
+
+<P><CENTER>VillageNet has changed the style of its homepage, and it now
+incorporates new features that are viewable only with more current versions
+of Microsoft's Internet Explorer or Netscape Navigator. If you are viewing
+this page, this means that the web browser you are using does not support
+these new enhancements. Now is a good time to upgrade your browser to heighten
+your enjoyment of the VillageNet site, as well as many other sites on the
+Web.</CENTER></P>
+
+<P><CENTER>&nbsp;</CENTER></P>
+
+<UL>
+  <LI><CENTER>If you are using Windows 3.1, 95 or NT4.0, <A HREF="winsupp.html">click
+  here.</A></CENTER>
+  <LI><CENTER>If you are using a Macintosh, <A HREF="http://www.microsoft.com/ie">click
+  here.</A></CENTER>
+</UL>
+
+<P><CENTER>If you have any questions, please email <A HREF="/cgi-bin/mail?support">support@villagenet.com</A>
+or call 516-218-9090</CENTER></P>
+
+<P><CENTER><HR><FONT SIZE=-1>Copyright &copy; 1997 VillageNet, Inc.<BR>
+All rights reserved including the right of reproduction in whole or part
+in any form.</FONT></CENTER>
+</BODY>
+</NOFRAMES>
+</FRAMESET>
+</HTML>

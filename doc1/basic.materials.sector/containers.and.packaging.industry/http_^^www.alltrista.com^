@@ -1,0 +1,37 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 20 Nov 1997 20:46:03 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Thu, 03 Jul 1997 14:05:46 GMT
+Content-Length: 694
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Alltrista Corporation</title>
+</head>
+
+<body bgcolor="#FFFFFF" onload="setTimeout('LetsMove( )', 5000)">
+<script language="javascript">
+<!--
+function LetsMove() {
+	location='index2.html'
+}
+//-->
+</script>
+
+<p align="center">&nbsp;</p>
+
+<p align="center">&nbsp;</p>
+
+<p align="center">&nbsp;</p>
+
+<p align="center"><a href="index2.html"><img
+src="images/intro.gif" alt="Welcome to Alltrista Corporation"
+border="0" width="212" height="172"></a></p>
+</body>
+</html>

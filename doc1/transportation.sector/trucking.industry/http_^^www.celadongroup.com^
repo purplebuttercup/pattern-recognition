@@ -1,0 +1,76 @@
+Server: Microsoft-IIS/2.0
+Date: Thu, 20 Nov 1997 16:41:38 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Mon, 07 Apr 1997 21:52:21 GMT
+Content-Length: 1931
+
+<HTML>
+<HEAD>
+  <!-- Created by GNNpress/1.2 -->
+  <TITLE>Celadon Group Homepage</TITLE>
+</HEAD>
+<BODY BGCOLOR="#ffffff">
+<P ALIGN=Center>
+<BIG><BIG><BIG><B><FONT COLOR="#0000a0"><BIG><BIG>C</BIG></BIG></FONT>ELADON
+<FONT COLOR="#0000a0"><BIG><BIG>G</BIG></BIG></FONT>ROUP
+<FONT COLOR="#0000a0"><BIG><BIG>I</BIG></BIG></FONT>NC.</B></BIG></BIG></BIG>
+<P ALIGN=Center>
+<TABLE BORDER CELLPADDING="2"Width=100%>
+  <TR>
+    <TD>
+      <P ALIGN=Center>
+      <IMG BORDER="0" ALIGN="Middle" SRC="pic/phone.gif" ALT="Cell Phones" WIDTH="167"
+	  HEIGHT="96">
+    </TD>
+    <TD>
+      <P ALIGN=Center>
+      <A HREF="access.htm"><IMG BORDER="0" ALIGN="Middle" SRC="pic/accessry.jpg"
+	  ALT="Phone Accessories" WIDTH="174" HEIGHT="101"></A>
+    </TD>
+    <TD>
+      <P ALIGN=Center>
+      <A HREF="machine.htm"><IMG BORDER="0" ALIGN="Middle" SRC="pic/pic17.jpg"
+	  ALT="Machinery" WIDTH="172" HEIGHT="102"></A>
+    </TD>
+  </TR>
+  <TR>
+    <TD>
+      <P ALIGN=Center>
+      Mobile Cellular Phones<BR>
+      <SMALL><SMALL>(Soon to come)</SMALL></SMALL>
+    </TD>
+    <TD>
+      <P ALIGN=Center>
+      <A HREF="access.htm">Phone Accessories</A>
+    </TD>
+    <TD>
+      <P ALIGN=Center>
+      <A HREF="machine.htm">Machinery</A>
+    </TD>
+  </TR>
+</TABLE>
+<TABLE CELLPADDING="2">
+  <TR>
+    <TD>
+    </TD>
+  </TR>
+</TABLE>
+<P ALIGN=Center>
+<B><FONT COLOR="#0000a0">C</FONT>eladon <FONT COLOR="#0000a0">G</FONT>roup
+<FONT COLOR="#0000a0">I</FONT>nc.</B><BR>
+<SMALL>8695 College Parkway<BR>
+Suite 360<BR>
+Fort Myers, FL. 33919<BR>
+Tel.: (941)433-7702<BR>
+Fax: (941)433-3011</SMALL><BR>
+e-mail: <A HREF="mailto:celadon@celadongroup.com">celadon@celadongroup.com</A>
+<P>
+<P>
+  <HR>
+<P ALIGN=Center>
+<SMALL><SMALL><SMALL><SMALL>This page was made possible by
+<A HREF="mailto:wolfgangs@i4u.net">ConSitter</A></SMALL></SMALL></SMALL></SMALL>
+<P ALIGN=Center>
+  <HR>
+</BODY></HTML>

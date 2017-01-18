@@ -1,0 +1,397 @@
+<HTML>
+<HEAD>
+<TITLE>Internet Explorer Home</TITLE>
+<META NAME="KEYWORDS" CONTENT="Internet Explorer; Internet Explorer Plus; internet explorer; Internet; Web; IE; ie; outlook express; Outlook Express; browser; e-mail; email; browser war; press; reviews; Active Channel; Active Channels; Active; Channels; active channel; active; channel; Full Screen Channels; Screensaver; Channel Mail; IE; Microsoft; IE4; IE 4; IE4.0; IE 4.0; IE4.o; IE 4.o; browser; platform preview; webcasting; web casting; desktop; push; pull; DynamicHTML Dynamic HTML; DHTML; web">
+<META NAME="DESCRIPTION" CONTENT="The only Internet browser that continues to grow in popularity, Internet Explorer now introduces version 4.0 to bring you the Web the way you want it.">
+<META NAME="PRODUCT" CONTENT="Internet Explorer">
+<META NAME="LOCALE" CONTENT="EN-US">
+<META HTTP-EQUIV="content" CONTENT="text/html; charset=us-ascii">
+<META NAME="CATEGORY" CONTENT="Home page">
+<META http-equiv="PICS-Label" content='(PICS-1.1 "http://www.rsac.org/ratingsv01.html" l gen false comment "RSACi North America Server" for "http://www.microsoft.com/ie/" on "1996.05.20T22:48-0500" r (n 0 s 0 v 0 l 0))'>
+
+<SCRIPT LANGUAGE="JavaScript"><!--
+var ua = navigator.userAgent
+var ie4 = ua.indexOf("MSIE 4.0");
+var win31PP1 = ua.indexOf("MSIE 4.0;Windows 3.1"); //this is to deal with the non-standard UA string
+var betaVer = 0
+var beta = false
+if (win31PP1 >=1)
+	beta = true;
+
+if (ie4 != -1) {
+	if ((ua.charAt(ie4+8) == "b") || (ua.charAt(ie4+8) == "p")) {
+		beta = true;
+		betaVer = ua.charAt(ie4+9); //returns beta version number
+	}
+}
+
+var ie4Release = ((ie4 != -1) && (!beta) && ((ie4 != -1) && (win31PP1 == -1)));
+//--></SCRIPT>
+
+<LINK ID=ie3ss REL=STYLESHEET TYPE="text/css" HREF="/ie/global/ie3left.css">
+
+<SCRIPT LANGUAGE="JavaScript"><!--
+var apV = navigator.appVersion;
+var mac = apV.indexOf('Macintosh') != -1;
+var IE = (apV.indexOf('MSIE') != -1) && !mac;
+var isIE3 = IE && (apV.indexOf('MSIE 3') != -1);
+var isIE4 = IE && parseInt(apV) == 4;
+var NN3 = navigator.appName == 'Netscape' && parseInt(apV) == 3 && !mac;
+var NN4 = navigator.appName == 'Netscape' && parseInt(apV) == 4 && !mac;
+
+if (!NN3 && !isIE3){
+	document.writeln('<LINK REL=STYLESHEET TYPE="text/css" HREF=');
+	if (isIE4){
+		ie3ss.disabled = true;
+		document.writeln('"/ie/global/ie4left.css">');
+	}
+	else if (NN4)
+		document.writeln('"/ie/global/nav4left.css">');
+	else if (mac)
+		document.writeln('"/ie/global/macleft.css">');
+}
+//--></SCRIPT>
+
+<SCRIPT LANGUAGE="javascript"><!--
+function turnRed() {
+	what = window.event.srcElement;
+	if (what.tagName == "IMG") {
+		what.src = what.src.substring(0,(what.src.indexOf(".gif"))) + "-red.gif";
+		window.event.cancelBubble = true;
+	}
+}
+
+function turnWhite () {
+	what = window.event.srcElement
+	if (what.tagName == "IMG") {
+		what.src = what.src.substring(0,(what.src.indexOf("-red.gif"))) + ".gif";
+		window.event.cancelBubble = true;
+	}
+}
+//--></SCRIPT>
+
+<STYLE><!--
+.btop {text-decoration: none}
+.headline {
+		font-size: 12pt;
+		font-weight: bold;
+		font: "verdana, arial, helvetica, sans-serif";
+		color: #000000;
+		text-decoration: none;
+}
+--></STYLE>
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#000066" VLINK="#666666" TOPMARGIN=0 LEFTMARGIN=0>
+
+<!--TOOLBAR_START-->
+<TABLE WIDTH="100%" CELLPADDING=0 CELLSPACING=0 BORDER=0 BGCOLOR=BLACK>
+<TR>
+<TD WIDTH=451 ROWSPAN=2 VALIGN=TOP NOWRAP onmouseover="turnRed()" onmouseout="turnWhite()"><NOBR><FONT FACE="Arial, Helvetica" SIZE=1><A HREF="/"><IMG SRC="/ie/images/gifs/toolbar/home.gif" WIDTH=103 HEIGHT=21 ALT="Microsoft Home" BORDER=0></A><A HREF="/products/default.asp?divisionid=10"><IMG SRC="/ie/images/gifs/toolbar/prod.gif" WIDTH=81 HEIGHT=21 ALT="Products" BORDER=0></A><A HREF="/search/default.asp"><IMG SRC="/ie/images/gifs/toolbar/search.gif" WIDTH=68 HEIGHT=21 ALT="Search" BORDER=0></A><A HREF="http://support.microsoft.com/support/default.asp?pr=ie"><IMG SRC="/ie/images/gifs/toolbar/support.gif" WIDTH=74 HEIGHT=21 ALT="Support" BORDER=0></A><A HREF="/referral/default.asp"><IMG SRC="/ie/images/gifs/toolbar/shop.gif" WIDTH=55 HEIGHT=21 ALT="Shop" BORDER=0></A><A HREF="http://register.microsoft.com/regwiz/regwiz.asp"><IMG SRC="/ie/images/gifs/toolbar/write.gif" WIDTH=78 HEIGHT=21 ALT="Write Us" BORDER=0></A></FONT></NOBR></TD>
+<TD BGCOLOR="#000000" WIDTH="100%" HEIGHT=20>&nbsp;</TD>
+<TD WIDTH=91 ROWSPAN=2 ALIGN=RIGHT VALIGN=TOP><FONT FACE="Arial, Helvetica" SIZE=1><A HREF="/"><IMG SRC="/ie/images/gifs/toolbar/msft.gif" WIDTH=91 HEIGHT=21 ALT="Microsoft Home" BORDER=0></A></FONT></TD>
+</TR>
+<TR>
+<TD BGCOLOR="#FFFFFF" WIDTH="100%" HEIGHT=1>
+</TD>
+</TR>
+</TABLE>
+<!--TOOLBAR_END-->
+
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH="100%">
+<TR>
+<TD>
+	<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
+	<TR>
+	<TD WIDTH=124 ROWSPAN=2 VALIGN=TOP><IMG WIDTH=124 HEIGHT=100 SRC="/ie/images/ulg/ulg_holiday.jpg" ALT="Expand your horizons with Internet Explorer 4.0!"></TD>
+	<TD WIDTH=497 VALIGN=TOP><IMG WIDTH=497 HEIGHT=81 SRC="/ie/images/banners/b_home2.gif" ALT="Microsoft Internet Explorer"></TD>
+	</TR>
+	<TR>
+	<TD ALIGN=LEFT VALIGN=TOP HEIGHT=15 WIDTH=391><A HREF="/ie/"><IMG WIDTH=175 HEIGHT=19 SRC="/ie/images/topnav/ie40home.gif" ALT="Internet Explorer Home" BORDER=0></A><A HREF="/ie/global/newprodpop.htm"><IMG WIDTH=109 HEIGHT=19 SRC="/ie/images/topnav/productinfo.gif" ALT="Product Info" BORDER=0></A><A HREF="/ie/download/"><IMG WIDTH=72 HEIGHT=19 SRC="/ie/images/topnav/download.gif" ALT="Download" BORDER=0></A><BR>
+	</TD>
+	</TR>
+	</TABLE>
+</TD>
+</TR>
+<TR>
+<TD BGCOLOR="#663366"><IMG WIDTH=621 HEIGHT=22 SRC="/ie/images/scapes/scape_holiday.jpg" ALT="landscape"></TD>
+</TR>
+</TABLE>
+
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH="100%">
+<TR>
+<TD VALIGN=TOP WIDTH=103 BGCOLOR="#9FCFFF">
+
+	<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=103 BACKGROUND="/ie/images/side/back_holiday.gif">
+	<TR VALIGN=TOP>
+	<TD COLSPAN=2><IMG WIDTH=103 HEIGHT=5 SRC="/ie/images/trans_space.gif"><BR></TD>
+	</TR>
+	<TR VALIGN=TOP>
+	<TD WIDTH=13 VALIGN=TOP><IMG BORDER=0 WIDTH=13 HEIGHT=10 SRC="/ie/images/side/square1.gif"></TD>
+	<TD WIDTH=90><FONT SIZE=2><DIV CLASS="tall"><B><A CLASS="navLnkB" HREF="/ie/press/">Press</A></B></FONT></DIV></TD>
+	</TR>
+	<TR VALIGN=TOP>
+	<TD WIDTH=13 VALIGN=TOP><IMG BORDER=0 WIDTH=13 HEIGHT=10 SRC="/ie/images/side/square1.gif"></TD>
+	<TD WIDTH=90><FONT SIZE=2><DIV CLASS="tall"><B><A CLASS="navLnkB" HREF="/ie/partners/">Partners</A></B></FONT></DIV></TD>
+	</TR>
+	<TR VALIGN=TOP>
+	<TD WIDTH=13 VALIGN=TOP><IMG BORDER=0 WIDTH=13 HEIGHT=10 SRC="/ie/images/side/square1.gif"></TD>
+	<TD WIDTH=90><FONT SIZE=2><DIV CLASS="tall"><B><A CLASS="navLnkB" HREF="/ie/homeuser/">Home Users</A></B></FONT></DIV></TD>
+	</TR>
+	<TR VALIGN=TOP>
+	<TD WIDTH=13 VALIGN=TOP><IMG BORDER=0 WIDTH=13 HEIGHT=10 SRC="/ie/images/side/square1.gif"></TD>
+	<TD WIDTH=90><FONT SIZE=2><DIV CLASS="tall"><B><A CLASS="navLnkB" HREF="/ie/corp/">Business</A></B></FONT></DIV></TD>
+	</TR>
+	<TR VALIGN=TOP>
+	<TD WIDTH=13 VALIGN=TOP><IMG BORDER=0 WIDTH=13 HEIGHT=10 SRC="/ie/images/side/square1.gif"></TD>
+	<TD WIDTH=90><FONT SIZE=2><DIV CLASS="tall"><B><A CLASS="navLnkB" HREF="/ie/authors/">Authors &amp; Developers</A></B></FONT></DIV></TD>
+	</TR>
+	<TR VALIGN=TOP>
+	<TD WIDTH=13 VALIGN=TOP><IMG BORDER=0 WIDTH=13 HEIGHT=10 SRC="/ie/images/side/square1.gif"></TD>
+	<TD WIDTH=90><FONT SIZE=2><DIV CLASS="tall"><B><A CLASS="navLnkB" HREF="/ie/sitemap/">Site Map</A></B></FONT></DIV></TD>
+	</TR>
+	</TABLE>
+
+</TD>
+
+<TD VALIGN=TOP WIDTH=21><IMG WIDTH=21 HEIGHT=1 SRC="/ie/images/trans_space.gif"></TD>
+
+<TD VALIGN=TOP WIDTH="95%">
+
+	<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH="100%">
+	<TR>
+	<TD WIDTH="100%"><IMG WIDTH=109 HEIGHT=36 SRC="/ie/images/headlines/hd_topstories.gif" ALT="Top Stories"><IMG WIDTH=15 HEIGHT=1 SRC="/ie/images/trans_space.gif" ALT="spacer"></TD>
+	</TR>
+
+	<TR>
+	<TD>
+
+<!-- !!!!!!!!!!!!!!!!!!!!!!!! STORIES START HERE !!!!!!!!!!!!!!!!!!!!!!!! -->
+	<FONT FACE="verdana,arial,helvetica" SIZE=2>
+	<SPAN CLASS="headline"><FONT SIZE=3><B>Internet Explorer Share Tops 40 Percent; Now Most Popular Browser Software in Home PC Market!</B></FONT></SPAN><BR>
+	Just six weeks after the release of version 4.0, independent studies show <A HREF="/ie/press/?/ie/press/fortyplus.htm" TARGET="_top">new milestones in the growing popularity of Microsoft Internet Explorer</A>:<BR>
+
+		<TABLE>
+		<TR>
+		<TD WIDTH=25>&nbsp;</TD>
+		<TD><FONT FACE="verdana,arial,helvetica" SIZE=2>
+		&#149; More than 40 percent of people on the Web now surf with Internet Explorer.<BR>
+		&#149; Internet Explorer is now the most popular browser software in the home PC market.<BR>
+		&#149; Internet Explorer is the top browser today in 19 countries.
+		</FONT>
+		</TD>
+		</TR>
+		</TABLE>
+
+	Find out why&#151;<A HREF="/ie/ie40/download/" TARGET="_top">download Internet Explorer 4.0 today!</A>
+	<P>
+
+	<SPAN CLASS="headline"><FONT SIZE=3><B>Michael Jordan's Channel: Nothin' but 'Net!</B></FONT></SPAN>
+	<BR>
+	 If you've already installed Internet Explorer 4.0, be the first on your block to 
+	subscribe to <A HREF="http://cbs.sportsline.com/u/iejordan/subscribe.html" TARGET="_top">Michael 
+	Jordan's Active Channel</A>! Check out the stats, audio and video clips, off-the-court news, and notes on his airness. If you haven't downloaded Internet Explorer 4.0 yet, 
+	<A HREF="/ie/ie40/download/" TARGET="_top">do it now</A> and get in the game!
+	<P>
+
+
+	<A HREF="http://www.zdnet.com/pccomp/features/excl0198/mvp97/internet/microsoft_ie4.html"><IMG VSPACE=3 BORDER=0 ALIGN=RIGHT WIDTH=80 HEIGHT=94 SRC="/ie/images/mvp97.gif" ALT="Internet Explorer 4.0 wins MVP award"></A><SPAN CLASS="headline"><FONT SIZE=3><B>Internet Explorer 4.0 Wins <I>PC Computing</I> MVP Award</B></FONT></SPAN>
+	<BR>
+	At Comdex this week, <A HREF="http://www.zdnet.com/pccomp/features/excl0198/mvp97/internet/microsoft_ie4.html" TARGET="_top"><I>PC Computing</I></A><IMG BORDER=0 WIDTH=20 HEIGHT=11 SRC="/ie/images/gifs/ie_leave_site.gif"> magazine named Internet Explorer 4.0 winner in the Web Browsing category of its MVP Awards. Just one more reason to <A HREF="/ie/ie40/download/" TARGET="_top">download Internet Explorer 4.0 today!</A>
+	<P>
+
+
+
+	<SPAN CLASS="headline"><FONT SIZE=3><B>Internet Explorer 4.0 Sweeps Communicator in Head-to-Head Comparisons</B></FONT></SPAN>
+	<BR>
+	<A HREF="/ie/press/reviews-f.htm?/ie/press/ie4read.htm"><IMG VSPACE=3 BORDER=0 ALIGN=LEFT WIDTH=76 HEIGHT=80 SRC="/ie/images/40-reviews.gif" ALT="Read the reviews for 4.0!"></A>The software industry's top trade journals&#151;<A HREF="/ie/press/?/ie/press/ie4read.htm" TARGET="_top">PC Magazine, CNET, TechWeb, PC Week</A> and more&#151;all recommend <A HREF="/ie/ie40/" TARGET="_top">Internet Explorer 4.0</A> over Netscape Communicator. So does Walter S. Mossberg of The Wall Street Journal: &quot;Microsoft's new Internet Explorer browser and its companion <A HREF="/ie/ie40/oe/" TARGET="_top">Outlook&#153; Express</A> mail package are decisively superior to the latest version of Netscape's Navigator browser and Messenger e-mail software.&quot; <A HREF="/ie/ie40/download/" TARGET="_top">Download Internet Explorer 4.0 today!</A>
+
+	<P>
+
+
+	<SPAN CLASS="headline"><FONT SIZE=3><B>Preview Releases of 4.0 for Windows 3.1 and UNIX Expand True Platform Support</B></FONT></SPAN>
+	<BR>
+	Our new preview releases of Internet Explorer 4.0 introduce the first version of <A HREF="/ie/unix/" TARGET="_top">Internet Explorer for UNIX</A> and Preview 2 of <A HREF="/ie/win31/ie40/" TARGET="_top">Internet Explorer 4.0 for Windows 3.1</A> users. The releases are one more step in providing <A HREF="/corpinfo/press/1997/Nov97/IEUNIXPr.htm" TARGET="_top">true platform support</A> and premier Internet Explorer 4.0 functionality to users, corporations, and content developers worldwide.
+	<P>
+<!-- THE FOLLOWING IMAGE MUST BE AFTER THE FIRST STORY ON THE HOMEPAGE
+**************************************************************************
+	<A HREF="/ie/ie40/"><IMG VSPACE=3 BORDER=0 ALIGN=LEFT WIDTH=106 HEIGHT=60 SRC="/ie/images/about40.gif" ALT="About 4.0"></A>
+**********************************************************************
+
+-->
+
+
+	<A NAME="netmeeting"></A>
+
+	<SPAN CLASS="headline"><FONT SIZE=3><B>NetMeeting 2.1 Makes Your Net Conferences Clearer,  Quicker, and Easier</B></FONT></SPAN>
+	<BR>
+	You can now download the final release of Microsoft <A HREF="/netmeeting/" TARGET="_top">NetMeeting 2.1</A>. The <A HREF="/corpinfo/press/1997/Nov97/NtMt21Pr.htm" TARGET="_top">new version</A> takes away delay and static from Internet audio, makes it easier to set up conferences, and more!
+	<P>
+
+	<A NAME="plus"></A>
+
+	<SPAN CLASS="headline"><FONT SIZE=3><B>Internet Explorer Plus Adds Top Internet Utilities to 4.0 CD: Get It Online or at Your Local Software Store!</B></FONT></SPAN>
+	<BR>
+	Just in time for holiday shopping, <A HREF="/ie/plus/default.htm" TARGET="_top">Internet Explorer Plus</A> gives you a full package of state-of-the-art Internet utilities along with the deluxe version of <A HREF="/ie/ie40/" TARGET="_top">Internet Explorer 4.0</A> on CD&#151;the fastest and easiest way to install the Internet's premier browser.
+	<P>
+
+
+
+	<SPAN CLASS="headline"><FONT SIZE=3><B>Single Fix Now Available for &quot;Buffer Overrun&quot; and &quot;Freiburg&quot; Issues
+	</B></FONT></SPAN>
+	<BR>
+	Internet Explorer 4.0 users can now <A HREF="/ie/security/?/ie/security/buffer.htm" TARGET="_top">download a single fix</A> for the recent Buffer Overrun security issue and the Freiburg text-viewing issue that was reported last month.
+	<P>
+
+	<SPAN CLASS="headline"><FONT SIZE=3><B>Over 2,000 Corporations License Internet Explorer Administration Kit 4.0
+	</B></FONT></SPAN>
+	<BR>
+	<A HREF="/corpinfo/press/1997/Oct97/IE4AdmMA.htm" TARGET="_top">More than 2,000 major corporations</A> have licensed <A HREF="/ie/ieak/" TARGET="_top">Internet Explorer Administration Kit (IEAK) 4.0</A>, the free product that makes it easy to customize, distribute, and maintain Internet Explorer 4.0 from one central location.
+	<P>
+
+<SPAN CLASS="headline"><FONT SIZE=3><B>Microsoft Letter to Customers Responds to DOJ</B></FONT></SPAN>
+	<BR>
+	In a <A HREF="/corpinfo/10-decreecustomerLTR.htm" TARGET="_top">letter to customers</A> responding to the recent motion filed by the Justice Department, Microsoft Vice President Brad Chase answers questions you may have about the motion, offers Microsoft's position on the issue, and explains what this means for you as a user of Internet Explorer and the Windows operating system. You can also read <A HREF="/corpinfo/10-decreeop-eds.htm">editorials questioning the Justice Department's action</A> from numerous publications around the country.
+	<P>
+
+	<BR>
+	<IMG WIDTH=1 HEIGHT=25 SRC="/ie/images/trans_space.gif" ALT=""><BR>
+	</FONT>
+	</TD>
+	</TR>
+
+<!-- ****** DO NOT EDIT THIS BLOCK ****** -->
+	<TR>
+	<TD COLSPAN=2 BGCOLOR="black">
+	<IMG BORDER=0 WIDTH="100%" HEIGHT=10 SRC="/ie/images/trans_space.gif" ALT=""><BR>
+	</TD>
+	</TR>
+<!-- ****** DO NOT EDIT THIS BLOCK ****** -->
+
+	<TR>
+	<TD COLSPAN=2>
+	<FONT FACE="verdana,arial,helvetica" SIZE=2>
+	<IMG WIDTH=227 HEIGHT=36 SRC="/ie/images/headlines/hd_incase.gif" ALT="In case you missed it ... "><BR>
+	<A HREF="/corpinfo/press/1997/Oct97/IECUSTPR.htm" TARGET="_top">Customer Satisfaction Fuels Growing Success of Internet Explorer 4.0</A>
+	<P>
+
+	<A HREF="/corpinfo/press/1997/Sept97/ietoolspr.htm">Powerful Tools and Resources Help Corporations Migrate to Internet Explorer 4.0</A>
+	<P>
+	<A HREF="/corpinfo/press/1997/Sept97/OEMpr.htm">Top PC manufacturers will Deliver Internet Explorer 4.0 with PCs</A>
+	<P>
+	<A HREF="/corpinfo/press/1997/Oct97/IEeappr.htm">More than 20 Major Corporations Deploy Internet Explorer 4.0</A>
+	<P>
+	<A HREF="/java/issues/letter.htm" TARGET="_top">Concerned About the Sun Lawsuit? Read Our Letter to Customers</A>
+	<P>
+	<A HREF="/corpinfo/press/1997/Sept97/ISPpr.htm">Top 10 Internet Service Providers Deliver Internet Explorer 4.0 to Millions of New Users</A>
+	<P>
+	<A HREF="http://www.zonaresearch.com/newsreleases/BrowserCensus.htm">Zona Research: Internet 	Explorer Popularity Continues to Rise</A><IMG BORDER=0 WIDTH=20 HEIGHT=11 	SRC="/ie/images/gifs/ie_leave_site.gif">
+	<P>
+	<A HREF="/corpinfo/press/1997/Oct97/SHIPPR.htm" TARGET="_top">Put Our Browser in Your Pocket: Internet Explorer comes with Microsoft Windows CE 2.0 for the Handheld PC</A>
+	<P>
+	<A HREF="/corpinfo/press/1997/Oct97/IE4INTMA.htm" TARGET="_top">Over 1 million people download Internet Explorer 4.0 in the first 48 hours</A>
+	<P>
+	<A HREF="/corpinfo/press/1997/Oct97/MSCNTXPR.htm" TARGET="_top">Good News for Video on the Internet</A>
+	<P>
+	<A HREF="/corpinfo/press/1997/Oct97/Trainpr.htm" TARGET="_top">New Titles from Microsoft Press Focus on the Benefits of Internet Explorer 4.0 for Users, Developers, and Trainers</A>
+	<P>
+	<A HREF="http://home.microsoft.com/reading/special/IE4launch/default.asp">Check Out Our Special 4.0 Launch Coverage!</A>
+	<P>
+	<A HREF="/corpinfo/press/1997/Sept97/solprvdrpr.htm">200-Plus Top Web Development Companies and Solution Providers Support 4.0 Rollout</A>
+	<P>
+	<A HREF="/ie/security/?/ie/security/sgc.htm">Secured Online Banking Goes Global!</A>
+	<P>
+	<A HREF="http://www.cnet.com/Content/Reviews/Compare/Emailclients/ss04.html">CNET Rates Outlook Express Best Internet E-mail</A><IMG BORDER=0 WIDTH=20 HEIGHT=11 SRC="/ie/images/gifs/ie_leave_site.gif">
+	<P>
+	<A HREF="/ie/mac/ie40/">Internet Explorer 4.0 Preview 1 for Macintosh has Arrived!</A>
+	<P>
+
+	</FONT>
+	</TD>
+	</TR>
+
+	<TR>
+	<TD COLSPAN=2>
+	<BR><BR>
+    <FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+	<A CLASS="btop" HREF="#top"><IMG BORDER=0 WIDTH=16 HEIGHT=7 SRC="/ie/images/to_top.gif" ALT="Back to the top">Back to the top</A><BR>
+	<HR SIZE=1 NOSHADE COLOR="black">&copy; <A HREF="/misc/cpyright.htm">1997 Microsoft Corporation.  All rights reserved. Terms of Use</A>.<BR>
+    Last updated: Tuesday, November 18, 1997
+	<BR>Photo credits: Phil Lauro/Index Stock, Richard Smith/Corbis
+	</FONT>
+	<BR><BR><BR>
+	</TD>
+	</TR>
+	</TABLE>
+</TD>
+
+<TD VALIGN=TOP WIDTH=10>
+<IMG WIDTH=10 HEIGHT=1 SRC="/ie/images/trans_space.gif" ALT=""><BR>
+</TD>
+
+<TD VALIGN=TOP WIDTH=170>
+	<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=170>
+	<TR>
+	<TD WIDTH=1 BGCOLOR="black" VALIGN=TOP><IMG WIDTH=1 HEIGHT=12 SRC="/ie/images/wht.gif" ALT=""></TD>
+	<TD WIDTH=10><IMG WIDTH=10 HEIGHT=1 SRC="/ie/images/trans_space.gif" ALT=""></TD>
+	<TD WIDTH=164>
+	<FONT FACE="verdana, arial, helvetica" SIZE=2>
+
+	<IMG WIDTH=113 HEIGHT=36 SRC="/ie/images/headlines/hd_check.gif" ALT="Check it out!"><BR>
+
+	<B>Get Internet <BR>Explorer 4.0 the<BR>Way You Want It:</B><BR>
+	<A HREF="/ie/offers/ie4holiday.asp" TARGET="_top">Order it on CD</A>...<BR>
+	<A HREF="/ie/offers/ie4holiday.asp" TARGET="_top"><IMG SRC="/ie/images/holiday_cd.GIF" WIDTH=130 HEIGHT=76 BORDER=0 ALT="Order the CD!"></A><BR>
+	...or <A HREF="/ie/ie40/download/win95.htm" TARGET="_top">download 4.0 for free</A> from this Web site.
+
+	<P>
+	<B>Find Out About 4.0:</B><BR>
+	Read about the features that make <A HREF="/ie/ie40/" TARGET="_top">Internet Explorer 4.0</A> the most-talked-about browser on the Web!
+	<P>
+	<B>Download Any Version of Internet Explorer:</B><BR>
+	Click the box below to get any version of Internet Explorer and add-on products for free.<BR>
+	<A HREF="/ie/download/"><IMG VSPACE=20 WIDTH="88" HEIGHT="31" SRC="/library/images/gifs/logos/ieget_animated.gif" BORDER="0" ALT="Get Microsoft Internet Explorer"></A><BR>
+
+	<B>Contests &amp; Offers:</B><BR>
+	Find out about our <A HREF="/ie/offers/">hot offers and cool contests!</A>
+	<P>
+	<A HREF="/ie/ie40/gallery/?/ie/ie40/gallery/gal_main.htm" TARGET="_top">
+	<IMG ALIGN=LEFT BORDER=0 WIDTH=59 HEIGHT=54 SRC="/ie/images/gifs/galleryicon.gif" ALT="Active Desktop Gallery"><B>Go to the Gallery!</B></A> Add live items to your 4.0 Active Desktop&#153;.
+
+	<P>
+
+
+<SCRIPT LANGUAGE="JavaScript"><!--
+if (ie4Release){
+	document.writeln('<B>Subscribe to the 4.0 Channel!</B><BR>You must be running Internet Explorer 4.0. Click &quot;Add to Channels&quot; below.<BR><A HREF="/ie/ie40/channel/ie4.cdf"><IMG VSPACE=8 SRC="/ie/images/addchannel.gif" BORDER=0></A><BR>');
+
+	document.writeln('<B>We Want Your Feedback!</B><BR>We want to hear <A HREF="http://register.microsoft.com/regwiz/wiz198.asp?fu=/ie/&cu=/ie/">how you are using Internet Explorer 4.0</A> — you could win your choice of Microsoft software!<P>');
+}
+//--></SCRIPT>
+
+	<A HREF="/ie/security/"><IMG BORDER=0 WIDTH=67 HEIGHT=31 SRC="/ie/images/headlines/sbhd_sec.GIF" ALT="Security"><BR></A>
+	Learn about Internet Explorer <A HREF="/ie/security/">security</A> features and updates.
+	<BR>
+	<A HREF="http://register.microsoft.com/regwiz/wiz60.asp?dl=en&fu=/ie/&cu=/ie/"><IMG BORDER=0 WIDTH=93 HEIGHT=31 SRC="/ie/images/headlines/sbhd_reg.GIF" ALT="Registration"><BR>
+	Register</A> your copy of Internet Explorer.
+	<BR>
+	<A HREF="http://register.microsoft.com/regwiz/regwiz.asp?fu=/ie/&cu=/ie/"><IMG BORDER=0 WIDTH=77 HEIGHT=31 SRC="/ie/images/headlines/sbhd_feed.GIF" ALT="Feedback"><BR>
+	Send us your feedback</A> on this Web site.
+	<P>
+	<A HREF="http://support.microsoft.com/support/default.asp?pr=ie"><IMG BORDER=0 WIDTH=80 HEIGHT=32 SRC="/ie/images/mtsonline.gif" ALT="Technical Support"></A>
+	<P>
+	<B>Use Our Logos:</B><BR>
+		Want to place <A HREF="/sbnmember/ielogo/default.asp">Internet Explorer logos</A> in your 	Web offerings? Find out how.
+	<P>
+	</FONT>
+	<IMG WIDTH=1 HEIGHT=10 SRC="/ie/images/trans_space.gif">
+
+	</TD>
+	</TR>
+	</TABLE>
+</TD>
+</TR>
+</TABLE>
+
+</BODY>
+</HTML>

@@ -1,0 +1,63 @@
+Server: Netscape-Enterprise/2.0a
+Date: Thu, 20 Nov 1997 23:53:05 GMT
+Content-type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>SKF Group</TITLE>
+</HEAD>
+
+<FRAMESET ROWS="1500,*" BORDER=0 FRAMEBORDER=0 FRAMESPACING=0>
+
+<FRAME	MARGINHEIGHT=0
+	MARGINWIDTH=0 
+	NAME="home"
+	SRC="home.html"
+	SCROLLING="AUTO"
+	NORESIZE>
+
+<FRAME	MARGINHEIGHT=0
+	MARGINWIDTH=0
+	NAME="collapse" 
+	SCROLLING="NO"
+	NORESIZE>
+
+</FRAMESET>
+
+<NOFRAMES>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF">
+
+<CENTER>
+<TABLE WIDTH=512>
+<TR><TD ALIGN=CENTER>
+<FONT SIZE=+1><B>Welcome to SKF</B></FONT>
+<P>
+<B>You are running a browser that not support frames. There will therefore occur some problems useing the SKF site. Please download <A HREF="http://home.netscape.com">Netscape 3</A> or compatible browser.</B>
+<P>
+<A HREF="mainmenu.map"><IMG SRC="image/home/homebearing.gif" LOWSRC="image/home/homebearing_low.gif" WIDTH="512" HEIGHT="240" ALT="Main menu" BORDER=0 USEMAP="#mainmenu" ISMAP></A>
+
+</TD></TR>
+</TABLE>
+
+</CENTER>
+
+<MAP NAME="mainmenu">
+<AREA SHAPE="rect" ALT="SKF Group Homepage" COORDS="0,53,148,85" HREF="group/group.html"> 
+
+<AREA SHAPE="rect" ALT="SKF Products and Services" COORDS="0,100,113,142" HREF="products/products.html">
+
+<AREA SHAPE="rect" ALT="SKF Financial information" COORDS="0,148,123,176" HREF="financial/financial.html">
+
+<AREA SHAPE="rect" ALT="SKF Worldwide" COORDS="371,53,512,86" HREF="worldwide/worldwide.html">
+
+<AREA SHAPE="rect" ALT="SKF Gallery" COORDS="423,101,512,130" HREF="gallery/gallery.html">
+
+<AREA SHAPE="rect" ALT="Contact us" COORDS="401,145,512,178" HREF="contact/contact.html">
+</MAP>
+
+
+
+</BODY>
+</NOFRAMES>
+</HTML>
+

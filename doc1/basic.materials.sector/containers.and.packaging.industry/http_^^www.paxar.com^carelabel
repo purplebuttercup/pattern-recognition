@@ -1,0 +1,13 @@
+WWW Alert:  Redirection response from server is not handled by this client
+Date: Thu, 20 Nov 1997 20:51:35 GMT
+Server: Apache/1.2.1
+Location: http://www.paxarcorp.com/carelabel/
+Connection: close
+Content-Type: text/html
+
+<HTML><HEAD>
+<TITLE>301 Moved Permanently</TITLE>
+</HEAD><BODY>
+<H1>Moved Permanently</H1>
+The document has moved <A HREF="http://www.paxarcorp.com/carelabel/">here</A>.<P>
+</BODY></HTML>

@@ -1,0 +1,51 @@
+Date: Fri, 21 Nov 1997 03:45:10 GMT
+Server: WebSitePro/1.1h
+Accept-ranges: bytes
+Content-type: text/html
+Last-modified: Mon, 23 Sep 1996 19:53:30 GMT
+Content-length: 934
+
+<html>
+
+<head>
+<title>Search Ciprico's Site</title>
+</head>
+<body bgcolor="#FFFFFF">
+<Img src="images/search.gif"><br>
+<h1>Search Ciprico's Site</h1>
+<p>
+
+
+</p>
+Please type in the Key Words that you wish to find. Then, select the number of results to return and what parts of the web pages that you wish to search.
+<hr>
+<form method=post action="cgi-bin/webfind.exe">
+<p>
+<b>Search For</b>
+<input type=hidden name="Indexname" value="ciprico">
+<input name=keywords size=50>
+</p>
+<b>for</b>
+ <select name="maxhits">
+<option>40
+<option>80
+<option>200
+<option>500
+<option>All
+</select> <b>items</b> 
+
+<b>in</b>
+ <select name="searchin">
+<option>Complete File
+<option>Head Section
+<option>Body Section
+<option>Title
+<option>File Headers
+<option>Emphasized Tags
+<option>File Comments
+</select>
+</p>
+<p>
+<input type=submit value="Find Documents"><input type=reset value="Clear"></p>
+</form>
+</html>

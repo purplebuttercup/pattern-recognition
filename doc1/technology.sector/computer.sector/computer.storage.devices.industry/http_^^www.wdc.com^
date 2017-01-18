@@ -1,0 +1,216 @@
+Server: Netscape-Enterprise/2.01
+Date: Fri, 21 Nov 1997 03:49:56 GMT
+Content-type: text/html
+
+<html>
+<head>
+
+<!--Information contained within META tags supplies characterizing information about the respective HTML document; META's primarily used to generate Key Words to the respective search engine called upon to parse the HTML -->
+<META NAME="description" CONTENT="Western Digital Hard Drives">
+<META NAME="keywords" CONTENT="Western Digital, Western Digital, Western Digital, hard drive, EIDE, SCSI, storage,IDE, enhanced, disk, IDE, drive, Caviar,Enterprise, Portfolio, Storage Device Acceleration, WD, SelectWD, retail partners, special programs at Western Digital, Western Digital, Drive Your Own Course, College Recruiting, Employment at Western Digital, Jobs in Irvine, Jobs in Silicon Valley, Open House, Career Fairs, Interview Days, Benefits">
+
+<title>Western Digital Corporation - Hard Drives</title>
+
+<script language="Javascript">
+
+<!--
+ 	 browser = (((navigator.appName == "Netscape") && (parseInt(navigator.appVersion) >= 3 )) || ((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 3 )))
+
+ 
+   if ( browser )
+   {
+     	other = new MakeImageArray(9)
+      	over = new MakeImageArray(9)
+     	image = new MakeImageArray(10)
+
+     	other[1].src = "/images/button0.gif"
+     	other[2].src = "/images/button1.gif"
+	other[3].src = "/images/button2.gif"
+	other[4].src = "/images/button3.gif"
+        other[6].src = "/images/button4.gif"
+        other[7].src = "/images/button5.gif"
+	other[8].src = "/images/button6.gif"
+	other[9].src = "/images/button7.gif"
+
+        over[1].src = "/images/button0a.gif"
+        over[2].src = "/images/button1a.gif"
+        over[3].src = "/images/button2a.gif"
+        over[4].src = "/images/button3a.gif"
+	over[6].src = "/images/button4a.gif"
+	over[7].src = "/images/button5a.gif"
+	over[8].src = "/images/button6a.gif"
+	over[9].src = "/images/button7a.gif"
+
+        image[1].src = "/images/whatnew.jpeg"
+        image[2].src = "/images/product.jpeg"
+	image[3].src = "/images/service.jpeg"
+	image[4].src = "/images/wherebuy.jpeg"
+	image[5].src = "/images/diskAnim.gif"
+	image[6].src = "/images/company.jpeg"
+        image[7].src = "/images/promotn.jpeg"
+        image[8].src = "/images/employ.jpeg"
+        image[9].src = "/images/register.jpeg"
+	image[10].src = "/images/disk3.jpeg"
+  }
+
+  function MakeImageArray(n) 
+  {
+        this.length = n
+        for (var i = 0; i<=n; i++) {
+             this[i] = new Image()
+                                   }
+        return this
+  }
+
+  function MakeStringArray(n) 
+  {
+        this.length = n
+        for (var i = 0; i<=n; i++) {
+             this[i] = new String()
+                                   }
+        return this
+  }
+
+  function msover(num) 
+  {
+        if ( browser )
+          {
+             document.images[num].src = over[num].src;
+             document.images[5].src = image[num].src
+           }
+  }
+
+  function msout(num) 
+  {
+        if ( browser )
+          { 
+	     document.images[num].src = other[num].src
+             document.images[5].src = image[10].src
+           }
+  }
+
+  function msanim()    
+  {
+   	 if ( browser )
+	   {
+	     document.images[5].src = image[5].src
+  	   } 
+  }
+
+// -->
+
+</script>
+
+
+</head>
+
+<body bgcolor=#ffffff text=#000000>
+<base target="_top">
+<div align=center>
+
+<CENTER>
+
+<IMG SRC="/images/title.gif" WIDTH="492" HEIGHT="91" ALT="">
+
+<TABLE ALIGN="CENTER" BORDER="0" CELLSPACING="0" CELLPADDING="0"><TR><TD 
+ALIGN="RIGHT"><BR><a href="/new/" onmouseover="msover(1)" 
+onmouseout="msout(1)"><img src="/images/button0.gif" width=126 height=33 
+alt="What's New" border=0></a><br><a href="/products/" onmouseover="msover(2)"
+onmouseout="msout(2)"><img src="/images/button1.gif" width=126 height=38 
+alt="Hard Drive Products" border=0></a><br><a href="/support/" 
+onmouseover="msover(3)" onmouseout="msout(3)"><img src="/images/button2.gif" 
+width=126 height=38 alt="Service & Support" border=0></a><br><a 
+href="/products/drives/where2buy.html" onmouseover="msover(4)" 
+onmouseout="msout(4)"><img 
+src="/images/button3.gif" width=126 height=39 alt="Where to Buy" 
+border=0></a></TD><TD ALIGN="CENTER" ROWSPAN=2><a href="" 
+onmouseover="msanim()"><IMG SRC="/images/diskAnim.gif" border=0 
+alt=""></A><BR></TD><TD><BR><a href="/company/" onmouseover="msover(6)"
+onmouseout="msout(6)"><img src="/images/button4.gif" width=114 height=31
+alt="Company" border=0></a><br><a href="/promos/" onmouseover="msover(7)"
+onmouseout="msout(7)"><img src="/images/button5.gif" width=114 height=38
+alt="Special Promotions" border=0></a><br><a 
+href="/employment/"onmouseover="msover(8)" onmouseout="msout(8)"><img 
+src="/images/button6.gif" width=114 height=39 alt="Employment" 
+border=0></a><br><a href="/register/"onmouseover="msover(9)"
+onmouseout="msout(9)"><img src="/images/button7.gif" width=114 height=38
+alt="Registration" border=0></a></TD></TR><TR><TD ALIGN=LEFT><A 
+HREF="/search.html"><BR><IMG SRC="/images/searchSmsp.gif" BORDER="0" 
+ALT="Search" WIDTH="44" HEIGHT="36"></A></TD><TD 
+ALIGN=RIGHT><BR><IMG SRC="/images/wdlogoSm.gif" BORDER="0" ALT="" WIDTH="67" 
+HEIGHT="20">
+</TD>
+</TR>
+
+</TABLE>
+
+</CENTER>
+<BR>
+
+
+<CENTER><TABLE BORDER="0" ALIGN="center">
+<TR>
+
+<TD ALIGN="CENTER">
+<A HREF="/products/drives/9-1gb.html">
+<IMG SRC="/images-new/9gbsmal.gif" WIDTH="80" HEIGHT="68" BORDER="0" ALT="WD SCSI"></A>
+</TD>
+<TD VALIGN="CENTER"><A HREF="/products/drives/9-1gb.html">WD Enterprise 9.1 GB Ultra SCSI Hard Drive</A><IMG SRC="/images/new.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD>
+<A HREF="/promos/30-rebate.html">
+<IMG SRC="/images-new/cash.gif" WIDTH="93" HEIGHT="59" BORDER="0" ALT="Cash Rebate"></A>
+</TD>
+<TD VALIGN="CENTER"><A HREF="/promos/30-rebate.html">$30 Mail-in-Rebate on a Retail Hard Drive</A> 
+</TD>
+</TR>
+<TR>
+
+
+<TD ALIGN="CENTER">
+
+<A HREF="/products/drives/6-4gb.html">
+
+<IMG SRC="/images-new/eidenewsm.gif" WIDTH="80" HEIGHT="62" BORDER="0" ALT="WD Caviar"></A>
+
+</TD>
+
+<TD VALIGN="CENTER"><A HREF="/products/drives/6-4gb.html">WD Caviar 6.4 GB EIDE Hard Drive</A><IMG SRC="/images/new.gif" ALT=""></TD>
+
+</TR>
+
+
+
+
+</TABLE></CENTER>
+
+
+<HR>
+
+
+<P ALIGN="CENTER"><FONT COLOR="#F00F0F" SIZE="4">Welcome to an 
+<A HREF="/awards/awards.html">award winning</A> site!</FONT></p>
+
+<BLOCKQUOTE>
+
+<H5><P>&#169 <A HREF="copyright.html">Copyright</A> 1997 Western Digital 
+Corporation. 
+<BR>
+Problems or comments? Please contact <A HREF="/webmaster.html">
+webmaster@www.wdc.com</A>
+<BR>
+</H5>
+</BLOCKQUOTE>
+</P>
+
+
+<HR>
+<PRE>
+<H5 ALIGN="CENTER">[ <A HREF="/new/">New</A> | <A HREF="/branding/">Photos/Logos</A> | <A HREF="/company/">Company</A> | <A HREF="/products/">Products</A> | <A 
+HREF="/products/drives/where2buy.html">Where2Buy</A> | <A HREF="/support/">Service</A> | <A HREF="/promos/">Promos</A> | <A HREF="/partners/">Partners</A> | <A HREF="/employment/">Employment</A> | <A HREF="/toc.html">Index</A> | <A HREF="/search.html">Search</A>  ] 
+</H5></PRE>
+
+</div>
+</body>
+</html>

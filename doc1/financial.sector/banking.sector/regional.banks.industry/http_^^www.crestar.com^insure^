@@ -1,0 +1,112 @@
+Server: Microsoft-IIS/4.0
+Date: Thu, 18 Dec 1997 12:49:26 GMT
+Content-Type: text/html
+
+<HTML><HEAD>	<META name="description" content="Whatever you need, Crestar Insurance Agency, Inc. does the shopping for you. We offer you the comfort of purchasing your policies through an established institution you already trust.">	<META name="keywords" content="insurance, crestar bank, trust, personal, business, life, health, disability">	<META Name="summary"  Content="">	<META Name="author"  Content= "">	<META Name="resource-type"  Content="document">	<META Name="copyright"  Content="1997 Crestar Bank">	<META Name="distribution" Content="global">	<TITLE>Crestar Bank - Insure</TITLE>	<script language="JavaScript">
+
+<!--
+agent = navigator.userAgent
+
+browserVer = 2;
+
+if (agent.substring(0,7) == "Mozilla"){
+
+    if (parseInt(agent.substring(8,9)) >= 3) {browserVer = 1;}
+
+}
+
+
+if (browserVer == 1) {
+
+	bankonline_white = new Image(135, 15);
+	bankonline_white.src = "../images_nav/bankonline_white.gif";
+	bankonline_y = new Image(135, 15);
+	bankonline_y.src = "../images_nav/bankonline_y.gif";
+
+	bank24_white = new Image(135, 15);
+	bank24_white.src = "../images_nav/bank24_white.gif";
+	bank24_y = new Image(135, 15);
+	bank24_y.src = "../images_nav/bank24_y.gif";
+
+	borrow_white = new Image(135, 15);
+	borrow_white.src = "../images_nav/borrow_white.gif";
+	borrow_y = new Image(135, 15);
+	borrow_y.src = "../images_nav/borrow_y.gif";
+
+	personal_white = new Image(135, 15);
+	personal_white.src = "../images_nav/personal_white.gif";
+	personal_y = new Image(135, 15);
+	personal_y.src = "../images_nav/personal_y.gif";
+
+	business_white = new Image(135, 15);
+	business_white.src = "../images_nav/business_white.gif";
+	business_y = new Image(135, 15);
+	business_y.src = "../images_nav/business_y.gif";
+
+	communicate_white = new Image(135, 15);
+	communicate_white.src = "../images_nav/communicate_white.gif";
+	communicate_y = new Image(135, 15);
+	communicate_y.src = "../images_nav/communicate_y.gif";
+
+	discover_white = new Image(135, 15);
+	discover_white.src = "../images_nav/discover_white.gif";
+	discover_y = new Image(135, 15);
+	discover_y.src = "../images_nav/discover_y.gif";
+
+	explorebb_white = new Image(135, 15);
+	explorebb_white.src = "../images_nav/explorebb_white.gif";
+	explorebb_y = new Image(135, 15);
+	explorebb_y.src = "../images_nav/explorebb_y.gif";
+
+	home_white = new Image(135, 15);
+	home_white.src = "../images_nav/home_white.gif";
+	home_y = new Image(135, 15);
+	home_y.src = "../images_nav/home_y.gif";
+
+	insure_white = new Image(135, 15);
+	insure_white.src = "../images_nav/insure_white.gif";
+	insure_y = new Image(135, 15);
+	insure_y.src = "../images_nav/insure_y.gif";
+
+	invest_white = new Image(135, 15);
+	invest_white.src = "../images_nav/invest_white.gif";
+	invest_y = new Image(135, 15);
+	invest_y.src = "../images_nav/invest_y.gif";
+
+	save_white = new Image(135, 15);
+	save_white.src = "../images_nav/save_white.gif";
+	save_y = new Image(135, 15);
+	save_y.src = "../images_nav/save_y.gif";
+
+	sitemap_white = new Image(135, 15);
+	sitemap_white.src = "../images_nav/sitemap_white.gif";
+	sitemap_y = new Image(135, 15);
+	sitemap_y.src = "../images_nav/sitemap_y.gif";
+
+	backtotop_white = new Image(135, 15);
+	backtotop_white.src = "../images_nav/backtotop_white.gif";
+	backtotop_y = new Image(135, 15);
+	backtotop_y.src = "../images_nav/backtotop_y.gif";
+
+	callback_white = new Image(135, 60);
+	callback_white.src = "../images_nav/callback_white.gif";
+	callback_y = new Image(135, 60);
+	callback_y.src = "../images_nav/callback_y.gif";
+
+	checking_white = new Image(135, 15);
+	checking_white.src = "../images_nav/checking_white.gif";
+	checking_y = new Image(135, 15);
+	checking_y.src = "../images_nav/checking_y.gif";
+}
+
+function hiLite(imgDocID,imgObjName) {
+
+	if (browserVer == 1) {
+
+		document.images[imgDocID].src = eval(imgObjName + ".src");
+	}
+}
+//-->
+
+</script>
+</HEAD><BODY BGCOLOR="#FFFFFF" LINK="000099" ALINK="#FFFFFF" VLINK="#666666" BACKGROUND="../images/standard_bg.gif" topmargin=0><a name=top></a><TABLE CELLPADDING=0 BORDER=0 WIDTH=600>	<TR><TD BGCOLOR="#FF0000" HEIGHT=25 COLSPAN=2><IMG SRC="../images/logo.gif"></TD></TR>	<TR><TD WIDTH=150 FONT COLOR="#ffffff" VALIGN=TOP>	<IMG SRC="../images_nav/insure_y.gif" border=0 name="insure_white" width=135 height=15 alt="Current Section: Insure"></A><br>		<A HREF="personal.stm" onMouseOver="hiLite('personal_white','personal_y'); window.status='Link to Personal Insurance'; return true;" onMouseOut="hiLite('personal_white','personal_white');"><IMG SRC="../images_nav/personal_white.gif" border=0 name="personal_white" width=135 height=15 alt="Link: Personal Insurance"></A><br>		<A HREF="business.stm" onMouseOver="hiLite('business_white','business_y'); window.status='Link to Business Insurance'; return true;" onMouseOut="hiLite('business_white','business_white');"><IMG SRC="../images_nav/business_white.gif" border=0 name="business_white" width=135 height=15 alt="Link: Business Insurance"></A><br>		<IMG SRC="../images_nav/black_15x135.gif" border=0 width=135 height=15><br>		<A HREF="../bankonline/" onMouseOver="hiLite('bankonline_white','bankonline_y'); window.status='Link to Bank Online'; return true;" onMouseOut="hiLite('bankonline_white','bankonline_white');"><IMG SRC="../images_nav/bankonline_white.gif" border=0 name="bankonline_white" width=135 height=15 alt="Link: Bank Online"></A><br>		<A HREF="../save/" onMouseOver="hiLite('save_white','save_y'); window.status='Link to Save'; return true;" onMouseOut="hiLite('save_white','save_white');"><IMG SRC="../images_nav/save_white.gif" border=0 name="save_white" width=135 height=15 alt="Link: Save"></A><br>		<A HREF="../borrow/" onMouseOver="hiLite('borrow_white','borrow_y'); window.status='Link to Borrow'; return true;" onMouseOut="hiLite('borrow_white','borrow_white');"><IMG SRC="../images_nav/borrow_white.gif" border=0 name="borrow_white" width=135 height=15></A><br>		<A HREF="../invest/" onMouseOver="hiLite('invest_white','invest_y'); window.status='Link to Invest'; return true;" onMouseOut="hiLite('invest_white','invest_white');"><IMG SRC="../images_nav/invest_white.gif" border=0 name="invest_white" width=135 height=15 alt="Link: Invest"></A><br>		<A HREF="../checking/" onMouseOver="hiLite('checking_white','checking_y'); window.status='Link to Checking'; return true;" onMouseOut="hiLite('checking_white','checking_white');"><IMG SRC="../images_nav/checking_white.gif" border=0 name="checking_white" width=135 height=15 alt="Link: Check Out Checking"></A><br>		<A HREF="../explorebb/" onMouseOver="hiLite('explorebb_white','explorebb_y'); window.status='Link to Explore Business Banking'; return true;" onMouseOut="hiLite('explorebb_white','explorebb_white');"><IMG SRC="../images_nav/explorebb_white.gif" border=0 name="explorebb_white" width=135 height=15 alt="Link: Explore Business Banking"></A><br>		<A HREF="../bank24/" onMouseOver="hiLite('bank24_white','bank24_y'); window.status='Link to Bank 24 Hours'; return true;" onMouseOut="hiLite('bank24_white','bank24_white');"><IMG SRC="../images_nav/bank24_white.gif" border=0 name="bank24_white" width=135 height=15 alt="Link: Bank 24hours"></A><br>		<A HREF="../communicate/" onMouseOver="hiLite('communicate_white','communicate_y'); window.status='Link to Communicate'; return true;" onMouseOut="hiLite('communicate_white','communicate_white');"><IMG SRC="../images_nav/communicate_white.gif" border=0 name="communicate_white" width=135 height=15 alt="Link: Communicate"></A><br>		<A HREF="../discover/" onMouseOver="hiLite('discover_white','discover_y'); window.status='Link to Discover'; return true;" onMouseOut="hiLite('discover_white','discover_white');"><IMG SRC="../images_nav/discover_white.gif" border=0 name="discover_white" width=135 height=15 alt="Link: Discover Crestar"></A><br>		<A HREF="../sitemap/" onMouseOver="hiLite('sitemap_white','sitemap_y'); window.status='Link to Site Map'; return true;" onMouseOut="hiLite('sitemap_white','sitemap_white');"><IMG SRC="../images_nav/sitemap_white.gif" border=0 name="sitemap_white" width=135 height=15 alt="Link: Sitemap"></A><br>		<A HREF="../index.html" onMouseOver="hiLite('home_white','home_y'); window.status='Link to Home'; return true;" onMouseOut="hiLite('home_white','home_white');"><IMG SRC="../images_nav/home_white.gif" border=0 name="home_white" width=135 height=15 alt="Link: Return Home"></A><br>		<A HREF="http://speakwithagent.att.net/cgi-bin/welcome?SN=crestar+bank&amp;SC=default" onMouseOver="hiLite('callback_white','callback_y'); window.status='Link to Instant Callback'; return true;" onMouseOut="hiLite('callback_white','callback_white');"><IMG SRC="../images_nav/callback_white.gif" border=0 name="callback_white" width=135 height=60 alt="Link: Instant Callback" vspace=8></A><br>		</TD>	<TD ROWSPAN=2 valign=top>		<p><IMG SRC="../images/insure_toptt.gif" ALT="Service is always our policy." WIDTH="268" HEIGHT="23" BORDER="0" VSPACE="5"><p><IMG SRC="../images/drop_W.gif" ALT="W" ALIGN=LEFT WIDTH="30" HEIGHT="28" BORDER="0"><font face="arial,helvetica" size=-1>hatever you need, Crestar Insurance Agency, Inc. does the shopping for you. We offer you the comfort of purchasing your policies through an established institution you already trust. Whether you need Personal Auto and Homeowners' Insurance, Life or Disability Insurance, we offer 24-hour service to handle your <a href=personal.stm>Personal Insurance</a> needs wherever you are, whenever you want it.</font><br><br>		<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0>		<TR><TD COLSPAN=2 align=right><IMG SRC="../images/insure_allyourneeds.gif" ALT="All Your Insurance Needs..."  WIDTH="310" HEIGHT="22" BORDER="0"></td></tr>		<TR><TD valign=top align=left><IMG SRC="../images/insure_cast.gif" ALT="Crestar Insurance Agency, Inc." WIDTH="225" HEIGHT="120" BORDER="0"></td>			<TD VALIGN=TOP><Br><IMG SRC="../images/drop_P.gif" ALT="P" ALIGN=LEFT WIDTH="18" HEIGHT="28" BORDER="0"><font face="arial,helvetica" size=-1>rotecting your company and employees from unseen events is an important part of business planning. But with so many insurance carriers and plans on the market, how do you make the choices that are right for your company? Whether you need Group Life, Health, Disability, Commercial Property &amp; Casualty, Business Life or Section 125, the solution for <a href=business.stm>Business Insurance</a> is Crestar Insurance Agency.</font></td></TR>		<tr><td colspan=2><IMG SRC="../images/insure_bottomquote.gif" ALT="Find out what thousands already know -- it pays to call Crestar." WIDTH="435" HEIGHT="30" BORDER="0" VSPACE="5"></td></tR></TABLE>				</td></tr>		<TR><TD VALIGN=BOTTOM><A HREF="#top" onMouseOver="hiLite('backtotop_white','backtotop_y'); window.status='Link to Top'; return true;" onMouseOut="hiLite('backtotop_white','backtotop_white');"><IMG SRC="../images_nav/backtotop_white.gif" ALT="Link: Back to Top" WIDTH="135" HEIGHT="15" BORDER="0" name="backtotop_white"></a><br><IMG SRC="../images_nav/copyright.gif" alt="Copyright 1997 Crestar Bank" border=0></TD></TR></TABLE></BODY></HTML>

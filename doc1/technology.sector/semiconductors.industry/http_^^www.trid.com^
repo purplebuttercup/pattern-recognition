@@ -1,0 +1,104 @@
+Server: Microsoft-IIS/2.0
+Date: Thu, 20 Nov 1997 20:50:22 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Wed, 12 Nov 1997 08:50:02 GMT
+Content-Length: 5555
+
+<HTML>
+<HEAD>
+  <META NAME="GENERATOR" CONTENT="Adobe PageMill 2.0 Win">
+  <TITLE>Trident Microsystems</TITLE>
+</HEAD>
+<BODY BGCOLOR="#000000" LINK="#ffffff" TEXT="#00ff00" VLINK="#ffffff">
+
+<P><CENTER><IMG SRC="trident/Graphics/logo.jpg" WIDTH="296" HEIGHT="144"
+ALIGN="TOP" NATURALSIZEFLAG="0"></CENTER></P>
+
+<P><CENTER><BR>
+<APPLET CODE="TrackFade.class" CODEBASE="Trident/JAVA/" WIDTH="650" HEIGHT=
+"35" ALIGN="BOTTOM"><PARAM NAME="TextCount" VALUE="1"><PARAM NAME="text1" VALUE="The Leaders' Choice for Videographics Innovation">
+<PARAM NAME="FadeSize" VALUE="40"><PARAM NAME="DelayBetweenChars" VALUE="90">
+<PARAM NAME="DelayBetweenRuns" VALUE="800"><PARAM NAME="HorizCenter" VALUE="true">
+<PARAM NAME="VertCenter" VALUE="true"><PARAM NAME="Style" VALUE="bold">
+<PARAM NAME="Pointsize" VALUE="24"><PARAM NAME="Appbgcolor" VALUE="#000000">
+<PARAM NAME="textcolor" VALUE="#ff0000"></APPLET></CENTER></P>
+
+<P><CENTER><TABLE WIDTH="725" BORDER="0" CELLSPACING="1" CELLPADDING="0"
+HEIGHT="317">
+<TR>
+<TD WIDTH="28%" ALIGN="CENTER" HEIGHT="312"><P ALIGN=RIGHT><MAP NAME="Marbles1">
+    <AREA SHAPE="circle" COORDS="13,154,12" HREF="trident/html/IR.HTM">
+    <AREA SHAPE="circle" COORDS="14,119,11" HREF="trident/html/HR.HTM">
+    <AREA SHAPE="circle" COORDS="13,86,12" HREF="trident/html/DRIVERS.HTM">
+    <AREA SHAPE="circle" COORDS="12,52,12" HREF="trident/html/developers.htm">
+    <AREA SHAPE="circle" COORDS="12,16,12" HREF="trident/html/about_trid.htm">
+</MAP><IMG SRC="trident/GRAPHICS/Marbles1.gif" WIDTH="30" HEIGHT="171" 
+ALIGN="RIGHT" NATURALSIZEFLAG="3" ISMAP BORDER="0" USEMAP="#Marbles1"> <TABLE
+WIDTH="129" BORDER="0" CELLSPACING="2" CELLPADDING="0" HEIGHT="170">
+<TR>
+<TD WIDTH="100%" HEIGHT="31" ALIGN="RIGHT"><A HREF="trident/html/about_trid.htm">About Trident</A><FONT COLOR="#ffffff">&nbsp;</FONT></TD></TR>
+<TR>
+<TD WIDTH="100%" HEIGHT="31" ALIGN="RIGHT"><A HREF="trident/html/developers.htm">Developers</A><FONT COLOR="#ffffff">&nbsp;</FONT></TD></TR>
+<TR>
+<TD WIDTH="100%" HEIGHT="31" ALIGN="RIGHT"><A HREF="trident/html/DRIVERS.HTM">Drivers</A></TD></TR>
+<TR>
+<TD WIDTH="100%" HEIGHT="32" ALIGN="RIGHT"><A HREF="trident/html/HR.HTM">Human Resources</A></TD></TR>
+<TR>
+<TD WIDTH="100%" HEIGHT="32" ALIGN="RIGHT"><A HREF="trident/html/IR.HTM">Investor Relations</A></TD></TR>
+</TABLE>
+</TD>
+<TD WIDTH="48%" ALIGN="CENTER"><MAP NAME="WAFER">
+    <AREA SHAPE="polygon" COORDS="123,99,108,80,125,66,140,85" HREF="trident/html/ProductBriefs/9388.HTM">
+    <AREA SHAPE="polygon" COORDS="141,77,122,53,143,37,162,58" HREF="trident/html/ProductBriefs/975DVD.HTM">
+    <AREA SHAPE="polygon" COORDS="119,40,102,17,126,1,143,24" HREF="trident/html/ProductBriefs/9397-95.htm">
+    <AREA SHAPE="polygon" COORDS="141,131,129,114,143,104,155,121" HREF="trident/html/ProductBriefs/985DVD.HTM">
+</MAP><IMG SRC="trident/GRAPHICS/WAFER.JPG" WIDTH="266" HEIGHT="287" ALIGN=
+"BOTTOM" NATURALSIZEFLAG="3" BORDER="0" USEMAP="#WAFER" ISMAP>&nbsp;</TD>
+<TD WIDTH="24%" ALIGN="CENTER"><P ALIGN=LEFT><MAP NAME="MARBLES">
+    <AREA SHAPE="circle" COORDS="13,19,12" HREF="trident/html/partners.htm">
+    <AREA SHAPE="circle" COORDS="13,51,11" HREF="trident/html/Press.htm">
+    <AREA SHAPE="circle" COORDS="13,86,12" HREF="trident/html/PRODUCTS.HTM">
+    <AREA SHAPE="circle" COORDS="13,121,13" HREF="trident/html/Sales.htm">
+    <AREA SHAPE="circle" COORDS="14,153,12" HREF="trident/html/technology.htm">
+</MAP><IMG SRC="TRIDENT/GRAPHICS/MARBLES.GIF" WIDTH="30" HEIGHT="171" ALIGN=
+"LEFT" NATURALSIZEFLAG="3" BORDER="0" USEMAP="#MARBLES" ISMAP> <TABLE WIDTH=
+"129" BORDER="0" CELLSPACING="2" CELLPADDING="0" HEIGHT="170">
+<TR>
+<TD WIDTH="100%" HEIGHT="31"><A HREF="trident/html/partners.htm">Partnerships</A></TD></TR>
+<TR>
+<TD WIDTH="100%" HEIGHT="31"><A HREF="trident/html/Press.htm">Press Releases</A></TD></TR>
+<TR>
+<TD WIDTH="100%" HEIGHT="31"><A HREF="trident/html/PRODUCTS.HTM">Products</A></TD></TR>
+<TR>
+<TD WIDTH="100%" HEIGHT="32"><A HREF="trident/html/Sales.htm">Sales</A></TD></TR>
+<TR>
+<TD WIDTH="100%" HEIGHT="32"><A HREF="trident/html/technology.htm">Technologies</A></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</CENTER></P>
+
+<P><CENTER><TABLE WIDTH="586" BORDER="0" CELLSPACING="2" CELLPADDING="0"
+HEIGHT="107">
+<TR>
+<TD WIDTH="100%" HEIGHT="76"><P><CENTER><APPLET CODE="Ticker.class" CODEBASE="trident/JAVA/" WIDTH="500"
+HEIGHT="50" ALIGN="TOP"><PARAM NAME="TextCount" VALUE="1"><PARAM NAME="text1" VALUE="World's First Embedded SDRAM 3D Mobile Graphics From Trident              Trident to Highlight Latest Audio and DVD In 3D Graphics Booth at Comdex '97">
+<PARAM NAME="AppBGColor" VALUE="#000000"><PARAM NAME="DelayBetweenChars" VALUE="100">
+<PARAM NAME="DelayBetweenRuns" VALUE="75"><PARAM NAME="MoveDist" VALUE="5">
+<PARAM NAME="VertCenter" VALUE="true"><PARAM NAME="Font" VALUE="Helvetica">
+<PARAM NAME="Style" VALUE="Plain"><PARAM NAME="Pointsize" VALUE="24"><PARAM NAME="TextColor" VALUE="#FF00000">
+</APPLET></CENTER></TD></TR>
+<TR>
+<TD HEIGHT="24"><P><CENTER><A HREF="trident/html/PressReleases/9520.htm">World's First Embedded
+SDRAM 3D Mobile Graphics From Trident</A><A HREF="trident/html/PressReleases/comdex97.htm"></A></CENTER></P>
+
+<P><CENTER><A HREF="trident/html/PressReleases/comdex97.htm">Trident to
+Highlight Latest Audio and DVD In 3D Graphics Booth at Comdex '97&nbsp;</A></CENTER></P>
+
+<P><CENTER><A HREF="trident/html/tradeshows.htm">Trade Shows and Events
+Schedule</A></CENTER></TD></TR>
+</TABLE>
+</CENTER>
+</BODY>
+</HTML>

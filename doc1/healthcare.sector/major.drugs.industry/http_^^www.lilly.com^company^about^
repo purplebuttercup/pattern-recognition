@@ -1,0 +1,85 @@
+Server: Netscape-Communications/1.12
+Date: Thursday, 18-Dec-97 19:35:06 GMT
+Last-modified: Thursday, 04-Sep-97 22:26:46 GMT
+Content-length: 1927
+Content-type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>Lilly: About Lilly</TITLE>
+</HEAD>
+
+<!***Begin header***>
+
+<BODY bgcolor="ffffff" link="0000aa" vlink="b60000">
+<center>
+<a href="../../graphics/level2.map"><img src="../../graphics/about_header.gif"
+ISMAP border=0 usemap="#header_map"></a>
+<MAP NAME="header_map">
+<AREA SHAPE=RECT COORDS="190,42,282,65" HREF="../../index.html">
+<AREA SHAPE=RECT COORDS="288,42,380,66" HREF="../../site_map.html">
+<AREA SHAPE=RECT COORDS="385,42 474,66" HREF="../../search.html">
+
+</MAP>
+</center>
+
+<!*Begin table*>
+<center>
+<table width=560 border=0 cellpadding=10 cellspacing=5>
+<tr><td valign=top>
+<!*>
+
+<!***End header***>
+
+<table border=0>
+<tr>
+<td align=center><img src="graphics/corp_center.jpg"></td>
+<td align=center><img src="graphics/about.gif"></td>
+</tr>
+<tr><td colspan=2><p><br></td></tr>
+<tr valign=top>
+<td>
+<ul>
+<li><a href="highlights.html">Highlights</a>
+<li><a href="who.html">Who We Are</a>
+<li><a href="do.html">What We Do</a>
+<li><a href="values.html">Our Values</a>
+<li><a href="milestones.html">Lilly Milestones in Medical Research</a>
+</ul>
+</td>
+<td>
+<ul>
+<li><a href="operations.html">Operations</a>
+<li><a href="facilities.html">Major Facilities</a>
+<li><a href="history.html">History of the Company</a>
+<li><a href="issues.html">Lilly's Position on Key Issues</a>
+<li><a href="policies/index.html">Corporate Policies</a>
+<li><a href="more.html">More Information</a>
+</ul>
+</td></tr>
+</table>
+<p>
+<center>
+<font size=-1>
+[ <a href="../index.html">Company Information Index</a> ]
+</font>
+
+<!***Begin Footer***>
+
+<!*End table*>
+</center>
+</td></tr></table>
+<!*>
+
+<center>
+<font size=-1>
+[ <a href="../../index.html">Home</a> | <a href="../../site_map.html">Site Map</a> | <a href="../../search.html">Search</a> ]
+</font>
+</center>
+</body>
+
+<!***End Footer***>
+<p>
+<center><font size=-2>
+<a href="/copyright.html" target="_top">Copyright</a> © 1997 Eli Lilly and Company</font>
+</body></html>

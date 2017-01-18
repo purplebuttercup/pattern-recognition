@@ -1,0 +1,41 @@
+Server: Netscape-Enterprise/2.01
+Date: Thu, 20 Nov 1997 01:20:06 GMT
+Accept-ranges: bytes
+Last-modified: Mon, 27 Oct 1997 19:49:17 GMT
+Content-length: 3268
+Content-type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="description"
+content="Carpenter Technology Corporation Home Page.">
+<meta name="keywords"
+content="Cartech, materials technology, stainless steel, steel, alloys, ceramics, specialty steels, ceramics, powder, injection-molded, injection molded, structural ceramics, metal, metalworking, metal products, steel, manufacturing, wrought, tubular steel, superior corrosion resistant alloys, medical implant alloys, aerospace and high temperature alloys, tool and die steels, bearing steels, nickel-copper alloys, high-strength alloy, steels, gear steels, valve steels, magnetic, controlled expansion, electrical and electronic alloys, resistance alloys, heating element alloys, thermocouple alloys, high-nickel alloys, metallurgists, AerMet,Aerospace alloys,Alchrome,Bearing steels,BioDur,Boron stainless,Ceramic-sealing alloys,Cold-work tool steel,Controlled expansion alloys,Conventional stainless grades,Fastener alloys,Gear steels,Glass-sealing alloys,Hard-magnetic alloys ,Heading stainless,Heating-element alloys,Heat-resisting stainless,High expansion alloys,High-nickel alloys,High-speed steels,High-strength alloys ,High temperature alloys,High-strength stainless,Hiperco,Hot-work die steel ,HyMu,Implant alloys,Low expansion alloys,Machining stainless,Medical alloys,Micro-Melt,Mold steel,Nickel-copper alloys,NiMark,Nitrogen-strengthened stainless,Precipitation-hardening stainless,Project 70 ,Project 7000,Pyromet,Pyrotool,Pyrowear,Resistance alloys,Soft-magnetic iron alloys,Soft-magnetic silicon-iron alloys,Soft-magnetic chromium-iron alloys,Soft-magnetic nickel-iron alloys,Soft-magnetic cobalt-iron alloys,Stainless steels,Stainless machining bars,Stainless cold-heading wire,Superalloys,Superior corrosion-resistant alloys,Thermocouple alloys,Tool steels,Tophet,Valve steels,VAR,VIM,VIM/VAR">
+<meta name="distribution" content="global">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Welcome to Carpenter</title>
+<meta name="FORMATTER" content="Microsoft FrontPage 2.0">
+</head>
+
+<frameset cols="110,*" framespacing="0" frameborder="NO" border="0">
+    <frame src="common/side.htm" name="subsections" scrolling="no" noresize marginheight="0" marginwidth="0">
+    <frameset rows="62,*" border="0" framespacing="0" frameborder="NO">
+        <frame src="common/dir_top.htm" name="sections" scrolling="no" noresize marginheight="0" marginwidth="0">
+        <frame src="home.htm" name="main" noresize>
+    </frameset>
+</frameset>
+    <noframes>
+    <body>
+    <p><!--webbot bot="PurpleText"
+    preview="The frameset on this page can be edited with the FrontPage Frames Wizard; use the Open or Open With option from the FrontPage Explorer's edit menu. This page must be saved to a web before you can edit it with the Frames Wizard. Browsers that don't support frames will display the contents of this page, without these instructions. Use the Frames Wizard to specify an alternate page for browsers without frames."
+    s-viewable=" " --> </p>
+    <p>This web page uses frames, but your browser doesn't
+    support them.</p>
+    </body>
+    </noframes>
+</html>

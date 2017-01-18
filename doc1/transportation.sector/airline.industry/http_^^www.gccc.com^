@@ -1,0 +1,59 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 20 Nov 1997 15:53:49 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Thu, 20 Nov 1997 15:50:36 GMT
+Content-Length: 3105
+
+
+<HTML>
+<HEAD>
+<TITLE>Cincinnati ChamberLink</TITLE>
+<META Name="description" Content="Welcome to Cincinnati, Ohio from the Greater Cincinnati Chamber of Commerce">
+<META Name="keywords" Content="Cincinnati Chamber of Commerce, Chamber of Commerce,
+business, industry, Greater Cincinnati, Ohio, Cincinnati">
+</HEAD>
+<BODY BACKGROUND="BG1.GIF">
+<TABLE><TR><TD WIDTH="140"><CENTER><IMG WIDTH="100" HEIGHT="100" SRC="ANIMLOGO.GIF" ALT="Chamber pictures animation"></CENTER></TD>
+<TD COLSPAN=2><CENTER><IMG WIDTH="375" HEIGHT="150" SRC="WELCOME.GIF" ALT="Welcome to Greater Cincinnati from the Greater Cincinnati Chamber of Commerce"></TD></CENTER></TR>
+<TR><TD WIDTH="140" VALIGN=TOP>
+<FONT SIZE=-1>
+<UL>
+<LI><A HREF="/coming.htm">Calendar</A>
+<LI><A HREF="/product/product.htm">Programs &<BR>Products</A>
+<LI><A HREF="/pubs/pubindex.htm">Newsletters</A>
+<LI><A HREF="http://gcccaux1.gccc.com/scripts/dbWeb/dbWebc.dll/business?getqbe">Search for a<BR>Business</A>
+<!--service.htm-->
+<LI><A HREF="/whatsnew.htm">What's new?</A>
+<LI><A HREF="/cv/cv.htm#concise">What's special?</A>
+<LI><A HREF="cinsites.htm">Links</A>
+<P><LI><A HREF="ads/sponadv.htm">Advertising<BR>Opportunities</A>
+<LI><A HREF="http://www.ix.net/vcip">Website Hosting</A>
+<LI><A HREF="fuse/access.htm">Internet Access</A>
+<LI><A HREF="ads/multi/multi.htm">Multimedia<BR>Services</A>
+<LI><A HREF="departmt/jobs.htm">Career<BR>Opportunities</A>
+<P><LI><A HREF="mailto:info@gccc.com">E-mail us</A>
+</UL></FONT></TD>
+<TD WIDTH="1" VALIGN=TOP><IMG WIDTH="1" HEIGHT="262" SRC="VLINE.GIF"></TD>
+<TD WIDTH="450"><CENTER>
+<TABLE><TR>
+<TD><CENTER><A HREF="doing.htm"><IMG WIDTH="150" HEIGHT="121" SRC="busin1.gif" ALT="Business Information" BORDER=0><BR>Business Information</A></CENTER></TD>
+<TD><CENTER><A HREF="econ/cincin.htm"><IMG WIDTH="150" HEIGHT="146" SRC="cincin1.gif" ALT="Cincinnati Information" BORDER=0><BR>Cincinnati Information</A></CENTER></TD>
+<TD><CENTER><A HREF="chamber.htm"><IMG WIDTH="150" HEIGHT="127" SRC="chamsvcs.gif" ALT="Chamber Services" BORDER=0><BR>Chamber Services</A></CENTER></TD></TR></TABLE>
+<P>
+<img src="/ads/marquee/wkrc.gif" alternate="WKRC Banner">
+<P><A HREF="/news/NAMD97.HTM"><IMG BORDER="0" WIDTH="77" HEIGHT="75" SRC="/logos/cham_yr.gif" ALT="1997 Chamber of the Year logo"></A>
+<P><FONT SIZE=-1>
+Last Updated: 11/18/97.<BR>
+Best viewed with Microsoft Internet Explorer 3.0.<BR>
+<IMG WIDTH="350" HEIGHT="1" SRC="HLINE.GIF">
+<P><A HREF="http://www.microsoft.com/ie/default.asp"><IMG HEIGHT="31" WIDTH="88" BORDER="0" SRC="/logos/ie_static.gif"></A>
+<IMG HSPACE="10" WIDTH="50" HEIGHT="50" SRC="/logos/GCCCTINY.GIF" ALT="Chamber logo">
+<A HREF="http://www.microsoft.com/usa/greatlakes/"><IMG HEIGHT="31" WIDTH="88" BORDER="0" SRC="/logos/backoffice.gif"></A><BR>
+<B>Greater Cincinnati Chamber of Commerce</B><BR>
+300 Carew Tower, 441 Vine Street, Cincinnati, OH  45202-2812<BR>
+Phone: 513-579-3100 - Fax: 513-579-3102 - Email: <a href="mailto:info@gccc.com">info@gccc.com</a>
+<BR>Copyright &#169; 1997, G.C.C.C.
+</FONT></TD></TR></TABLE>
+</BODY>
+</HTML>

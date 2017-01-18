@@ -1,0 +1,160 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Friday, 21-Nov-97 02:25:17 GMT
+Content-Type: text/html
+Content-Length: 7601
+Last-Modified: Thursday, 13-Nov-97 15:59:01 GMT
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<!--This file created 10:57 AM  11/13/97 by Claris Home Page version 2.0-->
+<HTML>
+<HEAD>
+   <TITLE>Welcome to Unisys</TITLE>
+   <META NAME=GENERATOR CONTENT="Claris Home Page 2.0">
+   <X-SAS-WINDOW TOP=25 BOTTOM=453 LEFT=4 RIGHT=534>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<FORM action="/ccgi-bin/search" method="POST">
+
+<P><!--   (c) 1997 Unisys Corporation.  All rights reserved.       -->
+</P>
+
+<P><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=590>
+   <TR>
+      <TD COLSPAN=2 WIDTH=100>
+         <P><IMG SRC="/HomePage/masthead.gif"
+         ALT="Unisys: When Information Is Everything" WIDTH=581
+         HEIGHT=101 ALIGN=bottom lowsrc="/HomePage/masthead_bw.gif">
+      </TD></TR>
+</TABLE><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=590>
+   <TR>
+      <TD VALIGN=top bgcolor="#FFFFFF" WIDTH=622>
+         <P><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=6 WIDTH=590>
+            <TR>
+               <TD VALIGN=top WIDTH=150>
+                  <P><A HREF="/imagemap/homelink.map"><MAP NAME="map1">
+                     <AREA SHAPE=RECT COORDS="0,107,142,124" HREF="/ccgi-bin/search?section=all">
+                     <AREA SHAPE=RECT COORDS="0,81,142,104" HREF="/Services_Products/">
+                     <AREA SHAPE=RECT COORDS="0,56,142,80" HREF="/AboutUnisys/">
+                     <AREA SHAPE=RECT COORDS="0,27,142,56" HREF="/WhatsNew/">
+                     <AREA SHAPE=RECT COORDS="0,0,142,27" HREF="/VisitorCenter/">
+                     <AREA SHAPE=DEFAULT HREF="/">
+                  </MAP><IMG ISMAP USEMAP="#map1"
+                  SRC="/HomePage/homelink.gif" ALT="Home Page Links"
+                  WIDTH=143 HEIGHT=125 BORDER=0
+                  ALIGN=bottom></A><INPUT TYPE="hidden"
+                  NAME="section"
+                  VALUE="allsections"><INPUT TYPE="hidden"
+                  NAME="maxmatches" VALUE="allmatches"></P>
+                  
+                  <P><INPUT TYPE="text" NAME="searchexp" VALUE=""
+                  SIZE=18 MAXLENGTH=256><INPUT TYPE="submit"
+                  NAME="Submit"
+                  VALUE="Start">&nbsp;&nbsp;<A HREF="/ccgi-bin/search?section=all">Help</A>
+                  </P>
+                  
+                  <P>
+                  <HR SIZE="1" WIDTH="80%" NOSHADE>
+                  </P>
+                  
+                  <P><FONT SIZE="-1">New to our site? Check the
+                  </FONT><FONT
+                  SIZE="-1"><A HREF="/VisitorCenter/">Visitor's
+                  Center</A></FONT><FONT SIZE="-1"> for descriptions
+                  and quick links to all our content.</FONT></P>
+                  
+                  <P><FONT SIZE="-1">Visit the </FONT><FONT
+                  SIZE="-1"><A HREF="/WhatsNew/">What's
+                  New</A></FONT><FONT SIZE="-1"> area for the
+                  </FONT><FONT
+                  SIZE="-1"><A HREF="/AboutUnisys/PressReleases/1997/nov/">latest
+                  news releases</A></FONT><FONT SIZE="-1"> and other
+                  important updates about Unisys.</FONT></P>
+                  
+                  <P>&nbsp;
+               </TD><TD VALIGN=top WIDTH=431>
+                  <BLOCKQUOTE><P><A HREF="/execmag/hot_sites/top_business.html"><IMG
+                  SRC="/HomePage/title.gif"
+                  ALT="Rating the Web: Business News and Analysis"
+                  WIDTH=240 HEIGHT=85 X-SAS-UseImageWidth
+                  X-SAS-UseImageHeight BORDER=0 ALIGN=bottom></A><BR>
+                  
+                  <IMG SRC="/HomePage/date.gif" ALT="November 1997"
+                  WIDTH=330 HEIGHT=20 X-SAS-UseImageWidth
+                  X-SAS-UseImageHeight BORDER=0 ALIGN=bottom><BR>
+                  
+                  <A HREF="/execmag/hot_sites/top_business.html"><IMG
+                  SRC="/HomePage/homexec.jpg"
+                  ALT="Top Business News &amp; Analysis Sites"
+                  WIDTH=330 HEIGHT=110 X-SAS-UseImageWidth
+                  X-SAS-UseImageHeight BORDER=0 ALIGN=bottom></A>
+                  </P>
+                  
+                  <P><B><FONT SIZE="-1" FACE="Arial"
+                  COLOR="#5A5239">Web sites provide an excellent
+                  vehicle for delivering business news. But
+                  </FONT><FONT SIZE="-1" FACE="Arial"
+                  COLOR="#5A5239"><A HREF="/execmag/hot_sites/top_business.html">the
+                  most useful sites</A></FONT><FONT SIZE="-1"
+                  FACE="Arial" COLOR="#5A5239"> are those that go
+                  beyond simple news reporting to offer analysis and
+                  insight into what's happening in the world of
+                  business.</FONT></B><FONT COLOR="#5A5239">
+                  </FONT><B><FONT SIZE="-1" FACE="Arial"
+                  COLOR="#5A5239">You'll find this and other timely
+                  reading in the </FONT><FONT SIZE="-1" FACE="Arial"
+                  COLOR="#5A5239"><A HREF="/execmag/">November
+                  issue</A></FONT><FONT SIZE="-1" FACE="Arial"
+                  COLOR="#5A5239"> of </FONT><I><FONT SIZE="-1"
+                  FACE="Arial" COLOR="#5A5239">Exec!</FONT></I><FONT
+                  SIZE="-1" FACE="Arial" COLOR="#5A5239">, the Unisys
+                  online journal for senior managers. </FONT></B>
+                  </P>
+                  
+                  <P><FONT FACE="Times New Roman" COLOR="#000000">And
+                  don't forget to check out </FONT><FONT
+                  FACE="Times New Roman"
+                  COLOR="#000000"><A HREF="/execmag/frames.html">CxO
+                  Resources</A></FONT><FONT FACE="Times New Roman"
+                  COLOR="#000000">, our digest of the best articles
+                  and resources for executives from across the Web –
+                  updated weekly!</FONT></BLOCKQUOTE>
+               </TD></TR>
+            <TR>
+               <TD COLSPAN=2 WIDTH=581>
+                  <P><IMG SRC="/HomePage/line.gif"
+                  X-SAS-UseImageWidth X-SAS-UseImageHeight
+                  ALIGN=bottom>
+               </TD></TR>
+            <TR>
+               <TD WIDTH=150>
+                  <P><FONT
+                  SIZE="-1"><A HREF="/ServerInformation/contact/copyright.html">&copy;</A></FONT><FONT
+                  SIZE="-1"> 1997 Unisys Corp.</FONT>
+               </TD><TD WIDTH=431>
+                  <P><STRONG><FONT
+                  SIZE="-1"><A HREF="/VisitorCenter/">Visitor's
+                  Center</A></FONT><FONT SIZE="-1"> <IMG
+                  SRC="/HomePage/red_ball1.gif" X-SAS-UseImageWidth
+                  X-SAS-UseImageHeight ALIGN=absmiddle> </FONT><FONT
+                  SIZE="-1"><A HREF="/WhatsNew/">News</A></FONT><FONT
+                  SIZE="-1"> <IMG SRC="/HomePage/red_ball1.gif"
+                  X-SAS-UseImageWidth X-SAS-UseImageHeight
+                  ALIGN=absmiddle> </FONT><FONT
+                  SIZE="-1"><A HREF="/AboutUnisys/">About
+                  Unisys</A></FONT><FONT SIZE="-1"> <IMG
+                  SRC="/HomePage/red_ball1.gif" X-SAS-UseImageWidth
+                  X-SAS-UseImageHeight ALIGN=absmiddle> </FONT><FONT
+                  SIZE="-1"><A HREF="/Services_Products/">Services
+                  &amp; Products</A></FONT></STRONG>
+               </TD></TR>
+         </TABLE>
+      </TD></TR>
+</TABLE></P>
+
+<P><CENTER>&nbsp;</CENTER></P>
+</FORM>
+</BODY>
+</HTML>

@@ -1,0 +1,106 @@
+Server: Netscape-Communications/1.12
+Date: Thursday, 18-Dec-97 19:34:51 GMT
+Content-type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>Eli Lilly and Company: Financial Information</TITLE>
+<meta http-equiv="REFRESH" content="600;">
+</HEAD>
+
+<!***Begin header***>
+
+<BODY bgcolor="ffffff" link="0000aa" vlink="b60000">
+<center>
+<a href="../../graphics/level2.map"><img src="../../graphics/financial_header.gif"
+ISMAP border=0 usemap="#header_map"></a>
+
+<MAP NAME="header_map">
+<AREA SHAPE=RECT COORDS="190,42,282,65" HREF="../../index.html">
+<AREA SHAPE=RECT COORDS="288,42,380,66" HREF="../../site_map.html">
+<AREA SHAPE=RECT COORDS="385,42 474,66" HREF="../../search.html">
+</MAP>
+</center>
+
+<!*Begin table*>
+<center>
+<table width=600 border=0 cellpadding=0 cellspacing=5>
+<tr><td valign=top>
+<!***>
+
+<!***End header***>
+
+<table border=0 width=100% cellpadding=0 cellspacing=0>
+<tr valign=center>
+<td>
+<UL>
+<li><img width=1 height=20 src="graphics/clear_dot.gif"><A HREF="earnings.html"><font size=+1>Earnings and Dividend Releases</a></font>
+<font size=-1>
+<ul>
+<li><A HREF="../news/">other company news</A>
+</ul>
+</font>
+
+<li><img width=1 height=20 src="graphics/clear_dot.gif"><A HREF="96-annual/index.html"><font size=+1>1996 Annual Report</a></font>
+
+<li><img width=1 height=20 src="graphics/clear_dot.gif"><A HREF="/cgi-bin/exit-lilly.cmd?http://www.sec.gov/cgi-bin/srch-edgar+0000059478"><font size=+1>SEC Filings</a></font>
+<ul>
+<font size=-1>
+<li><A HREF="/cgi-bin/exit-lilly.cmd?http://www.sec.gov/cgi-bin/srch-edgar+0000059478">all Lilly filings</a>
+<li><a href="/cgi-bin/exit-lilly.cmd?http://www.sec.gov/Archives/edgar/data/59478/0000059478-97-000009.txt">latest 10-K report</a>
+<li><a href="/cgi-bin/exit-lilly.cmd?http://www.sec.gov/Archives/edgar/data/59478/0000950117-97-001888.txt">latest 10-Q report</a>
+</font>
+</ul>
+</UL>
+</td>
+
+<td align=center>
+<img src="/company/financial/graphics/lilly_stock.gif" alt="Lilly Stock Price"><br>
+<font size=-1>As of Dec 18,  1997 14:07 New York time</font><p>
+<table bgcolor=e1efeb width=100% border=0 cellspacing=0 cellpadding=3>
+<tr><td>Symbol: <b>LLY</b></td><td>Exchange: <b>NYSE</b></td>
+<tr valign=top><td colspan=2 align=center>Last Sale: <b>66 <font size=-1>7/16</font></b></td></tr>
+<tr valign=middle><td align=center>Change: <img src="/company/financial/graphics/down.gif" alt="-"><font color="b60000"> <b> <font size=-1>11/16</font></b></td>
+<td align=center><font size=-1 color="b60000"><b>-1.02%</font></b></td></tr>
+<tr><td colspan=2><hr size=1></td></tr>
+</tr></table>
+<table bgcolor=e1efeb width=100% border=0 cellspacing=0 cellpadding=3>
+<tr><td><font size=-1>High: <font color="green"><b>67 <font size=-1>7/16</font></b></td><td><font size=-1>Low: <font color="b60000"><b>66 <font size=-1>5/16</font></b></td>
+<tr><td><font size=-1>Open: <b>67</b></td><td><font size=-1>Volume: <b>1.4914M</b></td>
+<tr><td></td><td></td>
+</tr></table>
+<font size=-1><i>Data is at least 20 minutes delayed</i></font><p>
+<a href="chart.html">52-week chart</a></td>
+
+
+</tr>
+</table>
+
+
+<p>
+<center>
+<font size=-1>
+[ <a href="../index.html">Company Information Index</a> ]
+</font>
+
+<!***Begin Footer***!>
+
+<!*End table*>
+</center>
+</td></tr></table>
+<!***>
+
+<center>
+<font size=-1>
+<p>
+[ <a href="../../index.html">Home</a> | <a href="../../site_map.html">Site Map</a> | <a href="../../search.html">Search</a> ]
+</font>
+</center>
+</body>
+<p>
+<center><font size=-2>
+<a href="/copyright.html">Copyright</a> &copy; 1997 Eli Lilly and Company</font>
+</body></html>
+
+
+<!***End Footer***!>

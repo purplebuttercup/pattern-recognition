@@ -1,0 +1,28 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 18 Dec 1997 13:03:32 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Thu, 09 Jan 1997 13:28:49 GMT
+Content-Length: 432
+
+<html>
+
+<head>
+  <title>First Regional Bank</title>
+</head>
+
+<frameset rows=*,64>
+    <frame src="main.htm" name="main" marginwidth="1"
+    marginheight="1">
+    <frame src="buttons.htm" name="footnotes" marginwidth="1"
+    marginheight="1">
+    <noframes>
+    <body>
+    <p> </p>
+    <p>This web page uses frames, but your browser doesn't
+    support them.</p>
+    </body>
+    </noframes>
+</frameset>
+
+</html>

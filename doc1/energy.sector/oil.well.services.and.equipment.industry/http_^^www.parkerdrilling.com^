@@ -1,0 +1,198 @@
+Date: Sun, 16 Nov 1997 18:27:24 GMT
+Server: Apache/1.2.0
+Pragma: no-cache
+Expires: Sunday, 16-Nov-97 18:27:24 CST
+Connection: close
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+  <SCRIPT language="javascript">
+
+<!--
+var version = 0;
+
+ if (navigator.userAgent.indexOf("Mozilla/3.0") != -1 ||
+	 navigator.userAgent.indexOf("Mozilla/4") != -1 ) 
+   {
+        version = 3;
+        
+        inactive1 = new Image(108,25);
+        inactive1.src = "icons/hmabout2.gif";
+        active1 = new Image(141,25);
+        active1.src = "icons/hmabout.gif";
+
+        inactive2 = new Image(137,23);
+        inactive2.src = "icons/hmrig2.gif";
+        active2 = new Image(137,23);
+        active2.src = "icons/hmrig.gif";
+
+        inactive3 = new Image(137,23);
+        inactive3.src = "icons/hmnew2.gif";
+        active3 = new Image(137,23);
+        active3.src = "icons/hmnews.gif";
+
+        inactive4 = new Image(152,24);
+        inactive4.src = "icons/hmsubs2.gif";
+        active4 = new Image(152,24);
+        active4.src = "icons/hmsubs.gif";
+
+        inactive5 = new Image(137,23);
+        inactive5.src = "icons/hmir2.gif";
+        active5 = new Image(137,23);
+        active5.src = "icons/hmir.gif";
+
+        inactive6 = new Image(137,23);
+        inactive6.src = "icons/employment.gif";
+        active6 = new Image(137,23);
+        active6.src = "icons/bluremploy.gif";
+
+   }
+ else if  (navigator.userAgent.indexOf ("MSIE") != -1) version = 2;
+   else if  (navigator.userAgent.indexOf ("Mozilla/2.0") != -1) version = 1;
+   else version = 0;
+//-->
+
+</SCRIPT>
+<title></title>
+</head>
+<body bgcolor="#ffffff">
+<CENTER>
+  <TABLE width=100% border=0>
+    <TR>
+      <TD><TABLE border=0>
+	  <TR>
+	    <TD align=center><A href="about.html" target="_top" onMouseOver="if(version==3) inactive1.src = active1.src; window.status='Learn About Parker Drilling.....';return true;"
+		  onMouseOut="inactive1.src='icons/hmabout2.gif'"><IMG name="inactive1" src="icons/hmabout2.gif"border=0></A></TD>
+	  </TR>
+	  <TR>
+	    <TD align=center><A href="mapcap.html" target="_top" onMouseOver="if(version==3) inactive2.src = active2.src; window.status='Rig Locator Map';return true;"
+		  onMouseOut="inactive2.src='icons/hmrig2.gif'"><IMG name="inactive2" src="icons/hmrig.gif"
+		  border=0></A></TD>
+	  </TR>
+	  <TR>
+	    <TD align=center><A href="news.html" target="_top" onMouseOver="if(version==3) inactive3.src = active3.src; window.status='Find out the latest.....';return true;"
+		  onMouseOut="inactive3.src='icons/hmnew2.gif'"><IMG name="inactive3" src="icons/hmnew2.gif"
+		  border=0></A></TD>
+	  </TR>
+	  <TR>
+	    <TD align=center><A href="subs.html" target="_top" onMouseOver="if(version==3) inactive4.src = active4.src; window.status='Subsidiaries';return true;"
+		  onMouseOut="inactive4.src='icons/hmsubs2.gif'"><IMG name="inactive4" src="icons/hmsubs.gif"
+		  border=0></A></TD>
+	  </TR>
+	  <TR>
+	    <TD align=center><A href="ir.html" target="_top" onMouseOver="if(version==3) inactive5.src = active5.src; window.status='Investor Relations'; return true;"
+		  onMouseOut="inactive5.src='icons/hmir2.gif'"><IMG name="inactive5" src="icons/hmir.gif"
+		  border=0></A></TD>
+	  </TR>
+<TR>
+	    <TD align=center><A href="employ.html" target="_top" onMouseOver="if(version==3) inactive6.src = active6.src; window.status='Employment Opportunities'; return true;"
+		  onMouseOut="inactive6.src='icons/employment.gif'"><IMG name="inactive6" src="icons/employment.gif"
+		  border=0></A></TD>
+	  </TR>
+
+
+
+	</TABLE>
+      </TD>
+      <TD><center><img src="icons/smallogo.gif" alt="smallogo.gif - 21.48 K" width=430 height=100></center></TD>
+    </TR>  </TABLE>
+  <TABLE border=0>
+    <TR>
+      <TD valign=top><TABLE  cellspacing=0 cellpadding=5 border>
+	  <TR>
+	    <TD valign=top width=225 bgcolor="#FBF0B5"><FONT face="arial" size="1"></FONT>
+	      
+		<img src="icons/transmgif.gif" alt="transmgif.gif - 5.49 K" width=223 height=43>
+	     
+	      
+		<HR width=50%><font size=-1>
+	      <h4>1997 Annual Report off the press</h4>
+<p>
+Shareholders are currently receiving Parker's 1997 Annual Report ... an on-line version is now available to browsers of our website.
+<p><a href="http://www.parkerdrilling.com/annual.html">Click here </a>for the rest of the story.
+
+
+
+</font><p></TD>
+	  </TR>
+	</TABLE>
+      </TD>
+      <TD valign=top><IMG src="icons/oilrig.gif" alt="oilrig.gif - 5.68 K" width=81
+	    height=125></TD>
+      <TD valign=top><TABLE border=0 cellpadding=5>
+	  <TR>
+	    <TD valign=top><FONT face="arial" size=2></FONT>
+	      <CENTER>
+		<FONT color="#C000C0"><h3>Sunday, November 16,
+		1997</h3></FONT>
+	      </CENTER>
+	      <P>
+	      <BR>
+	      Welcome! Thanks for browsing to the home page of Parker Drilling Company.
+	      We provide oil and gas and geothermal drilling services for customers worldwide.
+	      To find out more about us please continue
+	      your browse--and let us know what you think.
+<p><b><font color="#003084">Parker Drilling Stock Quote<br> <font size=-1>(updated every 20 minutes)&#42;</font>:</font><font color="#EF2616">
+14 15/16&nbsp;&nbsp;&nbsp<font size=-1>+1 1/8</font> <img src="/icons/up.gif">
+</font><br><font color="#003084"><font size=-1>For more detailed information, <a href="stocktext.shtml">click here</a>.</font></font></b>
+	  </TR>
+	</TABLE>
+      </TD>
+    </TR>
+  </TABLE>
+  <P>
+  <CENTER>
+    <B>Click on one of the subsidiaries/affiliates to find out more information.</B>
+  </CENTER>
+  <P>
+  <TABLE cellspacing=0 cellpadding=0 width=100%>
+    <TR>
+      <TD align=center><A href="mallard2.html"><img src="icons/mallard.gif" alt="mallard.gif - 2.50 K" width=110 height=39 border=0></A></td><td align=center><a href="partech2.html"><img src="icons/partech.gif" alt="partech.gif - 2.28 K" width=100 height=34 border=0></td>
+	<td align=center><A href="quail2.html"><img src="icons/quail.gif" border=0></A></TD>
+    </TR>
+    <TR>
+      <TD><A href="http://www.onsite2.com"><center><img src="icons/onsite.gif" alt="onsite.gif - 2.55 K"
+	    width=110 height=39 border=0></center></A></TD>
+      <TD><A href="hercules2.html"><center><img src="icons/hercules.gif" alt="hercules.gif - 4.86 K"
+	    width=175 height=65 border=0></center></A></TD>
+      <TD><center><A href="http://www.amoco.com/what_we_do/ep/groups/eptg/dttf/dttffrst.htm"><img src="icons/amoco.gif" border=0></center></A></TD>
+    </TR>
+  
+  </TABLE><p>
+  <!-- FOOTER-->
+
+  <HR width=75%>
+  <CENTER>
+    <FONT size=-1><A href="index.htmlc" target="_top">Home</A><BR>
+    <A href="mapcap.html" target="_top">Rig Information</A>
+    <FONT color="#00000">•</FONT> <A href="news.html" target="_top">Parker News</A>
+    <FONT color="#00000">•</FONT>
+    <A href="about.html" target="_top">About Parker</A>
+    <FONT color="#00000">•</FONT><BR>
+    <A href="subs.html" target="_top">Subsidiaries</A>
+    <FONT color="#00000">•</FONT> <A href="ir.html" target="_top">Investor
+    Relations</A>
+<FONT color="#00000">•</FONT> <A href="links.html" target="_top">Industry-Related Links</A></FONT>
+
+
+  </CENTER>
+
+    <HR width=75%>
+  <ADDRESS>
+    <FONT size=-1></FONT>
+    <P align=center>
+    For more information on Parker Drilling Company,<BR>
+    <A href="info.html">please complete this form</A>.
+    
+    <p align=center>
+    &copy; 1997 Parker Drilling Company<BR>
+    All Rights Reserved
+    <P align=center>
+    Multimedia by WilCom.Net
+  </ADDRESS>
+</CENTER>
+<br><center><table width=50%><tr><td>&#42;  <font size=-2>Parker Drilling and WilCom.Net do not control, nor does either party make any warranty or guarantee regarding, the accuracy, integrity, or quality of any of the data or information contained in the InterQuote database. 
+Neither Parker Drilling nor WilCom.Net will be liable for any damages of any kind incurred as a result of any use or reliance on this database and the information contained therein.</font></td></tr></table></center>
+
+</BODY></HTML>

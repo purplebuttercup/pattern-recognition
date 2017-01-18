@@ -1,0 +1,23 @@
+Server: Netscape-Commerce/1.12
+Date: Thursday, 18-Dec-97 11:40:17 GMT
+Content-type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>DREYFUS - Investing in Uncertain Times</TITLE>
+</HEAD>
+
+<frameset BORDER=0 FRAMESPACING=0 cols="165,*">
+  <frame  src="left_frame.html" name="menu" SCROLLING="auto" MARGINWIDTH="0" MARGINHEIGHT="0" noresize>
+ <frameset BORDER=0 FRAMESPACING=0 rows="120,*">
+<frame  src="logo.html" name="zero" SCROLLING="no" MARGINWIDTH="0" MARGINHEIGHT="0" noresize>
+  <frame  src="intro.html" name="main" SCROLLING="auto" MARGINWIDTH="0" MARGINHEIGHT="0" noresize>
+ </frameset>
+ </frameset>
+
+<BODY>
+    <p align="center">Your browser doesn't support frames but you can still use our<br> 
+site the old fashioned way by <a href="http://www.interslash.com/dev/dreyfusdev.html">
+by clicking here.</a></p>
+</BODY>
+</HTML>

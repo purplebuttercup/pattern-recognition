@@ -1,0 +1,210 @@
+Date: Thu, 18 Dec 1997 09:25:11 GMT
+Server: Apache/1.2.4
+Connection: close
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+   <TITLE>Some Questions</TITLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+function validator(thisForm)
+{
+
+  if (thisForm.address.value == "")
+  {
+    alert("Please enter a value for the Street Address field.");
+    thisForm.address.focus();
+    return (false);
+  }
+
+  if (thisForm.city.value == "")
+  {
+    alert("Please enter a value for the City field.");
+    thisForm.city.focus();
+    return (false);
+  }
+  
+  if (thisForm.state.value == "")
+  {
+    alert("Please enter a value for the State field.");
+    thisForm.state.focus();
+    return (false);
+  }
+  
+  if (thisForm.zip.value == "")
+  {
+    alert("Please enter a value for the Zip field.");
+    thisForm.zip.focus();
+    return (false);
+  }
+  
+  if (thisForm.country.value == "")
+  {
+    alert("Please enter a value for the Country field.");
+    thisForm.country.focus();
+    return (false);
+  }
+
+
+}
+//--></SCRIPT>
+</HEAD>
+<BODY BGCOLOR="#ffffff">
+
+
+<P>
+<center>
+<A HREF="../images/life.map"><IMG SRC = "images/financials.gif" ismap border=0></A></center>
+<center>
+<A HREF="/images/topbar.map"><IMG SRC = "/images/topbar.gif" ISMAP Border=0></A></center>
+
+<p>
+<H2>Financial Independence. 
+Some questions are too important <U>not</U> to ask.</H2>
+<IMG SRC="images/questions.gif" ALT="Some Questions" ALIGN=RIGHT BORDER="0">
+
+<UL>
+<LI>Do your parents have an adequate retirement income?
+
+<LI>Will that income continue to be paid if one of them dies?
+
+<LI>Should they have a living will?
+
+<LI>Would your parents be able to pay for medical expenses related to a long term illness?
+
+<LI>Do they have a will?
+
+<LI>Have they done any estate planning?
+</UL>
+<P>
+
+<A HREF="/IV/A/1/index.shtml#list">The various Transamerica Life Companies</A> can provide 
+solutions for all your financial planning 
+needs. <A HREF="index.shtml">Click here</A> for more information on our products or order 
+our free brochure below.
+<P>
+<B>Free Brochure Offer:   "Some Questions Are Too Important Not to Ask"</B> 
+<P>
+Life is full of difficult questions. The time to address them is now, not after the death or disability of a loved one. Our free booklet "Some Questions Are Too Important Not to Ask" can help you achieve financial independence.
+<P>
+To order, please call 1-800-945-8490 or complete the brochure request form below and 
+e-mail us your request. An electronic version of the brochure is not
+currently available. You must specify your complete mailing address in order to receive the
+brochure. All information you supply will remain confidential.
+<BR CLEAR=ALL>
+<HR>
+
+
+
+<FORM ACTION="/cgi-bin/questions.cgi" METHOD="POST" onSubmit="return validator(this)">
+
+<INPUT TYPE=checkbox NAME="quicken" VALUE="quicken_user"> Check here, if you linked to
+Transamerica Online from Quicken<P>
+
+
+<TABLE WIDTH=400>
+<TR>
+<TD>
+Send me: "Some Questions Are Too Important Not to Ask" booklet.
+</TD>
+</TR>
+</TABLE>
+<P>
+ <TABLE>
+ <TR>
+ <TD>
+First Name: 
+</TD>
+<TD COLSPAN="5">
+<INPUT NAME="firstname"  SIZE=53 TYPE="text">
+</TD>
+</TR>
+<TR>
+<TD>
+ Last Name: 
+ </TD>
+<TD COLSPAN="5">
+<INPUT NAME="lastname"  SIZE=53 TYPE="text">
+</TD>
+</TR>
+<TR>
+<TD>
+ Street Address *: 
+  </TD>
+<TD COLSPAN="5">
+<INPUT NAME="address" SIZE=53 TYPE="text">
+</TD>
+</TR>
+<TR>
+<TD>
+ City *: 
+   </TD>
+<TD>
+<INPUT NAME="city" SIZE=26 TYPE="text">
+  </TD>
+<TD>
+
+State *: 
+  </TD>
+<TD>
+<INPUT NAME="state" SIZE=2 TYPE="text">
+  </TD>
+<TD>
+ZIP *: 
+  </TD>
+<TD>
+<INPUT NAME="zip" SIZE=9 TYPE="text">
+
+ </TD>
+</TR>
+<TR>
+<TD>
+ Country *: 
+  </TD>
+<TD COLSPAN="5"><INPUT NAME="country" SIZE=53 TYPE="text">
+  </TD>
+</TR>
+</TABLE>
+<P>
+<FONT SIZE="1">* These fields are required.</FONT>
+<P>
+<INPUT TYPE=checkbox NAME="representative" VALUE="Send me the name of a local Transamerica Representative">Send me the name of a local Transamerica representative<br>
+e-mail:   <INPUT NAME="emailadd" SIZE=40 TYPE="text"><BR>
+Phone number:   <INPUT NAME="phone" SIZE=13 TYPE="text"><BR>
+Best time to contact me:  
+<INPUT NAME="time" SIZE=5 TYPE="text">  <INPUT TYPE="radio" NAME="am_pm" VALUE="am">am
+										<INPUT TYPE="radio" NAME="am_pm" VALUE="pm">pm 
+
+
+ <CENTER>
+ 
+ 
+ <P ALIGN="center">
+ <INPUT TYPE="submit" VALUE="Send Message">
+
+ <INPUT TYPE="reset" VALUE="Clear Message">
+
+ </P>
+
+</FORM>
+  
+  </CENTER>
+  <HR>
+
+<P>
+<A HREF="/index.shtml">Home</A> : <A HREF="/IV/index.shtml">Products &amp; Services</A> : <A HREF="/IV/A/1/index.shtml">Life
+Insurance</A>: <B>Questions</B><P>
+
+
+
+
+<center>
+<A HREF="/images/navbar.map"><IMG SRC="/images/navbar.gif" ISMAP BORDER=0></A><p>
+</center>
+
+
+<A HREF="/I/F/index.shtml"><font size=2><b>Copyright 1997 by Transamerica Corporation. All Rights Reserved</b></A> "Transamerica" and Design of Pyramid are federally registered trademarks and service marks of Transamerica Corporation.</font><br>
+
+</BODY>
+</HTML>

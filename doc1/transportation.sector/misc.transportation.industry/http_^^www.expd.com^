@@ -1,0 +1,60 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 20 Nov 1997 15:55:06 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Thu, 20 Nov 1997 01:10:03 GMT
+Content-Length: 3236
+
+<HTML>
+<HEAD>
+<TITLE>Expeditors International</TITLE>
+</HEAD>
+<!-- 
+link to exp.o added JP 3/3/97 
+JR added "new" icon to exp.o link 3/6/97
+-->
+
+
+<BODY bgcolor="ffffff" background="graphics/bg-wht-1.gif">
+<center>
+<img src="graphics/animlogo.gif"><br>
+<table border=0 width="90%">
+<tr><td colspan=6>
+<center><font size=+1>You'd be surprised how far we'll go for you.</font></td></tr>
+<tr><td colspan=6>
+<center>&nbsp;</td></tr>
+<tr><td colspan=6>
+<center><a href="flash/yr2000.htm">Year 2000 Compliance Policy Statement</a></td><//tr>
+<tr><td colspan=6><center><font color=#ffffff>&nbsp;</center></tr>
+<tr>
+<td><center><A HREF="inform.htm"><img src="graphics/flag99.gif" border="0"></center></A>
+<td><center><A HREF="flash/flash.htm"><img src="graphics/flash99.gif" border="0"></center></A>
+<td><center><A HREF="http://expo.expd.com/Intranet/start.htm"><img src="graphics/expo99.gif" border="0"></center></a>
+<td><center><A HREF="http://206.40.152.100/GLC/glc.htm"><img src="graphics/glc99.gif" border="0"></center></a>
+<td><center><A HREF="explore.htm"><img src="graphics/compa99.gif" border="0"></center></A>
+<td><center><A HREF="search/query.htm"><img src="graphics/binoc99.gif" border="0"></center></A>
+</tr>
+<tr valign=top>
+<td><center><A HREF="inform.htm">Expeditors<br>Information</center></A>
+<td><center><A HREF="flash/flash.htm">Expeditors<br>Daily<br>Newsflash</A></td>
+<td><center><A HREF="http://expo.expd.com/Intranet/start.htm">exp.o<br>Shipment<br>Tracking<br>&amp; exp.o<br>Registration</center></A>
+<td><center><A HREF="http://206.40.152.100/GLC/glc.htm">The GLC<br>Member's<br>Club</center></A>
+<td><center><A HREF="explore.htm">Explore<br>the World<br>Wide Web</center></A>
+<td><center><A HREF="search/query.htm">Search<br>Our<br>Site</center></A>
+</tr>
+<tr><td colspan=6><center><font color=#ffffff size=-2>&nbsp;</center></tr>
+<tr><td colspan=3><center><A HREF="employ.htm"><img src="graphics/people99.gif" border=0 align=center width=45><br>Join the Expeditors Team</a></center></td><td colspan=3><center><A HREF="http://206.40.152.100/contact.htm"><img src="graphics/logis99.gif" border="0" align=center width="45"><BR>
+Global Logistics Request Form</a></center></tr>
+<tr><td colspan=6><center><font size=-1 color=#ffffff size=-2>&nbsp;</center></tr>
+<tr><td colspan=6><center><font size=-1><b>Corporate Headquarters</b> &middot; Suite 2500, 999 Third Avenue &middot; Seattle, Washington 98104, USA &middot; <b>206-674-3400</b></font></center></td></tr>
+<tr><td colspan=6><center><font size=-1 color=#ffffff size=-2>&nbsp;</center></tr>
+<tr><td colspan=6>
+<center><font size=-2>Many of the items available on our site for download are prepared in <A HREF="http://www.adobe.com/acrobat/readstep.html">Acrobat®</a> format (PDF format).
+</font></center></tr>
+<tr><td colspan=6><center><font size=-2 color=#ffffff size=-2>&nbsp;</center></font></tr>
+<tr><td colspan=6><center><font size=-2>© 1996 Expeditors International of Washington, Inc.</font></center></tr>
+<tr><td colspan=6><center><font size=-2>Questions and comments may be directed to <A HREF="mailto:jeremyr@ei-chq.expd.com">Expeditors' Webmaster.</font></center></tr>
+</table>
+</center>
+</BODY>
+</HTML>

@@ -1,0 +1,13 @@
+WWW Alert:  Redirection response from server is not handled by this client
+Date: Thu, 20 Nov 1997 20:04:28 GMT
+Server: Apache/1.2.1
+Location: http://www.whbrady.com/cgi-bin/genobject
+Connection: close
+Content-Type: text/html
+
+<HTML><HEAD>
+<TITLE>302 Moved Temporarily</TITLE>
+</HEAD><BODY>
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="http://www.whbrady.com/cgi-bin/genobject">here</A>.<P>
+</BODY></HTML>

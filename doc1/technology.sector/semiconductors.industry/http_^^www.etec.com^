@@ -1,0 +1,139 @@
+Date: Friday, 21-Nov-97 04:54:32 GMT
+Server: NCSA/SMI-1.0
+MIME-version: 1.0
+Content-type: text/html
+
+<HTML>
+<HEAD>
+  <SCRIPT language="Javascript">
+
+<!--
+//  
+//  
+//
+        browser = (((navigator.appName == "Netscape") && (parseInt(navigator.appVersion) >= 3 )) || ((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 4 )))
+
+        if ( browser) {
+                normal = new MakeArray(8)
+                over = new MakeArray(8)
+                picture = new MakeArray(9)
+                blurb = new MakeArray(9)
+                
+                normal[1].src = "sitegifs/compinf1.gif"
+                normal[2].src = "sitegifs/invest1.gif"
+                normal[3].src = "sitegifs/prod1.gif"
+                normal[4].src = "sitegifs/cust1.gif"
+		normal[5].src = "sitegifs/employ1.gif"
+		normal[6].src = "sitegifs/lib1.gif"
+		normal[7].src = "sitegifs/guest1.gif"
+        
+                over[1].src = "sitegifs/compinf2.gif"
+                over[2].src = "sitegifs/invest2.gif"
+                over[3].src = "sitegifs/prod2.gif"
+                over[4].src = "sitegifs/cust2.gif"
+		over[5].src = "sitegifs/employ2.gif"
+		over[6].src = "sitegifs/lib2.gif"
+		over[7].src = "sitegifs/guest2.gif"
+        
+                picture[1].src = "sitegifs/cover.gif"
+                picture[2].src = "sitegifs/cover.gif"
+                picture[3].src = "sitegifs/cover.gif"
+                picture[4].src = "sitegifs/cover.gif"
+                picture[5].src = "sitegifs/cover.gif"
+		picture[6].src = "sitegifs/cover.gif"
+		picture[7].src = "sitegifs/cover.gif"
+		picture[8].src = "sitegifs/cover.gif"
+                
+                blurb[1] = "About Etec Systems, News, and Etec Offices"
+                blurb[2] = "SEC Filings, Stock Ticker, Financials, and Analysts"
+                blurb[3] = "Electron Beam Systems and Laser Beam Systems"
+                blurb[4] = "Customer Action Requests and New Customer Documentation"
+                blurb[5] = "Employment Opportunities at Etec Systems"
+		blurb[6] = "Order published papers from Etec Systems"
+		blurb[7] = "Let us know who you are"
+		blurb[8] = ""
+                }
+                
+      function MakeArray(n) {
+              this.length = n
+              for (var i = 1; i<=n; i++) {
+                      this[i] = new Image()
+                      }
+              return this
+      }
+
+        function msover(num) {
+                        if ( browser) { 
+                                document.images[num+1].src = over[num+1].src
+                                window.status = blurb[num+1]
+                                document.images[0].src = picture[num+1].src
+                        }
+                }
+
+        function msout(num) {
+                        if ( browser) {
+                                        document.images[num+1].src = normal[num+1].src
+                                        document.images[0].src = picture[8].src
+                                        window.status = blurb[8]
+                        }                   
+                }
+
+
+// -->
+
+
+</SCRIPT>
+  <TITLE>Welcome to the Etec Home Page</TITLE>
+</HEAD>
+<BODY BGCOLOR="#ffffff" LINK="#005389">
+<P>
+<P>
+<IMG SRC="sitegifs/cover.gif" WIDTH="379" HEIGHT="324" ALIGN="Left">
+<P>
+<TABLE CELLSPACING="1">
+  <TR>
+    <TD><A HREF="compinfo/etec.htm" ONMOUSEOVER="msover(0) ; return true" ONMOUSEOUT="msout(0)"><IMG
+	  SRC="sitegifs/compinf1.gif" WIDTH="144" HEIGHT="54" BORDER="0" ALIGN="Middle"></A></TD>
+    <TD></TD>
+  </TR>
+  <TR>
+    <TD><A HREF="investor.htm" ONMOUSEOVER="msover(1) ; return true" ONMOUSEOUT="msout(1)"><IMG
+	  SRC="sitegifs/invest1.gif" WIDTH="144" HEIGHT="54" BORDER="0" ALIGN="Middle"></A></TD>
+    <TD></TD>
+  </TR>
+  <TR>
+    <TD><A HREF="products/products.htm" ONMOUSEOVER="msover(2) ; return true"
+	  ONMOUSEOUT="msout(2)"><IMG SRC="sitegifs/prod1.gif" WIDTH="144" HEIGHT="54"
+	  BORDER="0" ALIGN="Middle"></A></TD>
+    <TD></TD>
+  </TR>
+  <TR>
+    <TD><A HREF="custsup/custresp.htm" onmouseover="msover(3) ; return true"
+	  onmouseout="msout(3)"><IMG SRC="sitegifs/cust1.gif" WIDTH="144" HEIGHT="54"
+	  BORDER="0" ALIGN="Middle"></A></TD>
+    <TD></TD>
+  </TR>
+  <TR>
+    <TD><A HREF="employ/employ.htm" ONMOUSEOVER="msover(4) ; return true" ONMOUSEOUT="msout(4)"><IMG
+	  SRC="sitegifs/employ1.gif" WIDTH="144" HEIGHT="54" BORDER="0" ALIGN="Middle"></A></TD>
+    <TD></TD>
+  </TR>
+  <TR>
+    <TD><A HREF="library/index.htm" ONMOUSEOVER="msover(5) ; return true" ONMOUSEOUT="msout(5)"><IMG
+	  SRC="sitegifs/lib1.gif" WIDTH="144" HEIGHT="54" BORDER="0" ALIGN="Middle"></A></TD>
+    <TD></TD>
+  </TR>
+  <TR>
+    <TD><A HREF="comments.htm" ONMOUSEOVER="msover(6) ; return true" ONMOUSEOUT="msout(6)"><IMG
+	  SRC="sitegifs/guest1.gif" WIDTH="144" HEIGHT="54" BORDER="0" ALIGN="Middle"></A></TD>
+    <TD></TD>
+  </TR>
+</TABLE>
+<P>
+<FONT COLOR="#005389"><A HREF="htdocsa/index.htm"><B>Text Only (low bandwidth
+version)</B></A></FONT><BR>
+For comments and suggestions on Etec's Web pages, please&nbsp;send electronic
+mail to Etec's
+<A HREF="MAILTO:webmaster@etec.com" ><STRONG>WebMaster</STRONG></A>.<BR>
+<A HREF="copyrite.htm">Copyright</A> 1995-1997.
+</BODY></HTML>

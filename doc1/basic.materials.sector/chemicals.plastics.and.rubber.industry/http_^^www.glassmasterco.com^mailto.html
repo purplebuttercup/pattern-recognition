@@ -1,0 +1,50 @@
+Server: Commerce-Builder/2.0 (Win32; ix86; S)
+Accept: GET HEAD PUT
+Accept-Ranges: bytes
+Content-length: 1772
+Content-type: text/html
+Last-modified: Fri, 21 Feb 1997 00:32:10 GMT
+Date: Thu, 20 Nov 1997 20:18:58 GMT
+
+<HEAD><TITLE></TITLE></HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+
+<form action="/cgi-bin/d2cgi/d2cgi.exe" method="POST">
+<INPUT TYPE=hidden NAME="command" VALUE="MailTo">
+<INPUT TYPE=hidden NAME="SMTPto" VALUE="corpinfo@glassmasterco.com">
+<input type=hidden name="SMTPSubject" value="Glassmaster Mailer">
+<input type=hidden name="URLReferal" value="http://www.glassmasterco.com/index.html">
+
+<CENTER>
+<TABLE CELLSPACING=5>
+<TR>
+<TD ALIGN=right>Company Name</TD><TD COLSPAN=5><INPUT NAME=Company_Name SIZE=52 VALUE=""></TD>
+</TR><TR>
+<TD ALIGN=right>Your Name</TD><TD COLSPAN=5><INPUT NAME=Name SIZE=52 VALUE=""></TD>
+</TR><TR>
+<TD ALIGN=right>Your Title</TD><TD COLSPAN=5><INPUT NAME=Title SIZE=52 VALUE=""></TD>
+</TR><TR>
+<TD ALIGN=right>Your Plant/Facility</TD><TD COLSPAN=5><INPUT NAME=Plant SIZE=52 VALUE=""></TD>
+</TR><TR>
+<TD ALIGN=right>Mailing Address</TD><TD COLSPAN=5><INPUT NAME=Mailing_Address SIZE=52 VALUE=""></TD>
+</TR><TR>
+<TD ALIGN=right>City</TD><TD><INPUT NAME=City SIZE=15 VALUE=""></TD><TD>State</TD><TD><INPUT NAME=State SIZE=5 VALUE=""></TD><TD>Zip Code</TD><TD><INPUT NAME=Zip SIZE=10 VALUE=""></TD>
+</TR><TR>
+<TD ALIGN=right>Your Phone Number</TD><TD><INPUT NAME=Phone SIZE=15 VALUE=""></TR><TR>
+</TR><TR>
+<TD ALIGN=right>Your Fax Number</TD><TD><INPUT NAME=Fax SIZE=15 VALUE=""></TR><TR>
+</TR><TR>
+<TD ALIGN=right>Your Email Address</TD><TD><INPUT name="SMTPFrom" SIZE=25 WIDTH=25 VALUE""</TR><TR>
+</TR><TR>
+<TD><BR></TD>
+</TR><TR>
+<TD ALIGN=right VALIGN=top>Comments:</TD>
+<TD COLSPAN=5><TEXTAREA WRAP=physical NAME=comments VALUE="Put your comments here." ROWS=3 COLS=60></TEXTAREA><BR></TD>
+</TR>
+</TABLE>
+<BR>
+
+<INPUT type=submit value="Submit Request" ><INPUT TYPE="RESET"><P>
+
+</FORM>
+</CENTER>

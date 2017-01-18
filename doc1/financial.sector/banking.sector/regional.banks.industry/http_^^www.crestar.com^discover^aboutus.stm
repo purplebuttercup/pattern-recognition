@@ -1,0 +1,128 @@
+Server: Microsoft-IIS/4.0
+Date: Thu, 18 Dec 1997 12:48:14 GMT
+Content-Type: text/html
+
+<HTML><HEAD>	<META name="description" content="Crestar, the largest Virginia-headquartered bankingorganization, provides a wide range of financial services toconsumers, businesses, institutions and governmental customers inVirginia, Washington, DC and Maryland as well as in selectedmarkets nationally.">	<META name="keywords" content="discover crestar bank, about us, learn more, branch locator, find atm, find branch, find moneystop, 2000">	<META Name="author"  Content= "jb">	<META Name="resource-type"  Content="document">	<META Name="copyright"  Content="1997 Crestar Bank">	<META Name="distribution" Content="global">	<TITLE>Crestar Bank - Discover Crestar: About Crestar</TITLE>	<script language="JavaScript">
+
+<!--
+agent = navigator.userAgent
+
+browserVer = 2;
+
+if (agent.substring(0,7) == "Mozilla"){
+
+    if (parseInt(agent.substring(8,9)) >= 3) {browserVer = 1;}
+
+}
+
+
+if (browserVer == 1) {
+
+	bankonline_white = new Image(135, 15);
+	bankonline_white.src = "../images_nav/bankonline_white.gif";
+	bankonline_y = new Image(135, 15);
+	bankonline_y.src = "../images_nav/bankonline_y.gif";
+
+	bank24_white = new Image(135, 15);
+	bank24_white.src = "../images_nav/bank24_white.gif";
+	bank24_y = new Image(135, 15);
+	bank24_y.src = "../images_nav/bank24_y.gif";
+
+	borrow_white = new Image(135, 15);
+	borrow_white.src = "../images_nav/borrow_white.gif";
+	borrow_y = new Image(135, 15);
+	borrow_y.src = "../images_nav/borrow_y.gif";
+
+	aboutcrestar_white = new Image(135, 15);
+	aboutcrestar_white.src = "../images_nav/aboutcrestar_white.gif";
+	aboutcrestar_y = new Image(135, 15);
+	aboutcrestar_y.src = "../images_nav/aboutcrestar_y.gif";
+
+	branchlocator_white = new Image(135, 15);
+	branchlocator_white.src = "../images_nav/branchlocator_white.gif";
+	branchlocator_y = new Image(135, 15);
+	branchlocator_y.src = "../images_nav/branchlocator_y.gif";
+
+	discovercrestar_white = new Image(135, 15);
+	discovercrestar_white.src = "../images_nav/discovercrestar_white.gif";
+	discovercrestar_y = new Image(135, 15);
+	discovercrestar_y.src = "../images_nav/discovercrestar_y.gif";
+
+	custservice_white = new Image(135, 15);
+	custservice_white.src = "../images_nav/custservice_white.gif";
+	custservice_y = new Image(135, 15);
+	custservice_y.src = "../images_nav/custservice_y.gif";
+
+	requestnews_white = new Image(135, 15);
+	requestnews_white.src = "../images_nav/requestnews_white.gif";
+	requestnews_y = new Image(135, 15);
+	requestnews_y.src = "../images_nav/requestnews_y.gif";
+
+	crestardirect_white = new Image(135, 15);
+	crestardirect_white.src = "../images_nav/crestardirect_white.gif";
+	crestardirect_y = new Image(135, 15);
+	crestardirect_y.src = "../images_nav/crestardirect_y.gif";
+
+	checking_white = new Image(135, 15);
+	checking_white.src = "../images_nav/checking_white.gif";
+	checking_y = new Image(135, 15);
+	checking_y.src = "../images_nav/checking_y.gif";
+
+	communicate_white = new Image(135, 15);
+	communicate_white.src = "../images_nav/communicate_white.gif";
+	communicate_y = new Image(135, 15);
+	communicate_y.src = "../images_nav/communicate_y.gif";
+
+	explorebb_white = new Image(135, 15);
+	explorebb_white.src = "../images_nav/explorebb_white.gif";
+	explorebb_y = new Image(135, 15);
+	explorebb_y.src = "../images_nav/explorebb_y.gif";
+
+	home_white = new Image(135, 15);
+	home_white.src = "../images_nav/home_white.gif";
+	home_y = new Image(135, 15);
+	home_y.src = "../images_nav/home_y.gif";
+
+	insure_white = new Image(135, 15);
+	insure_white.src = "../images_nav/insure_white.gif";
+	insure_y = new Image(135, 15);
+	insure_y.src = "../images_nav/insure_y.gif";
+
+	invest_white = new Image(135, 15);
+	invest_white.src = "../images_nav/invest_white.gif";
+	invest_y = new Image(135, 15);
+	invest_y.src = "../images_nav/invest_y.gif";
+
+	save_white = new Image(135, 15);
+	save_white.src = "../images_nav/save_white.gif";
+	save_y = new Image(135, 15);
+	save_y.src = "../images_nav/save_y.gif";
+
+	sitemap_white = new Image(135, 15);
+	sitemap_white.src = "../images_nav/sitemap_white.gif";
+	sitemap_y = new Image(135, 15);
+	sitemap_y.src = "../images_nav/sitemap_y.gif";
+
+	callback_white = new Image(135, 60);
+	callback_white.src = "../images_nav/callback_white.gif";
+	callback_y = new Image(135, 60);
+	callback_y.src = "../images_nav/callback_y.gif";
+
+	backtotop_white = new Image(135, 15);
+	backtotop_white.src = "../images_nav/backtotop_white.gif";
+	backtotop_y = new Image(135, 15);
+	backtotop_y.src = "../images_nav/backtotop_y.gif";
+}
+
+function hiLite(imgDocID,imgObjName) {
+
+	if (browserVer == 1) {
+
+		document.images[imgDocID].src = eval(imgObjName + ".src");
+	}
+
+}
+//-->
+
+</script>
+</HEAD><BODY BGCOLOR="#FFFFFF" LINK="000099" ALINK="#FFFFFF" VLINK="#666666" BACKGROUND="../images/standard_bg.gif" topmargin=0><a name=top></a><TABLE CELLPADDING=0 BORDER=0 WIDTH=600>	<TR><TD BGCOLOR="#FF0000" HEIGHT=25 COLSPAN=2><IMG SRC="../images/logo.gif"></TD></TR>	<TR><TD WIDTH=150 FONT COLOR="#ffffff" VALIGN=TOP>		<a href="index.stm" onMouseOver="window.status='Return to Discover Crestar Main Page'; return true;"><IMG SRC="../images_nav/discover_gray.gif" width=135 height=15 alt="Current Section: Return to Discover Crestar" border=0></a><br>		<IMG SRC="../images_nav/aboutcrestar_y.gif" border=0 name="aboutcrestar_white" width=135 height=15 alt="Current Page: About Crestar"></A><br>		<A HREF="branches.stm" onMouseOver="hiLite('branchlocator_white','branchlocator_y'); window.status='Link to Branch Locator'; return true;" onMouseOut="hiLite('branchlocator_white','branchlocator_white');"><IMG SRC="../images_nav/branchlocator_white.gif" border=0 name="branchlocator_white" width=135 height=15 alt="Link: Branch Locator"></A><br>		<IMG SRC="../images_nav/black_15x135.gif" border=0 width=135 height=15><br><A HREF="../bankonline/index.stm" onMouseOver="hiLite('bankonline_white','bankonline_y'); window.status='Link to Bank Online'; return true;" onMouseOut="hiLite('bankonline_white','bankonline_white');"><IMG SRC="../images_nav/bankonline_white.gif" border=0 name="bankonline_white" width=135 height=15 alt="Link: Bank Online"></A><br>		<A HREF="../save/index.stm" onMouseOver="hiLite('save_white','save_y'); window.status='Link to Save'; return true;" onMouseOut="hiLite('save_white','save_white');"><IMG SRC="../images_nav/save_white.gif" border=0 name="save_white" width=135 height=15 alt="Link: Save"></A><br>		<A HREF="../borrow/index.stm" onMouseOver="hiLite('borrow_white','borrow_y'); window.status='Link to Borrow'; return true;" onMouseOut="hiLite('borrow_white','borrow_white');"><IMG SRC="../images_nav/borrow_white.gif" border=0 name="borrow_white" width=135 height=15></A><br>		<A HREF="../invest/index.stm" onMouseOver="hiLite('invest_white','invest_y'); window.status='Link to Invest'; return true;" onMouseOut="hiLite('invest_white','invest_white');"><IMG SRC="../images_nav/invest_white.gif" border=0 name="invest_white" width=135 height=15 alt="Link: Invest"></A><br>		<A HREF="../checking/index.stm" onMouseOver="hiLite('checking_white','checking_y'); window.status='Link to Checking'; return true;" onMouseOut="hiLite('checking_white','checking_white');"><IMG SRC="../images_nav/checking_white.gif" border=0 name="checking_white" width=135 height=15 alt="Link: Check Out Checking"></A><br>		<A HREF="../explorebb/index.stm" onMouseOver="hiLite('explorebb_white','explorebb_y'); window.status='Link to Explore Business Banking'; return true;" onMouseOut="hiLite('explorebb_white','explorebb_white');"><IMG SRC="../images_nav/explorebb_white.gif" border=0 name="explorebb_white" width=135 height=15 alt="Link: Explore Business Banking"></A><br>		<A HREF="../insure/index.stm" onMouseOver="hiLite('insure_white','insure_y'); window.status='Link to Insure'; return true;" onMouseOut="hiLite('insure_white','insure_white');"><IMG SRC="../images_nav/insure_white.gif" border=0 name="insure_white" width=135 height=15 alt="Link: Insure"></A><br>		<A HREF="../bank24/index.stm" onMouseOver="hiLite('bank24_white','bank24_y'); window.status='Link to Bank 24 Hours'; return true;" onMouseOut="hiLite('bank24_white','bank24_white');"><IMG SRC="../images_nav/bank24_white.gif" border=0 name="bank24_white" width=135 height=15 alt="Link: Bank 24hours"></A><br>		<A HREF="../communicate/index.stm" onMouseOver="hiLite('communicate_white','communicate_y'); window.status='Link to Communicate'; return true;" onMouseOut="hiLite('communicate_white','communicate_white');"><IMG SRC="../images_nav/communicate_white.gif" border=0 name="communicate_white" width=135 height=15 alt="Link: Communicate"></A><br>		<A HREF="../sitemap/index.stm" onMouseOver="hiLite('sitemap_white','sitemap_y'); window.status='Link to Site Map'; return true;" onMouseOut="hiLite('sitemap_white','sitemap_white');"><IMG SRC="../images_nav/sitemap_white.gif" border=0 name="sitemap_white" width=135 height=15 alt="Link: Sitemap"></A><br>		<A HREF="../index.html" onMouseOver="hiLite('home_white','home_y'); window.status='Link to Home'; return true;" onMouseOut="hiLite('home_white','home_white');"><IMG SRC="../images_nav/home_white.gif" border=0 name="home_white" width=135 height=15 alt="Link: Return Home"></A><br>		<A HREF="http://speakwithagent.att.net/cgi-bin/welcome?SN=crestar+bank&amp;SC=default" onMouseOver="hiLite('callback_white','callback_y'); window.status='Link to Instant Callback'; return true;" onMouseOut="hiLite('callback_white','callback_white');"><IMG SRC="../images_nav/callback_white.gif" border=0 name="callback_white" width=135 height=60 alt="Link: Instant Callback" vspace=8></A><br>		</TD>	<TD ROWSPAN=2 valign=top>		<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0>		<TR><TD COLSPAN=2><p><br><IMG SRC="../images/discover_aboutcrestarhead.gif" ALT="Here's the Scoop on Crestar." ></td></tr><tr><td><img src="../images/drop_C.gif" align=left alt=C><font face="arial,helvetica" size=-1>restar, the largest Virginia-headquartered bankingorganization, provides a wide range of financial services toconsumers, businesses, institutions and governmental customers inVirginia, Washington, DC and Maryland as well as in selectedmarkets nationally. Crestar is focused on providing customerswith exceptional performance, unparalleled convenience andgreater value for their money than any competing financialservices company, with its success in doing so reflected in asuperior return for shareholders.<p><IMG SRC="../images/ebb_topline.gif" WIDTH="432" HEIGHT="11" BORDER="0"><br><font color="#FF0000" size=-1>Market Leadership</font><p>Crestar is a strong, well-capitalized bank and holds a leadingposition in each of the markets and businesses in which itoperates. Crestar is: </p><ul type=square>    <li>The largest independent bank headquartered in Virginia, a        market leader in Virginia and the Washington area, and a        growing force in the Maryland market, with an extensive        banking network of branches and ATMs, and a variety of        electronic banking alternatives. </li>    <li>A major consumer lender with $4.2 billion in loans to        individuals through its growing credit card operations as        well as instalment, home equity, dealer finance, marine        and guaranteed student loan products. </li>    <li>A long-standing and well-respected business lender with        more than $4 billion in loans to large, medium-sized and        small businesses. </li>    <li>A major bank for small businesses in our market, serving        some 58,000 companies with sales under $2 million through        branch offices in Virginia, Maryland and Washington. </li>    <li>Through Crestar Mortgage Corporation, the largest        Virginia-based mortgage originator and one of the        nation's fastest growing mortgage servicing        organizations. With a growing national originations        network, annual mortgage production of some $2.7 billion,        a servicing portfolio of more than $11 billion, it offers        a series of innovative programs designed to appeal to a        wide variety of borrowers and provide unprecedented speed        and convenience. </li>    <li>A long-established provider of private banking and        investment related services. Crestar's Trust &amp;        Investment Management Group has total trust assets of $35        billion, including over $11.4 billion in assets under        management. Crestar Securities Corporation is a full        service brokerage subsidiary nationally recognized for        its customer service capabilities. It serves individuals        and businesses investing in mutual funds, annuities and        bonds as well as stocks through Crestar's discount        brokerage service.</li></ul><p><IMG SRC="../images/ebb_bottomline.gif" ALT="---------------------------" WIDTH="432" HEIGHT="11" BORDER="0"><br><font color="#FF0000" size=-1>Community Commitment</font><p>Among Crestar's highest priorities is its responsibility toascertain and meet the needs of the communities it serves. Inline with its efforts to comply with the letter and the spirit ofthe Community Reinvestment Act, Crestar maintains an aggressiveoutreach program to stay attuned to the needs of every segment ofits markets, and a high-profile presence to meet those needs. Theeffectiveness of Crestar's CRA programs was underscored by theoutstanding ratings earned from their regulators by Crestar'sbanking subsidiaries in Virginia and Washington, and asatisfactory rating in Maryland.<p><IMG SRC="../images/ebb_topline.gif" ALT="----------------------" WIDTH="432" HEIGHT="11" BORDER="0"><br><font color="#FF0000" size=-1>Specialized Subsidiaries</font><p><b><i>Crestar Mortgage Corporation: </i></b>&nbsp; The largestresidential mortgage originator in Virginia.</p><p><b><i>Crestar Securities Corporation: </i></b>&nbsp; A fullservice brokerage firm offering investment advice andtransactions for individuals and businesses investing in mutualfunds, annuities and bonds, as well as discount brokerageservices.</p><p><b><i>Capitoline Investment Services: </i></b>&nbsp; Providinginvestment management expertise for customers who have entrustedtheir investment assets to Crestar's Trust &amp; InvestmentManagement Group, and for the CrestFunds family of mutual funds.</p><p><b><i>Crestar Insurance Agency: </i></b>&nbsp; Offeringinsurance services to consumers, and one of just a fewbank-affiliated insurance agencies in the United States.</p><p><IMG SRC="../images/ebb_bottomline.gif" ALT="-------------------------" WIDTH="432" HEIGHT="11" BORDER="0"><br><IMG SRC="../images/discover_aboutsubhead.gif" ALT="Crestar's Vision, Mission and Strategy"><p><font size="-1" font color="#FF0000"><strong>Crestar's Vision</strong></font><br>The name Crestar Financial Corporation should call to mind afinancial services organization that consistently performs on apar with the best institutions in the nation.</p><p><font size="-1" font color="#FF0000"><strong>Crestar's Mission</strong></font><br>The mission of Crestar Financial Corporation is to provide abroad array of financial products and services at a price thatrepresents the best value for our customers' money, and, by doingso, to provide a superior return for our shareholders.</p><p><font size="-1" font color="#FF0000"><strong>Crestar's Strategy</strong></font><br>To pursue our vision and carry out our mission Crestar Financialwill:<br></p><p><strong>Use our organizational strengths-</strong><br>our strong branch network, superb technology and deep pool oftalented and skilled people, willing and able to work together totap opportunities within our markets.</p><p><strong>Offer the best products-</strong><br>products that meet and exceed the expectations of our customersand are better than those offered by our competitors.</p><p><strong>Provide the best service quality-</strong><br>characterized by convenience, speed and an upbeat attitude.</p><p><strong>Ensure value-</strong><br>so that our customers are getting the best price for value and towork hard to keep it that way.</p><p><strong>Keep our cost structure low-</strong><br>to provide our customers with superior price for value and ourshareholders with the best possible return on their investments.<p><IMG SRC="../images/ebb_topline.gif" ALT="-----------------------" WIDTH="432" HEIGHT="11" BORDER="0"><br><IMG SRC="../images/discover_subhead2.gif" ALT="Crestar's Values" width=450 height=40><p>At the very heart of Crestar's approach to business is a setof core values that define our priorities as a company and guidethe conduct of our associates as we work to achieve thesepriorities.</p><p>As a corporation, we believe that:<br><strong>Customers Matter Most.</strong> We will treat eachcustomer with courtesy, friendliness, respect and professionalismas we work to anticipate and meet their financial services needs.</p><p><strong>People Make It Happen.</strong> We will create anenvironment that fosters diversity, innovation, mutual respect,reliability and teamwork among our associates.</p><p><strong>Corporate Integrity and Financial Strength Are Vital.</strong>As we work to serve our customers, Crestar's commitment tohonest, ethical service and the preservation of fundamentalfinancial strength remains constant.</p><p>As individual members of the Crestar team, we will strive for:</p><ul type=square>    <li>Speed to improve service for our customers and to make        Crestar more efficient and productive.</li>    <li>Integrity and Fairness in the way we deal with our        customers, associates and shareholders.</li>    <li>Cost Consciousness as we continually look for ways to do        things faster, simpler, smarter and cheaper with an eye        toward improving price for value, corporate efficiency        and shareholder returns.</li>    <li>Upbeat Attitudes, to make every contact with our        customers and fellow Crestar associates a positive        experience.</li>    <li>Bold Goals, to sustain our commitment to superior        performance in every facet of our business.</font></li></ul></td></TR></TABLE>				</td></tr>		<TR><TD VALIGN=BOTTOM><A HREF="#top" onMouseOver="hiLite('backtotop_white','backtotop_y'); window.status='Link to Top'; return true;" onMouseOut="hiLite('backtotop_white','backtotop_white');"><IMG SRC="../images_nav/backtotop_white.gif" ALT="Link: Back to Top" WIDTH="135" HEIGHT="15" BORDER="0" name="backtotop_white"></a><br><IMG SRC="../images_nav/copyright.gif" alt="Copyright 1997 Crestar Bank" border=0></TD></TR></TABLE></BODY></HTML>

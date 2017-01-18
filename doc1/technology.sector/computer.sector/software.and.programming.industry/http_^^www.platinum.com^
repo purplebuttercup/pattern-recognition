@@ -1,0 +1,136 @@
+Server: Netscape-Enterprise/2.01
+Date: Fri, 21 Nov 1997 05:33:53 GMT
+Content-type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>PLATINUM technology, inc. Homepage</TITLE>
+<meta name="description" content="PLATINUM technology helps IT organizations around the globe manage and improve software infrastructure. PLATINUM delivers products and services that offer superior return on investment, first by maximizing internal IT service levels and second by helping CIOs focus their enterprise computing efforts on solutions that give them a competitive advantage.">
+<meta name="keywords" content="Application Lifecycle, Business Intelligence, Consulting Services, Database Management, Data Warehousing, Education, Industry Applications, Systems Management, Year 2000, Analysis & Design, Construction, Testing, Software Change Management, Integrated Process and Project Management, Online Analytical Processing (OLAP), Enterprise Information Systems (EIS), Enterprise Reporting, Data Extraction and Refinement, Data Distribution, MetaData Management, Insurance Industry Applications, Sales and Marketing Decision Support, Application Development, Information Management, Online Services, Database Administration, Performance Analyzers, Utilities, Data Access and Analysis, Skill Assessment, Assessments, Reporting, Administration, Customization, Java, UNIX/ Open Systems, Data Modeling, DB2 Version 3&4, QMF, Oracle, Client/Server, IT Behavioral Skills Management, AionDS, Forest & Trees, InfoBeacon, InfoQuery, InfoReports, PRF, Asset Management, Capacity Planning, Distribution Management, Enterprise Automation, Job and Process Management, Networking and Connectivity, Output Management, Performance Management, Problem Resolution, Security Management, Storage Management, Finance and Resource Management, PLATINUM TransCentury Analysis for MVS, PLATINUM TransCentury Date Simulator, PLATINUM TransCentury Calendar Routines, ADABAS, CA-Datacom, CA-IDMS, CA-Open Ingres, DB2 Common Server, DB2 for AIX, DB2 for MVS, DB2 for OS/2, DB2/400, HP IW, IMS, Informix, Lotus Notes, Microsoft Access, Microsoft SQL Server, ObjectStore, OSMOS, Predict, Rdb, Red Brick Warehouse, SQLBase, Sybase, Sybase SQL Server, Teradata, UniSQL Server, Versant, XDB, AIX, DC/OSx, Digital UNIX, DOS, DR DOS, DYNIX/ptx, HP-UX, IRIX, MVS, NCR UNIX, NetWare, OpenVMS, OS/2, OS/400, SCO UNIX, SINIX, Sun OS, Sun Solaris, ULTRIX, UnixWare, VM, VMS, VSE, Windows, Windows 95, Windows NT, ActiveX, Ada, Borland C++, Delphi, Forte, NetView, OpenView, PeopleSoft, Persistence, PowerBuilder, SAP R/3, SAS, Tivoli TME, Visual Age, Visual Basic, Visual C++, Visual J++, VisualSmalltalk Enterprise, Manage Infrastructure, Deploy Applications, and Leverage Information">
+</HEAD>
+<BODY BGCOLOR="#ffffff" LINK="#010D9B" VLINK="#006633">
+<CENTER>
+<TABLE BORDER=0 WIDTH=600 CELLPADDING=0 CELLSPACING=0>
+<TR><TD COLSPAN=3><A HREF="/products/provis/index.html"><IMG SRC="/mc-icons/provanim.gif" BORDER=0 WIDTH=600 HEIGHT=68 ALT="Now you can visualize, manage, and automate diverse systems and databases from a single vantage point."><BR><IMG SRC="/mc-icons/logo2.gif" BORDER=0 WIDTH=126 HEIGHT=22 ALT="PLATINUM technology, inc."><A HREF="/new.htm"><IMG SRC="/mc-icons/news1.gif" BORDER=0 WIDTH=42 HEIGHT=22 ALT="News"></A><A HREF="/products/products.htm"><IMG SRC="/mc-icons/product1.gif" BORDER=0 WIDTH=124 HEIGHT=22 ALT="Products & Services"></A><A HREF="/tech/tech.htm"><IMG SRC="/mc-icons/support1.gif" BORDER=0 WIDTH=54 HEIGHT=22 ALT="Support"></A><A HREF="/Architext/gsearch.htm"><IMG SRC="/mc-icons/search1.gif" BORDER=0 WIDTH=36 HEIGHT=22 ALT="Find"></A><A HREF="/corp/about.htm"><IMG SRC="/mc-icons/corp1.gif" BORDER=0 WIDTH=68 HEIGHT=22 ALT="Corporate"></A><A HREF="/world.htm"><IMG SRC="/mc-icons/world1.gif" BORDER=0 WIDTH=76 HEIGHT=22 ALT="Worldwide"></A><A HREF="/mail.htm"><IMG SRC="/mc-icons/contact1.gif" BORDER=0 WIDTH=74 HEIGHT=22 ALT="Contact Us"></A></TD></TR>
+<TR><TD COLSPAN=3 WIDTH=600 HEIGHT=15></TD></TR>
+<TR>
+<TD VALIGN=top><FORM ACTION="/cgi-bin/redir.pl" METHOD="POST"><IMG SRC="/mc-icons/manage.gif" BORDER=0 WIDTH=230 HEIGHT=37 ALT="Manage and improve your software infrastructure..."><BR><SELECT NAME="location1" SIZE=1>
+<OPTION SELECTED>with product and services...
+<OPTION>
+<OPTION VALUE="/products/ap_dev.htm">Application Lifecycle
+<OPTION VALUE="/platsol/consult.htm">Consulting Services
+<OPTION VALUE="/products/dataware.htm">Data Warehousing
+<OPTION VALUE="/products/dbadmin.htm">Database Management
+<OPTION VALUE="/educ/index.htm">Education
+<OPTION VALUE="/products/internet.htm">Internet and Intranet
+<OPTION VALUE="/products/sysman/security.htm">Security
+<OPTION VALUE="/products/sys_mgmt.htm">Systems Management
+<OPTION VALUE="/products/year2k/y2k.htm">Year 2000
+</SELECT><INPUT TYPE="Submit" NAME="loc1" VALUE="Go"><BR><SELECT NAME="location2" SIZE=1>
+<OPTION>for these environments...
+<OPTION>
+<OPTION VALUE="/products/db2.htm">DB2
+<OPTION VALUE="/products/as_indx.htm#4">HP OpenView
+<OPTION VALUE="/products/informix.htm">Informix
+<OPTION VALUE="/products/sqlservr.htm">Microsoft SQL Server
+<OPTION VALUE="/products/nt.htm">NT
+<OPTION VALUE="/products/oracle.htm">Oracle
+<OPTION VALUE="/products/as_indx.htm#5">PeopleSoft
+<OPTION VALUE="/products/as_indx.htm#7">SAP
+<OPTION VALUE="/products/platindx.htm#p">Siemens Nixdorf
+<OPTION VALUE="/products/platindx.htm#q">Sun OS
+<OPTION VALUE="/products/platindx.htm#r">Sun Solaris
+<OPTION VALUE="/products/sybase.htm">Sybase
+<OPTION VALUE="/products/as_indx.htm#9">Tivoli TME
+<OPTION VALUE="/products/products.htm">More...
+</SELECT><INPUT TYPE="Submit" NAME="loc2" VALUE="Go"><BR><BR>
+<IMG SRC="/mc-icons/areas.gif" BORDER=0 WIDTH=127 HEIGHT=18 ALT="Areas of interest:"><BR><SELECT NAME="location3" SIZE=1>
+<OPTION>PLATINUM Worldwide
+<OPTION>
+<OPTION VALUE="/global/oargenti.htm">Argentina
+<OPTION VALUE="/global/oasia.htm">Asia - Asian Support Center
+<OPTION VALUE="/global/oaustral.htm">Australia
+<OPTION VALUE="/global/oaustria.htm">Austria
+<OPTION VALUE="/global/obelgium.htm">Belgium
+<OPTION VALUE="/global/obrazil.htm">Brazil
+<OPTION VALUE="/global/ocanada.htm">Canada
+<OPTION VALUE="/global/ochile.htm">Chile
+<OPTION VALUE="/global/ochina.htm">China
+<OPTION VALUE="/global/ocolumbi.htm">Colombia
+<OPTION VALUE="/global/ocroatia.htm">Croatia
+<OPTION VALUE="/global/odenmark.htm">Denmark
+<OPTION VALUE="/global/ofinland.htm">Finland
+<OPTION VALUE="/global/ofrance.htm">France
+<OPTION VALUE="/global/ogermany.htm">Germany
+<OPTION VALUE="/global/ogreece.htm">Greece
+<OPTION VALUE="/global/ohongkon.htm">Hong Kong
+<OPTION VALUE="/global/oindones.htm">Indonesia
+<OPTION VALUE="/global/oisrael.htm">Israel
+<OPTION VALUE="/global/oitaly.htm">Italy
+<OPTION VALUE="http://www.platinum.co.jp">Japan
+<OPTION VALUE="/global/okorea.htm">Korea
+<OPTION VALUE="/global/omalaysi.htm">Malaysia
+<OPTION VALUE="/global/omexico.htm">Mexico
+<OPTION VALUE="/global/onetherl.htm">Netherlands
+<OPTION VALUE="/global/onewzeal.htm">New Zealand
+<OPTION VALUE="/global/onorway.htm">Norway
+<OPTION VALUE="/global/operu.htm">Peru
+<OPTION VALUE="/global/ophilipp.htm">Philippines
+<OPTION VALUE="/global/opoland.htm">Poland
+<OPTION VALUE="/global/oportuga.htm">Portugal
+<OPTION VALUE="/global/orussia.htm">Russia
+<OPTION VALUE="/global/osaudiar.htm">Saudi Arabia
+<OPTION VALUE="/global/osingapo.htm">Singapore
+<OPTION VALUE="/global/osloveni.htm">Slovenia
+<OPTION VALUE="/global/osouthaf.htm">South Africa
+<OPTION VALUE="/global/ospain.htm">Spain
+<OPTION VALUE="/global/osweden.htm">Sweden
+<OPTION VALUE="/global/oswitzer.htm">Switzerland
+<OPTION VALUE="/global/otaiwan.htm">Taiwan
+<OPTION VALUE="/global/othailan.htm">Thailand
+<OPTION VALUE="/global/oturkey.htm">Turkey
+<OPTION VALUE="/global/ouae.htm">United Arab Emirates
+<OPTION VALUE="/global/ouk.htm">United Kingdom
+<OPTION VALUE="/global/us.htm">United States of America
+<OPTION VALUE="/global/ouruguay.htm">Uruguay
+<OPTION VALUE="/global/ovenezue.htm">Venezuela</SELECT><INPUT TYPE="Submit" NAME="loc3" VALUE="Go">
+<BR>
+<IMG SRC="/mc-icons/wspace.gif" WIDTH=1 HEIGHT=5 ALT=" "><BR>
+<A HREF="/employ/emptoc2.htm"><IMG SRC="/mc-icons/c_but.gif" BORDER=0 WIDTH=57 HEIGHT=20 ALT="Careers"></A>&nbsp;<A HREF="/events/events.htm"><IMG SRC="/mc-icons/e_but.gif" BORDER=0 WIDTH=51 HEIGHT=20 ALT="Events"></A>&nbsp;<A HREF="/partners/gpart.htm"><IMG SRC="/mc-icons/p_but.gif" BORDER=0 WIDTH=61 HEIGHT=20 ALT="Partners"></A>
+</FORM>
+<form method=post action="/cgi-bin/iflash2.pl">
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR>
+<TD><IMG SRC="/mc-icons/if_home.gif" WIDTH=240 HEIGHT=80 BORDER=0 ALT="Enter your email address and we'll keep you posted on the latest PLATINUM news."><BR>
+<input size=12 name="email">
+<INPUT TYPE="hidden" NAME="source_page" VALUE="/thanks.htm">&nbsp;&nbsp;
+<IMG SRC="/mc-icons/trans10.gif" HEIGHT=5>
+<input type="submit" value="Sign Up">
+</TD></TR>
+</TABLE>
+</form>
+<FONT SIZE=1><A HREF="/copyrght.htm">&copy; 1995, 1997</A>&nbsp;&nbsp;PLATINUM <I>technology, inc</I>.<BR>800-442-6861&nbsp;&nbsp;630-620-5000&nbsp;&nbsp;Fax: 630-691-0718</FONT><BR>
+<IMG SRC="/mc-icons/wspace.gif" BORDER=0 WIDTH=240 HEIGHT=1 ALT=" "></TD>
+
+<TD valign=top><IMG SRC="/mc-icons/wspace.gif" BORDER=0 WIDTH=10 HEIGHT=1 ALT=" "></TD>
+
+<TD valign=top WIDTH=350><A HREF="/news/db2post.htm"><IMG SRC="/mc-icons/1106_1.gif" BORDER=0 WIDTH=350 HEIGHT=120 ALT="DB2 V5: If a Picture Is Worth a Thousand Words..."></A><BR>&nbsp;<BR>
+<FONT FACE="Arial" SIZE=2">
+<A HREF="/press/1997/autosso.htm">PLATINUM <I>technology</I> Simplifies Security Administration with LDAP Directory-Based AutoSecure Single Sign On <IMG SRC="/mc-icons/more.gif" BORDER=0 WIDTH=12 HEIGHT=12 ALT="More"></A>
+<BR>&nbsp;<BR>
+
+<A HREF="/products/reprint/desk_dpd.htm">"Bringing Oracle Management Down to Earth" <I>Database Programming & Design</I> <IMG SRC="/mc-icons/more.gif" BORDER=0 WIDTH=12 HEIGHT=12 ALT="More"></A>
+<BR>&nbsp;<BR>
+
+<A HREF="/press/1997/advantag.htm">PLATINUM <I>technology</I> First to Deliver End-To-End<BR>Application Infrastructure Management Solution <IMG SRC="/mc-icons/more.gif" BORDER=0 WIDTH=12 HEIGHT=12 ALT="More"></A>
+<BR>&nbsp;<BR>
+
+<A HREF="/products/year2k/loum_5.htm">Year 2000 Travel Guide &#151; The Final Chapter <IMG SRC="/mc-icons/more.gif" BORDER=0 WIDTH=12 HEIGHT=12 ALT="More"></A><BR>&nbsp;<BR>
+
+<A HREF="/products/reprint/prov_cw.htm" TARGET="_top">"PLATINUM Integrates Tools" <I>Computerworld</I> <IMG SRC="/mc-icons/more.gif" BORDER=0 WIDTH=12 HEIGHT=12 ALT="More"></A><BR>&nbsp;<BR>
+
+
+</FONT></FONT></TD></TR>
+
+</TABLE></CENTER></BODY></HTML>
+

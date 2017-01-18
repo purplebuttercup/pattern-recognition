@@ -1,0 +1,37 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 20 Nov 1997 16:31:47 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Wed, 17 Sep 1997 14:58:27 GMT
+Content-Length: 1731
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; iso-8859-1">
+<META NAME="keywords" content="Landstar, Landstar Systems Inc., Landstar Corporate Services, Landstar Ranger, Landstar Logistics, Landstar Gemini,
+Landstar Poole, Landstar Inway, Landstar Express America, Landstar Ligon, Ligon, Ranger, Express America, Inway, Poole, Gemini, Logistics, Transportation,
+Trucking, Carrier Groups, Trucking Equipment">
+<META NAME="description" content="Landstar, one of the nation's largest carrier groups, provides safe, customized transportation services to businesses worl-wide.">
+
+<title>Welcome To Landstar</title>
+
+</head>
+
+<frameset frameborder="0" border="0" framespacing="0" rows="60,*">
+    <frame src="_private/banner.htm" name="banner" scrolling="no" noresize target="main">
+    <frameset cols="100,*">
+        <frame src="_private/navbar.htm" name="navbar" scrolling="no" noresize target="main">
+        <frame src="default.htm" name="main" marginwidth="1" marginheight="1">
+    </frameset>
+    <noframes>
+    <body>
+    <p><!--webbot bot="PurpleText" preview="The frameset on this page can be edited with the FrontPage Frames Wizard; use the Open or Open With option from the FrontPage Explorer's edit menu. This page must be saved to a web before you can edit it with the Frames Wizard. Browsers that don't support frames will display the contents of this page, without these instructions. Use the Frames Wizard to specify an alternate page for browsers without frames." s-viewable=" " -->     </p>
+    <p>This web page uses frames, but your browser doesn't
+    support them.</p>
+    </body>
+    </noframes>
+</frameset>
+</html>

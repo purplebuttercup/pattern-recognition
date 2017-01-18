@@ -1,0 +1,48 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 18 Dec 1997 21:50:52 GMT
+Content-Type: text/html
+
+<html>
+<head>
+   <title>Cal Water - Conservation</title>
+</head>
+<body bgcolor="#FFFFFF">
+   <h2><font SIZE="+3">C</font>onservation</h2>
+   <p>
+   <hr>
+   <img SRC="faucet.gif" WIDTH="159" HEIGHT="235">
+   <p>
+   <ul><li><a HREF="conservation_gardening.stm">An invitation to
+                                                    conservation gardening</a>
+       <li><a HREF="check_for_leaks.stm">How to check for leaks</a>
+       <li><a HREF="how_to_read_your_meter.stm">How to read your water
+                                                    meter</a>
+       <li><a HREF="landscaping.stm">Landscaping and water
+                                                    conservation</a>
+       <li><a HREF="low-water_plants.stm">Low-water plants</a>
+       <li><a HREF="kitchen_and_laundry.stm">Saving water in the kitchen
+                                                    and laundry</a>
+       <li><a HREF="running_toilet.stm">Stop your running toilet</a>
+       <li><a HREF="ten_ways_to_avoid_waste.stm">Ten ways to avoid water
+                                                    waste</a>
+       <li><a HREF="turning_gray_water_green.stm">Turning gray water green</a>
+       <li><a HREF="ultra-low_flush_toilets.stm">Ultra-low flush
+                                                    toilets</a></ul>
+   <HR>
+<CENTER>
+<H4> <A HREF="/index.stm">Home</A> 
+   | <A HREF="/about_calwater/index.stm">About Cal Water</A>
+   | <A HREF="/annual_report/index.stm">Annual Report</A> 
+   | <A HREF="http://quote.yahoo.com/q?s=cwt&d=t">Current Stock Quote</A> 
+   | <A HREF="/rates/index.stm">Rates</A> 
+   | <A HREF="/districts/index.stm">Cal Water Districts</A>		
+   | <A HREF="/press_releases/index.stm">Press Releases</A>
+   | <A HREF="/conservation/index.stm">Conservation</A> 
+   | <A HREF="/fyi/index.stm">F.Y.I.</A> 
+   | <A HREF="/other_sites.stm">Other Useful Sites</A>
+   | <a href="/job_opportunities/index.stm">Job Opportunities</a>
+   | <A HREF="mailto:arubinstein@calwater.com">Contact Us</a></H4>
+</CENTER>
+
+</body>
+</html>

@@ -1,0 +1,38 @@
+Server: Netscape-Enterprise/3.0
+Date: Thu, 18 Dec 1997 09:31:39 GMT
+Content-type: text/html
+Last-modified: Fri, 12 Sep 1997 21:25:29 GMT
+Content-length: 736
+Accept-ranges: bytes
+Connection: close
+
+<html>
+<head>
+<title>Travelers | Safe & Secure</title>
+</head>
+
+<frameset frameborder=no border=0 cols=170,*>
+<frame src=/family/nav/menu.html 
+           name=menu
+           marginheight=0
+           marginwidth=0
+           border=0
+           scrolling=no
+           noresize>
+<frameset frameborder=no border=0 rows=135,*>
+<frame src=/family/nav/hdr_safe.html
+           name=header
+           marginheight=0
+           marginwidth=0
+           border=0
+           scrolling=no
+           noresize>
+<frame src=/family/html/safe/main.html
+           name=toc_b
+           marginheight=0
+           marginwidth=0
+           border=0
+           scrolling=auto
+           noresize>
+</frameset>
+</frameset>

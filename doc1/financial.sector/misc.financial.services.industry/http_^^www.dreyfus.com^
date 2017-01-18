@@ -1,0 +1,195 @@
+Server: Netscape-Commerce/1.12
+Date: Thursday, 18-Dec-97 11:38:40 GMT
+Content-type: text/html
+
+<HTML>
+<!-- Changed by: Yaron Polikar, 18-Dec-1996 -->
+ 
+<HEAD>
+  <TITLE>Welcome to Dreyfus</TITLE>
+</HEAD>
+<BODY BGCOLOR="#ffffce" LINK="#663300" ALINK="#003333" VLINK="#003333" BACKGROUND="shared/home/back.gif">
+
+<MAP NAME="sidebar">
+<AREA SHAPE="rect" COORDS="40,168,116,280" href="products/prices/nav-retail.html">
+<AREA SHAPE="rect" COORDS="6,6,148,37"     href="http://www.mellon.com">
+<AREA SHAPE="rect" COORDS="0,0,149,327"    nohref>
+</MAP>
+
+<MAP NAME="navbar">
+    <AREA SHAPE="rect" COORDS="3,201,60,230" HREF="potpourr/contact/">
+    <AREA SHAPE="rect" COORDS="4,158,61,176" HREF="potpourr/search/">
+    <AREA SHAPE="rect" COORDS="2,112,63,134" HREF="potpourr/">
+    <AREA SHAPE="rect" COORDS="4,69,60,90" HREF="assist/">
+    <AREA SHAPE="rect" COORDS="5,25,59,48" HREF="products/">
+</MAP>
+<MAP NAME="coin">
+    <AREA SHAPE="rect" COORDS="13,13,95,92" HREF="products/mf/">
+</MAP>
+
+<P>
+<TABLE WIDTH="592" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+<TR>
+<TD WIDTH="2"><!-- &nbsp;&nbsp; --></TD>
+<TD WIDTH="590">
+
+<TABLE WIDTH="590" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+<TR>
+<TD WIDTH="442" VALIGN="TOP"><P>
+
+
+<!-- ************  this table holds ALL the top graphics  *************** -->
+<TABLE WIDTH="442" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+<TR>
+<TD WIDTH="149" HEIGHT="327" ROWSPAN="2" VALIGN="TOP"><A HREF="http://www.mellon.com"><IMG SRC="shared/home/sidebar.gif" WIDTH="149" HEIGHT="327" ALIGN="BOTTOM" NATURALSIZEFLAG="3" USEMAP="#sidebar" ISMAP BORDER="0"></A></TD>
+<TD WIDTH="225" HEIGHT="227" COLSPAN="2" VALIGN="TOP"><IMG SRC="shared/home/title.gif" WIDTH="225" HEIGHT="227" ALIGN="BOTTOM" NATURALSIZEFLAG="3"></TD>
+<TD WIDTH="68" HEIGHT="327" ROWSPAN="2" VALIGN="TOP"><IMG SRC="shared/home/navbar.gif" WIDTH="68" HEIGHT="327" ALIGN="BOTTOM" NATURALSIZEFLAG="3" USEMAP="#navbar" ISMAP BORDER="0"></TD>
+</TR>
+<TR>
+<TD WIDTH="118" HEIGHT="100" VALIGN="TOP"><IMG SRC="shared/home/anim.gif" WIDTH="118" HEIGHT="100" ALIGN="BOTTOM" NATURALSIZEFLAG=
+"3"></TD>
+<TD WIDTH="107" HEIGHT="100" VALIGN="TOP"><IMG SRC="shared/home/coin.gif" WIDTH="107" HEIGHT="100" ALIGN="BOTTOM" NATURALSIZEFLAG=
+"3" USEMAP="#coin" ISMAP BORDER="0"></TD>
+</TR>
+</TABLE>
+<!-- ************  this ENDS the table that holds ALL the top graphics  *************** -->
+
+
+<BR>
+
+
+
+<!-- ************  this table holds the the links + the body text  *************** -->
+<TABLE WIDTH="442" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+<TR>
+<TD WIDTH="80">&nbsp;</TD>
+<TD WIDTH="340"><P>
+<FONT COLOR="#CC6600" SIZE=+1>Explore Dreyfus Online</FONT>
+<P>What you will find are the tools necessary to create, maintain and ultimately rule your financial kingdom. 
+
+<P ALIGN=CENTER>
+<TABLE WIDTH="340" BORDER="0" CELLSPACING="0" CELLPADDING="2">
+<TR>
+<TD WIDTH="132"><P ALIGN=RIGHT><IMG SRC="shared/home/bullet.gif" WIDTH="18" HEIGHT="17" ALIGN="MIDDLE" NATURALSIZEFLAG="3"></TD>
+<TD WIDTH="170"><FONT SIZE=+1><A HREF="products/">Products</A></FONT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2">
+<P ALIGN=CENTER><FONT SIZE=-1>
+<A HREF="products/mf/">Mutual Funds</A> | 
+<A HREF="products/lion/">The Lion Account</A>
+<FONT COLOR="#000000" SIZE=-2><SUP>SM</SUP></FONT> <BR>
+<A HREF="products/annuity/">Variable Annuity</A> |
+<FONT SIZE=-1><A HREF="products/retire/">Retirement Products</A><BR>
+<A HREF="products/more/">More</A></FONT></TD>
+
+</TR>
+</TABLE>
+
+<BR>
+
+<P ALIGN=CENTER>
+<TABLE WIDTH="340" BORDER="0" CELLSPACING="0" CELLPADDING="2">
+<TR>
+<TD WIDTH="132"><P ALIGN=RIGHT><IMG SRC="shared/home/bullet.gif" WIDTH="18" HEIGHT="17" ALIGN="MIDDLE" NATURALSIZEFLAG="3"></TD>
+<TD WIDTH="170"><FONT SIZE=+1><A HREF="assist/">Assistance</A></FONT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2">
+<P ALIGN=CENTER><FONT SIZE=-1>
+<A HREF="assist/invest/">Dreyfus Guide to Investing</A></FONT> | 
+<FONT SIZE=-1><A HREF="assist/latools/">Lion Account Tools</A></FONT>
+<FONT SIZE=-1><A HREF="assist/tools/"><BR> Investment Tools</A> | 
+<A HREF="assist/comments/">Market Commentary<BR></A>
+<A HREF="assist/letter/">Letter from the Lion</A><FONT SIZE=-1><SUP>&reg;</SUP></FONT></FONT></TD>
+</TR>
+</TABLE>
+
+<BR>
+
+<P ALIGN=CENTER>
+<TABLE WIDTH="340" BORDER="0" CELLSPACING="0" CELLPADDING="2">
+<TR>
+<TD WIDTH="132"><P ALIGN=RIGHT><IMG SRC="shared/home/bullet.gif" WIDTH="18" HEIGHT="17" ALIGN="MIDDLE" NATURALSIZEFLAG="3"></TD>
+<TD WIDTH="170"><FONT SIZE=+1><A HREF="potpourr/">Potpourri</A></FONT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2">
+<P ALIGN=CENTER><FONT SIZE=-1><A HREF="potpourr/bckgrnd/">Corporate Background</A> | 
+<A HREF="potpourr/dfc/dfc.html">Financial Centers</A><BR>
+<A HREF="potpourr/employ/">Employment Opportunities</A> | 
+<A HREF="potpourr/press/">Press Releases</A></FONT><BR>
+<FONT SIZE=-1><A HREF="potpourr/contact/">Contact Dreyfus</A></FONT></TD>
+</TR>
+</TABLE>
+
+<BR>
+
+<P>Keep in mind when making your investment decisions that there can be no assurance that any money market fund will maintain a stable net asset value of $1.00. Share price, yield and investment return of mutual funds fluctuate such that an investor's shares may be worth more or less than original cost upon redemption. Past performance is no guarantee of future results. Dreyfus funds may be offered and sold only to persons residing in the United States and its territories. 
+<P><A HREF="potpourr/contact/">E-mail</A> us or call 1-800-221-1793, ext. 6501 for a Prospectus for any Dreyfus fund, which contains more complete information on management fees, charges and expenses. Please read it carefully before investing. Several of these Prospectuses are available NOW via download.
+<P>Dreyfus Advice and Guidance<FONT SIZE=-1><SUP>&reg;</SUP></FONT> is a service of Dreyfus Investment Advisors, Inc., a registered investment advisor.
+<P>&#169; 1996, 1997 Dreyfus Service Corporation, Broker-Dealer. Member, NASD and SIPC. Premier Mutual Fund Services, Inc. Distributor of The Dreyfus Family of Funds. All rights reserved.      
+ </TD>
+<TD WIDTH="22">&nbsp;</TD>
+</TR>
+</TABLE>
+<!-- ************  this ENDS the table that  holds the the links + the body text  *************** -->
+</TD>
+
+
+
+
+<!-- ************  this table holds the ad + the the links on the right side  *************** -->
+<TD WIDTH="148" VALIGN="TOP"><P>
+
+<A HREF="../assist/comments/econcomm.html"><IMG SRC="../shared/ads/cntingy.gif" BORDER="0" WIDTH="146" HEIGHT="102" ALIGN="BOTTOM" NATURALSIZEFLAG="1"></A>
+
+<P>
+<TABLE WIDTH="148" HEIGHT="179" BORDER="0" ALIGN="TOP" CELLSPACING="0" CELLPADDING="0">
+<TR>
+<TD WIDTH="10">&nbsp;</TD>
+<TD align=left WIDTH="134" VALIGN="TOP"><P>
+<FONT COLOR="#CC6600" SIZE=+1>Highlights:</FONT><BR>
+<FONT SIZE=-1>
+<A HREF="assist/uncertain/">Guide to Investing in Uncertain Markets</A><P>
+<A HREF="assist/invest/calc.htm">Investment Calculator</A><P>
+<A HREF="assist/ads/taxlaws.htm">Learn About the New Tax Laws</A><P>
+<A HREF="http://www.wsbi.com/dreyfus/">New Feature!<BR>Wall St. on Demand<BR>from Dreyfus</A><P> 
+<A HREF="potpourr/contact">New Feature!<BR>Speak with a Dreyfus Representative NOW</A><P>
+<!-- <A HREF="potpourr/boston.html">Join Us For A<BR>Celeberation</A><P> -->
+<A HREF="products/lion/">The Lion Account</A><SUP>SM</SUP><P></FONT>
+<!-- <A HREF="shock/">Come see how we've<BR>SHOCKED THE LION<BR></A><P> -->
+ 
+</TD>
+</TR>
+</TABLE>
+<IMG SRC="shared/home/sm_div.gif" WIDTH="146" HEIGHT="8" ALIGN="BOTTOM" NATURALSIZEFLAG="3">
+
+<TABLE WIDTH="148" HEIGHT="179" BORDER="0" ALIGN="TOP" CELLSPACING="0" CELLPADDING="0">
+<TR>
+<TD WIDTH="8">&nbsp;</TD>
+<TD align=left WIDTH="134" VALIGN="TOP"><P>
+<BR>
+<CENTER>
+<FONT SIZE=-1>This site is best viewed using:</FONT><P>
+<A HREF="http://home.netscape.com/download/nav_download.html?navigator3.03"><IMG SRC="../shared/home/netnow3.gif" WIDTH="88" HEIGHT="31" ALIGN="BOTTOM" BORDER="0"></A><P>
+<A HREF="http://www.microsoft.com/ie/download"><IMG SRC="../shared/home/ie_anima.gif" WIDTH="88" HEIGHT="31" ALIGN="BOTTOM" BORDER="0"></A><P>
+</CENTER>
+</TD>
+</TR>
+</TABLE>
+
+
+</TD>
+</TR>
+</TABLE>
+<!-- ************  this ENDS the table that holds the ad + the links on the right side  *************** -->
+
+
+</TD>
+</TR>
+</TABLE>
+
+</BODY>
+</HTML>
+

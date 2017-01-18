@@ -1,0 +1,86 @@
+Server: Microsoft-IIS/3.0
+Date: Fri, 21 Nov 1997 02:58:52 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Thu, 21 Aug 1997 16:45:05 GMT
+Content-Length: 3721
+
+<html>
+<head>
+<meta http-equiv="PICS-Label"
+content='(PICS-1.1 "http://www.rsac.org/ratingsv01.html" l gen true comment "RSACi North America Server" by "cjennewine@ossinc.net" for "http://www.ossinc.net" on "1997.06.20T15:51-0500" r (n 0 s 0 v 0 l 0))'>
+<title>Online System Services Incorporated</title>
+</head>
+
+<body background="/ossnew/graphics/black.gif" text="FFFFFF">
+
+<a href="/ossnew/graphics/oss12297.map">
+
+<p align="center">
+<MAP NAME="FrontPageMap0">
+<AREA SHAPE="RECT" COORDS="13, 154, 151, 168" HREF="/ossnew/cybertorium/cybertorium.html">
+<AREA SHAPE="RECT" COORDS="13, 142, 151, 154" HREF="/ossnew/investnew/home.htm">
+<AREA SHAPE="RECT" COORDS="13, 129, 151, 141" HREF="/ossnew/concierge/concierge.html">
+<AREA SHAPE="RECT" COORDS="13, 116, 151, 128" HREF="/ossnew/theinternetgame/theinternetgame.html">
+<AREA SHAPE="RECT" COORDS="13, 103, 151, 115" HREF="/ossnew/ossoffices/ossoffices.html">
+<AREA SHAPE="RECT" COORDS="13, 90, 151, 102" HREF="/ossnew/conferencecenter/conferencecenter.html">
+<AREA SHAPE="RECT" COORDS="13, 77, 151, 89" HREF="/ossnew/halloffame/halloffame.html">
+<AREA SHAPE="RECT" COORDS="13, 64, 151, 76" HREF="http://www.caa.net">
+<AREA SHAPE="RECT" COORDS="13, 51, 151, 63" HREF="/healthcare/">
+<AREA SHAPE="RECT" COORDS="13, 38, 151, 50" HREF="/ossnew/worldwidewebservices/worldwidewebservices.html">
+<AREA COORDS="0,0,10000,10000" HREF="/ossnew/graphics/oss12297.map">
+</MAP>
+<img ismap="" border="0" align="MIDDLE" src="/ossnew/graphics/oss1_22_97.jpg" alt="" width="400" height="274" usemap="#FrontPageMap0">
+</a>
+</p>
+
+<div align="center">
+<center>
+
+<table width="80%">
+  <tr>
+    <td><p align="center"><!--A HREF="shock197z.html"Visit the Shocked Homepage/A--> <font size="-1">OSS is an enhanced web site which is best viewed
+    using Microsoft Internet Explorer.<br>
+    <br>
+    You may download this browser using the following link: </font></p>
+    <div align="center"><center><table cellpadding="10">
+      <tr>
+        <td align="center" valign="bottom"><a href="http://www.microsoft.com/ie/ie.htm"><img
+        border="0" src="/ossnew/graphics/Logo_IE.gif" hspace="20"><br>
+        <font size="+1">Microsoft Internet Explorer</a></font> </td>
+      </tr>
+      <tr>
+        <td>If you have the <a href="http://www.real.com/products/player/index.html">Real Player</a>
+        from Progressive Networks you can <a href="oss.ram">Check out our 30 sec. TV spot!</a> </td>
+      </tr>
+    </table>
+    </center></div><hr align="center">
+    <p align="center"><font size="+1">Online System Services<br>
+    1800 Glenarm Place Suite 800<br>
+    Denver, CO 80202<br>
+    Ph: (303)296-9200<br>
+    Fax: (303)295-3584 </p>
+    <p align="center"><a href="mailto:webmaster@ossinc.net"><img align="middle" border="0"
+    src="http://www.kcncnews4.com/graphics/osslogo.gif">E-mail </a></p>
+    <hr align="center">
+    <p align="center"><!-- <form action="http://www2.ossinc.net/cgi-bin/icbmcgi.exe" method="GET">
+To check your dial-up account status, enter the following information:
+<p>
+User ID: <input type="text" length="40" name="UserID">
+Password: <input type="password" length="15" name="Password">
+<p>
+<input type="hidden" name="Request" value="DIALUP STATUS">
+<input type="submit" value="Check Account Status">
+<p>
+<hr>
+</form> --> </p>
+    <p align="center"><font size="-2">Microsoft is a registered trademark in the United States
+    and other countries and the Microsoft Internet Explorer logo is a trademark of Microsoft
+    Corporation. All other trademarks are the property of their respective owners.</font> <br>
+    <br>
+    </font></td>
+  </tr>
+</table>
+</center></div>
+</body>
+</html>

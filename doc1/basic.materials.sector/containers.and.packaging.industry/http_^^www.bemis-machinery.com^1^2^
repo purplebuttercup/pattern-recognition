@@ -1,0 +1,121 @@
+Date: Thu, 20 Nov 1997 20:47:24 GMT
+Server: Apache/1.2.1
+Connection: close
+Content-Type: text/html
+
+<html>
+
+<title>Bemis Home Page</title>
+
+<frameset rows="90,*">
+
+<frame src="../title.html" marginheight=0 marginwidth=0 name="title">
+
+
+<frameset cols="260,*">
+<frame src="issueindex2.html" marginheight=0 marginwidth=0  
+name="artindex"> 
+
+<frame src="article2.html" marginheight=0 marginwidth=0  
+name="article">
+</frameset>
+</frameset>
+
+
+
+<noframes>
+<body bgcolor="#FFFFFF" text="#000000"
+vlink="#DD0000" link="#FF0000" alink="#CC0000">
+
+<br>
+<html>
+<body bgcolor='white' text='black' link='red' alink='darkred'>
+
+<center>
+<font size=5>
+Phil Enfinger Rejoins Bemis Packaging Machinery Co.
+</font>
+</center>
+
+<font size=3>
+
+<blockquote>
+<img align=left src="/images/1/iss1phil.gif">
+We are happy to announce that Phil Enfinger is back with Bemis Packaging 
+Machinery Co. as our new Eastern Regional Manager.
+<p>
+He will be covering a big part of the country -- from Oklahoma to New 
+England -- but the territory couldn't be in better hands. In the east and 
+southeast Phil will be working with Peter Bell, Mark Dunn, Brent Ford and 
+the Rypac group. It would be hard to find someone who knows more about 
+Bemis Packaging Machinery than Phil.
+<p>
+As many of you know, Phil was with us for 12 years, before he took a 
+couple of years off to cover Florida for a Manufacturer's Representative 
+Agency. He knows our product line extremely well, and will be a big asset 
+to our customers and sales representatives.
+<p>
+With all of Phil's other interests, it's hard to see how he gets enough 
+time to cover so much territory. Phil and his wife Carlene love boating, 
+stock car racing, and touring the country on their motorcycles. Of course 
+that is when they aren't spending time with their children and two 
+grandchildren.
+<p>
+Phil and Carlene live in Martinez, GA, just outside of Augusta. Make sure 
+you give Phil a call to welcome him back to Bemis.
+<p>
+<br>
+<br>
+</blockquote>
+</font>
+<br>
+<p>
+<hr size=1>
+<center>
+<font size=1>
+<a href="/frames" target="main">[Home]</a> 
+<a href="/0/" target="main">[About BPMC]</a>
+<a href="/2/1.html" target="main">[Product Showcase]</a>
+<a href="/1/" target="main">[The Inside Story]</a> <br>
+<a href="/2/" target="main">[Products & Machinery]</a> 
+<a href="/3/" target="main">[Sales & Service Info]</a> 
+<a href="/4/" target="main">[BPMC Links]</a> 
+<a href="/5/" target="main">[BPMC Mission]</a> 
+<a href="/6/" target="main">[Contact Us]</a>
+</font>
+<p>
+<table border=0 cellpadding=2 cellspacing=0>
+<tr valign=top>
+<td align=center>
+<font size=1>
+Copyright &copy 1996, Bemis Packaging Machinery Co.<br>
+WebSite developed and maintained by 
+<a href="http://www.i5.com" target="_top">
+<b>internet five</b></a>
+</font>
+</td>
+</tr>
+</table>
+</center>
+<p> 
+</body>
+</html>
+
+
+
+</body>
+</html>
+
+
+<br>
+<br>
+<a href="/1/intro1.html"> <i> Back to Inside story</i><p></a>
+<br>
+<br>
+<br>
+</noframes>
+
+</body>
+
+</html>
+

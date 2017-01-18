@@ -1,0 +1,79 @@
+Server: Netscape-Communications/1.1
+Date: Thursday, 20-Nov-97 22:17:09 GMT
+Content-type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+
+<!--Designed by 
+    OhioOnline, Inc.
+    Cleveland, OH
+    216/522-1818
+    http://ohioonline.net-->
+
+<TITLE>Olympic Steel - Steel Service Center</TITLE>
+
+ <Meta name="resource-type" content="document">
+        <Meta name="description"   content="
+                Olympic Steel is a steel service center
+                specializing in the processing and 
+                distribution of large volumes of carbon, 
+                coated carbon and stainless flat-rolled 
+                sheet, coil and plate, as well as tubular 
+                steel products. Headquarters: 5096 Richmond
+                Road, Bedford Heights, OH 44146. Founded: 1954,
+                Cleveland, Ohio, by Sol and Morris Siegal
+                and Sam Sigel.">
+
+        <Meta name="keywords"  content="
+                Olympic Steel steel service center
+                processing metal distribution carbon
+                coated stainless flat-rolled sheet coil
+                plate tubular tube pickled cold Ohio
+                worldwide industry">
+
+        <Meta name="distribution"  content="global">
+        <Meta name="copyright"     content="1996 Olympic Steel, Inc.">
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#008000"VLINK="#000060" ALINK="#FFFF00">
+
+<!-- client side image map -->
+
+<MAP NAME="oly_home">
+<AREA SHAPE="RECT" COORDS="13,318,55,358" HREF="about_us.html" ALT="about us">
+<AREA SHAPE="RECT" COORDS="125,318,168,358" HREF="products_processes.html" ALT="products & processes">
+<AREA SHAPE="RECT" COORDS="251,318,293,358" HREF="people_locations.html" ALT="people & locations">
+<AREA SHAPE="RECT" COORDS="368,318,409,358" HREF="investor_relations.html" ALT="investor relations">
+<AREA SHAPE="RECT" COORDS="40,378,229,422" HREF="whats_new.html" ALT="what's new">
+<AREA SHAPE="RECT" COORDS="238,378,436,422" HREF="MAILTO:info@olysteel.com" ALT="contact us">
+<AREA SHAPE="default" nohref ALT="default area">
+</MAP>
+
+<CENTER>
+<A HREF="oly_home.map">
+<IMG SRC="images/olym_medres.jpg" USEMAP="#oly_home" WIDTH=470 HEIGHT=430 BORDER=0 ISMAP ALT="olympic steel home page image map" ></A>
+</CENTER>
+<p>
+<CENTER>
+<A HREF="about_us.html"><FONT SIZE=2>About Us</FONT></A> |
+<A HREF="products_processes.html"><FONT SIZE=2>Products & Processes</FONT></A> |
+<A HREF="people_locations.html"><FONT SIZE=2>People & Locations</FONT></A> |
+<A HREF="investor_relations.html"><FONT SIZE=2>Investor Relations</FONT></A> |
+<A HREF="whats_new.html"><FONT SIZE=2>What's New</FONT></A> |
+<A HREF="MAILTO:ckish@olysteel.com"><FONT SIZE=2>Contact Us</FONT></A>
+</CENTER>
+<p>
+<CENTER><FONT SIZE=2>Olympic Steel, Inc.<BR>5096 Richmond Road<BR>Bedford Heights, OH 
+44146<BR>216-292-3800<BR>Email: <A HREF="MAILTO:info@olysteel.com">info@olysteel.com</A></FONT></CENTER>
+<p>
+<CENTER>
+<FONT SIZE=2>Copyright &copy; 1997 Olympic Steel, Inc.&nbsp;&nbsp; All rights reserved.</FONT>
+</CENTER>    
+<p>
+<CENTER>
+<FONT SIZE=1>Created by <A HREF="http://ohioonline.net"> OhioOnline, Inc.</FONT></A>
+</CENTER>
+</BODY>
+</HTML>

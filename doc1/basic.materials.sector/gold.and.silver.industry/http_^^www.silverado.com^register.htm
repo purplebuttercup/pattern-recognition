@@ -1,0 +1,819 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 20 Nov 1997 22:00:35 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Wed, 19 Nov 1997 20:19:42 GMT
+Content-Length: 34780
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Silverado Gold Mines Ltd. Registration</title>
+<meta name="FORMATTER" content="Microsoft FrontPage 2.0">
+</head>
+
+<body bgcolor="#FFFFFF">
+
+<p><img src="_private/test/sil60.gif" align="middle" width="60"
+height="100"><font size="5" face="Abadi MT Condensed Extra Bold"><strong>
+Silverado Gold Mines Ltd. Registration</strong></font></p>
+
+<p><font face="Arial">To join the Silverado Press Release Email
+List, or to receive more information about Silverado Gold Mines
+Ltd., please fill out the following form. All who register will
+receive a copy of the latest Silverado Gold Mines Ltd. video.</font></p>
+<!--webbot bot="GeneratedScript" preview=" " startspan --><script
+language="VBScript"><!--
+function FrontPage_Form1_onsubmit()
+  Set theForm = document.FrontPage_Form1
+
+  If (theForm.txtFirstName.value = "") Then
+    MsgBox "Please enter a value for the ""First Name"" field.", 0, "Validation Error"
+    theForm.txtFirstName.focus()
+    FrontPage_Form1_onsubmit = False
+    Exit Function
+  End If
+
+  If (Len(theForm.txtFirstName.value) < 1) Then
+    MsgBox "Please enter at least 1 characters in the ""First Name"" field.", 0, "Validation Error"
+    theForm.txtFirstName.focus()
+    FrontPage_Form1_onsubmit = False
+    Exit Function
+  End If
+
+  If (Len(theForm.txtFirstName.value) > 30) Then
+    MsgBox "Please enter at most 30 characters in the ""First Name"" field.", 0, "Validation Error"
+    theForm.txtFirstName.focus()
+    FrontPage_Form1_onsubmit = False
+    Exit Function
+  End If
+
+  checkOK = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÉäåöúü¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“”‘’÷ÿŸ⁄€‹›ﬁﬂ‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔÒÚÛÙıˆ¯˘˙˚¸˝˛" + " "+ Chr(8) + Chr(10) + Chr(12) + Chr(13)
+  checkStr = theForm.txtFirstName.value
+  allValid = True
+  For i = 1 to len(checkStr)
+    ch = Mid(checkStr, i, 1)
+    If (InStr(checkOK, ch) = 0) Then
+        allValid = False
+        Exit For
+    End If
+  Next
+  If (Not allValid) Then
+    MsgBox "Please enter only letter and whitespace characters in the ""First Name"" field.", 0, "Validation Error"
+    theForm.txtFirstName.focus()
+    FrontPage_Form1_onsubmit = False
+    Exit Function
+  End If
+
+  If (theForm.txtLastName.value = "") Then
+    MsgBox "Please enter a value for the ""Last Name"" field.", 0, "Validation Error"
+    theForm.txtLastName.focus()
+    FrontPage_Form1_onsubmit = False
+    Exit Function
+  End If
+
+  If (Len(theForm.txtLastName.value) < 1) Then
+    MsgBox "Please enter at least 1 characters in the ""Last Name"" field.", 0, "Validation Error"
+    theForm.txtLastName.focus()
+    FrontPage_Form1_onsubmit = False
+    Exit Function
+  End If
+
+  If (Len(theForm.txtLastName.value) > 30) Then
+    MsgBox "Please enter at most 30 characters in the ""Last Name"" field.", 0, "Validation Error"
+    theForm.txtLastName.focus()
+    FrontPage_Form1_onsubmit = False
+    Exit Function
+  End If
+
+  checkOK = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÉäåöúü¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“”‘’÷ÿŸ⁄€‹›ﬁﬂ‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔÒÚÛÙıˆ¯˘˙˚¸˝˛" + " "+ Chr(8) + Chr(10) + Chr(12) + Chr(13)
+  checkStr = theForm.txtLastName.value
+  allValid = True
+  For i = 1 to len(checkStr)
+    ch = Mid(checkStr, i, 1)
+    If (InStr(checkOK, ch) = 0) Then
+        allValid = False
+        Exit For
+    End If
+  Next
+  If (Not allValid) Then
+    MsgBox "Please enter only letter and whitespace characters in the ""Last Name"" field.", 0, "Validation Error"
+    theForm.txtLastName.focus()
+    FrontPage_Form1_onsubmit = False
+    Exit Function
+  End If
+
+  checkOK = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÉäåöúü¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“”‘’÷ÿŸ⁄€‹›ﬁﬂ‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔÒÚÛÙıˆ¯˘˙˚¸˝˛" + " "+ Chr(8) + Chr(10) + Chr(12) + Chr(13)
+  checkStr = theForm.txtOtherSal.value
+  allValid = True
+  For i = 1 to len(checkStr)
+    ch = Mid(checkStr, i, 1)
+    If (InStr(checkOK, ch) = 0) Then
+        allValid = False
+        Exit For
+    End If
+  Next
+  If (Not allValid) Then
+    MsgBox "Please enter only letter and whitespace characters in the ""txtOtherSal"" field.", 0, "Validation Error"
+    theForm.txtOtherSal.focus()
+    FrontPage_Form1_onsubmit = False
+    Exit Function
+  End If
+
+  If (theForm.txtEmail.value = "") Then
+    MsgBox "Please enter a value for the ""txtEmail"" field.", 0, "Validation Error"
+    theForm.txtEmail.focus()
+    FrontPage_Form1_onsubmit = False
+    Exit Function
+  End If
+
+  If (Len(theForm.txtEmail.value) < 1) Then
+    MsgBox "Please enter at least 1 characters in the ""txtEmail"" field.", 0, "Validation Error"
+    theForm.txtEmail.focus()
+    FrontPage_Form1_onsubmit = False
+    Exit Function
+  End If
+
+  If (Len(theForm.txtEmail.value) > 40) Then
+    MsgBox "Please enter at most 40 characters in the ""txtEmail"" field.", 0, "Validation Error"
+    theForm.txtEmail.focus()
+    FrontPage_Form1_onsubmit = False
+    Exit Function
+  End If
+
+  If (theForm.txtAddress.value = "") Then
+    MsgBox "Please enter a value for the ""Address"" field.", 0, "Validation Error"
+    theForm.txtAddress.focus()
+    FrontPage_Form1_onsubmit = False
+    Exit Function
+  End If
+
+  If (Len(theForm.txtAddress.value) < 1) Then
+    MsgBox "Please enter at least 1 characters in the ""Address"" field.", 0, "Validation Error"
+    theForm.txtAddress.focus()
+    FrontPage_Form1_onsubmit = False
+    Exit Function
+  End If
+
+  If (Len(theForm.txtAddress.value) > 40) Then
+    MsgBox "Please enter at most 40 characters in the ""Address"" field.", 0, "Validation Error"
+    theForm.txtAddress.focus()
+    FrontPage_Form1_onsubmit = False
+    Exit Function
+  End If
+
+  If (theForm.txtCity.value = "") Then
+    MsgBox "Please enter a value for the ""txtCity"" field.", 0, "Validation Error"
+    theForm.txtCity.focus()
+    FrontPage_Form1_onsubmit = False
+    Exit Function
+  End If
+
+  If (Len(theForm.txtCity.value) > 28) Then
+    MsgBox "Please enter at most 28 characters in the ""txtCity"" field.", 0, "Validation Error"
+    theForm.txtCity.focus()
+    FrontPage_Form1_onsubmit = False
+    Exit Function
+  End If
+
+  checkOK = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÉäåöúü¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“”‘’÷ÿŸ⁄€‹›ﬁﬂ‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔÒÚÛÙıˆ¯˘˙˚¸˝˛" + " "+ Chr(8) + Chr(10) + Chr(12) + Chr(13)
+  checkStr = theForm.txtCity.value
+  allValid = True
+  For i = 1 to len(checkStr)
+    ch = Mid(checkStr, i, 1)
+    If (InStr(checkOK, ch) = 0) Then
+        allValid = False
+        Exit For
+    End If
+  Next
+  If (Not allValid) Then
+    MsgBox "Please enter only letter and whitespace characters in the ""txtCity"" field.", 0, "Validation Error"
+    theForm.txtCity.focus()
+    FrontPage_Form1_onsubmit = False
+    Exit Function
+  End If
+
+  checkOK = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÉäåöúü¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“”‘’÷ÿŸ⁄€‹›ﬁﬂ‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔÒÚÛÙıˆ¯˘˙˚¸˝˛" + " "+ Chr(8) + Chr(10) + Chr(12) + Chr(13)
+  checkStr = theForm.txtOtherState.value
+  allValid = True
+  For i = 1 to len(checkStr)
+    ch = Mid(checkStr, i, 1)
+    If (InStr(checkOK, ch) = 0) Then
+        allValid = False
+        Exit For
+    End If
+  Next
+  If (Not allValid) Then
+    MsgBox "Please enter only letter and whitespace characters in the ""txtOtherState"" field.", 0, "Validation Error"
+    theForm.txtOtherState.focus()
+    FrontPage_Form1_onsubmit = False
+    Exit Function
+  End If
+
+  If (Len(theForm.txtZip.value) > 10) Then
+    MsgBox "Please enter at most 10 characters in the ""Zip/Postal Code"" field.", 0, "Validation Error"
+    theForm.txtZip.focus()
+    FrontPage_Form1_onsubmit = False
+    Exit Function
+  End If
+
+  checkOK = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÉäåöúü¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“”‘’÷ÿŸ⁄€‹›ﬁﬂ‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔÒÚÛÙıˆ¯˘˙˚¸˝˛0123456789--" + " "+ Chr(8) + Chr(10) + Chr(12) + Chr(13)
+  checkStr = theForm.txtZip.value
+  allValid = True
+  For i = 1 to len(checkStr)
+    ch = Mid(checkStr, i, 1)
+    If (InStr(checkOK, ch) = 0) Then
+        allValid = False
+        Exit For
+    End If
+  Next
+  If (Not allValid) Then
+    MsgBox "Please enter only letter, digit, whitespace and ""-"" characters in the ""Zip/Postal Code"" field.", 0, "Validation Error"
+    theForm.txtZip.focus()
+    FrontPage_Form1_onsubmit = False
+    Exit Function
+  End If
+
+  If (theForm.txtTel.value = "") Then
+    MsgBox "Please enter a value for the ""Tel"" field.", 0, "Validation Error"
+    theForm.txtTel.focus()
+    FrontPage_Form1_onsubmit = False
+    Exit Function
+  End If
+
+  If (Len(theForm.txtTel.value) > 14) Then
+    MsgBox "Please enter at most 14 characters in the ""Tel"" field.", 0, "Validation Error"
+    theForm.txtTel.focus()
+    FrontPage_Form1_onsubmit = False
+    Exit Function
+  End If
+
+  checkOK = "0123456789--" 
+  checkStr = theForm.txtTel.value
+  allValid = True
+  For i = 1 to len(checkStr)
+    ch = Mid(checkStr, i, 1)
+    If (InStr(checkOK, ch) = 0) Then
+        allValid = False
+        Exit For
+    End If
+  Next
+  If (Not allValid) Then
+    MsgBox "Please enter only digit and ""-"" characters in the ""Tel"" field.", 0, "Validation Error"
+    theForm.txtTel.focus()
+    FrontPage_Form1_onsubmit = False
+    Exit Function
+  End If
+
+  If (Len(theForm.txtFax.value) > 14) Then
+    MsgBox "Please enter at most 14 characters in the ""txtFax"" field.", 0, "Validation Error"
+    theForm.txtFax.focus()
+    FrontPage_Form1_onsubmit = False
+    Exit Function
+  End If
+
+  checkOK = "0123456789--" 
+  checkStr = theForm.txtFax.value
+  allValid = True
+  For i = 1 to len(checkStr)
+    ch = Mid(checkStr, i, 1)
+    If (InStr(checkOK, ch) = 0) Then
+        allValid = False
+        Exit For
+    End If
+  Next
+  If (Not allValid) Then
+    MsgBox "Please enter only digit and ""-"" characters in the ""txtFax"" field.", 0, "Validation Error"
+    theForm.txtFax.focus()
+    FrontPage_Form1_onsubmit = False
+    Exit Function
+  End If
+
+  checkOK = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÉäåöúü¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“”‘’÷ÿŸ⁄€‹›ﬁﬂ‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔÒÚÛÙıˆ¯˘˙˚¸˝˛0123456789-" + " "+ Chr(8) + Chr(10) + Chr(12) + Chr(13)
+  checkStr = theForm.txtSource.value
+  allValid = True
+  For i = 1 to len(checkStr)
+    ch = Mid(checkStr, i, 1)
+    If (InStr(checkOK, ch) = 0) Then
+        allValid = False
+        Exit For
+    End If
+  Next
+  If (Not allValid) Then
+    MsgBox "Please enter only letter, digit and whitespace characters in the ""txtSource"" field.", 0, "Validation Error"
+    theForm.txtSource.focus()
+    FrontPage_Form1_onsubmit = False
+    Exit Function
+  End If
+
+  checkOK = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÉäåöúü¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“”‘’÷ÿŸ⁄€‹›ﬁﬂ‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔÒÚÛÙıˆ¯˘˙˚¸˝˛0123456789-" + " "+ Chr(8) + Chr(10) + Chr(12) + Chr(13)
+  checkStr = theForm.memComments.value
+  allValid = True
+  For i = 1 to len(checkStr)
+    ch = Mid(checkStr, i, 1)
+    If (InStr(checkOK, ch) = 0) Then
+        allValid = False
+        Exit For
+    End If
+  Next
+  If (Not allValid) Then
+    MsgBox "Please enter only letter, digit and whitespace characters in the ""memComments"" field.", 0, "Validation Error"
+    theForm.memComments.focus()
+    FrontPage_Form1_onsubmit = False
+    Exit Function
+  End If
+  FrontPage_Form1_onsubmit = True 
+End Function
+--></script><!--webbot bot="GeneratedScript" endspan -->
+<form method="POST" action="_vti_bin/shtml.dll/register.htm"
+name="FrontPage_Form1" webbot-action="--WEBBOT-SELF--">
+    <!--webbot bot="SaveResults" u-file="_private/feedback.txt"
+    s-format="TEXT/TSV" s-label-fields="TRUE"
+    s-builtin-fields="Date Time REMOTE_NAME REMOTE_USER HTTP_USER_AGENT"
+    s-form-fields u-confirmation-url="confirm.htm" startspan --><input
+    type="hidden" name="VTI-GROUP" value="0"><!--webbot
+    bot="SaveResults" endspan i-checksum="47042" --><pre><font
+size="4" face="Arial"><strong>Please provide your name and address details:</strong></font></pre>
+    <div align="left"><table border="0">
+        <tr>
+            <td valign="top"><p align="left"><font face="Arial">First
+            Name</font></p>
+            </td>
+            <td valign="top"><font face="Arial"><!--webbot
+            bot="Validation" s-display-name="First Name"
+            s-data-type="String" b-allow-letters="TRUE"
+            b-allow-whitespace="TRUE" b-value-required="TRUE"
+            i-minimum-length="1" i-maximum-length="30" --><input
+            type="text" size="30" maxlength="30"
+            name="txtFirstName"> (required)</font></td>
+        </tr>
+        <tr>
+            <td valign="top"><p align="left"><font face="Arial">Last
+            Name</font></p>
+            </td>
+            <td valign="top"><font face="Arial"><!--webbot
+            bot="Validation" s-display-name="Last Name"
+            s-data-type="String" b-allow-letters="TRUE"
+            b-allow-whitespace="TRUE" b-value-required="TRUE"
+            i-minimum-length="1" i-maximum-length="30" --><input
+            type="text" size="30" maxlength="30"
+            name="txtLastName"> (required)</font></td>
+        </tr>
+        <tr>
+            <td valign="top"><p align="left"><font face="Arial">Salutation</font></p>
+            </td>
+            <td valign="top"><font face="Arial"><select
+            name="cboSalutation" size="1">
+                <option value="Mr">Mr</option>
+                <option value="Ms">Ms</option>
+                <option value="Other">Other</option>
+            </select>Other</font> <!--webbot bot="Validation"
+            s-data-type="String" b-allow-letters="TRUE"
+            b-allow-whitespace="TRUE" --><input type="text"
+            size="8" name="txtOtherSal"></td>
+        </tr>
+        <tr>
+            <td valign="top"><p align="left"><font face="Arial">E-mail</font></p>
+            </td>
+            <td valign="top"><font face="Arial"><!--webbot
+            bot="Validation" b-value-required="TRUE"
+            i-minimum-length="1" i-maximum-length="40" --><input
+            type="text" size="40" maxlength="40" name="txtEmail">
+            (required)</font></td>
+        </tr>
+        <tr>
+            <td valign="top"><p align="left"><font face="Arial">Company</font></p>
+            </td>
+            <td valign="top"><font face="Arial"><input
+            type="text" size="38" maxlength="38"
+            name="txtCompany"></font></td>
+        </tr>
+        <tr>
+            <td valign="top"><p align="left"><font face="Arial">Address</font></p>
+            </td>
+            <td valign="top"><font face="Arial"><!--webbot
+            bot="Validation" s-display-name="Address"
+            b-value-required="TRUE" i-minimum-length="1"
+            i-maximum-length="40" --><input type="text" size="40"
+            maxlength="40" name="txtAddress"> (required)</font></td>
+        </tr>
+        <tr>
+            <td valign="top"><p align="left"><font face="Arial">City</font></p>
+            </td>
+            <td valign="top"><font face="Arial"><!--webbot
+            bot="Validation" s-data-type="String"
+            b-allow-letters="TRUE" b-allow-whitespace="TRUE"
+            b-value-required="TRUE" i-maximum-length="28" --><input
+            type="text" size="28" maxlength="28" name="txtCity">
+            (required)</font></td>
+        </tr>
+        <tr>
+            <td valign="top"><p align="left"><font face="Arial">State/Province</font></p>
+            </td>
+            <td valign="top"><select name="cboProvState" size="1">
+                <option selected> </option>
+                <option>Alabama </option>
+                <option>Alaska </option>
+                <option>Arizona </option>
+                <option>Arkansas </option>
+                <option>California </option>
+                <option>Colorado </option>
+                <option>Connecticut </option>
+                <option>Delaware </option>
+                <option>District of Columbia </option>
+                <option>Florida </option>
+                <option>Georgia </option>
+                <option>Hawaii </option>
+                <option>Idaho </option>
+                <option>Illinois </option>
+                <option>Indiana </option>
+                <option>Iowa </option>
+                <option>Kansas </option>
+                <option>Kentucky </option>
+                <option>Louisiana </option>
+                <option>Maine </option>
+                <option>Maryland </option>
+                <option>Massachusetts </option>
+                <option>Michigan </option>
+                <option>Minnesota </option>
+                <option>Mississippi </option>
+                <option>Missouri </option>
+                <option>Montana </option>
+                <option>Nebraska </option>
+                <option>Nevada </option>
+                <option>New Hampshire </option>
+                <option>New Jersey </option>
+                <option>New Mexico </option>
+                <option>New York </option>
+                <option>North Carolina </option>
+                <option>North Dakota </option>
+                <option>Ohio </option>
+                <option>Oklahoma </option>
+                <option>Oregon </option>
+                <option>Pennsylvania </option>
+                <option>Rhode Island </option>
+                <option>South Carolina </option>
+                <option>South Dakota </option>
+                <option>Tennessee </option>
+                <option>Texas </option>
+                <option>Utah </option>
+                <option>Vermont </option>
+                <option>Virginia </option>
+                <option>Washington </option>
+                <option>West Virginia </option>
+                <option>Wisconsin </option>
+                <option>Wyoming </option>
+                <option>---------------- </option>
+                <option>British Columbia </option>
+                <option>Alberta </option>
+                <option>Saskatchewan </option>
+                <option>Manitoba </option>
+                <option>Ontario </option>
+                <option>Quebec </option>
+                <option>Nova Scotia </option>
+                <option>New Brunswick </option>
+                <option>Newfoundland </option>
+                <option>Prince Edward Island </option>
+                <option>Yukon </option>
+                <option>Northwest Territories </option>
+            </select><font face="Arial"> (required for USA &amp;
+            Canada) Other</font> <!--webbot bot="Validation"
+            s-data-type="String" b-allow-letters="TRUE"
+            b-allow-whitespace="TRUE" --><input type="text"
+            size="8" name="txtOtherState"></td>
+        </tr>
+        <tr>
+            <td valign="top"><p align="left"><font face="Arial">Zip/Postal
+            Code</font></p>
+            </td>
+            <td valign="top"><!--webbot bot="Validation"
+            s-display-name="Zip/Postal Code" s-data-type="String"
+            b-allow-letters="TRUE" b-allow-digits="TRUE"
+            b-allow-whitespace="TRUE" s-allow-other-chars="-"
+            i-maximum-length="10" --><input type="text" size="14"
+            maxlength="10" name="txtZip"></td>
+        </tr>
+        <tr>
+            <td valign="top"><p align="left"><font face="Arial">Country</font></p>
+            </td>
+            <td valign="top"><select name="cboCountry" size="1">
+                <option>Afghanistan </option>
+                <option>Albania </option>
+                <option>Algeria </option>
+                <option>American Samoa </option>
+                <option>Andorra </option>
+                <option>Angola </option>
+                <option>Anguilla </option>
+                <option>Antarctica </option>
+                <option>Antigua and Barbuda </option>
+                <option>Argentina </option>
+                <option>Armenia </option>
+                <option>Aruba </option>
+                <option>Australia </option>
+                <option>Austria </option>
+                <option>Azerbaijan </option>
+                <option>Bahamas </option>
+                <option>Bahrain </option>
+                <option>Bangladesh </option>
+                <option>Barbados </option>
+                <option>Belarus </option>
+                <option>Belgium </option>
+                <option>Belize </option>
+                <option>Benin </option>
+                <option>Bermuda </option>
+                <option>Bhutan </option>
+                <option>Bolivia </option>
+                <option>Bosnia and Herzegovina </option>
+                <option>Botswana </option>
+                <option>Bouvet Island </option>
+                <option>Brazil </option>
+                <option>Brunei Darussalam </option>
+                <option>Bulgaria </option>
+                <option>Burkina Faso </option>
+                <option>Burundi </option>
+                <option>Cambodia </option>
+                <option>Cameroon </option>
+                <option>Canada </option>
+                <option>Cape Verde </option>
+                <option>Cayman Islands </option>
+                <option>Central African Republic </option>
+                <option>Chad </option>
+                <option>Chile </option>
+                <option>China </option>
+                <option>Christmas Island </option>
+                <option>Cocos (Keeling) Islands </option>
+                <option>Colombia </option>
+                <option>Comoros </option>
+                <option>Congo </option>
+                <option>Cook Islands </option>
+                <option>Costa Rica </option>
+                <option>Cote D'Ivoire (Ivory Coast) </option>
+                <option>Croatia (Hrvatska) </option>
+                <option>Cyprus </option>
+                <option>Czech Republic </option>
+                <option>Denmark </option>
+                <option>Djibouti </option>
+                <option>Dominica </option>
+                <option>Dominican Republic </option>
+                <option>East Timor </option>
+                <option>Ecuador </option>
+                <option>Egypt </option>
+                <option>El Salvador </option>
+                <option>Equatorial Guinea </option>
+                <option>Eritrea </option>
+                <option>Estonia </option>
+                <option>Ethiopia </option>
+                <option>Falkland Islands (Malvinas) </option>
+                <option>Faroe Islands </option>
+                <option>Fiji </option>
+                <option>Finland </option>
+                <option>France </option>
+                <option>French Guiana </option>
+                <option>French Polynesia </option>
+                <option>Gabon </option>
+                <option>Gambia </option>
+                <option>Georgia </option>
+                <option>Germany </option>
+                <option>Ghana </option>
+                <option>Gibraltar </option>
+                <option>Great Britain (UK) </option>
+                <option>Greece </option>
+                <option>Greenland </option>
+                <option>Grenada </option>
+                <option>Guadeloupe </option>
+                <option>Guam </option>
+                <option>Guatemala </option>
+                <option>Guinea </option>
+                <option>Guinea-Bissau </option>
+                <option>Guyana </option>
+                <option>Haiti </option>
+                <option>Heard and McDonald Islands </option>
+                <option>Honduras </option>
+                <option>Hong Kong </option>
+                <option>Hungary </option>
+                <option>Iceland </option>
+                <option>India </option>
+                <option>Indonesia </option>
+                <option>Ireland </option>
+                <option>Israel </option>
+                <option>Italy </option>
+                <option>Jamaica </option>
+                <option>Japan </option>
+                <option>Jordan </option>
+                <option>Kazakhstan </option>
+                <option>Kenya </option>
+                <option>Kiribati </option>
+                <option>Korea (South) </option>
+                <option>Kuwait </option>
+                <option>Kyrgyzstan </option>
+                <option>Laos </option>
+                <option>Latvia </option>
+                <option>Lebanon </option>
+                <option>Lesotho </option>
+                <option>Liberia </option>
+                <option>Liechtenstein </option>
+                <option>Lithuania </option>
+                <option>Luxembourg </option>
+                <option>Macau </option>
+                <option>Macedonia </option>
+                <option>Madagascar </option>
+                <option>Malawi </option>
+                <option>Malaysia </option>
+                <option>Maldives </option>
+                <option>Mali </option>
+                <option>Malta </option>
+                <option>Marshall Islands </option>
+                <option>Martinique </option>
+                <option>Mauritania </option>
+                <option>Mauritius </option>
+                <option>Mayotte </option>
+                <option>Mexico </option>
+                <option>Micronesia </option>
+                <option>Moldova </option>
+                <option>Monaco </option>
+                <option>Mongolia </option>
+                <option>Montserrat </option>
+                <option>Morocco </option>
+                <option>Mozambique </option>
+                <option>Myanmar </option>
+                <option>Namibia </option>
+                <option>Nauru </option>
+                <option>Nepal </option>
+                <option>Netherlands </option>
+                <option>Netherlands Antilles </option>
+                <option>New Caledonia </option>
+                <option>New Zealand </option>
+                <option>Nicaragua </option>
+                <option>Niger </option>
+                <option>Nigeria </option>
+                <option>Niue </option>
+                <option>Norfolk Island </option>
+                <option>Northern Mariana Islands </option>
+                <option>Norway </option>
+                <option>Oman </option>
+                <option>Pakistan </option>
+                <option>Palau </option>
+                <option>Panama </option>
+                <option>Papua New Guinea </option>
+                <option>Paraguay </option>
+                <option>Peru </option>
+                <option>Philippines </option>
+                <option>Pitcairn </option>
+                <option>Poland </option>
+                <option>Portugal </option>
+                <option>Puerto Rico </option>
+                <option>Qatar </option>
+                <option>Reunion </option>
+                <option>Romania </option>
+                <option>Russia </option>
+                <option>Rwanda </option>
+                <option>S. Georgia and S. Sandwich Isls. </option>
+                <option>Saint Kitts and Nevis </option>
+                <option>Saint Lucia </option>
+                <option>Saint Vincent and the Grenadines </option>
+                <option>Samoa </option>
+                <option>San Marino </option>
+                <option>Sao Tome and Principe </option>
+                <option>Saudi Arabia </option>
+                <option>Senegal </option>
+                <option>Seychelles </option>
+                <option>Sierra Leone </option>
+                <option>Singapore </option>
+                <option>Slovak Republic </option>
+                <option>Slovenia </option>
+                <option>Solomon Islands </option>
+                <option>Somalia </option>
+                <option>South Africa </option>
+                <option>Spain </option>
+                <option>Sri Lanka </option>
+                <option>St. Helena </option>
+                <option>St. Pierre and Miquelon </option>
+                <option>Sudan </option>
+                <option>Suriname </option>
+                <option>Svalbard and Jan Mayen Islands </option>
+                <option>Swaziland </option>
+                <option>Sweden </option>
+                <option>Switzerland </option>
+                <option>Taiwan </option>
+                <option>Tajikistan </option>
+                <option>Tanzania </option>
+                <option>Thailand </option>
+                <option>Togo </option>
+                <option>Tokelau </option>
+                <option>Tonga </option>
+                <option>Trinidad and Tobago </option>
+                <option>Tunisia </option>
+                <option>Turkey </option>
+                <option>Turkmenistan </option>
+                <option>Turks and Caicos Islands </option>
+                <option>Tuvalu </option>
+                <option>Uganda </option>
+                <option>Ukraine </option>
+                <option>United Arab Emirates </option>
+                <option>United Kingdom </option>
+                <option selected>United States </option>
+                <option>Uruguay </option>
+                <option>Uzbekistan </option>
+                <option>Vanuatu </option>
+                <option>Vatican City State </option>
+                <option>Venezuela </option>
+                <option>Vietnam </option>
+                <option>Virgin Islands (British) </option>
+                <option>Virgin Islands (U.S.) </option>
+                <option>Wallis and Futuna Islands </option>
+                <option>Yemen </option>
+                <option>Zaire </option>
+                <option>Zambia </option>
+                <option>Zimbabwe </option>
+            </select><font face="Arial"> (required)</font></td>
+        </tr>
+        <tr>
+            <td valign="top"><p align="left"><font face="Arial">Tel</font></p>
+            </td>
+            <td valign="top"><font face="Arial"><!--webbot
+            bot="Validation" s-display-name="Tel"
+            s-data-type="String" b-allow-digits="TRUE"
+            s-allow-other-chars="-" b-value-required="TRUE"
+            i-maximum-length="14" --><input type="text" size="14"
+            maxlength="14" name="txtTel"> (required)</font></td>
+        </tr>
+        <tr>
+            <td valign="top"><p align="left"><font face="Arial">Fax</font></p>
+            </td>
+            <td valign="top"><font face="Arial"><!--webbot
+            bot="Validation" s-data-type="String"
+            b-allow-digits="TRUE" s-allow-other-chars="-"
+            i-maximum-length="14" --><input type="text" size="14"
+            maxlength="14" name="txtFax"></font></td>
+        </tr>
+    </table>
+    </div><ol>
+        <li><pre>Please select the type of package you wish to receive<font face="Courier New">
+</font><input type="radio" name="grpPackage" value="full"> Full package including annual report 
+<input type="radio" name="grpPackage" value="annual"> Annual report only 
+<input type="radio" name="grpPackage" value="updates"> Most recent updates on the company</pre>
+        </li>
+        <li><pre>I am
+<input type="radio" name="grpCat" value="invest"> Interested in investing
+<input type="radio" name="grpCat" value="broker"> A broker
+<input type="radio" name="grpCat" value="shareholder"> A shareholder
+<input type="radio" name="grpCat" value="analyst"> An Analyst</pre>
+        </li>
+        <li><pre>If you are interested in investing, please tell us how you heard of Silverado
+	<!--webbot bot="Validation" s-data-type="String"
+b-allow-letters="TRUE" b-allow-digits="TRUE"
+b-allow-whitespace="TRUE" --><input type="text" size="30"
+name="txtSource"></pre>
+        </li>
+        <li><pre>How would you prefer to receive ongoing information about Silverado? 
+<input type="radio" name="grpList" value="email">E-mail
+<input type="radio" name="grpList" value="mail">Regular mail
+<input type="radio" name="grpList" value="fax">Fax</pre>
+        </li>
+        <li><pre>Format for video tape (unfortunately, SECAM format is not currently available):
+<input type="radio" checked name="grpVideoFormat" value="NTSC">NTSC (North America, Australia, Japan &amp; other countries)
+<input type="radio" name="grpVideoFormat" value="PAL">PAL (Europe except France, &amp; other countries)</pre>
+        </li>
+        <li><pre>Enter any additional comments in the space provided below:<font face="Arial">		</font></pre>
+        </li>
+    </ol>
+    <pre>	<font face="Arial"><!--webbot bot="Validation"
+s-data-type="String" b-allow-letters="TRUE" b-allow-digits="TRUE"
+b-allow-whitespace="TRUE" --><textarea name="memComments"
+rows="5" cols="42"></textarea></font></pre>
+    <pre><input type="submit" name="cmdSubmit" value="Submit"><input
+type="reset" name="cmdClear" value="Clear Form"></pre>
+    <pre><font face="Arial">If you experience any problems with this page, please send email to </font><a
+href="mailto:prlist@silverado.com"><font face="Arial">prlist@silverado.com</font></a></pre>
+</form>
+<!--webbot bot="Include" u-include="footer.htm" tag="BODY"
+startspan -->
+
+<p><a href="index.htm"><font size="2" face="Arial">home</font></a><font
+size="2" face="Arial"> | </font><a href="features/features.htm"><font
+size="2" face="Arial">features</font></a><font size="2"
+face="Arial"> | </font><a href="features/quote.htm"><font
+size="2" face="Arial">quote</font></a><font size="2" face="Arial">
+| </font><a href="search.htm"><font size="2" face="Arial">search</font></a><font
+size="2" face="Arial"> | </font><a href="ar1996/ar1996.htm"><font
+size="2" face="Arial">annual report</font></a><font size="2"
+face="Arial"> | </font><a href="pressrel/pressrel.htm"><font
+size="2" face="Arial">archive</font></a><font size="2"
+face="Arial"> | </font><a href="register.htm"><font size="2"
+face="Arial">register/email list</font></a><font size="2"
+face="Arial"> | </font><a href="contact.htm"><font size="2"
+face="Arial">contact</font></a></p>
+
+<p><font size="2" face="Arial">If you have any questions or
+comments send e-mail to </font><a href="mailto:pr@silverado.com"><font
+size="2" face="Arial">Silverado Gold Mines Ltd. Public Relations:
+pr@silverado.com</font></a><font size="2" face="Arial"> <br>
+</font></p>
+<!--webbot bot="Include" endspan i-checksum="43501" -->
+</body>
+</html>

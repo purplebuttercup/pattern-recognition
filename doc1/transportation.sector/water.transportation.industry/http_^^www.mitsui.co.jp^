@@ -1,0 +1,37 @@
+Server: Netscape-Commerce/1.12
+Date: Thursday, 20-Nov-97 16:49:36 GMT
+Last-modified: Monday, 27-Oct-97 08:51:37 GMT
+Content-length: 653
+Content-type: text/html
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html;charset=iso-2022-jp">
+<TITLE>MITSUI &amp; CO.,LTD. Home Page</TITLE>
+</HEAD>
+
+
+<FRAMESET COLS="145,*">
+<FRAME SRC="tkabz/contents.htm" NAME="contents" SCROLLING="auto">
+<FRAME SRC="tkabz/index0.htm" NAME="draw" SCROLLING="auto">
+
+
+<NOFRAMES>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<BR><BR><BR><BR><BR><BR>
+
+<CENTER>
+<A HREF="http://home.netscape.com/comprod/mirror/index.html" target="_top"><IMG SRC="gif/net2.gif"></A>　　　　
+<BR><BR>
+
+<FONT SIZE="2">
+Netscape Navigator 2.0 以上でご覧ください。<BR>
+</FONT>
+
+</CENTER>
+</BODY>
+</NOFRAMES>
+
+
+
+</FRAMESET>

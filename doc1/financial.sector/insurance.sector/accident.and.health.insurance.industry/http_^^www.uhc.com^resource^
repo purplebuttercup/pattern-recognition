@@ -1,0 +1,100 @@
+Server: Netscape-Commerce/1.12
+Date: Thursday, 18-Dec-97 08:40:47 GMT
+Content-type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Resource Center</title>
+</head>
+
+<body bgcolor="#FFFFFF">
+<div align="center"><center>
+
+<table border="0" cellpadding="2" width="311">
+    <tr>
+        <td valign="top" width="172"><img
+        src="../gifs/resource.gif" alt="Resource Center"
+        width="172" height="238"></td>
+        <td valign="top" width="139"><img
+        src="../gifs/placeholder.gif" width="136" height="40"><div
+        align="center"><center><table border="0" cellpadding="0"
+        cellspacing="4" width="135">
+            <tr>
+                <td width="135"><a href="../index.html"><img
+                src="../gifs/sm_home.gif"
+                alt="United HealthCare Home Page" border="0"
+                width="135" height="24"></a></td>
+            </tr>
+            <tr>
+                <td width="135"><a href="../about/about.html"><img
+                src="../gifs/sm_about.gif"
+                alt="About United HealthCare" border="0"
+                width="135" height="24"></a></td>
+            </tr>
+            <tr>
+                <td width="135"><a href="/living/index.html"><img
+                src="../gifs/sm_living.gif" alt="Living Smarter"
+                border="0" width="135" height="24"></a></td>
+            </tr>
+            <tr>
+                <td width="135"><a href="../jobs/career.html"><img
+                src="../gifs/sm_career.gif"
+                alt="Career Opportunities" border="0" width="135"
+                height="24"></a></td>
+            </tr>
+            <tr>
+                <td width="135"><a href="../medical/medical.html"><img
+                src="../gifs/sm_making.gif"
+                alt="Making A Difference" border="0" width="135"
+                height="24"></a></td>
+            </tr>
+            <tr>
+                <td width="135"><a href="../invest/investor.html"><img
+                src="../gifs/sm_investor.gif"
+                alt="Investor Information" border="0" width="135"
+                height="24"></a></td>
+            </tr>
+        </table>
+        </center></div></td>
+    </tr>
+</table>
+</center></div>
+
+<blockquote>
+    <p><a href="glossac.html">Managed Care Acronyms</a> </p>
+    <p><a href="tough.html">Tough Questions and Straight Answers
+    About Managed Health Care</a> </p>
+    <p><a href="guide">A Guide to Research on the Effectiveness of 
+    Managed Health Care Plans</a></p>
+    <p><a href="../living/tables.html">Preventive Care Guidelines</a>
+    <a name="tech"></a> </p>
+</blockquote>
+
+<CENTER>
+<H4>
+<HR>
+| <A HREF="/">Home</A>
+| <A HREF="/about/">About United HealthCare</A> 
+| <A HREF="http://www.uhc.com/living">Living Smarter</A>
+| <A HREF="/resource/">Resource Center</A> |<BR>
+| <A HREF="/medical/">Making a Difference</A>
+| <A HREF="/invest/">Investor Information</A>
+| <A HREF="/jobs/">Career Opportunities</A> |
+</H4>
+</CENTER>
+
+<CENTER>
+<H5>
+<P>Copyright &#169; 1997 United HealthCare Corporation<BR>
+<A HREF = "/mail.html">Comments or Questions</A>
+</H5>
+</CENTER>
+
+
+</body>
+</html>

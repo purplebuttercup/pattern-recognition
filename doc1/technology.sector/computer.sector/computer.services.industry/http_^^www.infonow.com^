@@ -1,0 +1,164 @@
+Server: Netscape-Enterprise/3.0
+Date: Mon, 29 Dec 1997 21:12:59 GMT
+Content-type: text/html
+Last-modified: Tue, 09 Dec 1997 21:55:21 GMT
+Content-length: 4831
+Accept-ranges: bytes
+Connection: close
+
+<HTML> 
+<HEAD>
+
+<script>
+<!--
+var ver = "";
+var browserName = navigator.appName;
+var browserVer = parseInt(navigator.appVersion);
+
+if (browserName == "Netscape" && browserVer >= 3) { 
+  ver = "n3"; 
+}
+else if (browserName == "Microsoft Internet Explorer" && browserVer >= 4) {
+  ver = "e4"; 
+}
+if (ver == "n3" || ver == "e4") {
+  pinOn = new Image(13,10);
+  pinOn.src = "images/pins.gif";
+  pinOff = new Image(13,10);
+  pinOff.src = "images/pin.gif";
+}
+
+function switchImg(whichImg,doWhat) {
+  if (ver == "n3" || ver == "e4") {
+    var newImg = eval("pin" + doWhat + ".src");
+    eval("document.show" + whichImg + ".src = newImg");
+  }
+}
+
+//-->
+</script>
+
+<TITLE>InfoNow Corporation</TITLE>
+<!-- Changed by: InfoNow,  9-Dec-1997 -->
+</HEAD> 
+
+<BODY LINK="#4151B9" VLINK="#BA3400" bgcolor = "#ffffff">
+<table width=570 border=0><tr><td width=150 valign=top>
+<table><tr><td width=150 align=center colspan=2>
+<A HREF="m1f2.html"><IMG SRC="images/anim.gif"HEIGHT=65 WIDTH=92 BORDER=0></A>
+</td></tr>
+<tr><td colspan=2 height=25 valign=bottom>
+<FONT SIZE=3 face="arial"><p><STRONG>Philosophy</STRONG><BR></font>
+</td></tr>
+
+<TR VALIGN=TOP><TD width=10>
+<IMG NAME="show1"  SRC="images/pin.gif" HEIGHT=13 WIDTH=10>
+</TD><TD>
+<FONT size=2 face="arial">
+<A HREF="vision.html" onMouseover = "switchImg(1,'On');" onMouseout = "switchImg(1,'Off');">Our Vision</A></font>
+</TD></TR>
+
+<tr><td colspan=2 height=25 valign=bottom>
+<FONT face="arial"><p><STRONG>Business</STRONG><BR></font>
+</td></tr>
+
+<TR VALIGN=TOP><TD width=10>
+<IMG NAME="show2"  SRC="images/pin.gif" HEIGHT=13 WIDTH=10>
+</TD><TD>
+<FONT size=2 face="arial">
+<A HREF="overview.html" onMouseover = "switchImg(2,'On');" onMouseout = "switchImg(2,'Off');">Overview</A>
+</font></TD></TR>
+
+<TR VALIGN=TOP><TD width=10>
+<IMG NAME="show3"  SRC="images/pin.gif" HEIGHT=13 WIDTH=10>
+</TD><TD>
+<FONT size=2 face="arial">
+<A HREF="findnow/testdriv.html" onMouseover = "switchImg(3,'On');" onMouseout = "switchImg(3,'Off');">Customers</A>
+</font></TD></TR>
+
+<TR VALIGN=TOP><TD width=10>
+<IMG NAME="show4"  SRC="images/pin.gif" HEIGHT=13 WIDTH=10>
+</TD><TD>
+<FONT size=2 face="arial">
+<A HREF="mgmtteam.html" onMouseover = "switchImg(4,'On');" onMouseout = "switchImg(4,'Off');">Management</A></font>
+</TD></TR>
+
+<TR VALIGN=TOP><TD width=10>
+<IMG NAME="show5"  SRC="images/pin.gif" HEIGHT=13 WIDTH=10>
+</TD><TD>
+<FONT size=2 face="arial">
+<A HREF="press/pressm1.html" onMouseover = "switchImg(5,'On');" onMouseout = "switchImg(5,'Off');">Press Releases</A>
+</font></TD></TR>
+
+<tr><td colspan=2 height=25 valign=bottom>
+<FONT face="arial">
+<STRONG>FindNow<FONT SIZE=3><SUP>&#174;</SUP></FONT></STRONG><BR>
+</font>
+</td></tr>
+
+<TR VALIGN=TOP><TD width=10>
+<IMG NAME="show6"  SRC="images/pin.gif" HEIGHT=13 WIDTH=10>
+</TD><TD>
+<FONT size=2 face="arial">
+<A HREF="findnow/services.html" onMouseover = "switchImg(6,'On');" onMouseout = "switchImg(6,'Off');">Services Overview</A>
+</font></TD></TR>
+
+<TR VALIGN=TOP><TD width=10>
+<IMG NAME="show7"  SRC="images/pin.gif" HEIGHT=13 WIDTH=10>
+</TD><TD>
+<FONT size=2 face="arial">
+<A HREF="findnow/profile.html" onMouseover = "switchImg(7,'On');" onMouseout = "switchImg(7,'Off');">Services Profile</A>
+</font></TD></TR>
+
+<TR VALIGN=TOP><TD width=10>
+<IMG NAME="show8"  SRC="images/pin.gif" HEIGHT=13 WIDTH=10>
+</TD><TD>
+<FONT size=2 face="arial">
+<A HREF="findnow/testdriv.html" onMouseover = "switchImg(8,'On');" onMouseout = "switchImg(8,'Off');">Test Drive</A>
+</font></TD></TR>
+
+<TR VALIGN=TOP><TD width=10>
+<IMG NAME="show9"  SRC="images/pin.gif" HEIGHT=13 WIDTH=10>
+</TD><TD>
+<FONT size=2 face="arial">
+<A HREF="findnow/inquiries.html" onMouseover = "switchImg(9,'On');" onMouseout = "switchImg(9,'Off');">Service Inquiries</A>
+</font>
+</TD></TR>
+</TABLE>
+
+</td><td width=420 valign=top>
+<!----place page contents here---->
+
+<table width=420 border=0><tr><td valign=top colspan=2>
+<CENTER>
+<IMG SRC="images/logo.gif"><p>
+</CENTER>
+<FONT face="arial" size=+1>
+Are your customers and prospects looking for the closest locations to find your products or services?<p>
+<A HREF="findnow/services.html">FindNow</A><FONT SIZE=3><SUP>&#174;</SUP></FONT> is your complete solution!
+</FONT>
+</td></tr><tr><td height=65 colspan=2>   </td></tr>
+<tr><td width=95 align=left>
+<IMG SRC="images/infonow.gif">
+</td><td>
+<FONT SIZE=2 face="arial">
+&copy; 1997 InfoNow Corporation<BR>
+1875 Lawrence Street, Suite 1100<BR>
+Denver, Colorado 80202<BR>
+303.293.0212<BR>
+FAX 303.293.0213<BR>
+<a href=mailto:info@infonow.com>Questions? Please E-Mail us at: info@infonow.com</FONT></a>
+</td></tr></table>
+
+<!----end of page contents section--->
+
+</TD></TR>
+</TABLE>
+
+<CENTER>
+<FONT FACE="arial" SIZE=-1>InfoNow<FONT><SUP>&#174;</SUP></FONT> and FindNow<FONT><SUP>&#174;</SUP></FONT
+> are registered trademarks of InfoNow Corporation</FONT><BR>
+</CENTER>
+
+</BODY> 
+</HTML> 

@@ -1,0 +1,221 @@
+Server: Netscape-Enterprise/3.0
+Date: Fri, 21 Nov 1997 02:38:13 GMT
+Content-type: text/html
+Connection: close
+
+<HTML>
+<HEAD>
+
+<META NAME="Author.Corporate"		CONTENT="Apple Computer, Inc.">
+<LINK REL="Author.Corporate"		HREF="http://www.apple.com/">
+<META NAME="Publisher"				CONTENT="Apple Computer, Inc.">
+<LINK REL="Publisher"				HREF="http://www.apple.com/education/contact.html">
+<META NAME="Keywords"				CONTENT="Apple Computer, education, K-12, higher education, college, research, curriculum">
+<META NAME="Description"			CONTENT="Apple Education (http://www.apple.com/education/) supplies educators with product and curriculum solutions, ongoing research and training tools for America's K-12 and higher education community.">
+<META NAME="Date.Modified"			CONTENT="19971105">
+<META HTTP-EQUIV="Expires"			CONTENT="Mon, 10 Nov 1997 23:59:59+0100">
+
+<LINK REL="home"		HREF="http://www.apple.com/">
+<LINK REL="index"		HREF="http://www.apple.com/find/siteindex.html">
+<LINK REL="find"		HREF="http://www.apple.com/find/">
+<LINK REL="meta"		HREF="http://www.apple.com/standards/meta.html">
+
+
+	<TITLE>Apple - Education</TITLE>
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" LEFTMARGIN="8" TOPMARGIN="8">
+
+<TABLE WIDTH="600" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+
+<!-- * ROW 1 * -->
+	<TR>
+
+	<!-- COLUMNS 1 - 2:  TOP BANNER -->
+		<TD WIDTH="600" COLSPAN="2"><IMG SRC="/main/elements/topbar.gif" WIDTH="600" HEIGHT="25" ALT="Think different."></TD>
+	</TR>
+
+<!-- * ROW 2 * -->
+	<TR VALIGN="top">
+
+	<!-- COLUMN 1:  LEVEL 2 AREA BANNER, AND PULL DOWN MENUS -->
+		<TD WIDTH="245">
+
+	<!-- LEVEL 2 AREA BANNER -->
+		<IMG SRC="/main/elements/education.gif" WIDTH="245" HEIGHT="54" ALT="Education"><BR>
+
+	<!-- BEGIN FORM FOR PULL DOWN MENUS -->
+		<FORM METHOD="POST" ACTION="/cgi-bin/menu">
+
+	<!-- PULL DOWN MENU 1 -->
+		<IMG SRC="/main/elements/k12.gif" WIDTH="245" HEIGHT="18" ALT="K-12 Education"><BR>
+			<SELECT NAME="k12" onChange="location.href=this.form.k12.options[this.form.k12.selectedIndex].value">
+			<OPTION SELECTED VALUE="/education/">Choose your destination
+			<OPTION VALUE="http://ed.info.apple.com/education/news.html">News &amp; Events
+			<OPTION VALUE="http://ed.info.apple.com/education/products/">Product Information
+			<OPTION VALUE="http://ed.info.apple.com/education/pricelist/">Price List
+			<OPTION VALUE="http://ed.info.apple.com/education/homepurch/">Home Purchase
+			<OPTION VALUE="http://ed.info.apple.com/education/techlearn/">Technology in Learning
+			<OPTION VALUE="http://ed.info.apple.com/education/staffdev/">Staff Development
+			<OPTION VALUE="http://ed.info.apple.com/education/support/">Support
+			<OPTION VALUE="http://mania.apple.com/">Convomania
+			<OPTION VALUE="http://www.apple.com/disability/">Disability Resources
+			</SELECT>
+			<NOSCRIPT><IMG SRC="/main/elements/spacer.gif" WIDTH="7" HEIGHT="1" ALT=""><INPUT TYPE="image" NAME="btn_k12" VALUE="Go" SRC="/main/elements/go.gif" WIDTH="25" HEIGHT="20" BORDER="0" ALT="Go"></NOSCRIPT>
+		<BR><BR><BR>
+
+	<!-- PULL DOWN MENU 2 -->
+		<IMG SRC="/main/elements/hied.gif" WIDTH="245" HEIGHT="18" ALT="Higher Education"><BR>
+			<SELECT NAME="hied" onChange="location.href=this.form.hied.options[this.form.hied.selectedIndex].value">
+			<OPTION SELECTED VALUE="/education/">Choose your destination
+			<OPTION VALUE="http://hed.info.apple.com/Pages/newevent.html">News &amp; Events
+			<OPTION VALUE="http://hed.info.apple.com/Pages/prod.html">Product Information
+			<OPTION VALUE="http://hed.info.apple.com/">Learning Community
+			<OPTION VALUE="http://hed.info.apple.com/Pages/lcc3.html">Community Connection
+			<OPTION VALUE="http://hed.info.apple.com/Pages/affil.html">Affiliations
+			<OPTION VALUE="http://hed.info.apple.com/Pages/sprog.html">Special Programs
+			<OPTION VALUE="http://hed.info.apple.com/Pages/eproj.html">Educational Projects
+			<OPTION VALUE="http://hed.info.apple.com/Pages/promo.html">Promotions
+			<OPTION VALUE="http://hed.info.apple.com/Pages/support.html">Support
+			<OPTION VALUE="http://hed.info.apple.com/Pages/support.html">Pricing
+			<OPTION VALUE="http://campus.apple.com/">Individual Purchase
+			<OPTION VALUE="http://www.apple.com/disability/">Disability Resources
+			</SELECT>
+			<NOSCRIPT><IMG SRC="/main/elements/spacer.gif" WIDTH="7" HEIGHT="1" ALT=""><INPUT TYPE="image" NAME="btn_hied" VALUE="Go" SRC="/main/elements/go.gif" WIDTH="25" HEIGHT="20" BORDER="0" ALT="Go"></NOSCRIPT>
+
+	<!-- END FORM FOR PULL DOWN MENUS -->
+		</FORM>
+		</TD>
+
+	<!-- COLUMN 2: PRIMARY PROMOS -->
+		<TD WIDTH="355">
+		<IMG SRC="/main/elements/spacer.gif" WIDTH="1" HEIGHT="45" ALT=""><BR>
+
+	<!-- PRIMARY PROMO AREA -->
+		<A HREF="/education/maps/promo.map">
+		<IMG SRC="/education/images/educationimage.gif" WIDTH="355" HEIGHT="245" BORDER="0" ALT="" ISMAP USEMAP="#promos"></A></TD>
+			<MAP NAME="promos">
+			<AREA SHAPE="rect" COORDS="164,0,352,155"	HREF="http://education.apple.com/education/power10/index.html">
+			<AREA SHAPE="rect" COORDS="164,155,259,239"	HREF="http://hed.info.apple.com/Pages/promo.html">
+			<AREA SHAPE="rect" COORDS="259,155,352,239"	HREF="http://education.apple.com/education/products/">
+			</MAP>
+	</TR>
+</TABLE>
+
+<TABLE WIDTH="600" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+
+<!-- * ROW 1 * -->
+	<TR VALIGN="top">
+
+	<!-- COLUMN 1:  LEFT TEXT PROMOS -->
+		<TD WIDTH="290">
+
+		<BR>
+
+		<STRONG>Power of 10 Supports Schools.</STRONG> The Apple <A HREF="http://www.education.apple.com/education/power10/index.html">Power of 10</A> program encourages communities to "earn together and learn together" by crediting 10% of the price of each computer to a non-profit K-12 school in the U.S.<BR>
+
+		<BR>
+
+		<STRONG>Add-on Take-off Rebates.</STRONG> Higher Ed customers can get mail-in <a href="http://hed.info.apple.com/Pages/promo.html">rebates</a> when they buy Power Mac (including 6500 series) and PowerBook systems, LaserWriter printers, QuickTake cameras, scanners or displays.<BR>
+
+		<BR>
+
+		<STRONG>Mac 5400 + Bonus Software.</STRONG> The Power Macintosh 5400/180 offers a <A HREF="http://ed.info.apple.com/education/events/aene/pm5400promo.html">special bonus</A> for education. K-12 educational institutions will receive a free bonus software kit.<BR>
+
+		
+		<BR>
+
+<!-- note: CyberSurfari expires Nov. 21 -->
+		<strong>Exploring Cyberspace.</strong> A treasure hunt designed to help individuals, families and school teams learn about and enjoy the World Wide Web, <a href="http://www.spa.org/cybersurfari/">CyberSurfari '97</a> challenges you to find treasures located at each of 110 cyberspace outposts.<BR>
+
+		
+		<BR>
+		
+		
+		<STRONG>Take Good Care of Yourself.</STRONG> Ban the burgers, can the chips, eat less meat, take more walks. The K-12 curriculum Theme of the Month gathers Internet resources about <A HREF="http://ed.info.apple.com/education/techlearn/ccenter/nhpe/nhpemenu.html">Nutrition, Health and Physical Education.</A><BR>
+
+
+
+		</TD>
+
+	<!-- COLUMN 2: CENTER GUTTER -->
+		<TD WIDTH="20">
+		<IMG SRC="/main/elements/spacer.gif" WIDTH="7" HEIGHT="1" ALT=""></TD>
+
+	<!-- COLUMN 3: RIGHT TEXT PROMOS -->
+		<TD WIDTH="290">
+
+		<BR>
+		
+<STRONG>Computers in School.</STRONG> An <A HREF="http://ed.info.apple.com/education/lswtf/idc/index.html">IDC study</A> of the costs and values of K-12 educational computing in America reveals that schools whose computing platform is mostly Mac use more applications and report the most positive results among students and teachers.<BR>
+
+		<BR>
+			
+		<STRONG>Meeting Place.</STRONG> The <A HREF="http://hed.info.apple.com/"> Learning Community Connection</A> offers a place where Higher Ed customers can meet to find out how Apple products and technologies can help institutions enhance learning opportunities and advance educational innovations.<BR>
+
+		<BR>
+
+		<strong>K-12 Resource Guide.</strong> The November issue of the <a href="http://ed.info.apple.com/education/aerg/">Apple Education Resource Guide</a> surveys products, programs and solutions for K-12 customers from Apple. In addition to an overview, you'll find news about Apple's newest computers, the G3 <a href="http://ed.info.apple.com/education/products/g3series.html">desktop and minitower</a> and the <a href="http://ed.info.apple.com/education/products/pbg3.html">PowerBook G3</a>.<br>
+
+		<BR>
+		
+
+	    <STRONG>Buyer Bonuses.</STRONG> K-12 institutions that purchase two eMate 300 8-packs can receive a bonus <A HREF="http://education.apple.com/education/promos/emate-cart.html">eMate 300 storage cart</A> or two <A HREF="http://education.apple.com/education/promos/emate-cart2.html">8-packs of Author's Toolkit</A> software. Institutions that buy a <A HREF="http://education.apple.com/education/promos/webkit-5pk.html">5-pack of Apple Web Page Construction Kits</A> enjoy a saving of almost 40%.<BR>
+
+		
+		
+		</TD>
+	</TR>
+
+<!-- * ROW 2 * -->
+	<TR>
+
+	<!-- COLUMNS 1-3: GLOBAL NAVIGATION, FIND, & COPYRIGHT INFO -->
+	<TD COLSPAN="3" WIDTH="600">
+
+	<BR>
+
+	<!-- APPLE NAVIGATION -->
+		<A HREF="/main/maps/navbar.map"><IMG SRC="/main/elements/navbar.gif" WIDTH="600" HEIGHT="38" BORDER="0" ALT="" ISMAP USEMAP="#navbar"></A><BR>
+			<MAP NAME="navbar">
+			<AREA SHAPE="rect" COORDS="0,0,84,37"		HREF="/store/">
+			<AREA SHAPE="rect" COORDS="84,0,192,18"		HREF="/hotnews/">
+			<AREA SHAPE="rect" COORDS="84,18,192,37"	HREF="/signmeup/">
+			<AREA SHAPE="rect" COORDS="192,0,300,18"	HREF="/products/">
+			<AREA SHAPE="rect" COORDS="192,18,300,37" 	HREF="/support/">
+			<AREA SHAPE="rect" COORDS="300,0,408,18"	HREF="/publishing/">
+			<AREA SHAPE="rect" COORDS="300,18,408,37"	HREF="/education/">
+			<AREA SHAPE="rect" COORDS="408,0,516,18"	HREF="/about/">
+			<AREA SHAPE="rect" COORDS="408,18,516,37"	HREF="/buy/">
+			<AREA SHAPE="rect" COORDS="516,0,599,37"	HREF="/">
+			</MAP>
+
+		<BR>
+
+	<!-- FIND FEATURE -->
+		<CENTER>
+		<FORM METHOD="POST" ACTION="http://search.apple.com/cgi-bin/nph-apple_search.pl">
+		<INPUT TYPE="hidden" NAME="qparser" VALUE="simple"><INPUT TYPE="hidden" NAME="POINTER" VALUE="FRONT">
+		<STRONG><A HREF="/find/">Find</A>:</STRONG><IMG SRC="/main/elements/spacer.gif" WIDTH="10" HEIGHT="1" ALT=""><INPUT TYPE="text" NAME="query" SIZE="20"><IMG SRC="/main/elements/spacer.gif" WIDTH="5" HEIGHT="1" ALT=""><INPUT TYPE="submit" NAME="buttonshort" VALUE="Shortcut"><IMG SRC="/main/elements/spacer.gif" WIDTH="3" HEIGHT="1" ALT=""><INPUT TYPE="submit" NAME="buttonsearch" VALUE="Search"><BR>
+		<BR><BR>
+		</FORM>
+
+	<!-- TEXT NAVIGATION -->
+		<FONT SIZE="-1">
+		<A HREF="/store/">The Apple Store</A> | <A HREF="/hotnews/">Hot News</A> | <A HREF="/signmeup/">Sign Me Up</A> | <A HREF="/products/">Products</A> | <A HREF="/support/">Support</A><BR>
+		<A HREF="/publishing/">Design &amp; Publishing</A> | <A HREF="/education/">Education</A> | <A HREF="/about/">About Apple</A> | <A HREF="/buy/">Where to Buy</A> | <A HREF="/">Home</A><BR>
+		</FONT><BR>
+
+	<!-- COPYRIGHT INFORMATION -->
+		<FONT SIZE="-1">
+		<A HREF="/education/contact.html">Contact Us</A><BR>
+		Copyright 1997 Apple Computer, Inc. <A HREF="/legal/">All rights reserved.</A>
+		</FONT>
+		</CENTER>
+
+		</TD>
+	</TR>
+
+</TABLE>
+</BODY>
+</HTML>

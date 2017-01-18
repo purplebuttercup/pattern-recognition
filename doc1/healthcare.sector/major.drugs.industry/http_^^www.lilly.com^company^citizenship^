@@ -1,0 +1,96 @@
+Server: Netscape-Communications/1.12
+Date: Thursday, 18-Dec-97 19:34:02 GMT
+Last-modified: Thursday, 06-Nov-97 14:44:30 GMT
+Content-length: 2353
+Content-type: text/html
+
+<HTML>
+
+<HEAD>
+<TITLE>Lilly: Corporate Citizenship</TITLE>
+</HEAD>
+
+<!***Begin header***>
+
+<BODY bgcolor="ffffff" link="0000aa" vlink="b60000">
+<center>
+<a href="../../graphics/level2.map"><img src="../../graphics/citizen_header.gif"
+ISMAP border=0 usemap="#header_map"></a>
+
+<MAP NAME="header_map">
+<AREA SHAPE=RECT COORDS="190,42,282,65" HREF="../../index.html">
+<AREA SHAPE=RECT COORDS="288,42,380,66" HREF="../../site_map.html">
+<AREA SHAPE=RECT COORDS="385,42 474,66" HREF="../../search.html">
+</MAP>
+</center>
+
+<!*Begin table*>
+<center>
+<table width=530 border=0 cellpadding=10 cellspacing=5>
+<tr><td valign=top>
+<!***>
+
+<!***End header***>
+<P>
+As Lilly touches the lives of people worldwide, we recognize that we 
+have a particular responsibility to be a good corporate citizen of the
+communities in which we operate and to help preserve the environment
+for the generations to come.
+<p>
+<table>
+<tr>
+<td valign=center>
+<a href="graphics/citizenship.map"><img src="graphics/citizenship.gif" alt="Citizenship pictures"
+ISMAP border=0 usemap="#citizenship"></a>
+<MAP NAME="citizenship">
+<AREA SHAPE=RECT COORDS="15,1,113,85" HREF="community/">
+<AREA SHAPE=POLY COORDS="115,51,115,86,99,87,99,151,194,151,194,52,115,51" HREF="philanthropy/">
+<AREA SHAPE=POLY COORDS="2,120,1,209,133,209,132,154,97,154,96,119,2,120" HREF="environment/">
+</MAP>
+</td>
+<td>
+<br>
+<UL>
+<li><A HREF="community/"><font size=+1>Community</a></font><br>
+<font size=-1>How Eli Lilly and Company contributes to the Indianapolis community.</font>
+<p>
+<li><A HREF="philanthropy/"><font size=+1>Global Philanthropy</a></font><br>
+<font size=-1>How Eli Lilly and Company contributes globally.</font>
+<p>
+<li><A HREF="environment/"><font size=+1>Environment</a></font><br>
+<font size=-1>How Eli Lilly and Company protects the Environment.</font>
+</ul>
+</td>
+</tr>
+</table>
+
+<p>
+<center>
+<font size=-1>
+[ <a href="../index.html">Company Information Index</a> ]
+</font>
+
+
+<!***Begin Footer***!>
+
+<!*End table*>
+</center>
+</td></tr></table>
+<!***>
+
+<center>
+<font size=-1>
+[ <a href="../../index.html">Home</a> | <a href="../../site_map.html">Site Map</a> | <a href="../../search.html">Search</a> ]
+</font>
+</center>
+</body>
+
+<!***End Footer***!>
+
+
+
+
+<p>
+<center><font size=-2>
+<a href="/copyright.html" target="_top">Copyright</a> © 1997 Eli Lilly and Company</font>
+</body></html>

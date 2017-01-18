@@ -1,0 +1,161 @@
+Server: Netscape-Enterprise/2.01
+Date: Tue, 16 Dec 1997 14:36:18 GMT
+Accept-ranges: bytes
+Last-modified: Fri, 21 Feb 1997 03:14:46 GMT
+Content-length: 4147
+Content-type: text/html
+
+<html>
+<HEAD>
+<TITLE>Trade Demo / Index</TITLE>
+</HEAD>
+			
+<FRAMESET rows="65,*,30" 
+ framespacing="0" border="1" >
+	<FRAME src="top.html" 
+	name="pilot" NORESIZE scrolling="no" 
+	marginwidth="5" marginheight="5" 
+	frameborder="0" framespacing="0">
+<FRAMESET cols="160,*"
+frameborder="0" framespacing="0" border="0">  		
+<frame src="left.html" name="left"  NORESIZE scrolling="auto"
+	marginwidth="0" marginheight="0"
+	frameborder="0" framespacing="0">
+<FRAME src="content.html" 
+	name="content" NORESIZE scrolling="auto" marginwidth="0" marginheight="0" 
+frameborder="0" framespacing="0">
+</frameset>
+	<FRAME src="bottom.html"
+	name="bottom" NORESIZE scrolling="no"
+	marginwidth="5" marginheight="5"
+	frameborder="0" framespacing="0"></frameset>	
+</html>
+<noframes>
+<html>
+<head>
+<META HTTP-EQUIV="Refresh" CONTENT="0; URL=http://www.etrade.com/cgi-bin/scripts/cobra_bind?page=content.html">
+<title>E*TRADE Commissions</title>
+</head>
+<body Bgcolor="#ffffff" LINK=#999966 vlink=#6CA6CD>
+<!-- headers -->
+<table width=500 border=0>
+<tr><td valign=top>
+<a href="/">
+<img src="/images/sublogo.gif" 
+        width=178 height=37
+        alt="E*TRADE" border=0></a>
+</td>
+<td>
+<img src="http://www.etrade.com/images/alliance/pc/demo3.gif" 
+        vspace=25
+
+        width=175
+
+        height=44 
+        alt="The E*TRADE demo">
+</td></tr>
+</table>
+<br>
+<b>Your Browser Does Not Support Frames</b>
+<br>
+<br>
+<P>
+Go to the E*TRADE <A HREF="http://www.etrade.com/cgi-bin/scripts/cobra_bind?page=content.html">demo</A>.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<P>
+<p align=center>
+<center>
+<P>
+<TABLE WIDTH="500"cellspacing=0 cellpadding=0>
+<TR ALIGN=center>
+  <TD ALIGN=center>
+        <font size=-1>
+        <b><a href="/cgi-bin/scripts/cobra_bind?page=content.html&Symbol=SAMPLE">Demo</a>
+        </b></font></TD>
+  <TD ALIGN=center><font size=-1>
+<b><a href="/cgi-bin/scripts/cobra_bind?page=account.shtml&Symbol=SAMPLE" target="_parent">Special Offer
+ </a></b></font></TD>
+  <TD ALIGN=center>
+        <font size=-1>
+        <b><a href="/cgi-bin/scripts/cobra_bind?page=advantage.shtml&Symbol=SAMPLE" target="_parent">
+E*TRADE</a></b></font></TD>
+  <TD ALIGN=center>
+        <font size=-1>
+        <b><a href="/cgi-bin/scripts/pc_profile?Symbol=SAMPLE" target="_parent">
+Company</a></b></font>
+</TD>
+  <TD ALIGN=center>
+        <font size=-1>
+        <b><a href="http://www.pointcast.com/" target="_parent">
+PointCast</a></b></font>
+</TD>
+</TR>
+<TR ALIGN=center>
+  <TD ALIGN=center>
+        <font size=-1>
+        <b><a href="/cgi-bin/scripts/cobra_bind?page=content.html&Symbol=SAMPLE">
+Home Page</a></b></font>
+</TD>
+  <TD ALIGN=center>
+        <font size=-1>
+        <b><a href="/cgi-bin/scripts/cobra_bind?page=account.shtml&Symbol=SAMPLE" target="_parent">
+for PointCast users</a></b></font>
+</TD>
+  <TD ALIGN=center>
+        <font size=-1>
+        <b><a href="/cgi-bin/scripts/cobra_bind?page=advantage.shtml&Symbol=SAMPLE" target="_parent">
+Advantages</a></b></font>
+</TD>
+  <TD ALIGN=center>
+        <font size=-1>
+        <b><a href="/cgi-bin/scripts/pc_profile?Symbol=SAMPLE" target="_parent">
+Profile</a></b></font>
+</TD>
+  <TD ALIGN=center>
+        <font size=-1>
+        <b><a href="http://www.pointcast.com/" target="_parent">
+Home Page</a></b></font>
+</TD>
+</TR>
+</TABLE>
+</center>
+ 
+<nobr>
+<center>
+<tr><td><hr size=1 width=75%></td></tr>
+<tr><td align=center>
+<p>
+<a href="/map/sub_mainav.map">
+<img src="/images/sub_mainav.gif"
+        width=504
+
+        height=24
+
+        border=0
+
+        alt="      customer log on      |      E*TRADE advantage      |        open an account       |       visitor center"     ismap></a>                                                                        
+</p><p>
+<a href="/map/subbar.map">
+<img src="/images/subbar.gif"
+        width=440
+        height=25
+        border=0
+        alt="   quotes  |      demo      |         commissions         |      co
+ntact us      |     help    |   home"
+        ismap></a> <br clear=all>
+
+<A HREF="/legal/legal.html">
+<FONT SIZE=-2>&#169; Copyright 1996 E*TRADE Securities, Inc. All Rights 
+Reserved.</FONT></b></A>
+</td></tr>
+</table>
+
+</center>
+
+</body>
+</html>

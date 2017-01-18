@@ -1,0 +1,158 @@
+Date: Friday, 21-Nov-97 05:01:59 GMT
+Server: WebSite/1.0
+Content-type: text/html
+Last-modified: Wednesday, 19-Nov-97 01:01:12 GMT
+Content-length: 3975
+
+<HTML>
+<HEAD>
+<TITLE>Elantec Website</TITLE>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Beginning of JavaScript Applet -------------------
+
+/* Copyright (C)1996 Web Integration Systems, Inc. DBA Websys, Inc.
+   All Rights Reserved.
+  
+    DO NOT MODIFY WITHOUT CONSENT FROM webmaster@elantec.com
+ 
+*/
+
+function scrollit_r2l(seed)
+{
+	var m0 = "   ";      
+ var m1  = " Welcome to Elantec Semiconductor, Inc. ";
+  var m2  = "          ";
+	var h1  = "  High Performance Analog Integrated Circuits.";
+	var h21  = "      ";
+         var h22 = "  Setting the Industry Standard.";
+         var h31 = "    ";
+         var h32 =  "    ";
+         
+         
+		var msg=m0+m1+m2+h1+h21+h22+h31+h32
+	var out = " ";
+	var c   = 0;
+
+	if (seed > 100) {
+		seed--;
+		var cmd="scrollit_r2l(" + seed + ")";
+		timerTwo=window.setTimeout(cmd,10);
+	}
+	else if (seed <= 100 && seed > 0) {
+		for (c=0; c < seed ; c++) {
+			out+=" ";
+		}
+		out+=msg;
+		seed--;
+		var cmd="scrollit_r2l(" + seed + ")";
+		window.status=out;
+		timerTwo=window.setTimeout(cmd,88);
+	}
+	else if (seed <= 0) {
+		if (-seed < msg.length) {
+			out+=msg.substring(-seed,msg.length);
+			seed--;
+			var cmd="scrollit_r2l(" + seed + ")";
+			window.status=out;
+			timerTwo=window.setTimeout(cmd,88);
+		}
+		else {
+			window.status=" ";
+			timerTwo=window.setTimeout("scrollit_r2l(11)",15);
+		}
+	}
+}
+// -- End of JavaScript code -------------- -->
+</SCRIPT>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="/wsdocs/images/background.jpg" onLoad="timerONE=window.setTimeout('scrollit_r2l(18)',9);">
+
+
+
+
+
+<CENTER>
+<IMG SRC="/wsdocs/images/elanplain.GIF">
+<BR>
+<BR>
+
+<FONT SIZE=+2>
+
+<A HREF="/ABOUT/docs/q497rel.pdf">
+&Eacutelantec Announces Fourth Quarter and Fiscal 1997<BR> Year End Financial Results</A>
+<BR>
+<BR>
+&Eacutelantec <A HREF="PRODUCT/pdf/prodindex.html">1997 Databook</A> Online!
+</FONT>
+</CENTER>
+
+<BR>
+<HR SIZE=4 WIDTH=100%>
+<BR>
+
+<IMG SRC="/wsdocs/images/acro.gif" ALIGN ="RIGHT">
+<BR>
+
+<FONT COLOR = "#d00000" FACE= "ARIAL"  SIZE =+1>Viewing and Printing Online Information</FONT>&nbsp&nbsp
+Data sheets and Financial Reports are in ".PDF" file format. We recommend using Adobe Acrobat Reader<FONT SIZE=-1><SUP>TM</SUP></FONT SIZE> for viewing and printing. To print ".PDF" files either click on the Print Icon or use the <B><U> P</U></B>rint command under the <B><U>F</U></B>ile pull-down menu in Adobe Acrobat  Reader<FONT SIZE=-1><SUP>TM</SUP></FONT SIZE> or you will not print the entire document.&nbsp&nbsp&nbsp&nbsp
+<A HREF="http://www.adobe.com/">Download Adobe Acrobat Reader</A><FONT SIZE=-1><SUP>TM</SUP></FONT SIZE>
+
+<BR><BR>
+<HR SIZE=4 WIDTH=100%>
+<BR>
+
+<CENTER>
+<A HREF="http:/~imagemap/imagemap">
+<IMG SRC="/wsdocs/images/imagemap1.gif" ALT=" " ISMAP border=0>
+</A>
+</CENTER>
+
+ <BR>
+<HR SIZE=4 WIDTH=100%>
+
+
+<CENTER>
+<img width=12 height=12 SRC="/wsdocs/images/bullet_red.gif">
+<A HREF="/PR/hybridPR.html"> Military Market Exit</A> Announced by &Eacutelantec
+<BR>
+<img width=12 height=12 SRC="/wsdocs/images/bullet_red.gif">
+<A HREF="text/homepage.html">TEXT ONLY</A> Version of the &Eacutelantec Website!
+<BR>
+<img width=12 height=12 SRC="/wsdocs/images/bullet_red.gif">
+<A HREF="/PR/press.html">PRESS RELEASES</A> Information about &Eacutelantec's newest products.
+</FONT>
+</CENTER>
+
+<BR>
+<HR SIZE=4 WIDTH=100%>
+<BR>
+
+<CENTER>
+Like our New, Easy to Navigate Homepage?
+<A HREF="MAILTO:webmaster@elantec.com">Let Us Know!</A>
+<BR>  
+You can also Call TOLL FREE  @ 888 &EacuteLANTEC
+</CENTER>
+
+<BR>
+<HR SIZE=4 WIDTH=100%>
+<BR>
+  
+
+
+
+
+<CENTER>
+This site is enhanced for <A HREF="http://www.netscape.com/comprod/mirror/index.html"> 
+<IMG SRC="/wsdocs/images/netscape_button.gif" ALIGN=BASELINE 
+HSPACE=1>etscape</A> 2.0 and above.</I>
+<BR>
+<BR>
+<FONT SIZE=-1>
+<A HREF="/copyrite.html">&copy 1997 &Eacutelantec Semiconductor, Inc.</A>
+</CENTER>
+</FONT>
+</BODY>
+</HTML>
+

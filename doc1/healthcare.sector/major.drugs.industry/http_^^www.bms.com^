@@ -1,0 +1,233 @@
+Server: Netscape-Communications/1.1
+Date: Thursday, 18-Dec-97 19:26:50 GMT
+Last-modified: Monday, 17-Nov-97 17:33:44 GMT
+Content-length: 8841
+Content-type: text/html
+
+<HTML>
+
+<HEAD>
+
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+
+<TITLE>Bristol-Myers Squibb Company</TITLE>
+</HEAD>
+
+<body bgcolor="#000000" text="#808080" link="#808080" vlink="#808080" alink="#808080" topmargin="0" leftmargin="0">
+<DIV align="left"><left>
+
+
+
+<TABLE border="0" cellpadding="0" cellspacing="0">
+    <TR>
+        <TD align="center" valign="top" rowspan="2"><IMG
+        src="images/anim.gif" alt="Logo Animation" width="77"
+        height="66"></TD>
+        <TD align="center" valign="top" rowspan="2"><IMG
+        src="images/logo.gif" alt="Picture" width="331"
+        height="66"></TD>
+        <TD rowspan="2"><TABLE border="0" cellpadding="0"
+        cellspacing="0">
+            <TR>
+                <TD align="center"><A href="indexpage.htm"
+                target="_top"><IMG src="images/index1.gif"
+                border="0" width="54" height="26"></A></TD>
+                <TD align="center"><A href="search.html"
+                target="_top"><IMG src="images/search1.gif"
+                border="0" width="57" height="27"></A></TD>
+               <TD><A href="http://www.bms.com/talktous.htm" target="_top"><IMG
+               ALIGN=No SRC="images/feed1.gif" WIDTH="76" HEIGHT="26"
+               BORDER="0"></A></TD>
+            </TR>
+            <TR>
+                <TD align="center" valign="top" colspan="3"><IMG
+                src="images/ticker.gif" align="top" width="187"
+                height="15"></TD>
+            </TR>
+            <TR>
+                <TD align="center" colspan="3">
+
+<SCRIPT LANGUAGE = "JavaScript">
+<!--  
+ if (navigator.appName=="Netscape" && navigator.appVersion.charAt(0)>="3" && navigator.javaEnabled()); 
+ else if (navigator.appName=="Netscape") document.write("<A href=http://www.bms.com/ticker97.html target=_top><IMG src= images/stock16bit.gif border=0>")
+// -->  
+ 
+</SCRIPT>
+        
+        
+                
+<!-- 
+
+Stock Ticker Applet 
+            
+Speed, font, style, size and url is adjustable.  Do not modify msgfile, codebase, widtd and height.
+
+--> 
+
+<applet code="nticker.class" align="texttop" width="183" height="15">
+    <param name="Notice"                    value="News Ticker, (c) 1997, OpenCube Technologies, Registered 1894">
+    <param name="bgcolor"                   value="0,0,0">
+    <param name="scrolldelay"               value="20">
+    <param name="scrolljump"                value="1">
+    <param name="filelocation"              value="stockapplet.txt">
+    <param name="refreshtimelinterval"      value="2">
+    <param name="forceimmediate"            value="true">
+    <param name="refreshinterval"           value="2">
+    <param name="waitforfile"               value="false">
+    <param name="overlaplocalload"          value="false">
+    <param name="textcolor"                 value="0,255,0">
+    <param name="size"                      value="12">
+    <param name="fontstyle"                 value="bold">
+    <param name="yoffset"                   value="2">     
+    <param name="hlcolor"                   value="240,239,234">
+    <param name="onsbtext"                  value="BMY Stock">
+    <param name="offsbtext"                 value="Bristol-Myers Squibb Company">
+ </applet>
+
+
+
+
+                </TD>
+            </TR>
+            <TR>
+                <TD align="center" colspan="3"><IMG
+                src="images/stockbot.gif" width="187" height="5"></TD>
+            </TR>
+        </TABLE>
+        </TD>
+        <TD rowspan="2"><IMG src="images/stockrt.gif"
+        alt="Picture" align="left" hspace="0" width="16"
+        height="66"></TD>
+    </Tr>
+</TABLE>
+</left></DIV><DIV align="left"><left>
+
+<TABLE border="0" cellpadding="0" cellspacing="0">
+    <TR>
+        <TD align="center" valign="top"><A href="news/index.htm"
+        target="_top"><IMG src="images/but1.gif" alt="NEWS"
+        border="0" width="45" height="30"></A></TD>
+        <TD align="center"><A href="business/index.htm"
+        target="_top"><IMG src="images/but2.gif" alt="BUSINESSES"
+        border="0" width="68" height="30"></A></TD>
+        <TD align="center"><A href="products/index.htm"
+        target="_top"><IMG src="images/but3.gif" alt="PRODUCTS"
+        border="0" width="60" height="30"></A></TD>
+        <TD align="center"><A href="research/index.htm"
+        target="_top"><IMG src="images/but4.gif"
+        alt="R&amp;D OVERVIEW" border="0" width="80" height="30"></A></TD>
+        <TD align="center"><A href="financial/index.htm"
+        target="_top"><IMG src="images/but5.gif" alt="FINANCIALS"
+        border="0" width="66" height="30"></A></TD>
+        <TD align="center"><A href="profile/index.htm"
+        target="_top"><IMG src="images/but6.gif" alt="ABOUT BMS"
+        border="0" width="67" height="30"></A></TD>
+        <TD align="center"><A href="employ/index.htm"
+        target="_top"><IMG src="images/but7.gif" alt="EMPLOYMENT"
+        border="0" width="74" height="30"></A></TD>
+        <TD align="center"><A href="locations/index.htm"
+        target="_top"><IMG src="images/but8.gif" alt="LOCATIONS"
+        border="0" width="60" height="30"></A></TD>
+        <TD align="center"><A href="sites/index.htm"
+        target="_top"><IMG src="images/but9.gif"
+        alt="BMS WEB SITES" border="0" width="90" height="30"></A></TD>
+    </Tr>
+</TABLE>
+</left></DIV><DIV align="left"><left>
+
+<TABLE border="0" cellpadding="0" cellspacing="0">
+    <TR>
+        <TD align="center" rowspan="3"><IMG
+        src="images/newsleft.gif" alt="Picture" width="20"
+        height="206"></TD>
+        <TD align="center" valign="top"><IMG
+        src="images/thewire.gif" alt="Picture" width="171"
+        height="34"></TD>
+
+<TD rowspan="3"><IMG SRC="images/chkout.gif" WIDTH="144" HEIGHT="206" border="0" usemap="#avapro"></A></TD>
+
+<TD rowspan="3"><A HREF="http://www.seabreezezone.com/"><IMG src="images/insite.gif" alt="Picture" width="144" height="206" border="0"></A></TD>
+
+<TD rowspan="3"><A href="rd.html" target="_top"><IMG src="images/rd.gif" alt="Picture" width="131" height="206" border="0"></A></TD>
+
+</TR>
+
+<MAP NAME="avapro">
+<AREA shape=rect COORDS="13,2,141,176" <A href="chkout.html" target="_top"><!--Avapro News-->
+
+<AREA shape=rect COORDS="29,187,122,195" HREF="products/pdfs/avapro.pdf"><!--Avapro PPI-->
+</map>
+
+
+<TR>
+<TD align="center">
+
+<SCRIPT LANGUAGE = "JavaScript">                                                                    
+<!--  
+ if (navigator.appName=="Netscape" && navigator.appVersion.charAt(0)>="3" && navigator.javaEnabled()); 
+ else if (navigator.appName=="Netscape") document.write("<A href=../profile/mission.html target=_top><IMG src= images/mission.gif border=0>")
+// --> 
+</SCRIPT>
+
+
+
+<applet code="mwb.class" align="absbottom" width="167" height="157">
+
+    <param name="barbgcolor"            value="40,40,40">
+    <param name="bgcolor"               value="255,255,255">
+    <param name="filelocation"          value="newsapplet.txt">
+    <param name="fontsize"              value="5">
+    <param name="hlcolor"               value="90,0,0">
+    <param name="lrmargins"             value="3">
+    <param name="Notice"                value="Message Window Browser, (c) 1997, OpenCube Technologies, Registered 3015">
+    <param name="overlaplocalload"      value="false">
+    <param name="size"                  value="14">
+    <param name="smoothscrolling"       value="true">
+    <param name="textcolor"             value="45,45,45">
+    <param name="barbgcolor"            value="240,239,234">
+    <param name="onsbtext"              value="BMS News Wire">
+    <param name="offsbtext"             value="Bristol-Myers Squibb Company">
+
+</applet>
+
+      
+
+  
+    </TD>
+    </TR>
+    <TR>
+        <TD align="center" valign="bottom"><IMG
+        src="images/newsbot.gif" alt="Picture" width="171"
+        height="10"></TD>
+    </Tr>
+</TABLE>
+</left></DIV><DIV align="left"><left>
+
+<TABLE border="0" cellpadding="0" cellspacing="0">
+    <TR>
+
+        <TD align="center"><A HREF="http://www.pravachol.com/" TARGET="_top"><IMG src="images/homead.gif"   alt="Picture" width="610" height="64" border="0"></a></TD>
+
+    </Tr>
+</TABLE>
+</left></DIV>
+
+<p><a href="http://www.bms.com/copyright/index.html" target="_top"><font size="1"
+face="Arial">Copyright ©</font></a><font size="1" face="Arial">
+Bristol-Myers Squibb Company. </font><a
+href="http://www.bms.com/copyright/index.html" target="_top"><font size="1"
+face="Arial">1997</font></a><font size="1" face="Arial"><br>
+<br>
+For Technical Web Site Support or Comments Email </font><a
+href="mailto:kpray@usccmail.bms.com"><font size="1" face="Arial">BMS-Internet</font></a><font
+size="1" face="Arial"><br>
+For Comments or Feedback go to our </font><a
+href="http://www.bms.com/talktous.htm" target="#_top"><font
+size="1" face="Arial">Contact Form</font></a><font size="1"
+face="Arial"><br>
+
+
+</BODY>
+</HTML>

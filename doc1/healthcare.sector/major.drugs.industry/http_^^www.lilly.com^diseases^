@@ -1,0 +1,69 @@
+Server: Netscape-Communications/1.12
+Date: Thursday, 18-Dec-97 19:31:14 GMT
+Last-modified: Thursday, 04-Sep-97 22:39:48 GMT
+Content-length: 2247
+Content-type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>Lilly: Products and Diseases</TITLE>
+</HEAD>
+
+<!***Begin Header***>
+<BODY bgcolor="ffffff" link="0000aa" vlink="b60000"><center>
+<a href="../graphics/level1.map"><img src="../graphics/products_diseases_header.gif"
+ISMAP border=0 usemap="#header_map"></a>
+
+<MAP NAME="header_map">
+<AREA SHAPE=RECT COORDS="190,42,282,65" HREF="../index.html">
+<AREA SHAPE=RECT COORDS="288,42,380,66" HREF="../site_map.html">
+<AREA SHAPE=RECT COORDS="385,42 474,66" HREF="../search.html">
+</MAP>
+
+<!***End Header***>
+
+<table cellpadding=0 cellspacing=0 border=0 width=500>
+<tr>
+<td valign=top align=right><img src="../graphics/products_text.gif">
+
+<form meth=post action="/cgi-bin/world_products.cmd">
+<center>
+<br><img src="../graphics/products.gif" alt="Products:"><br>
+</center>
+<SELECT SIZE=1 NAME="country">
+<OPTION SELECTED VALUE="other">Select a country
+<OPTION value="usa">United States
+</SELECT>&nbsp;&nbsp;<INPUT TYPE=IMAGE SRC="../graphics/go.gif" BORDER=0 VALUE="Go!" ALT="Go!">
+&nbsp;
+</form>
+</td>
+<td>
+<a href="../graphics/disease_index.map">
+<img src="../graphics/disease_areas.gif" align=right border=0 ISMAP usemap="#disease_map"></a>
+<MAP NAME="disease_map">
+<AREA SHAPE=RECT COORDS="89,70,209,117" HREF="../diseases/neuro/">
+<AREA SHAPE=RECT COORDS="89,118,245,165" HREF="../diseases/endocrine/">
+<AREA SHAPE=RECT COORDS="89,166 147,181" HREF="../diseases/cancer/">
+<AREA SHAPE=RECT COORDS="89,182,262,201" HREF="../diseases/cv/">
+<AREA SHAPE=RECT COORDS="89,202,229,219" HREF="../diseases/id/">
+<AREA SHAPE=RECT COORDS="89,220,209,238" HREF="../diseases/women/">
+</MAP>
+</td></tr></table>
+<p>
+
+<center>
+<font size=-1>[ <a href="../diseases/neuro/">Neuroscience</a> | <a href="../diseases/endocrine/">Endocrine Diseases</a> 
+| <a href="../diseases/cancer/">Cancer</a> | <a href="../diseases/cv/">Cardiovascular Diseases</a> | 
+<a href="../diseases/id/">Infectious Diseases</a> ]</font>
+<p>
+
+<!***Begin Footer***>
+<center>
+<font size=-1>[ <a href="../index.html">Home</a> | <a href="../site_map.html">Site Map</a> | 
+<a href="../search.html">Search</a> ]</font>
+</center>
+<!***End Footer***>
+<p>
+<center><font size=-2>
+<a href="/copyright.html" target="_top">Copyright</a> © 1997 Eli Lilly and Company</font>
+</body></html>

@@ -1,0 +1,25 @@
+Date: Thu, 18 Dec 1997 08:16:13 GMT
+Server: Stronghold/1.3.4 Ben-SSL/1.3 Apache/1.1.3
+Content-type: text/html
+Content-length: 765
+Last-modified: Fri, 04 Apr 1997 20:38:55 GMT
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; iso-8859-1">
+<META HTTP-EQUIV="Description" CONTENT="Mego Mortgage Corporation - A national FHA Title I and conventional mortgage lender">
+<META HTTP-EQUIV="Keywords" CONTENT="mortgage, mego, finance, fha, title I, hud, home improvement, debt consolidation, equity">
+<META HTTP-EQUIV="Author" CONTENT="Brian Cohrs">
+<META HTTP-EQUIV="Expires" CONTENT="Wed, 30 Apr 1997 12:00:00 GMT">
+<title>Mego Mortgage Frameset</title>
+</head>
+
+<frameset cols="30%,70%" border="0" bordercolor="#000000">
+    <frame src="navbar.htm" name="index" noresize>
+    <frame src="mego.htm" name="main">
+    <noframes>
+    </noframes>
+</frameset>
+</html>

@@ -1,0 +1,97 @@
+Server: Netscape-Enterprise/2.01
+Date: Fri, 21 Nov 1997 04:57:02 GMT
+Accept-ranges: bytes
+Last-modified: Thu, 20 Nov 1997 17:37:38 GMT
+Content-length: 5110
+Content-type: text/html
+
+<HTML>
+<HEAD><TITLE>International Rectifier - General Product Information - HEXFET</TITLE>
+<TITLE>International Rectifier, Inverter SCR, Thyristor Power Semiconductors gen v</TITLE>
+<TITLE>International Rectifier - General Product Information - Inverter SCR / Thyristor</TITLE>
+
+<BASE HREF="http://www.irf.com/">
+
+<META  name="description" content="International Rectifier - Celebrating 50 years as the Power Semiconductor Leader.">
+<META  name="keywords" content="International Rectifier, , Power Semiconductors Inverter SCR Thyristor">
+<head keywords="International Rectifier,  Inverter SCR Thyristor Power Semiconductors ">
+<!-- International Rectifier,  Inverter SCR Thyristor Power Semiconductors  -->
+</HEAD>
+<BODY BACKGROUND="graphics/50back.gif" TEXT="#000000" LINK="#400080" VLINK="#404040">
+
+<map name="irnav">
+<area shape="rect" coords="0,0,57,24" href="search/">
+<area shape="rect" coords="83,0,153,23" href="product-info/">
+<area shape="rect" coords="182,0,241,23" href="whats-new/">
+<area shape="rect" coords="274,0,334,24" href="aboutir-info/">
+<area shape="rect" coords="367,0,429,24" href="whoto-call/">
+<area shape="default" nohref>
+</map>
+
+<P>
+
+<table cellpadding=0 cellspacing=0 width=580>
+<tr><td><IMG SRC="graphics/spacer.gif" ALT="IR" WIDTH=72 HEIGHT=1></td>
+<td><IMG SRC="graphics/irlogo.gif" ALT="IR Logo" WIDTH=135 HEIGHT=50></td>
+<td><IMG SRC="graphics/prodinfo.gif" ALT="Product Information" WIDTH=317 HEIGHT=61></td>
+<td rowspan=2>
+<IMG SRC="graphics/diode.gif" ALT="diode image" WIDTH=56 HEIGHT=95 ALIGN=right>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<IMG SRC="graphics/redspc.gif" ALT="Red Spaces" WIDTH=75 HEIGHT=27 ALIGN=left>
+<IMG SRC="graphics/irnav.gif" ALT="Navigational Bar" WIDTH=430 HEIGHT=25 ALIGN=left usemap="#irnav" border="off">
+</td>
+</tr>
+</table>
+<TABLE>
+<TR>
+<TD ROWSPAN=2 WIDTH=10><BR></TD>
+<TD ROWSPAN=2 WIDTH=110 VALIGN="TOP">
+<NOBR><A HREF="product-info/topical.htm"><IMG SRC="graphics/genprod.gif" ALT="General Product Information" WIDTH=68 HEIGHT=46 BORDER="OFF"></A>
+<IMG SRC="graphics/arrow.gif" ALT="You Are Here" WIDTH=26 HEIGHT=22 ALIGN=ABSMIDDLE></NOBR><BR>
+<A HREF="technical-info/"><IMG SRC="graphics/techinfo.gif" ALT="Technical Information" WIDTH=67 HEIGHT=48 BORDER="OFF"></A><BR>
+<A HREF="product-info/shortform/"><IMG SRC="graphics/shortform.gif" ALT="Short Form Catalog" WIDTH=69 HEIGHT=47 BORDER="OFF"></A><BR>
+<A HREF="product-info/navigator/"><IMG SRC="graphics/navigator.gif" ALT="Navigator" WIDTH=69 HEIGHT=28 BORDER="OFF"></A><BR>
+<A HREF="product-info/datasheets.htm"><IMG SRC="graphics/datasheets.gif" ALT="Datasheets" WIDTH=71 HEIGHT=28 BORDER="OFF"></A><BR>
+<A HREF="product-info/models/"><IMG SRC="graphics/models.gif" ALT="Spice & Saber Models" WIDTH=67 HEIGHT=46 BORDER="OFF"></A><BR>
+<A HREF="product-info/reliability/"><IMG SRC="graphics/reliability.gif" ALT="Reliability Reports" WIDTH=69 HEIGHT=47 BORDER="OFF"></A><BR>
+</TD>
+<TD WIDTH=460 VALIGN="MIDDLE">
+<IMG SRC="/graphics/inverter.gif" ALT="Inverter.gif - 2.0 K" WIDTH=124 HEIGHT=101>
+International Rectifier offers a full range of inverter type thyristors (SCRs) in a variety of popular industry-standard packages.  The fast 
+turn-on and turn-off and low switching loss characteristics of these SCRs make them ideally suited for inverter and chopper circuit 
+applications in UPS systems, induction heating, and DC and AC motor drives.  All devices rated above 135 amps (rms) use amplifying 
+gate construction for high di/dt capability.  They also offer a guaranteed gate noise immunity.<br> Special inverter SCRs for high 
+frequency operation are also available.  These devices offer an interdigitated gate configuration for faster turn-on and higher di/dt, 
+while maintaining low switching losses.  For further information, contact your local IR <a href="whoto-call/salesrep/">sales 
+representatives</a>.
+</TR>
+</TD>
+</TABLE>
+<TABLE WIDTH=590>
+<TR><TD COLSPAN=3><HR></TD></TR>
+<TR><TD WIDTH=75 VALIGN="TOP">
+<FONT COLOR="#FF0000"><CENTER><EM>Inverter<BR>SCR<BR>Quick<BR>Links</EM></CENTER></FONT></TD>
+<TD WIDTH=90 VALIGN="TOP">
+<A HREF="product-info/datasheets.htm"><IMG SRC="graphics/datasheets.gif" ALT="Datasheets" WIDTH=71 HEIGHT=28 BORDER="OFF"></A>
+<A HREF="product-info/shortform/"><IMG SRC="graphics/shortform.gif" ALT="Short Form Catalog" WIDTH=69 HEIGHT=47 BORDER="OFF"></A>
+</TD>
+<TD WIDTH=415 VALIGN="TOP">
+<DL><LI><A HREF="product-info/datasheets/inverter.htm"><IMG SRC="/images/pdficon.gif" ALT="Pdficon" WIDTH=28 HEIGHT=31></a>
+Inverter SCR Datasheet Listing
+<LI><A HREF="product-info/shortform/sfinverter.pdf"><IMG SRC="/images/pdficon.gif" ALT="Pdficon" WIDTH=28 HEIGHT=31></a>
+Inverter SCR Short Form Catalog with hyperlinks<BR>get 
+<a href="http://www.adobe.com/prodindex/acrobat/readstep.html">
+Acrobat 3.0 Reader (Freeware)</a> now.</A></DL>
+</TD>
+</TR>
+</TABLE>
+<IMG SRC="graphics/redspc.gif" ALT="Red Spaces" WIDTH=75 HEIGHT=27>
+<a href="http://www.irf.com/"><IMG SRC="graphics/home.gif" ALT="Home Page" WIDTH=111 HEIGHT=25 BORDER="OFF"></A>
+</BODY>
+</HTML>
+
+
+

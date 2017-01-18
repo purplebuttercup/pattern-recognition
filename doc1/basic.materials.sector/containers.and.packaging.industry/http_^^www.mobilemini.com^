@@ -1,0 +1,113 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 20 Nov 1997 20:55:46 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Fri, 14 Nov 1997 16:47:13 GMT
+Content-Length: 3513
+
+<html>
+<head>
+	<title>mobile mini, inc.</title>
+	
+</head>
+
+<body bgcolor="#ffffff" background="images/newbkgd.jpg" link="#0c437b" 
+alink="#0c437b" vlink="#0c437b">
+
+<map name="bar">
+<area shape="rect" href="contact.html" coords="-14,331 115,388">
+<area shape="rect" href="telecomm.html" coords="-12,276 108,332">
+<area shape="rect" href="dealer.html" coords="-20,222 109,277">
+<area shape="rect" href="investor.html" coords="-3,166 109,223">
+<area shape="rect" href="storage.html" coords="-21,111 110,167">
+<area shape="rect" href="locations.html" coords="-12,57 112,112">
+<area shape="rect" href="index.html" coords="-2,1 109,58">
+</map>
+
+<p><br>
+
+<table border=0 width=100%>
+
+	<tr>
+		<td width=131 valign="top">
+		
+		<img src="images/space.gif" height=2 width=131><br>
+		<a href="index.html"><img src="images/newbar.gif" border=0 usemap="#bar"></a>
+		
+		</td>
+		
+		<td valign=top>
+		<center>
+		<img src="images/mmlogo3d.jpg"></center><br>
+		<center>
+		<font size=+1><b><i>Traded on NASDAQ: MINI</i></b></font><br><br>
+		
+		<table cellpadding=2 border=3 height=155>
+		<tr>
+		<td>
+		<img src="images/pic1.jpg"></center>
+		</td>
+		</tr>
+		</table><br></center>
+		
+		<font color="#0c437b"><font size=+1>
+		<b>The Company</b></font></font><br><br>
+		
+		Mobile Mini, Inc. is the dominant leader in the design and manufacture of quality, 
+		high security, all steel, portable storage units and custom structures.<br><br>
+		
+		The Company's fundamental mission is to solve the storage industries needs by 
+		providing the industry with safe, secure, weather resistant storage containers.
+		<br><br>
+		
+		The combination of portability and security is enabling Mobile Mini to effectively 
+		meet the needs of virtually all storage customers ranging from homeowners needing 
+		storage between homes, to Fortune 500 companies needing record storage, to 
+		telecommunications companies needing custom units to house complex communication 
+		equipment at remote sites.<br><br>
+		
+		Since 1983, Mobile Mini has helped solve the storage needs of tens of thousands of 
+		customers across the United States.<br><br>
+		
+		<font color="#0c437b"><font size=+1>
+		<b>An Overview</b><br><br></font></font>
+		
+		<b>Branch and Dealer Network</b><br><br>
+		
+		Mobile Mini currently markets its products through 8 company branch locations in 
+		Arizona, California and Texas and 51 dealers throughout the United States and 
+		Canada. Each branch and 
+		<a href="dealer.html">dealer</a> location sells, rents and leases 
+		<a href="storage.html">
+		storage containers</a> and <a href="storage.html">custom structures</a>.<br><br>
+		
+		<b>Telecommunication</b><br><br>
+		
+		The <a href="telecomm.html">Mobile Telestructures</a> division designs and fabricates 
+		shelters used to house telecommunications equipment for cellular / PCS sites. 
+		This division also offers an array of specialty products to this industry including 
+		cell-on-wheels (COW), equipment cabinets, and generator rooms.<br><br>
+		
+		<center>
+		<font color="#0c437b"
+		<font size=+1><b>
+		Branch Sales 1-800-950-6464<br>
+		Dealer Sales 1-800-333-8648<br>
+		Telestructures 1-800-511-1262<br>
+		Corporate 1-800-288-5669</b></font></font></center>
+		
+		<br><br>
+		
+		<center>
+		<font size=-1>
+		&#169; 1997 Mobile Mini, Inc.<br>
+		
+		HTML by <a href="http://www.hereweare.com">hereweare.com</a></font><br>
+		</center>
+		</td>
+		
+	</tr>
+	
+</table>
+</body>
+</html>

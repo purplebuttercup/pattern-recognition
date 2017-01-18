@@ -1,0 +1,68 @@
+Server: Netscape-Communications/1.12
+Date: Thursday, 18-Dec-97 19:30:41 GMT
+Last-modified: Thursday, 04-Sep-97 22:39:53 GMT
+Content-length: 1815
+Content-type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>Lilly: Company Information</TITLE>
+</HEAD>
+
+<!***Begin Header***>
+<BODY bgcolor="ffffff" link="0000aa" vlink="b60000">
+<center>
+<a href="../graphics/level0.map">
+<img src="../graphics/world_header.gif" ISMAP border=0 usemap="#header_map"></a>
+<MAP NAME="header_map">
+<AREA SHAPE=RECT COORDS="190,42,282,65" HREF="../index.html">
+<AREA SHAPE=RECT COORDS="288,42,380,66" HREF="../site_map.html">
+<AREA SHAPE=RECT COORDS="385,42,474,66" HREF="../search.html">
+</MAP>
+<!***End Header***>
+
+<table cellpadding=0 cellspacing=0 border=0 width=500>
+<tr>
+<td valign=top>
+<img src="../graphics/company_text.gif" align=right>
+</td>
+<td>
+<a href="../graphics/company_index.map">
+<img src="../graphics/company_index.gif" align=right ISMAP border=0
+usemap="#company_index"></a>
+<MAP NAME="company_index">
+<AREA SHAPE=RECT COORDS="88,77,184,100" HREF="about/">
+<AREA SHAPE=RECT COORDS="88,102,247,125" HREF="financial/">
+<AREA SHAPE=RECT COORDS="88,128,205,154" HREF="news/">
+<AREA SHAPE=RECT COORDS="88,157,168,180" HREF="speeches/">
+<AREA SHAPE=RECT COORDS="89,183,246,209" HREF="citizenship/">
+<AREA SHAPE=RECT COORDS="89,211,241,237" HREF="career/">
+</MAP>
+</td>
+</tr>
+</table>
+</center>
+
+<p>
+
+<center>
+<font size=-1>
+[ <a href="about/">About Lilly</a> | <a href="financial/">Financial Information</a> | <a href="news/">News</a> | <a href="speeches/">Speeches</a> | <a href="citizenship/">Citizenship</a> | <a href="career/">Careers</a> ]
+</font>
+<center>
+<p>
+
+<!***Begin Footer***>
+<center>
+<font size=-1>
+[ <a href="../index.html">Home</a> | <a href="../site_map.html">Site Map</a> | <a href="../search.html">Search</a> ]
+</font>
+</center>
+<!***End Footer***>
+
+</BODY>
+
+<p>
+<center><font size=-2>
+<a href="/copyright.html" target="_top">Copyright</a> © 1997 Eli Lilly and Company</font>
+</body></html>

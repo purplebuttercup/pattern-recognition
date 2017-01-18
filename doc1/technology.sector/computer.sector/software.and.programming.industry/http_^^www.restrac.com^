@@ -1,0 +1,53 @@
+Server: Microsoft-IIS/3.0
+Date: Fri, 21 Nov 1997 05:21:02 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Thu, 20 Nov 1997 19:24:13 GMT
+Set-Cookie: EGSOFT_ID=128.2.206.74-1110530784.29161021; expires=Fri, 31-Dec-2010 00:00:00 GMT; path=/
+Content-Length: 1355
+
+<!--This file created 8/30/97 12:33 PM by Claris Home Page version 2.0-->
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta http-equiv="Refresh" content="8;URL=default.htm">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Your search is over!</title>
+</head>
+
+<body bgcolor="#FFFFFF" link="#663366" vlink="#999999"
+alink="#CCCC00">
+
+<table border="0" cellpadding="0" cellspacing="0" width="600">
+    <tr>
+        <td valign="top" colspan="6" width="600"><p align="right">&nbsp;
+        </p>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="6" width="600"><p align="center"><img
+        src="images/anim_spl.gif" width="389" height="173"></p>
+        <p align="center">&nbsp; </p>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="6" width="600"><p align="center"><a
+        href="default.htm"><font color="#CCCC00"
+        face="Helvetica,Arial"><b>go!</b></font></a> </p>
+        <p align="center">&nbsp; </p>
+        </td>
+    </tr>
+    <tr>
+        <td width="135">&nbsp;</td>
+        <td width="15">&nbsp;</td>
+        <td width="27">&nbsp;</td>
+        <td width="204">&nbsp; </td>
+        <td width="15">&nbsp;</td>
+        <td width="204">&nbsp;</td>
+    </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,80 @@
+Server: Netscape-Enterprise/2.0a
+Date: Mon, 29 Dec 1997 21:14:40 GMT
+Accept-ranges: bytes
+Last-modified: Fri, 22 Aug 1997 18:29:19 GMT
+Content-length: 3523
+Content-type: text/html
+
+<html>
+<head>
+<title>QRS Insider What's New</title>
+</head>
+<body bgcolor="FFFFFF">
+<IMG Border=0 SRC=/images/pictures/bani.gif USEMAP="#qrsnav" alt="Job Postings Banner" width=550 height=86>
+<br>
+<MAP NAME="qrsnav">
+<AREA SHAPE="RECT" COORDS="175,20,200,40" HREF="/" alt="Back">
+<AREA SHAPE="RECT" COORDS="205,20,240,40" HREF="http://www.qrsi.com/excite/at-internetquery.html" alt="Search">
+<AREA SHAPE="RECT" COORDS="245,20,270,40" HREF="/sitemap/" alt="Site Map">
+<AREA SHAPE="RECT" COORDS="275,20,325,40" HREF="/whatsnew/" alt="What's New">
+<AREA SHAPE="RECT" COORDS="330,20,550,40" HREF="/products/" alt="Products and Services">
+</MAP>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border=0 src=/images/pictures/navbar.gif USEMAP="#Admindsk" alt="Job Postings Navbar" width=500 height=24>
+<br>
+<p>
+<MAP NAME="Admindsk">
+<AREA SHAPE="RECT" COORDS="1,1,92,13" HREF="/products/"alt="Products/Demos">
+<AREA SHAPE="RECT" COORDS="96,1,160,13" HREF="/news/"alt="News and Events">
+<AREA SHAPE="RECT" COORDS="165,1,225,13" HREF="/tech/"alt="Technical Support">
+<AREA SHAPE="RECT" COORDS="227,1,312,13" HREF="/financial/board.html"alt="Meet the Company">
+<AREA SHAPE="RECT" COORDS="316,1,356,13" HREF="/job/"alt="Job Opportunities">
+<AREA SHAPE="RECT" COORDS="360,1,420,13" HREF="/financial/"alt="Financial Information">
+<AREA SHAPE="RECT" COORDS="425,1,500,13" HREF="/bassociates/"alt="Business Associates">
+</MAP>
+<img border=0 src=/images/pictures/rule5.gif alt="line" width=554 height=2>
+<br>
+<ul>If you're visiting this QRS site for the first time, everything is new - page design,
+navigation, and new content.
+
+<P>
+We even changed our name. You have many areas of interest. So do we. QRS Pulse is a way to showcase what we're all about.
+<p>
+New sites and links include ways to reach Products/Demos, news and about special events, Technical Support, Meet the Company, Job Opportunities, Financial Info, and the Business Associates.
+<P>
+Feel free to wander around and explore our new site.
+On future visits to the QRS Pulse, look into "What's New" for a continuously updated list
+of new site elements.
+<P>
+</ul>
+</center>
+<img border=0 src=/images/pictures/rule.gif alt="line" width=554 height=2>
+<p>
+<center>
+<font size=1 face=arial>
+<font color=red face=arial><a href="/products/">|Product & Services|</font></a>
+<font color=red face=arial><a href="/news/">News & Events|</font></a>
+<font color=red face=arial><a href="/tech/">Technical Support|</font></a>
+<font color=red face=arial><a href="/financial/board.html">Meet the Company|</font></a>
+<font color=red face=arial><a href="/job/">Job Opps|</font></a>
+<font color=red face=arial><a href="/financial/">Financial Info|</font></a>
+<font color=red face=arial><a href="/bassociates/">Business Associates|</font></a><br>
+<font color=red face=arial><a href="/">|Back|</font></a>
+<font color=red face=arial><a href="http://www.qrsi.com/excite/at-internetquery.html">|Search|</font></a>
+<font color=red face=arial><a href="/sitemap/">Map|</font></a>
+<font color=red face=arial><a href="/whatsnew/">What's New|</font></a>
+<font color=red face=arial><a href="/products/">Products & Services|</font></a>
+</font>
+<br>
+<table width=80%>
+<tr><td width=100% align=center valign=middle>
+<font color=660000 face=arial size=-1><i>Copyright (c)QRS Corporation<br>
+Send your comments and suggestions to <a HREF=mailto:webmaster@qrsi.com>webmaster@qrsi.com</a></i>
+</font>
+<br>
+<font color=660000 size=1 face=arial>Last Updated 8-1-97<font>
+</td></table>
+<br>
+<br>
+</body>
+</html>

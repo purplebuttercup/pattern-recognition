@@ -1,0 +1,263 @@
+Server: Netscape-Commerce/1.12
+Date: Friday, 21-Nov-97 05:22:53 GMT
+Last-modified: Tuesday, 30-Sep-97 19:54:13 GMT
+Content-length: 19083
+Content-type: text/html
+
+<!-- Lotus InterNotes Web Publisher 4.0 -->
+<!--Copyright (c) 1995-1996 by Computer Language Research, Inc. All rights reserved.-->
+<html>
+<head>
+<title>Computer Language Research (CLR) / Fast-Tax / ACE / Rent Roll</title>
+<meta name="description" content="Computer Language Research, Inc. (CLR) / Fast-Tax tax software / ACE accounting software & practice management software / Rent Roll multifamily property management software">
+<meta name="keywords" content="1041,1065,1099,1120,990,accounting software,ace,ace forms,ace software,acesoftware,affordable property,apartment management software,applicant screening,audit software,axtell,bank trust tax software,bureaucratic buddy,business ties,client-server,client server,clr,clr professional software,clrps,computer language research, inc.,cpa software,cpe tracking,credit interfaces,crystal solutions,e-form,e form,easy go,easygo,ef haskell,eform,election statements,electronic forms,e. f. haskell,e.f. haskell,fast-tax,fast tax,fasttax,financial reporting software,financial statements,fixed asset software,form instructions,form software,go system,gosystem,hud compliance software,hud manager,hud software,hudmanager,in source,income tax software,information return,infospect,insite,insource,insurance income tax sotware,international income tax software,lihc,low income housing credit,low income housing tax credit,mcgladrey pullen,mcgladry pullen,microhud,multi-family,multi family,multifamily,on-site,onsite,payroll forms,payroll tax,pds,phps,practice advantage,practice management software,premium tax software,prentice hall professional software,project data systems,project scheduling,property management software,property tax software,rent roll,renter index,rentroll,resident screening,residential property,sales tax software,sec482,section 482,sei,sequel mcgladrey,software,software 1040,state tax forms,system 5,system5,tax compliance,tax credits,tax form software,tax software,tkr,tms,tops,transfer pricing software,trial balance software,trust tax software,trustease,vpm - tax credits,w-2,working trial balance,workpaper software,workpapers,write-file,write-up software,write file,write up,writeup">
+</head>
+<body  bgcolor=ffffff link=ff0000 vlink=800000 alink=008000><!--
+--><center><!--
+--><table border=0 cellspacing=0 cellpadding=0><!--
+--><tr align=left valign=top><!--
+--><td width=490><!--
+--><a href=/clr><img src=/home/business-software-services.jpg border=0 width=477 height=194 alt="CLR Business Software & Services"></a><!--
+--><p><!--
+--><table border=0 cellpadding=0 cellspacing=0>
+
+<!-- java ain't rite yet --
+<tr align=left valign=bottom>
+<td width=150><applet code=HiBut width=120 height=70><param name=normal value=/home/property-management-3.gif><param name=highlight value=/home/logo-rr-3.gif><param name=URL value=/rentroll></applet></td>
+<td width=20></td>
+<td width=150><applet code=HiBut width=120 height=70><param name=normal value=/home/tax-3.gif><param name=highlight value=/home/logo-ft-3.gif><param name=URL value=/fasttax></applet></td>
+<td width=20></td>
+<td width=150><applet code=HiBut width=120 height=70><param name=normal value=/home/accounting-3.gif><param name=highlight value=/home/logo-ace-3.gif><param name=URL value=/ace></applet></td>
+</tr>
+-->
+
+<tr align=center valign=bottom>
+<td width=150><a href=/rentroll><img src=/home/property-management-2.gif width=121 height=33 border=0 alt="Property Management"></a></td>
+<td width=20></td>
+<td width=150><a href=/fasttax><img src=/home/tax-2.gif width=64 height=11 border=0 alt="Tax"></a></td>
+<td width=20></td>
+<td width=150><a href=/ace><img src=/home/accounting-2.gif width=107 height=15 border=0 alt="Accounting"></a></td>
+</tr>
+
+<!-- spacer -- remove for java -->
+<tr align=left valign=top>
+<td width=150></td>
+<td width=20><img src=/graphics/xxxxxx.gif width=20 height=20></td>
+<td width=150></td>
+<td width=20><img src=/graphics/xxxxxx.gif width=20 height=20></td>
+<td width=150></td>
+</tr>
+<!--                                            -->
+
+<tr align=left valign=top><!--
+--><td width=150><!--
+--><a href=/rentroll>Rent Roll, Inc.</a> is the leading provider of on-site multifamily property management software and services. Rent Roll recently introduced <b>InSite</b>, an integrated suite of Windows multifamily property management software...it's <i>point &amp; click property management</i>!<!--
+--><p><center><a href=/rentroll><img src=/home/logo-rr-2.gif width=100 height=51 border=0 alt="Rent Roll"></a></center><!--
+--></td><!--
+--><td width=20></td><!--
+--><td width=150><!--
+--><a href=/fasttax>Fast-Tax</a> is the technology leader in professional tax software and services.<!--
+--><p><center><a href=/fasttax><img src=/home/logo-ft-2.gif width=120 height=21 border=0 alt="Fast-Tax"></a></center><!--
+--><p>Fast-Tax offers<!--
+--><p><img src=/home/bullet-red.gif width=4 height=13 align=top> <a href=/fa>GoSystem</a> for accounting firms<!--
+--><p><img src=/home/bullet-red.gif width=4 height=13 align=top> <a href=/fb>TrustEase</a> for bank trust departments<!--
+--><p><img src=/home/bullet-red.gif width=4 height=13 align=top> <a href=/fc>InSource</a> for corporations:<!--
+--><font size=-1><!--
+--><p><img src=/home/bullet-purple.gif width=4 height=9 align=top> Corporate income tax<!--
+--><br><img src=/home/bullet-purple.gif width=4 height=9 align=top> Insurance income tax<!--
+--><br><img src=/home/bullet-purple.gif width=4 height=9 align=top> Fixed assets<!--
+--><br><img src=/home/bullet-purple.gif width=4 height=9 align=top> Sales & use tax<!--
+--><br><img src=/home/bullet-purple.gif width=4 height=9 align=top> Premium tax<!--
+--><br><img src=/home/bullet-purple.gif width=4 height=9 align=top> Property tax<!--
+--><br><img src=/home/bullet-purple.gif width=4 height=9 align=top> 1099 preparation<!--
+--></font><!--
+--></td><!--
+--><td width=20></td><!--
+--><td width=150><!--
+--><a href=/ace>ACE</a> stands for <i>Automated Client Engagement</i>. ACE offers an integrated suite of Windows software for public accounting professionals. The ACE suite includes practice management, audit, trial balance, write-up, electronic forms, and more.<!--
+--><p><center><a href=/ace><img src=/home/logo-ace-1.gif width=56 height=69 border=0 alt="ACE"></a></center><!--
+--><p>Download ACE and take it for a test drive!<!--
+--><p><center><a href=/acedemo><img src=/home/how-sweet-it-is.jpg width=92 height=77 border=0 alt="How Suite It Is."></a></center><!--
+--></td><!--
+--></tr><!--
+--></table><!--
+--></td><!--
+--><td width=20><img src=/graphics/xxxxxx.gif width=20 height=20></td><!--
+--><td width=96 bgcolor=ffffcc><!--
+--><table border=0 cellpadding=15 cellspacing=0 bgcolor=ffffcc><tr align=left valign=top><td width=96><!--
+--><p><b>C</b>omputer<br><b>L</b>anguage<br><b>R</b>esearch<br>Inc.<!--
+--><font size=-1><!--
+--><p><i>...recognized<br>by </i><a href=//www.fasttrack.pcweek.com>PC Week</a><i><br>as a top<br>technology<br>innovator.</i><!--
+--><center><!--
+--><p><a href=//www.fasttrack.pcweek.com><img src=/home/pcweek.gif width=66 height=22 border=0 alt="http://www.fasttrack.pcweek.com"><!--
+--><br><img src=/home/fast-track-500.gif width=66 height=74 border=0 alt="http://www.fasttrack.pcweek.com"></a><!--
+--></font><!--
+--><p><a href=/cn><img src=/home/button-home-pressreleases.gif width=66 height=22 border=0 alt="Press releases"></a><!--
+--><p><a href=/ce><img src=/home/button-home-employment.gif width=66 height=22 border=0 alt="Employment"></a><!--
+--><p><a href=/search><img src=/home/button-home-search.gif width=66 height=22 border=0 alt="Search"></a><!--
+--><p><a href=/tech~wave><img src=/home/button-home-techwave.gif width=66 height=22 border=0 alt="Tech~Wave / What's New"></a><!--
+--><p><a href=/clr><img src=/home/button-home-aboutclr.gif width=66 height=22 border=0 alt="About CLR"></a><!--
+--><p><a href=/email><img src=/home/button-home-email.gif width=66 height=22 border=0 alt="E-Mail"></a><!--
+--><p>&nbsp;<!--
+--><p><a href=/irs><img src=/home/irs-summons-of-business-software-small-3.gif width=66 height=80 border=0 alt="IRS summons of Business Software"></a><!--
+--></center><!--
+--></td></tr></table><!--
+--></td><!--
+--></tr><!--
+--><tr align=left valign=top><!--
+--><td width=490>&nbsp;</td><!--
+--><td width=20>&nbsp;</td><!--
+--><td width=96>&nbsp;</td><!--
+--></tr><!--
+--><tr align=left valign=top><!--
+--><td width=490><img src=/graphics/000000.gif width=100% height=1></td><!--
+--><td width=20></td><!--
+--><td width=96></td><!--
+--></tr><!--
+--><tr align=left valign=top><!--
+--><td width=490>&nbsp;</td><!--
+--><td width=20>&nbsp;</td><!--
+--><td width=96>&nbsp;</td><!--
+--></tr><!--
+--><tr align=left valign=top><!--
+--><td width=490><!--
+--><font size=-1><p>Copyright &#169; 1995-1997, Computer Language Research, Inc. All rights reserved. CLR/Fast-Tax, Fast-Tax, InSource, System 5, and E-FORM are registered trademarks of Computer Language Research, Inc. Certain other names, logos, designs, titles, words, or phrases on this site may constitute trademarks, service marks, or tradenames of other entities which may be registered in certain jurisdictions. <b>THIS INFORMATION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, INCLUDING WITHOUT LIMITATION, ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR PARTICULAR PURPOSE OR NON-INFRINGEMENT.</b></font><!--
+--></td><!--
+--><td width=20></td><!--
+--><td width=96></td><!--
+--></tr><!--
+--><tr align=left valign=top><!--
+--><td width=490>&nbsp;</td><!--
+--><td width=20>&nbsp;</td><!--
+--><td width=96>&nbsp;</td><!--
+--></tr><!--
+--><tr align=left valign=top><!--
+--><td width=490><!--
+--><font size=-1>1997/09/30 01:44:48 PM CDT</font><!--
+--></td><!--
+--><td width=20></td><!--
+--><td width=96></td><!--
+--></tr><!--
+--></table><!--
+--></center>
+<h1><font color=ffffff><font size=1>1041</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>1065</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>1099</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>1120</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>990</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>accounting software</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>ace</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>ace forms</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>ace software</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>acesoftware</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>affordable property</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>apartment management software</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>applicant screening</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>audit software</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>axtell</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>bank trust tax software</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>bureaucratic buddy</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>business ties</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>client-server</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>client server</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>clr</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>clr professional software</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>clrps</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>computer language research, inc.</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>cpa software</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>cpe tracking</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>credit interfaces</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>crystal solutions</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>e-form</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>e form</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>easy go</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>easygo</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>ef haskell</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>eform</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>election statements</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>electronic forms</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>e. f. haskell</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>e.f. haskell</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>fast-tax</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>fast tax</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>fasttax</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>financial reporting software</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>financial statements</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>fixed asset software</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>form instructions</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>form software</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>go system</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>gosystem</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>hud compliance software</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>hud manager</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>hud software</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>hudmanager</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>in source</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>income tax software</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>information return</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>infospect</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>insite</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>insource</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>insurance income tax sotware</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>international income tax software</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>lihc</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>low income housing credit</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>low income housing tax credit</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>mcgladrey pullen</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>mcgladry pullen</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>microhud</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>multi-family</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>multi family</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>multifamily</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>on-site</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>onsite</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>payroll forms</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>payroll tax</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>pds</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>phps</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>practice advantage</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>practice management software</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>premium tax software</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>prentice hall professional software</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>project data systems</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>project scheduling</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>property management software</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>property tax software</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>rent roll</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>renter index</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>rentroll</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>resident screening</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>residential property</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>sales tax software</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>sec482</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>section 482</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>sei</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>sequel mcgladrey</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>software</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>software 1040</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>state tax forms</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>system 5</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>system5</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>tax compliance</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>tax credits</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>tax form software</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>tax software</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>tkr</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>tms</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>tops</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>transfer pricing software</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>trial balance software</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>trust tax software</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>trustease</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>vpm - tax credits</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>w-2</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>working trial balance</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>workpaper software</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>workpapers</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>write-file</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>write-up software</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>write file</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>write up</font></font></h1><p></p>
+<h1><font color=ffffff><font size=1>writeup</font></font></h1><p></p>
+</body>
+</html>

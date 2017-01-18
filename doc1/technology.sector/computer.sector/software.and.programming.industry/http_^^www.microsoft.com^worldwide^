@@ -1,0 +1,338 @@
+Server: Microsoft-IIS/3.0
+Date: Fri, 21 Nov 1997 05:17:42 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Mon, 03 Nov 1997 22:06:54 GMT
+Content-Length: 16619
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+
+<TITLE>Microsoft Worldwide Offices</TITLE>
+
+<META http-equiv="PICS-Label" content='(PICS-1.1 "http://www.rsac.org/ratingsv01.html" l gen true comment "RSACi North America Server" by "inet@microsoft.com" on "1997.06.30T14:48-0500" r (n 0 s 0 v 0 l 0))'>
+<META NAME="KEYWORDS" CONTENT="corporate information; addresses; phone numbers; telephone numbers; offices; Microsoft offices; international offices">
+<META NAME="DESCRIPTION" CONTENT=" A list of Microsoft’s world-wide subsidiaries with links to their contact information and Web sites.">
+<META NAME="MS.LOCALE" CONTENT="EN-US">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso8859-1">
+
+
+
+	<STYLE TYPE="text/css">
+	<!--
+	.8V {font-size: 8pt; font-family: verdana, arial, helvetica, sans-serif;}
+	.10V {font-size: 10pt; font-family: verdana, arial, helvetica, sans-serif;}
+	.sidebar {font-size: 8pt; font-weight:bold; text-decoration: none; color:"#000000"; font-family: verdana, arial, helvetica, sans-serif;}
+	.COPY {font-size: 8pt; color:"#000000"; font-family: verdana, arial, helvetica, sans-serif;}
+	A:link {text-decoration:none;}
+	-->
+	</STYLE>
+
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TOPMARGIN=0 LEFTMARGIN=0 TEXT="#000000" ALINK="#000000" LINK="#000000" VLINK="#000000">
+
+<!--TOOLBAR_START-->
+<SCRIPT LANGUAGE="javascript">
+<!--
+function turnRed() {
+	what = window.event.srcElement;
+	if (what.tagName == "IMG") {
+		what.src = what.src.substring(0,(what.src.indexOf(".gif"))) + "-red.gif";
+		window.event.cancelBubble = true;
+	}
+}
+
+function turnWhite () {
+	what = window.event.srcElement
+	if (what.tagName == "IMG") {
+		what.src = what.src.substring(0,(what.src.indexOf("-red.gif"))) + ".gif";
+		window.event.cancelBubble = true;
+	}
+}
+//-->
+</SCRIPT>
+
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0 bordercolor=yellow BGCOLOR=BLACK>
+<TR>
+<TD WIDTH=459 ROWSPAN=2 VALIGN=TOP NOWRAP onmouseover="turnRed()" onmouseout="
+turnWhite()"><NOBR><FONT FACE="Arial, Helvetica" SIZE=1><A HREF="/" TARGET="_top">
+<IMG SRC="/library/images/gifs/toolbar/home.gif" WIDTH=103 HEIGHT=21 
+ALT="Microsoft Home" BORDER=0></A><A HREF="/products/default.asp" 
+TARGET="_top"><IMG SRC="/library/images/gifs/toolbar/prod.gif" WIDTH=81 HEIGHT=21 
+ALT="Products" BORDER=0></A><A HREF="/search/default.asp" target="_top"><IMG 
+SRC="/library/images/gifs/toolbar/search.gif" WIDTH=68 HEIGHT=21 ALT="Search" 
+BORDER=0></A><A HREF="/Support/" TARGET="_top"><IMG SRC="/library/images/gifs/toolbar/support.gif" WIDTH=74 HEIGHT=21 ALT="support" BORDER=0></A><A HREF="/referral/shopdefault.asp" TARGET="_top"><IMG SRC="/library/images/gifs/toolbar/shop.gif" WIDTH=55 HEIGHT=21 ALT="Shop" BORDER=0></A><A HREF="/regwiz/regwiz.asp" 
+TARGET="_top"><IMG SRC="/library/images/gifs/toolbar/write.gif" WIDTH=78 HEIGHT=21 
+ALT="Write Us" BORDER=0></A></FONT></NOBR></TD>
+
+<TD BGCOLOR="#000000" WIDTH=100% HEIGHT=20><IMG SRC="/library/images/gifs/homepage/1ptrans.gif" WIDTH=1 HEIGHT=1 ALT="" BORDER=0></TD>
+<TD WIDTH=91 ROWSPAN=2 ALIGN=RIGHT VALIGN=TOP><FONT FACE="Arial, Helvetica" 
+SIZE=1><A HREF="/" TARGET="_top"><IMG SRC="/library/images/gifs/toolbar/msft.gif" 
+WIDTH=91 HEIGHT=21 ALT="Microsoft Home" BORDER=0></A></FONT></TD>
+</TR>
+<TR>
+<TD BGCOLOR="#FFFFFF" WIDTH=100% HEIGHT=1>
+</TD>
+</TR>
+</TABLE>
+<!--TOOLBAR_END-->
+
+<!-- CONTENT START -->
+<BASEFONT FACE="Verdana, Arial, Helvetica">
+
+<TABLE CELLPADDING=0 CELLSPACING=0 WIDTH=602 BORDER=0>
+
+<TR><!-- spacer row - specify all others with colspan or rowspan-->
+<!--1--><TD WIDTH=132><IMG SRC="/library/images/gifs/homepage/1ptrans.gif" WIDTH=132 HEIGHT=1 ALT="" BORDER=0></TD>
+<!--2--><TD WIDTH=1><IMG SRC="/library/images/gifs/homepage/1ptrans.gif" WIDTH=1 HEIGHT=1 ALT="" BORDER=0></TD>
+<!--3--><TD WIDTH=9><IMG SRC="/library/images/gifs/homepage/1ptrans.gif" WIDTH=9 HEIGHT=1 ALT="" BORDER=0></TD>
+<!--4--><TD WIDTH=110><IMG SRC="/library/images/gifs/homepage/1ptrans.gif" WIDTH=110 HEIGHT=1 ALT="" BORDER=0></TD>
+<!--5--><TD WIDTH=12><IMG SRC="/library/images/gifs/homepage/1ptrans.gif" WIDTH=12 HEIGHT=1 ALT="" BORDER=0></TD>
+<!--6--><TD WIDTH=48><IMG SRC="/library/images/gifs/homepage/1ptrans.gif" WIDTH=48 HEIGHT=1 ALT="" BORDER=0></TD>
+<!--7--><TD WIDTH=10><IMG SRC="/library/images/gifs/homepage/1ptrans.gif" WIDTH=10 HEIGHT=1 ALT="" BORDER=0></TD>
+<!--8--><TD WIDTH=172><IMG SRC="/library/images/gifs/homepage/1ptrans.gif" WIDTH=172 HEIGHT=1 ALT="" BORDER=0></TD>
+<!--9--><TD WIDTH=10><IMG SRC="/library/images/gifs/homepage/1ptrans.gif" WIDTH=10 HEIGHT=1 ALT="" BORDER=0></TD>
+<!--10--><TD WIDTH=98><IMG SRC="/library/images/gifs/homepage/1ptrans.gif" WIDTH=98 HEIGHT=1 ALT="" BORDER=0></TD>
+</TR>
+
+<TR>
+<!--lefthand_navigation_column-->
+<TD   BGCOLOR="#6699cc"  VALIGN=TOP ROWSPAN=10 HEIGHT=90%>
+<IMG SRC="/library/images/gifs/reimages/004.gif" WIDTH=132 HEIGHT=68 ALT="" BORDER=0><BR>
+<BR>
+<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>
+
+
+<CENTER>
+ 	<FORM ACTION="/isapi/redir.dll" TARGET="_top">
+    <SELECT NAME="Target" MULTIPLE SIZE=4>
+	
+	<!---COUNTRY DROPDOWN START--->
+<OPTION VALUE="/argentina/">Argentina
+<OPTION VALUE="/australia/">Australia
+<OPTION VALUE="/austria/">Austria
+<OPTION VALUE="/belgium/">Belgium
+<OPTION VALUE="/brasil/">Brazil
+<OPTION VALUE="/canada/">Canada
+<OPTION VALUE="/caribbean/">Caribbean
+<OPTION VALUE="/chile/">Chile
+<OPTION VALUE="/china/">China
+<OPTION VALUE="/colombia/">Colombia
+<OPTION VALUE="/cze/">Czech Republic
+<OPTION VALUE="/danmark/">Denmark
+<OPTION VALUE="/europe/">Europe
+<OPTION VALUE="/finland/">Finland
+<OPTION VALUE="/France/">France
+<OPTION VALUE="/germany/">Germany
+<OPTION VALUE="/hellas/">Greece
+<OPTION VALUE="/hk/">Hong Kong
+<OPTION VALUE="/hun/">Hungary
+<OPTION VALUE="/india/">India
+<OPTION VALUE="/ireland/">Ireland
+<OPTION VALUE="/israel/">Israel
+<OPTION VALUE="/italy/">Italy
+<OPTION VALUE="/japan/">Japan
+<OPTION VALUE="/korea/">Korea
+<OPTION VALUE="/latam/">Latin America
+<OPTION VALUE="/belgium/">Luxemburg
+<OPTION VALUE="/mexico/">Mexico
+<OPTION VALUE="/middleeast/">Middle East
+<OPTION VALUE="/netherlands/">Netherlands
+<OPTION VALUE="/nz/">New Zealand
+<OPTION VALUE="/northafrica/">North Africa
+<OPTION VALUE="/norge/">Norway
+<OPTION VALUE="/peru/">Peru
+<OPTION VALUE="/poland/">Poland
+<OPTION VALUE="/portugal/">Portugal
+<OPTION VALUE="/rus/">Russia
+<OPTION VALUE="/slovakia/">Slovakia
+<OPTION VALUE="/slovenija/">Slovenija
+<OPTION VALUE="/southafrica/">South Africa
+<OPTION VALUE="/spain/">Spain
+<OPTION VALUE="/sverige/">Sweden
+<OPTION VALUE="/switzerland/">Switzerland
+<OPTION VALUE="/taiwan/">Taiwan
+<OPTION VALUE="/thailand/">Thailand
+<OPTION VALUE="/turkey/">Turkey
+<OPTION VALUE="/uk/">United Kingdom
+<OPTION VALUE="/usa/">United States
+<OPTION VALUE="/uruguay/">Uruguay
+<OPTION VALUE="/venezuela/">Venezuela
+<!---COUNTRY DROPDOWN END--->
+	</SELECT>
+	<P>
+	<INPUT TYPE=IMAGE SRC="/library/images/gifs/homepage/enter.gif" WIDTH=89 HEIGHT=20 BORDER=0 ALT="Worldwide Sites - Submit">       
+	</FORM>
+</CENTER>
+
+
+<BR><IMG SRC="/library/images/gifs/homepage/1ptrans.gif" WIDTH=1 HEIGHT=5 ALT="" BORDER=0><BR>
+
+</FONT>
+</TD>
+
+<!-- spacer column -->
+<TD ROWSPAN=10 BGCOLOR="#003399"><IMG SRC="/library/images/gifs/homepage/1ptrans.gif" WIDTH=1 HEIGHT=1 ALT="" BORDER=0></TD>
+
+<!-- spacer column -->
+<TD ROWSPAN=10><IMG SRC="/library/images/gifs/homepage/1ptrans.gif" WIDTH=1 HEIGHT=1 ALT="" BORDER=0></TD>
+
+<TD COLSPAN=5>
+<IMG SRC="/library/images/gifs/reimages/mttl_wwoffices.gif" WIDTH=337 HEIGHT=68 ALT="Worldwide Offices" BORDER=0>
+</TD>
+
+<!-- spacer column -->
+<TD><IMG SRC="/library/images/gifs/homepage/1ptrans.gif" WIDTH=1 HEIGHT=1 ALT="" BORDER=0></TD>
+
+
+<TD>
+<FONT CLASS=8V FACE="Verdana, Arial, Helvetica" SIZE=1>
+<IMG SRC="/library/images/gifs/homepage/1ptrans.gif" WIDTH=1 HEIGHT=1 ALT="" BORDER=0>
+</FONT>
+</TD>
+</TR>
+
+<TR>
+<TD COLSPAN=5>
+
+</TD>
+
+<!-- spacer column -->
+<TD ROWSPAN=2><IMG SRC="/library/images/gifs/homepage/1ptrans.gif" WIDTH=1 HEIGHT=1 ALT="" BORDER=0></TD>
+
+
+<!--righthand_side_column-->
+<TD VALIGN=TOP ROWSPAN=2>
+
+
+<IMG SRC="/library/images/gifs/homepage/1ptrans.gif" WIDTH=1 HEIGHT=1 ALT="" BORDER=0>
+</FONT>
+</TD>
+</TR>
+
+
+
+<TR>
+
+
+<!--main content cell-->
+	<TD COLSPAN=5 VALIGN=TOP>
+	<FONT CLASS=10V FACE="Verdana, Arial, Helvetica" SIZE=2>
+	<IMG SRC="/library/images/gifs/homepage/1ptrans.gif" WIDTH=1 HEIGHT=10 ALT="" BORDER=0><BR>
+	<B>For information about Microsoft offices worldwide, click on a region.<BR></B><BR>
+	
+	<IMG SRC="/library/images/gifs/worldwide/world.gif" USEMAP="#Worldwide" ALIGN=LEFT WIDTH=438 HEIGHT=230 ALT="World Imagemap" BORDER=0>
+<IMG SRC="/library/images/gifs/homepage/1ptrans.gif" WIDTH=1 HEIGHT=10 ALT="" BORDER=0><BR>
+<BR CLEAR=ALL>
+<BR>
+<IMG SRC="/library/images/gifs/homepage/1ptrans.gif" WIDTH=1 HEIGHT=10 ALT="" BORDER=0>
+	</FONT>
+<FONT FACE=ARIAL SIZE=2 STYLE="font-size:8pt; font-family:verdana, arial, helvetica;">
+The following text alternative links are provided for browsers that have problems 
+displaying imagemaps:
+<P>
+
+<FONT CLASS=6V FACE="Verdana, Arial, Helvetica" SIZE=1>
+	  <A HREF="/worldwide/phone/ph_amme.htm">| Africa, Mediterranean, Middle East HQ</A>| 
+	  <A HREF="/worldwide/phone/ph_arg.htm">Argentina</A>| 
+          <A HREF="/worldwide/phone/ph_apac.htm">Asia Pacific HQ</A> | 
+          <A HREF="/worldwide/phone/ph_austr.htm">Austria</A>| <BR>
+          <A HREF="/worldwide/phone/ph_aussi.htm">| Australia</A>|
+          <A HREF="/worldwide/phone/ph_belg.htm">| Belgium & Luxemburg</A>|
+          <A HREF="/worldwide/phone/ph_braz.htm">Brazil</A>| 
+          <A HREF="/worldwide/phone/ph_can.htm">Canada</A>|
+          <A HREF="/worldwide/phone/ph_carr.htm">Caribbean</A> |
+          <A HREF="/worldwide/phone/ph_chile.htm">Chile</A> | 
+          <A HREF="/worldwide/phone/ph_china.htm">China</A>|<BR>
+          <A HREF="/worldwide/phone/ph_colum.htm">|Colombia</A> | 
+          <A HREF="/worldwide/phone/ph_czech.htm">Czech Republic</A| 
+          <A HREF="/worldwide/phone/ph_denmk.htm">Denmark, Iceland</A> | 
+          <A HREF="/worldwide/phone/ph_ecuad.htm">Ecuador</A> | 
+	  <A HREF="/worldwide/phone/ph_egypt.htm">Egypt</A> | <BR>
+          <A HREF="/worldwide/phone/ph_euro.htm">|European Headquarters</A>| 
+          <A HREF="/worldwide/phone/ph_fnlnd.htm">Finland</A>|
+          <A HREF="/worldwide/phone/ph_fran.htm">France, French Polynesia</A> | 
+          <A HREF="/worldwide/phone/ph_germ.htm">Germany</A> | <BR>
+          <A HREF="/worldwide/phone/ph_gree.htm">|Greece</A>|
+          <A HREF="/worldwide/phone/ph_hongk.htm">Hong Kong, Macau</A> |
+          <A HREF="/worldwide/phone/ph_hung.htm">Hungary</A> |
+          <A HREF="/worldwide/phone/ph_india.htm">India</A> |
+          <A HREF="/worldwide/phone/ph_indon.htm">Indonesia</A> |
+          <A HREF="/worldwide/phone/ph_irlnd.htm">Ireland</A> |
+          <A HREF="/worldwide/phone/ph_israe.htm">Israel</A> | <BR>
+          <A HREF="/worldwide/phone/ph_italy.htm">|Italy</A> | 
+          <A HREF="/worldwide/phone/ph_japan.htm">Japan</A> | 
+          <A HREF="/worldwide/phone/ph_korea.htm">Korea</A> | 
+          <A HREF="/worldwide/phone/ph_LA_hq.htm">Latin America HQ</A> | 
+          <A HREF="/worldwide/phone/ph_malay.htm">Malaysia</A> | 
+          <A HREF="/worldwide/phone/ph_meast.htm">Middle East</A> | 
+          <A HREF="/worldwide/phone/ph_mex.htm">Mexico</A> | <BR>
+          <A HREF="/worldwide/phone/ph_morro.htm">|Morocco</A> | 
+          <A HREF="/worldwide/phone/ph_nethr.htm">Netherlands</A> | 
+          <A HREF="/worldwide/phone/ph_norwy.htm">Norway</A> | 
+          <A HREF="/worldwide/phone/ph_nzeal.htm">New Zealand</A> | 
+          <A HREF="/worldwide/phone/ph_peru.htm">Peru</A> | 
+          <A HREF="/worldwide/phone/ph_polnd.htm">Poland</A> | 
+          <A HREF="/worldwide/phone/ph_phili.htm">Philippines</A> | <BR>
+          <A HREF="/worldwide/phone/ph_port.htm">|Portugal</A> | 
+          <A HREF="/worldwide/phone/ph_russ.htm">Russia (C.I.S.)</A> | 
+		  <A HREF="/worldwide/phone/ph_saudi.htm">Saudi Arabia</A> | 
+          <A HREF="/worldwide/phone/ph_slovak.htm">Slovak Republic</A> | 
+          <A HREF="/worldwide/phone/ph_slova.htm">Slovenia</A> | <BR>
+          <A HREF="/worldwide/phone/ph_safr.htm">|South Africa</A> | 
+          <A HREF="/worldwide/phone/ph_sing.htm">Singapore</A> | 
+          <A HREF="/worldwide/phone/ph_spain.htm">Spain</A> | 
+          <A HREF="/worldwide/phone/ph_swede.htm">Sweden</A> | 
+          <A HREF="/worldwide/phone/ph_switz.htm">Switzerland</A> | <BR>
+          <A HREF="/worldwide/phone/ph_taiwn.htm">|Taiwan (Republic of China)</A> | 
+          <A HREF="/worldwide/phone/ph_thai.htm">Thailand</A> | 
+          <A HREF="/worldwide/phone/ph_turk.htm">Turkey</A> | 
+		  <A HREF="/worldwide/phone/ph_urg.htm">Uruguay</A> |<BR> 
+          <A HREF="/worldwide/phone/ph_uk.htm">|UK (England, Ireland, Scotland, Wales)</A> | 
+          <A HREF="/usa/default2.htm">United States of America</A> |  <BR>
+          <A HREF="/worldwide/phone/ph_venez.htm">|Venezuela</A> 
+          <A HREF="/worldwide/phone/ph_vietn.htm">|Vietnam</A> | 
+</FONT>
+<P>
+<MAP NAME="Worldwide">
+<!-- #$-:Image Map file created by Map THIS! -->
+<!-- #$-:Map THIS! free image map editor by Todd C. Wilson -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:1.20 -->
+<!-- #$DATE:Wed Jul 09 13:35:52 1997 -->
+<!-- #$PATH:/worldwide/
+<!-- #$GIF:world.gif -->
+<AREA SHAPE=POLY COORDS="132,38,139,50,139,59,134,64,125,64,103,75,93,86,102,93,114,101,113,104,109,108,87,107,91,115,83,125,37,100,27,69,34,53,28,46,1,50,0,36,24,15,47,14,64,16,81,8,103,10,112,2,146,3,173,1,194,4,196,9,187,14,184,19,172,27,162,30,155,40,138,32,132,38" HREF=/worldwide/msnortham.htm>
+<AREA SHAPE=POLY COORDS="94,110,110,111,128,120,157,140,156,149,149,156,146,171,138,175,126,196,120,203,122,211,121,215,128,221,123,226,112,224,102,216,94,164,78,139,80,129,88,121,91,114,94,110" HREF=/worldwide/mssoutham.htm>
+<AREA SHAPE=POLY COORDS="312,13,283,3,275,4,274,9,262,13,239,16,215,14,200,24,187,21,179,21,176,27,180,34,184,43,182,55,182,73,198,71,207,67,218,74,233,77,243,74,250,65,256,65,261,65,264,61,269,64,275,63,282,57,282,52,286,50,293,53,300,45,310,45,311,36,314,24,312,13" HREF=/worldwide/mseurope.htm>
+<AREA SHAPE=POLY COORDS="315,18,314,14,325,12,348,13,375,17,390,17,404,29,407,36,399,42,399,54,394,58,391,53,393,72,394,79,373,91,386,123,396,126,405,131,394,147,385,143,373,152,348,147,333,126,327,113,323,114,322,123,315,129,300,110,292,97,292,94,301,95,301,93,308,88,306,83,312,84,311,78,315,76,309,72,305,72,300,71,290,71,286,66,283,66,278,68,278,66,281,58,282,51,287,50,293,55,299,48,301,45,312,46,312,36,316,21,315,14,315,13,321,13,316,15,315,18" HREF=/worldwide/msasia.htm>
+<AREA SHAPE=POLY COORDS="407,131,420,135,425,139,424,144,417,146,419,153,409,154,417,171,417,179,431,178,440,186,428,203,416,199,416,192,400,197,392,208,385,205,379,191,354,196,351,186,351,165,370,155,386,146,394,147,407,131" HREF=/worldwide/msaustralia.htm>
+<AREA SHAPE=POLY COORDS="277,117,272,130,261,142,263,147,272,146,276,152,278,160,267,179,258,178,256,171,242,192,220,192,208,160,211,142,203,129,187,132,168,110,168,89,182,73,199,70,206,65,220,74,234,76,246,72,250,65,258,63,264,65,264,60,272,63,277,61,284,66,291,70,301,71,309,71,318,76,312,78,313,83,308,82,309,87,303,91,299,96,293,93,287,95,285,105,277,111,276,119,277,117" HREF=/worldwide/msafrica.htm>
+<AREA SHAPE=default HREF=/worldwide/newdefault.htm>
+</MAP>
+
+	</TD>
+</TR>
+
+</TABLE>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 WIDTH=100% BORDER=0>
+<TR>
+<TD BGCOLOR="#6699CC" WIDTH=132><IMG SRC="/library/images/gifs/homepage/1ptrans.gif" WIDTH=132 HEIGHT=1 ALT="" BORDER=0></TD>
+<TD BGCOLOR="#6699CC" VALIGN=MIDDLE>
+<FONT FACE="Verdana, Arial, Helvetica" SIZE=1>
+<CENTER>
+<IMG SRC="/library/images/gifs/homepage/1ptrans.gif" WIDTH=1 HEIGHT=20 ALT="" BORDER=0 ALIGN=MIDDLE>
+<A STYLE="text-decoration:underline;" HREF="/misc/cpyright.htm">&#169; 1997 Microsoft Corporation. All rights reserved. Terms of Use.</A> 
+Last Updated: September 25, 1997<BR>
+</CENTER>
+</FONT>
+</TD>
+</TR>
+</TABLE>
+
+
+</BODY>
+</HTML>                                                                                                                                                                                                                                                                                                     

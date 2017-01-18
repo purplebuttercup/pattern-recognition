@@ -1,0 +1,195 @@
+Server: Netscape-Enterprise/2.0a
+Date: Thu, 18 Dec 1997 11:01:54 GMT
+Content-type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+
+<HTML>
+<!-- 
+Modified 09/05/97 - Holly 
+-->
+<HEAD>
+<META NAME="KEYWORDS" CONTENT="retirement, 'retirement investing',
+                              'retirement planning', 'retirement plans',
+                              'mutual fund', '401K plans', '401(k) plans',
+                              'saving', investing, 'risk vs. return',
+                              'asset allocation', diversification, rollover">
+                              
+<TITLE>Welcome To T. Rowe Price</TITLE>
+<!--
+Scripted by Mark 09/04/97
+-->
+<SCRIPT LANGUAGE="JavaScript">
+
+
+function RandomImageLink(images,urls,iparams) {
+// function parameters:
+// images = space or comma separated file list
+// urls = space or comma separated list of url's
+// iparams = params to add to <img> tag
+//
+// variables:
+// si: start index 
+// i: current index
+// ei: end index
+// cc: current count
+
+        imageSet = new Array();
+        urlSet   = new Array();
+        var si   = 0; 
+        var ci   = 0;
+        var cc   = 0;
+        var ei   = images.length;
+        for (i = 1; i < ei; i++) {
+                if (images.charAt(i) == ' ' || images.charAt(i) == ',') {
+                        imageSet[cc] = images.substring(si,i);
+                        cc++;
+                        si=i+1;
+                }
+        }
+        ind     = Math.floor(Math.random() *cc);
+        si      = 0; 
+        ci      = 0;
+        cc      = 0;
+        ei      = urls.length;
+        for (i = 1; i < ei && cc <= ind; i++) {
+                if (urls.charAt(i) == ' ' || urls.charAt(i) == ',') {
+                        urlSet[cc] = urls.substring(si,i);
+                        cc++;
+                        si=i+1;
+                        }
+                }
+
+//document.writeln("<img "+iparams+" src="+imageSet[ind]+" alt=\""+imageSet[ind]+"\">");
+        document.writeln("<A HREF=\""+urlSet[ind]+"\"><IMG "+iparams+" src="+imageSet[ind]+" ALT=\""+imageSet[ind]+"\"></A>");
+}
+
+</SCRIPT>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+
+<TABLE CELLSPACING="5" CELLPADDING="5" border="0">
+<TR>
+<TD VALIGN="TOP" ALIGN="MIDDLE">
+
+<A HREF="/newira/index.html"><IMG SRC="/images/redira.gif" border="0" alt="New Tax Law Changes"></A><BR>
+<A HREF="/aalink/aamain.html"><IMG SRC="/images/acct.gif" BORDER="0" alt="Account Access"></A><BR>
+<A HREF="/prospectus.html"><IMG SRC="/images/downpro.gif" BORDER="0" alt="Download a Prospectus"></A><BR>
+<A HREF="/funds/price/"><IMG SRC="/images/dprice.gif" BORDER="0" alt="Daily Prices"></A><BR>
+<A HREF="/funds/perf"><IMG SRC="/images/fundperf.gif" BORDER="0" alt="Fund Performance"></A><BR>
+<a href="brokerage/index.html"><img src="/images/disbroke.gif" border="0" alt="Discount Brokerage"></A><BR>
+<A HREF="/interspot/index.html"><IMG SRC="/images/intinv.gif" BORDER="0" alt="International Investing"></A><BR>
+<A HREF="/about/info.html"><IMG src="/images/relit.gif" BORDER="0" alt="Request Literature"></A><BR>
+<A HREF="/about/index.html"><IMG src="/images/aboutr.gif" BORDER="0" alt="About T. Rowe Price"></A><BR>
+<!-- *****************************************
+<A HREF="/search/"><IMG SRC="/images/trsearch.gif" BORDER="0" alt="Search"></A><BR>
+********************************************** -->
+<A HREF="http://rps.troweprice.com"><img src="/images/decret.gif" border="0" alt="decisions: Retirement Plans at Work"><BR></A>
+</TD>
+
+<TD VALIGN="TOP">
+<CENTER>
+<A HREF="/maps/home_trowe1.gif.map"><IMG ALIGN="CENTER" WIDTH="301" HEIGHT="256" SRC="/images/hdrMain.gif" BORDER="0" ISMAP></A><BR>
+</CENTER>
+
+<FORM ACTION="/cgi-bin/funds/trowe.cgi" METHOD="POST">
+<BLOCKQUOTE>
+
+<A HREF="/watch/index.html"><IMG HSPACE="0"  WIDTH=85 HEIGHT=91 SRC="/images/watchlist.gif" BORDER="0" ALIGN="RIGHT" VSPACE="0"></A>
+
+For customized T. Rowe Price fund information, <A HREF="signup.html">register</A> now and create your own Watch List.  Watch Lists are updated daily and available 24 hours a day.
+<P>
+
+<TABLE BORDER="0">
+<TR><TD COLSPAN="2">
+If you've already registered, check your Watch List by entering your
+</TD></TR>
+
+<TR><TD WIDTH="15%">
+E-mail address:
+</TD><TD>
+<INPUT TYPE="TEXT" NAME="email" VALUE="" SIZE="30"><INPUT TYPE="HIDDEN" NAME="VIEW" VALUE="1">
+</TD></TR>
+
+<TR><TD WIDTH="15%">
+and password:
+</TD><TD>
+<INPUT TYPE="PASSWORD" NAME="password" SIZE="30">
+</TD></TR>
+
+<TR><TD WIDTH="15">
+then
+</TD><TD>
+ <INPUT TYPE="SUBMIT" VALUE="Enter Your Watchlist">
+</TD></TR></TABLE>
+<P>
+
+<CENTER>
+ <A HREF="/funds/pswdreq.html"><I>Did you forget your password?</I></A>.
+</CENTER>
+ </BLOCKQUOTE>
+</FORM>
+<!-- ****************************************************************** -->
+<CENTER>
+<A HREF="/tebcalculator/main.html"><IMG SRC="/images/teb1.gif" BORDER="0" VALIGN="TOP" HALIGN="TOP"></A>
+</CENTER>
+<!-- ****************************************************************** -->
+<P>
+
+<BLOCKQUOTE>
+<b>For timely, high-quality information to help you make informed decisions, be sure to visit frequently.</i>
+<P>
+
+Fund profiles, <A HREF="/funds/price/">daily prices</A>, and <A HREF="/funds/perf/">performance information</A> including yields can be found in <A HREF="/mutual/index.html">Mutual Fund Information</A>.
+<P>
+
+<A HREF="/prospectus.html">Download</A> a fund prospectus or <A HREF="/about/info.html">request</A> a prospectus, planning guide, retirement plan information, or other T. Rowe Price literature by mail.
+<P>
+
+For frequent market updates and free stock quotes, go to <A HREF="/news/index.html">What's News</A>.
+<P>
+
+Determine how much to save and which retirement plan or account is right for you or your business in <A HREF="/retirement/index.html">Retirement Planning</A>.
+<P>
+
+Explore our convenient <A HREF="/brokerage/index.html">Discount Brokerage</A>* services and try out our <A HREF="/brokerage/calc.html">commission calculator</A> to see how much you could save on
+commissions.
+<P>
+
+Feel free to review <A HREF="/about/index.html">about T. Rowe Price</A> to learn more about our company products and services.
+<P>
+
+We hope this site serves as a valuable investment resource and we welcome any <A HREF="/about/email3.html">feedback</A> or comments. If you have questions about T. Rowe Price funds or services, please <A HREF="/about/email.html">E-mail</A> us. Also see our <A HREF="/about/faq.html">FAQs</A> for answers to the most frequently asked questions.
+<P>
+
+<A NAME="FYI"><IMG  WIDTH=66 HEIGHT=61 SRC="/images/fyi_button.gif" BORDER="0" ALIGN="RIGHT" VSPACE="7" HSPACE="7"></A>
+
+<!--this is it-->
+The earliest you can begin collecting Social Security benefits is age 62, but the amount of the benefit would be permanently reduced by 20% compared with the benefits paid at age 65. Starting in the year 2000, the age at which full Social Security benefits are payable-and the discount for early retirement-will be increased for anyone born after 1937.
+
+<P>
+<!--this is it-->
+<P>
+
+*<FONT SIZE="-1"><I>T. Rowe Price Discount Brokerage is a division of T. Rowe Price Investment Services, Inc. Member NASD/SIPC. Accounts carried by BHC Securities, Inc. Member NYSE/SIPC</I></FONT>
+<P>
+
+<FONT SIZE="-1"><I>Each of the mutual funds referred to in the T. Rowe Price Web site may be offered only to persons in the United States.  This Website should not be considered a solicitation or offering of shares of the Price funds to investors residing outside the United States.  Each mutual fund is described in a prospectus that contains more complete information about the fund, including management fees and other charges and expenses. Request a <A HREF="/prospectus.html">prospectus</A> and read it carefully before you invest or send money. Please <A HREF="/about/email.html">E-mail</A> or call us at 1-800-541-8803 to <A HREF="/about/info.html">obtain a free paper copy of any prospectus</A>.</I></FONT>
+<P>
+
+<CENTER>
+<B>This site is best viewed by using the latest version of:</B>
+<P>
+
+<A HREF="http://home.netscape.com/download/index.html?cp=bdowau"><IMG BORDER="1" SRC="/images/btn_Netscape.gif"></A><B> or </B><A HREF="http://206.204.65.109/cgi-bin/ieitar.pl"><IMG BORDER="0" SRC="/images/ani_btn_msie30.gif"></A>
+<P>
+
+<FONT SIZE="-1"><I>Copyright 1996, 1997, T. Rowe Price Investment Services, Inc., Distributor. All rights reserved. T. Rowe Price, Tele*Access, and T. Rowe Price "Invest with Confidence" are registered trademarks of T. Rowe Price Associates, Inc.<BR>
+All other registered trademarks are the property of their respective owners.</I></FONT>
+</CENTER>
+</BLOCKQUOTE>
+</TD></TR></TABLE>
+<BR CLEAR="ALL">
+
+</BODY>
+</HTML>

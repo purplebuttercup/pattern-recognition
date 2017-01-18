@@ -1,0 +1,91 @@
+Date: Thu, 20 Nov 1997 22:34:38 GMT
+Server: Apache/1.2.4
+Last-Modified: Mon, 13 Oct 1997 16:27:13 GMT
+ETag: "8521e-716-34424be1"
+Content-Length: 1814
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>Kaiser Aluminum Corporation</TITLE>
+</HEAD>
+
+<BODY TEXT="#000000" LINK="#3E6067" VLINK="#55848E" ALINK="#92B7BE"
+BGCOLOR="#FFFFFF">
+
+<CENTER>
+<TABLE BORDER=0 WIDTH="450">
+<TR>
+<TD VALIGN="TOP">
+
+<!----------Home picture and graphic menu-->
+
+<IMG SRC="./gifs/home1.gif" ALT="Kaiser Aluminum Corporation" ALIGN=TOP WIDTH="450" HEIGHT="180" BORDER="0">
+<A HREF="kaonlin2.map">
+<IMG SRC="./gifs/home2.gif" ISMAP ALIGN=TOP WIDTH="450" HEIGHT="71" BORDER="0"></A>
+
+
+<!----------Copy begins here------------->
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD VALIGN="TOP">
+<IMG SRC="./gifs/spacer.gif" ALIGN=BOTTOM WIDTH="40" HEIGHT="1" BORDER="0"></TD>
+
+
+<TD VALIGN="TOP">
+<!--Copy begins with initial:-->
+&nbsp;<BR>
+<FONT SIZE="+1">
+<IMG SRC="./gifs/w.gif" ALIGN=BOTTOM WIDTH="30" HEIGHT="25" BORDER="0">
+elcome to Kaiser Online, the World Wide Web Site of Kaiser Aluminum Corporation, one of the
+world's leading producers and marketers of alumina, primary aluminum, and fabricated aluminum
+products. <BR>
+</FONT>
+</TD></TR>
+
+
+
+<!----------Bottom banner and signature:-->
+
+<TR>
+<TD VALIGN="TOP" COLSPAN="2">
+&nbsp;<BR><P>
+<IMG SRC="./gifs/homebar.gif" ALIGN=TOP WIDTH="450" HEIGHT="16" BORDER="0" ></TD></TR>
+<TR>
+
+<TD>&nbsp;</TD>
+<TD VALIGN="TOP">
+<IMG SRC="./gifs/spacer.gif" ALIGN=BOTTOM WIDTH="1" HEIGHT="15" BORDER="0"><BR>
+<A HREF="index.html">Home</A> | 
+<A HREF="news01.htm">News</A> | 
+<A HREF="ovw01.htm">Overview</A> | 
+<A HREF="oper01.htm">Operations</A> | 
+<A HREF="fcl01.htm">Financials</A>
+<P>
+
+<FONT SIZE="-1">
+Last update: October 10, 1997<BR>
+<BR>
+Kaiser&reg; is a registered trademark of Kaiser Aluminum & Chemical Corporation <BR>
+&copy; 1997 Kaiser Aluminum & Chemical Corporation</FONT>
+</TD></TR>
+</TABLE>
+
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+
+</BODY>
+</HTML>
+
+
+
+
+
+
+
+

@@ -1,0 +1,88 @@
+Date: Mon, 29 Dec 1997 20:17:44 GMT
+Server: Apache/1.1.2
+Content-type: text/html
+Content-length: 2622
+Last-modified: Tue, 28 Oct 1997 21:16:55 GMT
+
+<html><head><title>Donnelley Enterprise Solutions Incorporated - DESI</title></head>
+
+<body bgcolor="#FFFFFF" link=009999
+text=000000 alink=66cccc vlink=336666>
+
+<MAP NAME="desi">
+<AREA COORDS="266, 35, 364, 65" HREF="about/index.html">
+<AREA COORDS="290, 72, 419, 100" HREF="resource/index.html">
+<AREA COORDS="292, 118, 419, 148" HREF="solutions/index.html">
+<AREA COORDS="271, 155, 387, 181" HREF="career/index.html">
+
+</MAP>
+
+
+<center>
+<img src="../images/dez.gif"><img src="../images/tag.gif" vspace=5><br 
+clear=all>
+<table border=0 align=center>
+
+<tr>
+
+
+</tr>
+
+<tr>
+<td valign=top align=center>
+
+<a href="about/index.html"><img src="images/xabout.gif" border=0 
+vspace=10></a><br clear=all>
+<a href="solutions/index.html"><img src="images/xsol.gif" border=0 
+hspace=10></a><img src="images/main.gif" border=0><a 
+href="resource/index.html"><img 
+src="images/xres.gif" border=0 hspace=10></a><br 
+clear=all><a href="career/index.html"><img src="images/xcareer.gif" 
+vspace=10 border=0></a><br clear=all>
+
+</td>
+</tr>
+
+</table>
+
+<table border=0 width=450 align=center cellpadding=10>
+
+<tr>
+<td>
+Donnelley Enterprise Solutions Incorporated (DESI) is a leading single-source provider of integrated information management solutions to professional service organizations, primarily large law firms, investment banks and accounting firms. We offer our clients the opportunity to focus on their core businesses through a comprehensive array of business services outsourcing and information technology services. We provide the foundation for success through our three divisions: <b>Donnelley Business Services, LANSystems, and Systems Management Group.</b>
+</td>
+</tr>
+
+<tr>
+<td align=center>
+<!-- begin footer -->
+<a href="/index.html">Home</a> |
+<a href="/global/search/index.html">Search</a> |
+<a href="/about/offices.html">Contact Us</a> |
+<a href="/resource/news/index.html">In the News</a> |
+<a href="/resource/events/index.html">Events/Calendar</a>
+<br clear=all>
+<font size=2>
+<br>
+<b> Corporate Headquarters</b><br>
+<table>
+<tr>
+<td align=center>161 North Clark Street</td>
+<td valign=middle><img src = "/images/bullet.gif"></td>
+<td align=center>Chicago, IL 60601</td>
+<td valign=middle><img src = "/images/bullet.gif"></td>
+<td align=center><font size=2>Investor Information:</font> 888-999-1230<br></td>
+<td valign=middle><img src = "/images/bullet.gif"></td>
+<td align=center><font size=2>Sales and Other Inquiries: 800-275-4526</td>
+</tr>
+</table>
+</font>
+
+<font size=1><font color=009999>Copyright 1996 Donnelley Enterprise Solutions Incorporated</font></font>
+</td>
+</tr>
+</table>
+</center>
+
+</body>
+</html>

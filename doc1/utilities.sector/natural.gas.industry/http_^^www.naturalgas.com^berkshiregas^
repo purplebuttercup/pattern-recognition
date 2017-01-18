@@ -1,0 +1,32 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 18 Dec 1997 21:33:20 GMT
+Content-type: text/html
+Set-Cookie: ASPSESSIONID=IPKBMMMUYYLLRARX; path=/
+Cache-control: private
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 //EN">
+
+<HTML>
+
+<HEAD>
+<TITLE>Berkshire Gas</TITLE>
+</HEAD>
+
+	<FRAMESET ROWS="10, 63, *" FRAMEBORDER=0 BORDER=0 FRAMESPACING=0>
+
+		<FRAME MARGINWIDTH="0" MARGINHEIGHT="0" SRC="nav/white.html" NAME="white" SCROLLING=NO>
+
+		<FRAME MARGINWIDTH="0" MARGINHEIGHT="0" SRC="nav/head.html" NAME="head" SCROLLING=NO>
+
+		<FRAME MARGINWIDTH="0" MARGINHEIGHT="0" SRC="sets/home_sub.html" NAME="main">
+
+<NOFRAMES>
+This site requires a browser that supports frames.
+</NOFRAMES>
+
+	</FRAMESET>
+
+<BODY BGCOLOR="FFFFFF">
+</BODY>
+
+</HTML>

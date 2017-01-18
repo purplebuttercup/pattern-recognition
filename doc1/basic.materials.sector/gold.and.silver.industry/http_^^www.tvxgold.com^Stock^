@@ -1,0 +1,132 @@
+Date: Thu, 20 Nov 1997 22:06:52 GMT
+Server: WebSitePro/1.1h
+Accept-ranges: bytes
+Content-type: text/html
+Last-modified: Sat, 17 May 1997 00:07:52 GMT
+Content-length: 4060
+
+<!----
+	TVX Gold Inc. WWW Pages
+		
+	Created by:	David Beaupre
+			QUEUE Systems Inc.
+
+	(C) TVX Gold Inc., 1996
+	(C) QUEUE Systems Inc., 1996
+--->
+<HTML>
+<HEAD>
+<TITLE>TVX Gold Inc. - Stock Information</TITLE>
+</HEAD>
+<BODY BACKGROUND="/images/bground.gif" BGCOLOR="#FFFFFF" TEXT="#0000BB"  
+	VLINK="#800020" LINK="#0000FF" ALINK="#FF2020">
+
+<TABLE BORDER="0" VALIGN="TOP" WIDTH=100%>
+	<TR>
+		<TD WIDTH=75 ALIGN=LEFT VALIGN=TOP><A HREF="/"><IMG SRC="/images/tvx_gld.gif" BORDER=0></A></TD>
+		<TD VALIGN=BOTTOM ALIGN=CENTER WIDTH=100%><I><FONT SIZE=+2>Stock Information</FONT></I></TD>
+	</TR>
+</TABLE>
+
+<HR>
+
+<TABLE BORDER=0 VALIGN=TOP WIDTH=100%>
+	<TR VALIGN=TOP>
+		<TD ALIGN=LEFT WIDTH=75>
+			<P><A HREF="/PressReleases/"><IMG ALT="Press Releases" WIDTH=75 HEIGHT=40 BORDER=0 SRC="/images/pressreleases.gif"></A><BR>
+			<P><A HREF="/AnnualReport/"><IMG ALT="Annual Report" WIDTH=75 HEIGHT=40 BORDER=0 SRC="/images/annualreport.gif"></A><BR>
+			<P><A HREF="/QuarterlyReport/"><IMG SRC="/images/quarterlyreport.gif" ALT="Quarterly Reports" WIDTH=75 HEIGHT=40 BORDER=0></A>
+			<P><A HREF="/Stock/"><IMG ALT="Stock Information" WIDTH=75 HEIGHT=40 BORDER=0 SRC="/images/stockinfo.gif"></A><BR>
+			<P><A HREF="/CorporateInformation.htm"><IMG WIDTH=75 HEIGHT=40 BORDER=0 SRC="/images/corporateinfo.gif" ALT="Corporate Information"></A><BR>
+			<P><A HREF="/MiningTerminology.htm"><IMG SRC="/images/MiningTerminology.gif" ALT="Mining Terminology" WIDTH=75 HEIGHT=40 BORDER=0></A>
+			<P><A HREF="/cgi-shl/dbml.exe?Template=/Tvx/GuestBook.dbm"><IMG WIDTH=75 HEIGHT=40 BORDER=0 SRC="/images/guestbook.gif" ALT="Guest Book"></A><BR>
+		</TD>
+		<TD ALIGN=LEFT WIDTH=100%>
+		<TABLE WIDTH=100%>
+		<TR VALIGN=TOP>
+		<TD WIDTH=40%>
+		Stock Symbol: <FONT SIZE=+1><B>TVX</B></FONT><BR>
+		
+		<BR>
+		For Stock or Investor information please contact:<BR>
+		<BR>
+		<B>Ed Baer<BR>
+		Manager, Investor Relations</B><BR>
+		TVX Gold Inc.<BR>
+		Suite 4300, Canada Trust Tower<BR>
+		BCE Place, 161 Bay Street<BR>
+		Toronto, Ontario, Canada<BR>
+		M5J 2S1<BR>
+		<BR>
+		Telephone: 416-366-8160<BR>
+		Facsimile: 416-366-8163<BR>
+		
+		<BR>
+		<A HREF="mailto:info@tvxgold.com">info@tvxgold.com</A>
+		</TD>
+		<TD>
+		<P>TVX Gold Inc. is publicly traded on the following exchanges.  Please click on a button to retrieve a <I>time delayed</I> quotation from one of the exchanges.<BR><BR>
+		
+		<CENTER>
+
+		<HR>
+		<B><FONT SIZE=+1><A HREF="http://www.nyse.com">New York Stock Exchange</A></FONT></B>
+		<FORM METHOD="POST" ACTION="http://qs.secapl.com/cgi-bin/qs">
+		<INPUT TYPE=HIDDEN NAME="tick" VALUE="TVX">
+		<input type="submit" value=" Quote from NSYE "></FORM><BR>
+
+		<HR>
+		<B><FONT SIZE=+1>Toronto Stock Exchange</FONT></B>
+		<FORM METHOD="POST" ACTION="http://qs.secapl.com/cgi-bin/qs">
+		<INPUT TYPE=HIDDEN NAME="tick" VALUE="T.TVX">
+		<input type="submit" value=" Quote from TSE "></FORM>
+
+		<FORM METHOD="POST" ACTION="http://chart.canada-stockwatch.com/sw/chart.dbm?">
+		<INPUT TYPE=HIDDEN NAME="symbol" VALUE="TVX">
+		<input type="submit" value="Stock History Chart"></FORM><BR>
+
+
+		<HR>
+		<B><FONT SIZE=+1>Montreal Stock Exchange</FONT></B>
+
+		<FORM METHOD="POST" ACTION="http://qs.secapl.com/cgi-bin/qs">
+		<INPUT TYPE=HIDDEN NAME="tick" VALUE="M.TVX">
+		<input type="submit" value=" Quote from ME "></FORM>
+		<FORM METHOD="POST" ACTION="http://chart.canada-stockwatch.com/sw/chart.dbm?">
+		<INPUT TYPE=HIDDEN NAME="symbol" VALUE="TVX">
+		<input type="submit" value="Stock History Chart"></FORM>
+
+		</CENTER>
+		</TD>
+		</TR>
+		</TABLE>
+
+		<HR>
+		<P>The above stock quotations are provided by the <A HREF="http://www.secapl.com/">CheckFree Investment Services</A> website and the stock history chart is from the <A HREF="http://www.canada-stockwatch.com">Canada Stockwatch</A> website.
+
+		</TD>
+	</TR>
+</TABLE>
+
+<HR>
+
+<CENTER>
+<PRE>&#169; TVX Gold Inc.
+<A HREF="mailto:webmaster@tvxgold.com">webmaster@tvxgold.com</A></PRE>
+</CENTER>
+
+</BODY>
+
+</HTML>
+
+
+
+
+
+
+
+
+
+
+
+

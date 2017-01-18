@@ -1,0 +1,25 @@
+Server: CERN/3.0A
+Date: Thu, 20 Nov 1997 22:10:30 GMT
+Content-Type: text/html
+Content-Length: 584
+Last-Modified: Mon, 08 Sep 1997 15:19:39 GMT
+
+<!--This file created 11/08/1997 16:21 by Claris Home Page version 2.0-->
+<HTML>
+<HEAD>
+   <TITLE>Grupo IMSA</TITLE>
+   <META NAME=GENERATOR CONTENT="Claris Home Page 2.0">
+</HEAD>
+<FRAMESET rows="1*,70" border=0>
+<NOFRAMES><BODY>
+
+<P>This page is designed to be viewed by a browser which supports
+Netscape's Frames extension. This text will be shown by browsers
+which do not support the Frames extension.
+
+</BODY>
+</NOFRAMES>
+   <FRAME SRC="htmls/inicial.html" marginWidth="1" marginHeight="1">
+   <FRAME SRC="htmls/ingesp.html" marginWidth="1" marginHeight="1">
+</FRAMESET>
+</HTML>

@@ -1,0 +1,272 @@
+Server: Microsoft-IIS/3.0
+Date: Fri, 21 Nov 1997 05:14:25 GMT
+Content-type: text/html
+Cache-control: private
+
+
+<HTML>
+<HEAD>
+<TITLE>OrCAD Home Page</TITLE>
+</HEAD>
+<FRAMESET cols="200,*"  FRAMEBORDER="NO" FRAMESPACING=0 BORDER=0>
+	<FRAME SRC="toc.htm" NAME="TOC">
+		<frameset rows="70,*" FRAMEBORDER="NO" FRAMESPACING=0 BORDER=0>
+				<FRAME src="rotate.asp" NAME="banner" BORDER="0" 					scrolling="no" marginheight="3" marginwidth="0"  					bgcolor="ffffff">
+				<FRAME SRC="main.htm" NAME="MAIN">
+		</FRAMESET>
+	
+	
+</FRAMESET>
+<!------------------NO FRAME AREA--------------->
+<NOFRAME>
+<HEAD>
+<TITLE>OrCAD Home Page [Non-Frame Enhanced]</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+
+<TABLE BORDER="1" cellpadding="5">
+<TR>
+<TD WIDTH="200" valign="TOP" ROWSPAN="2">
+	<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+<TITLE>OrCAD Home Page</TITLE>
+
+<META NAME="GENERATOR" CONTENT="Internet Assistant for Microsoft Word 2.03z">
+</HEAD>
+
+<!-----<BODY bgcolor="ffffff" text="000000">---->
+<body background="/images/greyback.gif" text="000000">
+<IMG SRC="/images/nlogowb2.gif" HEIGHT="45" BORDER="0" Align="bottom" ALT="OrCAD EDA for Windows NT">
+<center><font size=1  face="arial, helvetica"><I>The World's Leading Provider<BR>of EDA for the Windows NT Enterprise</I></FONT></CENTER>
+<br>
+<!-----------------PRODUCTS------------------>
+<TABLE BORDER="0">
+<TR>
+<td WIDTH=175 bgcolor="AC003D">
+<center><font size=2 color="white" face="arial, helvetica"><B>Product Information</FONT></TD></TR>
+<TR><TD CELLPADDING="5">
+	<FONT size=2 FACE="ARIAL, HELVETICA">
+	<img border=0 src="images/bullet2.gif"> <A href="products/ddwin.htm" TARGET="MAIN">OrCAD Products</A><BR>
+        <img border=0 src="images/bullet2.gif"> <A href="/movies.htm" TARGET="MAIN">The Movie Channel</A><BR>
+	<img border=0 src="images/bullet2.gif"> <A href="partners.htm" TARGET="MAIN">OrCAD Partners</A><br>
+ 	<img border=0 src="images/bullet2.gif"> <a href="/products/cddemo.htm" 
+	TARGET="MAIN">Get a Demo CD</a>
+	</FONT>
+</TD></TR>
+</TABLE>
+
+<!-------------------END PRODUCTS---------------><!-------------------Tech Services--------------->
+<TABLE BORDER="0">
+<TR><TD WIDTH=175 bgcolor="AC003D">
+<center><font size=2 color="white" face="arial, helvetica"><B>Technical Services</FONT></TD></TR>
+
+<TR><TD CELLPADDING="5">
+	<FONT size=2 FACE="ARIAL, HELVETICA">
+	<img border=0 src="images/bullet2.gif"> <A href="/techserv/TSFRAME.asp" TARGET="_top">Technical Services</A></A><BR>
+	<img src="images/bullet2.gif"> <A HREF="/kb" TARGET="_top">Knowledge Base</A><br>
+	<img border=0 src="images/bullet2.gif"> <a
+	href="http://www.orcad.com/asp/form/listconsultants.asp" TARGET="MAIN">Service Bureaus</a>
+	
+	</FONT>
+</TD></TR>
+</TABLE>
+
+<!-------------------END Tech Services---------------><!-------------------News--------------->
+<TABLE BORDER="0">
+<TR><TD WIDTH=175 bgcolor="AC003D">
+<center><font size=2 color="white" face="arial, helvetica"><B>In the News</FONT></TD></TR>
+
+<TR><TD CELLPADDING="5">
+	<FONT size=2 FACE="ARIAL, HELVETICA">
+	<img border=0 src="images/bullet2.gif">
+	<a href="/pr/pressrel.htm" TARGET="MAIN">Press Releases</a></FONT><BR>
+	<FONT size=2 FACE="ARIAL, HELVETICA">
+	<img border=0 src="images/bullet2.gif">
+	<a href="/articles.htm" TARGET="MAIN">Articles</a></FONT>
+	</TD></TR>	
+</TABLE>
+
+<!-------------------END NEWS---------------><!-------------------Contact Information--------------->
+<TABLE BORDER="0">
+<TR><TD WIDTH=175 bgcolor="AC003D">
+<center><font size=2 color="white" face="arial, helvetica"><B>Contact Information</FONT></TD></TR>
+<TR><TD CELLPADDING="5">
+	<FONT size=2 FACE="ARIAL, HELVETICA">
+        <img border=0 src="images/bullet2.gif"> <A href="Directry.htm" TARGET="MAIN">North America<BR>
+	<img border=0 src="images/bullet2.gif"> <A href="directry.htm#resellers" TARGET="MAIN">OrCAD World Wide</A>
+	</FONT>
+</TD></TR>	
+</TABLE>
+
+<!-------------------END Sales Information---------------><!-------------------INSIDE ORCAD--------------->
+<TABLE BORDER="0">
+<TR><TD WIDTH=175 bgcolor="AC003D">
+<center><font size=2 color="white" face="arial, helvetica"><B>Inside OrCAD</FONT></TD></TR>
+
+<TR><TD CELLPADDING="5">
+	<FONT size=2 FACE="ARIAL, HELVETICA">
+        <img border=0 src="images/bullet2.gif"> <A href="hr/hrindex.htm" alt="Career Opportunities" TARGET="MAIN">Career 	Opportunities</A><BR>
+	<img border=0 src="images/bullet2.gif"> <A href="events.htm" TARGET="MAIN">OrCAD Events</A><BR>
+	<img border=0 src="images/bullet2.gif"> <A href="ir/irindex.htm" alt="Company and Financial Information 	"TARGET="MAIN"> Investor Relations</A><BR>
+	<img border=0 src="images/bullet2.gif"> <a href="/newsltr/newsltr.htm" TARGET="MAIN">OrCAD Newsletters</a>
+	</FONT>
+</TD></TR>	
+</TABLE>
+<!-------------------END INSIDE ORCAD---------------><!-----------------SEARCH------------------>
+<TABLE BORDER="0">
+<TR>
+<td WIDTH=175 bgcolor="AC003D">
+<center><font size=2 color="white" face="arial, helvetica"><B>Search</FONT></TD></TR>
+<TR><TD CELLPADDING="5">
+
+	<img border=0 src="images/bullet2.gif"><FONT size=2 FACE="ARIAL, HELVETICA">
+	<a href="http://www.orcad.com/search/default.asp" TARGET="MAIN">Search OrCAD</a><P>
+	</FONT>
+</TD></TR>
+</TABLE>
+<!-----------------END SEARCH------------------>
+
+</BODY>
+</HTML>
+
+
+
+</TD>
+<TD>
+<HTML><HEAD><TITLE></TITLE></HEAD>
+<BODY BGCOLOR = "#FFFFFF">
+<TABLE BORDER=0 CELLSPACING="0" CELLPADDING="0" WIDTH=*>
+<TR VALIGN=middle>
+
+
+<TD ALIGN="Left" WIDTH="252">
+<IMG SRC="/IMAGES/BANNER2.GIF" HEIGHT="60" BORDER="0" ALT="OrCAD Works with You">
+</TD>
+
+<TD ALIGN=Left>
+<FONT SIZE=3 face="arial, helvetica" color="AC003D"><B>How did a fast-growing 
+<BR>$600 million telecom supplier<BR>get even more competitive? - <A HREF="/antec.htm" Target="_top"><I>Find out</I></A></B></FONT><P>
+
+
+
+</TD>
+
+
+</TR>
+</TABLE></BODY>
+</HTML>
+
+</TD>
+</TR>
+<TR>
+<TD>
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+<TITLE>OrCAD Home Page</TITLE>
+
+<META NAME="GENERATOR" CONTENT="Internet Assistant for Microsoft Word 2.03z">
+</HEAD>
+<BODY bgcolor="ffffff" text="000000">
+
+<center>
+<TABLE cellpadding=10 border=0 WIDTH=80%>
+<IMG BORDER=0 HEIGHT=60 src="/images/new_bar.gif" alt="What's New @ OrCAD">
+<!-----------New Items on OrCAD------------------------>
+
+
+<TR>
+<TD valign=top>
+
+<UL>
+<FONT FACE="ARIAL, HELVETICA">
+<img border=0 src="images/bullet2.gif">
+	<A HREF="/pr/odn.htm" TARGET="MAIN">Introducing the <i>OrCAD Design Network</i></a><img border=0 src="images/new.gif">
+	<br>
+<img border=0 src="images/bullet2.gif">
+	<A HREF="/pr/microsim.htm" TARGET="MAIN">OrCAD and MicroSim Sign Merger Agreement</a>
+<br>
+ <img border=0 src="images/bullet2.gif"><a href="/exp5-trn.htm">FPGA Design with Express Training Now Available</A><img border=0 src="images/new.gif"><small> - Comprehensive 5-day workshop in FPGA design methodology, VHDL, and OrCAD Express</small><br>
+<img border=0 src="images/bullet2.gif">
+	OrCAD Capture <a href="/capupdat.htm">Service Packs</a><small> - Updates all 7.10 Capture products to 7.11.</small><br>
+	<img border=0 src="images/bullet2.gif">
+	OrCAD Layout <a href="/layupdat.htm">Service Packs</a><small> - Updates all 7.10 Layout products to 7.10a.</small><br>
+	<img border=0 src="images/bullet2.gif">
+	<a href="/yr2000.htm">OrCAD Products Year 2000 Compliant</a><br>
+
+</FONT>
+</UL>
+<hr>
+</td>
+</TR>
+</TR>
+</TABLE>
+</center>
+
+<!---------------------- END TABLE ---------------------------------->
+<center>
+<table width="80%" border="0" cellpadding="5">
+<TR valign=middle>
+<td><center>
+<A HREF="http://www.edtn.com">
+<IMG SRC="images/go_edtn.gif" WIDTH="88" HEIGHT="31" BORDER="0"
+ALT="Visit EDTN" VSPACE="7"></A></center>
+
+<td>
+<BR><CENTER> <FONT FACE="ARIAL,HELVETICA" SIZE="1">
+<B>Best experienced with<BR>
+<A HREF="http://www.microsoft.com/ie/ie.htm">
+<IMG SRC="images/ie_static.gif" WIDTH="88" HEIGHT="31" BORDER="0"
+ALT="Microsoft Internet Explorer" VSPACE="5"></A>
+<BR>Click Here to start.</b>
+</FONT></CENTER><BR>
+</TD>
+<td>
+<BR><CENTER> <FONT FACE="ARIAL,HELVETICA" SIZE="1">
+Search the EDA<BR>
+<A href="http://www.xilinx.com/search/orcad.htm">
+<IMG border=0  src="images/smart.gif" ALT="SMARTSEARCH" VSPACE="3"></A>
+<BR>Industry</Center>
+</TD>
+<td>
+<CENTER><A HREF="http://www.spa.org/piracy/report.htm"> <IMG SRC="images/spabutton.gif" BORDER=0 ALT="Report Software Piracy"> </A>
+</CENTER>
+</TD
+</TR>
+</TABLE>
+</CENTER>
+<P>
+
+
+<!--------------Footer--------------><HR><CENTER>
+<FONT SIZE="2" FACE="ARIAL, HELVETICA">
+[<A HREF="/default.asp" TARGET="_top">Home</A>] 	
+[<A HREF="/techserv/tsframe.asp" TARGET="_top">Technical Services</a>] 
+[<A HREF="/products/ddwin.htm">Product Info</a>] 
+[<A HREF="http://www.orcad.com/asp/form/survey.htm">Request Literature</A>] 
+[<A HREF="/sitemap.htm">Site Map</a>]
+</FONT>
+<HR WIDTH=400>
+</CENTER>
+<FONT SIZE="1" FACE="ARIAL, HELVETICA">
+Send your comments about this site to <A HREF="MAILTO:webmaster@orcad.com">webmaster@orcad.com</A>.<br>
+This page, and all contents, are <A href="/copywrit.htm">Copyright &copy; 1997</A>
+OrCAD, Inc., Beaverton, Oregon, USA.<BR>
+</FONT><BR>
+<FONT SIZE=1 FACE="ARIAL, HELVETICA"><I>
+This page last modified: <!--#echo var="LAST_MODIFIED"--></FONT>
+<!--------------End Footer--------------> 
+</BODY>
+</HTML>
+
+
+</TD>
+</TR>
+</TABLE>
+</BODY>
+</NOFRAME>
+<!----------------END NO FRAME AREA---------------->
+
+
+</HTML>

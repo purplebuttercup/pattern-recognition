@@ -1,0 +1,11 @@
+Date: Thu, 20 Nov 1997 23:02:24 GMT
+Server: Apache/1.2b8
+Connection: close
+Content-Type: text/html
+
+<html><head><title>FrontPage Image Map Query</title></head>
+<body><h1>FrontPage Image Map Query</h1><p>Your browser did not properly format the query for the image map.  Please choose one of the image map's URLs:</p>
+<ul>
+  <LI><A HREF="http://www.iface.co.uk/uk/index1.htm">http://www.iface.co.uk/uk/index1.htm</a>
+  <LI><A HREF="http://www.intface.com/index2.htm">http://www.intface.com/index2.htm</a>
+</ul></body>

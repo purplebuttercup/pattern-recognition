@@ -1,0 +1,65 @@
+Server: Netscape-Communications/1.12
+Date: Thursday, 18-Dec-97 19:30:54 GMT
+Last-modified: Thursday, 04-Sep-97 22:39:42 GMT
+Content-length: 1565
+Content-type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>Lilly: Science and Technology</TITLE>
+
+<!***Begin Header***>
+<BODY bgcolor="ffffff" link="0000aa" vlink="b60000">
+<center>
+<a href="../graphics/level0.map">
+<img src="../graphics/world_header.gif" ISMAP border=0 usemap="#header_map"></a>
+<MAP NAME="header_map">
+<AREA SHAPE=RECT COORDS="190,42,282,65" HREF="../index.html">
+<AREA SHAPE=RECT COORDS="288,42,380,66" HREF="../site_map.html">
+<AREA SHAPE=RECT COORDS="385,42,474,66" HREF="../search.html">
+</MAP>
+<!***End Header***>
+
+<table cellpadding=0 cellspacing=0 border=0 width=500>
+<tr>
+<td valign=top>
+<img src="../graphics/science_text.gif" align=right>
+</td>
+<td>
+<a href="../graphics/science_index.map">
+<img src="../graphics/science_index.gif" align=right ISMAP border=0
+usemap="#science_index"></a>
+<MAP NAME="science_index">
+<AREA SHAPE=RECT COORDS="120,75,229,124" HREF="research/">
+<AREA SHAPE=RECT COORDS="120,129,231,174" HREF="manufacturing/">
+<AREA SHAPE=RECT COORDS="120,180,230,236" HREF="it/">
+</MAP>
+<br>
+</td>
+</tr>
+</table>
+
+</center>
+
+<p>
+<center>
+<font size=-1>
+[ <a href="research/">Research and Development</a> | <a href="manufacturing/">Manufacturing</a> | <a href="it/">Information Technology</a> ]
+</font>
+<center>
+<p>
+
+<!***Begin Footer***>
+<center>
+<font size=-1>
+[ <a href="../index.html">Home</a> | <a href="../site_map.html">Site Map</a> | <a href="../search.html">Search</a> ]
+</font>
+</center>
+<!***End Footer***>
+
+</BODY>
+
+<p>
+<center><font size=-2>
+<a href="/copyright.html" target="_top">Copyright</a> © 1997 Eli Lilly and Company</font>
+</body></html>

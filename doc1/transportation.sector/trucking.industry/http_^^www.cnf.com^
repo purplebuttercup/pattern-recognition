@@ -1,0 +1,44 @@
+Server: Netscape-Enterprise/2.0c
+Date: Thu, 20 Nov 1997 16:29:55 GMT
+Accept-ranges: bytes
+Last-modified: Thu, 06 Nov 1997 15:21:58 GMT
+Content-length: 606
+Content-type: text/html
+
+<HTML>
+<HEAD>
+    <TITLE>CNF Transportation Inc.</TITLE>
+</HEAD>
+
+
+<FRAMESET ROWS=100%,0 BORDER=0 FRAMESPACING=0>
+	 <FRAME SRC="home.html" NAME="main" SCROLLING=YES MARGINWIDTH=0 MARGINHEIGHT=0 NORESIZE>
+	<FRAME SRC="white.html" NAME="main" SCROLLING=NO>
+</FRAMESET>
+
+
+<NOFRAMES>
+
+<BODY BGCOLOR="#ffffff" LINK="#fd0017" VLINK="#fd0017">
+
+<!--
+<META http-equiv="Refresh" content="0;
+URL=http://www.cnf.com/cgi-bin/nonframe_browser.cgi">
+-->
+
+
+<P>
+<CENTER>
+<h2>Welcome to CNF Transportation Inc.</h2>
+<A HREF="cgi-bin/nonframe_browser.cgi"> CLICK HERE </A>
+
+</center>
+<P>
+<P>
+
+</BODY>
+
+</NOFRAMES>
+
+</HTML>
+

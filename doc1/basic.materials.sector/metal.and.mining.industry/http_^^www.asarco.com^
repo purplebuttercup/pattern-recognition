@@ -1,0 +1,69 @@
+Date: Thu, 20 Nov 1997 22:39:20 GMT
+Server: Apache/1.2.4
+Last-Modified: Thu, 23 Oct 1997 14:02:57 GMT
+ETag: "b6d30-7d7-344f5911"
+Content-Length: 2007
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+   <TITLE>ASARCO</TITLE>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFC6" LINK="#FFFFFF" VLINK="#FFFFFF">
+
+
+<CENTER><TABLE WIDTH=575 BORDER=0>
+<TR>
+<TD align=middle valign=top colspan=4><IMG SRC="images/logo.gif">
+<BR>
+<P>
+<P>
+<P>
+<P>
+<B><FONT SIZE="+1">ASARCO is one of the world's leading producers of nonferrous metals
+-<BR>
+Copper, Lead, Zinc, Silver &amp; Molybdenum</B> 
+<HR width=250></TD>
+</TR>
+
+
+<TR>
+<TD ALIGN=MIDDLE VALIGN=TOP><A HREF="AnnualReport/annual_index.html"><IMG BORDER=0 WIDTH="136" HEIGHT="101" SRC="images/annual.gif"></A>
+</TD>
+
+<TD ALIGN=MIDDLE VALIGN=TOP><A HREF="Other/other_index.html"><IMG BORDER=0 WIDTH="136" HEIGHT="101" SRC="images/other.gif"></A>
+</TD>
+
+<TD ALIGN=MIDDLE VALIGN=TOP><A HREF="SouthernPeru/peru_index.html"><IMG BORDER=0 WIDTH="136" HEIGHT="101" SRC="images/peru.gif"></A></TD>
+
+<TD ALIGN=MIDDLE VALIGN=TOP><A HREF="products_index.html"><IMG BORDER=0 WIDTH="136" HEIGHT="101" SRC="images/locations.gif"></A></TD>
+</TR>
+
+<TR>
+<TD ALIGN=MIDDLE VALIGN=TOP><A HREF="MiningMetals/mmy_index.html"><IMG BORDER=0 WIDTH="136" HEIGHT="101" SRC="images/mining.gif"></A></TD>
+
+<TD ALIGN=MIDDLE VALIGN=TOP><A HREF="construct.html"><IMG BORDER=0 WIDTH="136" HEIGHT="101" SRC="images/concerns.gif"></A></TD>
+
+<TD ALIGN=MIDDLE VALIGN=TOP><A HREF="PressReleases/pr_index.html"><IMG BORDER=0 WIDTH="136" HEIGHT="101" SRC="images/new.gif"></A></TD>
+<TD ALIGN=MIDDLE VALIGN=TOP><A HREF="construct.html"><IMG BORDER=0 WIDTH="136" HEIGHT="101" SRC="images/askus.gif"></A></TD>
+</TR>
+</TABLE></CENTER>
+
+<CENTER><TABLE WIDTH=575 BORDER=0>
+<TR>
+<TD colspan=2 width=550>
+<HR width=550></TD>
+</TR>
+
+<TR>
+<TD width=100 align=middle valign=middle><A HREF="http://home.netscape.com/comprod/mirror/index.html"><IMG SRC="images/netscape2.gif" BORDER=0 HEIGHT=31 WIDTH=88></A></TD>
+
+<TD width=450 align=left valign=middle>This site best viewed with Netscape
+Navigator 2.0.</TD>
+</TR>
+</TABLE></CENTER>
+
+</BODY>
+</HTML>

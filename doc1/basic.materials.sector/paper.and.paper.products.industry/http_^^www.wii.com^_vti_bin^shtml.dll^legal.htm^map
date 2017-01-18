@@ -1,0 +1,15 @@
+Server: Microsoft-IIS/3.0
+Date: Fri, 21 Nov 1997 00:00:56 GMT
+Content-Type: text/html
+
+<html><head><title>FrontPage Image Map Query</title></head>
+<body><h1>FrontPage Image Map Query</h1><p>Your browser did not properly format the query for the image map.  Please choose one of the image map's URLs:</p>
+<ul>
+  <LI><A HREF="http://204.156.32.2/news.htm">http://204.156.32.2/news.htm</a>
+  <LI><A HREF="http://204.156.32.2/products.htm">http://204.156.32.2/products.htm</a>
+  <LI><A HREF="http://204.156.32.2/environ.htm">http://204.156.32.2/environ.htm</a>
+  <LI><A HREF="http://204.156.32.2/default.htm">http://204.156.32.2/default.htm</a>
+  <LI><A HREF="http://204.156.32.2/glossary.htm">http://204.156.32.2/glossary.htm</a>
+  <LI><A HREF="http://204.156.32.2/aboutwii.htm">http://204.156.32.2/aboutwii.htm</a>
+  <LI><A HREF="http://204.156.32.2/finances.htm">http://204.156.32.2/finances.htm</a>
+</ul></body>

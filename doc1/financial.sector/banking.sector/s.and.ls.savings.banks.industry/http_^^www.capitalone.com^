@@ -1,0 +1,177 @@
+Server: Netscape-Enterprise/2.01
+Date: Wed, 17 Dec 1997 18:47:53 GMT
+Accept-ranges: bytes
+Last-modified: Wed, 17 Dec 1997 17:01:48 GMT
+Content-length: 6508
+Content-type: text/html
+
+<HTML>
+<HEAD>
+<!--(C)1997 Capital One. All Rights Reserved.-->
+
+<META NAME="keywords" CONTENT="credit card, credit, financial, bank, visa, mastercard, annual fee, APR, jobs, careers, CD, certificates of deposit, savings, information-based strategy, IT wizardry">
+<META NAME="description" CONTENT="Capital One, credit cards, financial services, information-based marketing.">
+
+<TITLE>Welcome to Capital One Online!</TITLE>
+</HEAD>
+<BODY BGCOLOR="#ffffff">
+
+<P><CENTER>
+<!---start with the header, progress to a table holding various images and image maps, then to text at the bottom-->
+<!--special note: be careful with the javascript on the topic headline images-->
+
+<!--to the header-->
+<!--be wary of cleaning up the code. any space in a link will show as a colored dot in netscape-->
+<IMG SRC="../pics/images/header1.gif" WIDTH="580" HEIGHT="60">
+<BR>
+<!--establish table-->
+ <TABLE WIDTH="520" BORDER="0" CELLSPACING="6" CELLPADDING="0">
+<TR>
+<TD WIDTH="150" ALIGN="RIGHT">
+<!--first image is an image map. note the javascript onmouseovers included-->
+
+<MAP NAME="left-home-nav">
+    <AREA SHAPE="rect" COORDS="3,33,95,71" HREF="home/cust/cust_home.html"
+ONMOUSEOVER="window.status='Have your credit questions answered, take our online survey -- even find sources of credit help';return true">
+    <AREA SHAPE="rect" COORDS="6,104,99,142" HREF="home/about/about_home.html"
+ONMOUSEOVER="window.status='Fact sheets, volunteerism updates, and the latest press releases and articles written about Capital One.';return true">
+    <AREA SHAPE="rect" COORDS="5,173,68,192" HREF="home/careers/careers_home.html"
+ONMOUSEOVER="window.status='Capital One is rapidly expanding our workforce. Apply today!';return true">
+</MAP>
+<IMG SRC="../pics/images/left-home-nav.gif" WIDTH="106" HEIGHT="249"
+ALIGN="BOTTOM" USEMAP="#left-home-nav" ISMAP BORDER="0"> </TD>
+
+<!--central image-->
+<TD WIDTH="270" ALIGN="MIDDLE">
+<IMG SRC="../pics/images/montage-002.jpg" WIDTH="270" HEIGHT="252"></TD>
+
+<!--left text-->
+<TD WIDTH="150">
+<MAP NAME="right-home-nav">
+    <AREA SHAPE="rect" COORDS="3,32,90,73" HREF="home/apply/apply_home.html"
+ONMOUSEOVER="window.status='Take advantage of our offer to apply now for a Capital One VISA or MasterCard today!';return true">
+    <AREA SHAPE="rect" COORDS="3,106,148,148" HREF="home/deposit/deposit_home.html"
+ONMOUSEOVER="window.status='Earn CD-like rates without an early withdrawal penalty.';return true">
+    <AREA SHAPE="rect" COORDS="2,170,122,193" HREF="home/invest/invest_home.html"
+ONMOUSEOVER="window.status='Check out the latest stock quote, review our financial performance and more !';return true">
+</MAP><IMG SRC="../pics/images/right-home-nav.gif" WIDTH="150" HEIGHT="249"
+ALIGN="BOTTOM" USEMAP="#right-home-nav" ISMAP BORDER="0"> 
+<!--close first table-->
+</TD>
+</TR>
+</TABLE>
+<BR>
+
+
+<!--this table keeps the blurb centered-->
+<!--there are 50 pixel buffers on both sides-->
+<TABLE WIDTH="550" BORDER="0" CELLSPACING="2" CELLPADDING="0">
+<TR>
+<!--first spacer buffer-->
+<TD WIDTH="50">&nbsp;</TD>
+
+<!--now the blurb-->
+<TD WIDTH="450" VALIGN="TOP">
+<P><CENTER><B>Welcome to Capital One Online! <BR>
+You may use the headlines above or the<BR>
+text below to navigate our site.</B></CENTER>
+</TD>
+<!--right buffer-->
+<TD WIDTH="50"><P>&nbsp;</P>
+
+<!--end table-->
+</TD>
+</TR>
+</TABLE>
+<BR>
+
+<!--another table. same buffer sort of drill-->
+<TABLE WIDTH="550" BORDER="0" CELLSPACING="2" CELLPADDING="0">
+<TR>
+<!--buffer-->
+<TD WIDTH="50"><P>&nbsp;</TD>
+
+<!--content area: here are the text links-->
+<TD WIDTH="450" ALIGN="CENTER"><FONT SIZE=-2><A HREF="home/apply/apply_home.html">Request A Card</A> |
+<A HREF="home/deposit/deposit_home.html">High-Yield Deposit Products</A>
+| <A HREF="home/cust/cust_home.html">For Our Customers</A> | <A HREF="home/careers/careers_home.html">Careers</A></FONT><BR>
+<FONT SIZE=-2><A HREF="home/about/about_home.html">About Capital One</A>
+| <A HREF="home/invest/invest_home.html">For Investors</A> | <A HREF="home/contact.html">Contact
+Us</A> | <A HREF="home/search.html">Search</A></FONT>
+</TD>
+
+<!--buffer-->
+<TD WIDTH="50"><P>&nbsp;</P>
+<!--end the table-->
+</TD>
+</TR>
+</TABLE>
+
+<!--another table for the expanded links-->
+<!--again note spacers right and left-->
+<BR>
+
+<P><CENTER><TABLE WIDTH="570" BORDER="0" CELLSPACING="2" CELLPADDING="0">
+<TR>
+<!--a mere spacer-->
+<TD WIDTH="50">
+<P>&nbsp;</P><BR>
+<NOBR>
+</TD>
+
+<!--now the content-->
+<TD WIDTH="470" VALIGN="TOP"><B><A HREF="home/cust/cust_home.html">For Our Customers</A></B><BR>
+<FONT SIZE=-1>Have a question about your account? Then click this link for
+valuable information or to e-mail us your questions. Plus, check out our
+new Internet customer survey.<BR>
+<BR>
+</FONT><B><A HREF="home/careers/careers_home.html">Careers</A></B><BR>
+<FONT SIZE=-1>Looking for a great job at a fast-growing company? Then look no further! Capital One has countless job openings for motivated, talented people like you. Select this link to find out more.<BR>
+<BR>
+</FONT><B><A HREF="home/apply/apply_home.html">Request A Card</A></B><BR>
+<FONT SIZE=-1>Take advantage of an exceptional credit card value -- and a 6.9 % interest rate!<BR>
+<BR>
+</FONT><B><A HREF="home/deposit/deposit_home.html">High-Yield Deposit Products</A></B><BR>
+<FONT SIZE=-1>Attractive vehicles for savvy investors -- a high-yield savings account and certificates of deposit.<BR>
+<BR>
+</FONT><B><A HREF="home/about/about_home.html">About Capital One / Capital
+One in the news</A></B><BR>
+<FONT SIZE=-1>Review our Capital One fact sheet and learn about the Capital
+One commitment to volunteerism and service. Also in this section -- our
+extensive collection of press releases and press clippings.<BR>
+<BR>
+</FONT><B><A HREF="home/invest/invest_home.html">For Investors</A></B><BR>
+<FONT SIZE=-1>Want to make an informed investment decision? This part of
+our site contains everything you need, including an online stock quote,
+our financial documents, and other information to help you make the right
+choice.<BR>
+<BR>
+</FONT><FONT SIZE=-2><A HREF="home/copy.html">Copyright and Trademark Information</A></FONT><BR>
+ </TD>
+
+<!--now insert the right buffer-->
+<TD WIDTH="50">
+<P>&nbsp;</P><BR>
+<NOBR>
+<!--close the table-->
+</TD>
+</TR>
+</TABLE>
+
+<!--begin footer-->
+<table width="470">
+<TR>
+<TD width="470" valign="top" align="right">
+<HR ALIGN=LEFT NOSHADE>
+<FONT SIZE=-2>
+&copy;1997 Capital One Financial Corp.<BR>
+All Rights Reserved.<BR>
+2.5.0</FONT>
+ <!--end footer table-->
+</TD>
+</TR>
+</TABLE>
+
+</CENTER>
+</BODY>
+</HTML>

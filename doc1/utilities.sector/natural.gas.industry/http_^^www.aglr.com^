@@ -1,0 +1,41 @@
+Date: Thu, 18 Dec 1997 21:17:12 GMT
+Server: Apache/1.2.1
+Last-Modified: Fri, 24 Oct 1997 14:20:33 GMT
+ETag: "1d02ee-32e-3450aeb1"
+Content-Length: 814
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+<HTML> 
+<HEAD><TITLE>Welcome to AGL Resources,Inc.</TITLE></HEAD> 
+<BODY  BGCOLOR="#FFFFFF"> 
+<CENTER>
+<IMG SRC="index.gif">
+</CENTER>
+
+
+
+<CENTER>
+<TABLE BORDER=0 CELLSPACING=5 CELLPADDING=10 width=600>
+<TR>
+<TD><A HREF="cop.htm"><IMG border=0 SRC="b-cop.gif"></A></TD>
+<TD><A HREF="finf.htm"><IMG border=0 SRC="b-finf.gif"></A></TD
+><TD><A HREF="drip.htm"><IMG border=0 SRC="b-drip.gif"></A></TD>
+<TD><A HREF="nwr.htm"><IMG border=0 SRC="b-nwr.gif"></A></TD>
+<TD><A HREF="subsid.htm"><IMG border=0 SRC="b-subsid.gif"></A></TD>
+<TD><A HREF="faq.htm"><IMG border=0 SRC="B-faq.gif"></A></TD>
+
+</TR>
+</TABLE>
+</CENTER>
+<p>
+
+
+<CENTER>For more information, please contact Joe Heffron at <A
+HREF="mailto:jheffron@mindspring.com">jheffron@mindspring.com.</A></CENTER>
+
+
+</BODY> 
+</HTML> 
+

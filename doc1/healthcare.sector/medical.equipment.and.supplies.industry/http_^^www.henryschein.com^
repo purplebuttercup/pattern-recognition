@@ -1,0 +1,33 @@
+Date: Thu, 18 Dec 1997 20:07:12 GMT
+Server: Stronghold/1.3.4 Ben-SSL/1.3 Apache/1.1.3
+Content-type: text/html
+Content-length: 1156
+Last-modified: Thu, 13 Nov 1997 20:00:26 GMT
+
+<HTML>
+<HEAD>
+<META http-equiv="PICS-Label" content='(PICS-1.1 "http://www.rsac.org/ratingsv01.html"
+l gen true comment "RSACi North America Server" by "andsch@henryschein.com" for
+"http://www.henryschein.com" on "1997.10.31T08:03-0800" r (n 0 s 0 v 0 l 0))'>
+<TITLE>Welcome to HSIweb!</TITLE>
+</HEAD>
+<FRAMESET COLS="125,*" BORDER=0>
+	<FRAME SRC="menu.htm" NAME="sidebar" SCROLLING=NO NORESIZE MARGINWIDTH=5 MARGINHEIGHT=5>
+	<FRAME SRC="index.htm" NAME="main">
+
+	<NOFRAMES>
+	The Henry Schein web site has been redesigned. We suggest that you use
+	Netscape Navigator 3.0 or higher, or Microsoft Internet Explorer 3.0 or higher, to view our site.
+	You can get these browsers by clicking on the icons below.<BR>
+	Until then, <A HREF="index.htm">click here</A> to view our site without frames.
+	<P>
+	<CENTER>
+	<A HREF="http://home.netscape.com/comprod/mirror/index.html">
+	<IMG BORDER=0 SRC="resource/netlogo.gif" alt="Netscape Logo" HSPACE=40></A>
+	<A HREF="http://www.microsoft.com/ie/download">
+	<IMG SRC="resource/explore.gif" width="88" height="31" border="0"
+	alt="Microsoft Internet Explorer" HSPACE=40></A>
+	</CENTER>
+	</NOFRAMES>
+</FRAMESET>
+</HTML>

@@ -1,0 +1,25 @@
+Server: Netscape-Enterprise/2.0a
+Date: Wed, 19 Nov 1997 23:39:10 GMT
+Accept-ranges: bytes
+Last-modified: Mon, 25 Aug 1997 20:49:13 GMT
+Content-length: 419
+Content-type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 3.0//EN">
+<HTML>
+<HEAD>
+
+<TITLE>Mobil Corporation</TITLE>
+
+
+</HEAD>
+
+<FRAMESET FRAMEBORDER=NO FRAMEBORDER=0 ROWS="60, *" BORDER=0>
+        <FRAME NORESIZE SRC="nav.html" NAME="navigation" SCROLLING=NO MARGINWIDTH=0 MARGINHEIGHT=0 border=0>
+        <FRAME NORESIZE SRC="start.html" NAME="body" SCROLLING=AUTO MARGINWIDTH=0 MARGINHEIGHT=0 border=0>
+</FRAMESET>
+
+
+
+</BODY>
+</HTML>

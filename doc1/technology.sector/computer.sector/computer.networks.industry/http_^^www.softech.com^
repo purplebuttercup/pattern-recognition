@@ -1,0 +1,101 @@
+Date: Fri, 21 Nov 1997 02:23:39 GMT
+Server: NCSA/1.5
+Content-type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Softech, Inc Home Page</title>
+</head>
+
+<body background="images/newback.jpg" link="#315603"
+vlink="#315603" alink="#315603">
+
+<table border="0">
+    <tr>
+        <td valign="top" width="135"><!--webbot bot="ImageMap"
+        startspan rectangle=" (8,456) (109, 501)  file:/index.html"
+        rectangle=" (11,405) (108, 440)  file:aeg/usedstuff.html"
+        rectangle=" (11,367) (92, 389)  file:aeg/construct.html"
+        rectangle=" (9,329) (65, 352)  file:aeg/special.html"
+        rectangle=" (11,293) (76, 310)  file:aeg/construct.html"
+        rectangle=" (11,255) (84, 279)  file:aeg/personnel.html"
+        rectangle=" (10,218) (86, 238)  file:aeg/personnel.html"
+        rectangle=" (7,166) (98, 202)  file:cgi-bin/forms/request_form.cgi"
+        rectangle=" (10,132) (77, 155)  file:aeg/construct.html"
+        rectangle=" (9,100) (79, 121)  file:aeg/what.html"
+        rectangle=" (11,54) (77, 87)  file:aeg/stocks.html"
+        rectangle=" (9,14) (94, 44)  file:aeg/corp.html"
+        src="menu.gif" border="0" width="120" height="600" --><MAP NAME="FrontPageMap0">
+<AREA SHAPE="RECT" COORDS="8, 456, 109, 501" HREF="/index.html">
+<AREA SHAPE="RECT" COORDS="11, 405, 108, 440" HREF="/aeg/usedstuff.html">
+<AREA SHAPE="RECT" COORDS="11, 367, 92, 389" HREF="/aeg/construct.html">
+<AREA SHAPE="RECT" COORDS="9, 329, 65, 352" HREF="/aeg/special.html">
+<AREA SHAPE="RECT" COORDS="11, 293, 76, 310" HREF="/aeg/construct.html">
+<AREA SHAPE="RECT" COORDS="11, 255, 84, 279" HREF="/aeg/personnel.html">
+<AREA SHAPE="RECT" COORDS="10, 218, 86, 238" HREF="/aeg/personnel.html">
+<AREA SHAPE="RECT" COORDS="7, 166, 98, 202" HREF="/cgi-bin/forms/request_form.cgi">
+<AREA SHAPE="RECT" COORDS="10, 132, 77, 155" HREF="/aeg/construct.html">
+<AREA SHAPE="RECT" COORDS="9, 100, 79, 121" HREF="/aeg/what.html">
+<AREA SHAPE="RECT" COORDS="11, 54, 77, 87" HREF="/aeg/stocks.html">
+<AREA SHAPE="RECT" COORDS="9, 14, 94, 44" HREF="/aeg/corp.html"></MAP>
+<img src="menu.gif" border="0" width="120" height="600" usemap="#FrontPageMap0"><!--webbot
+        bot="ImageMap" i-checksum="22248" endspan --></td>
+        <td valign="top"><p align="center"><font size="6"><b>Welcome
+        to the Home Page of</b></font><br>
+        <img src="softech.gif" width="300" height="60"> </p>
+        <hr>
+	<CENTER>
+        <p><a href="http://www.workgroup.com"><img
+        src="Smlogo.gif" border="0" hspace="20" width="138"
+        height="61"></a><a href="http://www.ptmodeler.com"><img
+        src="Ptp.gif" border="0" width="103" height="100"></a><a
+        href="http://www.alias.com/"><img src="Top_test.gif"
+        border="0" hspace="20" width="258" height="50"></a> </p>
+        <p align="center"><a href="http://www.stratasys.com/"><img
+        src="Strat.jpg" border="0" hspace="20" width="205"
+        height="51"></a><a href="http://www.intergraph.com/"><img
+        src="Ingr.gif" border="0" width="123" height="24"></a><a
+        href="http://www.sgi.com/"><img src="Sgi.gif" border="0"
+        hspace="20" width="151" height="43"></a> </p>
+</CENTER>
+<HR>         
+        <h1><img src="/images/icons/at_work_icon.gif"
+        alt="[AT WORK]"></h1>
+        <p>We apologize. This site is under MAJOR reconstruction.
+        We're back up but still under major reconstruction. Please keep
+        checking back regularly. As sections of this page are
+        completed, I will be publishing them, so again I repeat, bookmark this page and
+        check back soon.</p>
+	<p> The following sections are now open:</p>
+	<p> Corporate Informatin, Stocks & News, Products, Locations, Personnel, Information Request, Events.</p>
+        <p>- The Webmaster </p>
+        <hr>
+<CENTER>
+<H3> Document search - Search this site for specific info.</H3>
+<BR>
+<FORM METHOD="POST" ACTION="/cgi-bin/search_engine.cgi">
+<B>Enter your keywords:</B>
+<INPUT TYPE="text" SIZE="30" NAME="keywords" MAXLENGTH="80">
+<P>
+<INPUT TYPE=checkbox NAME="exact_match"> Exact Match Search
+<BR>
+<INPUT TYPE="SUBMIT" VALUE="Submit keywords">
+<INPUT TYPE="RESET" VALUE="Clear this form">
+<BR>
+</CENTER>
+        <hr>
+        <div align="center"><center><address>
+            Copyright ¨ SofTech, Inc- 1995<br>
+            </a>Questions or Comments? Write <a
+            href="MAILTO:webmaster@softech.com">webmaster@softech.com</a>
+        </address>
+        </center></div></td>
+    </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,87 @@
+Server: Netscape-Enterprise/2.01
+Date: Fri, 21 Nov 1997 03:50:16 GMT
+Content-type: text/html
+
+<!--doctype html public-->
+<!--Pages updated 4/22/96-->
+
+<html>
+<HEAD> <TITLE>About the Seagate Web Site</TITLE> </HEAD>
+
+<!-- header.shtml -->
+<body bgcolor="#ffffff" link="#238e23" vlink="#236b8e">
+
+<MAP NAME="Header">
+   <AREA SHAPE=RECT COORDS="389,50,459,69" HREF="http://www.seagate.com/Architext/search.shtml">
+   <AREA SHAPE=DEFAULT HREF="http://www.seagate.com">
+</MAP>
+
+<IMG BORDER=0  SRC="/graphics/header.gif" USEMAP="#Header">
+
+<BLOCKQUOTE>
+<IMG src="/graphics/About_SeaNET.gif ">
+
+<TABLE border=0 width=425>
+<TR>
+	<TD>
+
+<P>Use<A HREF="/Architext/search.shtml"> Search </A> to quickly find the 
+information you need or go to the "Home" page to explore more of the site. 
+The <A HREF="/toc.shtml">Site Index</A> is also a very useful navigation 
+option. If you have a question or a comment, you'll 
+find the<A HREF="/feedback.shtml"> Feedback</A> button 
+at the bottom of the page. <BR>Thank you for 
+visiting Seagate's <A HREF="/home.shtml">SeaNET!</A> </P>
+
+
+
+
+<H2>Supporting Software</H2>
+This web site requires  <A HREF="http://www.netscape.com/comprod/mirror/client_download.html"> Netscape</A> version 1.1 or later for proper viewing.
+<P>
+To view Portable Documents download the free <A HREF="http://www.adobe.com/acrobat/readstep.html">Adobe Acrobat</A> viewer.
+
+
+<H2>Trademarks and Copyrights</H2>
+<P>
+Seagate, Seagate Technology, the Seagate logo, Elite, Medalist, TapeStor, SeaFONE, SeaBOARD and SeaFAX are registered trademarks of Seagate Technology, Inc.
+
+<P><I>Barracuda, Hawk, Marathon, SafeRite, SeaTDD, FilePro, DiscWizard, Seagate Express</I> and <I>DiskStor</I> are trademarks of Seagate Technology.
+
+<P>Other trademarks are the property of their respective owners.
+
+<p>&copy; 1997 Seagate Technology, Inc. All rights reserved. 
+Specifications and product offerings subject to change without notice.
+
+<H2>Feedback to Seagate</H2>
+Please send us your <A HREF="/feedback.shtml">comments and feedback</A>.
+
+</TD>
+ </TR>
+</TABLE>
+
+
+<P><!-- footer.html --></P>
+
+<FONT SIZE="-1" FACE="arial,geneva">
+
+<P><A HREF="/toc.shtml">Site Index</A> | 
+<A HREF="/Architext/search.shtml">Search</A> | 
+<A HREF="/feedback.shtml">Feedback</A> | 
+<A HREF="/corp/corptop.shtml">Corporate &amp; Career Info</A> | 
+<A HREF="/sales/salestop.shtml">Sales</A> | 
+<A HREF="/disc/disctop.shtml">Disc Storage</A> | 
+<A HREF="/tape/tapetop.shtml">Tape Storage</A> |
+<A HREF="/support/supporttop.shtml">Service &amp; Support</A> | 
+<A HREF="http://www.seagatesoftware.com">Seagate Software</A>
+
+<P><A HREF="/about.shtml">&copy;1997 Seagate Technology, Inc.</A></P>
+
+
+</FONT>
+
+<p>
+</BLOCKQUOTE>
+
+</BODY>
+</HTML>

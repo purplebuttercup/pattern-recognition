@@ -1,0 +1,327 @@
+Server: Netscape-Enterprise/2.01
+Date: Thu, 20 Nov 1997 16:08:54 GMT
+Content-type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 3.0//EN">
+<HTML>
+
+<!-- 
+RAMWORKS DHH HEADER
+Dynamic Document Handler v2.1
+Copyright 1996 RAMWORKS / All rights reserved
+Note: Do NOT change section headers.
+
+PROJECT SPECIFICATIONS
+DocNAME: feedback.htm
+RefPath: /development/csx
+ServURL: www.ramworks.com
+HTMLVer: 3.02
+DevPlat: Win95
+SerPlat: SPARC/Solaris v2.4
+WebPlat: NS Commerce v1.13
+HTMLRef: index.htm (Parent Frame)
+ApplRef: TBD
+ClnNAME: CSX Corporate (60000)
+DevNAME: DT/GR
+
+REVISION TRACKING
+v1.0 (03.26.97) DT
+-->
+
+<HEAD>
+<TITLE>CSX Corporation: Contact Us</TITLE>
+
+<!-- section a: meta tags                -->
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="description" content="CSX Corporation is a Fortune 500 transportation company providing rail, intermodal, container-shipping, barging and contract logistics services worldwide">
+<meta name="keywords" content="CSX, transportation, corporation, railroad, commerce, industry, train, website, business, money, contact, email, electronically">
+<meta name="author" content="RAMWorks, www.ramworks.com, 904-778-8568">
+<meta name="job" content="CSX Corporation 70016A">
+
+<!-- section b2: javascript (optional)   -->
+<SCRIPT LANGUAGE="JavaScript">
+function img_act(imgName) {}
+function img_inact(imgName) {}
+function initArray(size)
+{	for (var i=0; i<size; i++)
+	       this[i]="";
+	this.length = size;
+}
+
+MailSubject = new initArray(7);
+MailSubject[1] = "request an annual report";
+MailSubject[2] = "TWSnet information (customer tracing)";
+MailSubject[3] = "CSX Intermodal information";
+MailSubject[4] = "Sea-Land information";
+MailSubject[5] = "ACL information";
+MailSubject[6] = "information on The Greenbrier";
+MailSubject[7] = "General Information";
+
+
+function verify(form)
+{	if (form.sender.value=="" || form.email.value=="" || form.querytype.selectedIndex<1)
+		alert("You are missing one of the \nfollowing required fields :\n\nName\nEmail\nI Want to Know");
+	else
+	{	//check for valid email
+        var email = form.email.value;
+        var at = email.indexOf('@');
+        if (at<=0 || at>=email.length-1)
+            alert("That e-mail address doesn't look quite right.");
+		else
+		{	form.subject.value = MailSubject[form.querytype.selectedIndex];
+			form.submit();
+		}
+	}
+}
+</SCRIPT>
+
+<SCRIPT LANGUAGE="JavaScript1.1">
+    browserName = navigator.appName;
+    version = "";
+    browserVer = parseInt(navigator.appVersion);
+	
+	if (browserName == "Netscape" && browserVer >=3)
+    {	version="good";
+
+
+	//pre-cache graphics
+	
+	cus_s = new Image(172,16);
+	cus_s.src = "graphics/t/cus_s.gif";
+	cus_f = new Image(172,16);
+	cus_f.src = "graphics/t/cus.gif";
+	cus_d = new Image(608,16);
+	cus_d.src = "graphics/t/cus_d.gif";
+	inv_s = new Image(172,16);
+	inv_s.src = "graphics/t/inv_s.gif";
+	inv_f = new Image(172,16);
+	inv_f.src = "graphics/t/inv.gif";
+	inv_d = new Image(608,16);
+	inv_d.src = "graphics/t/inv_d.gif";
+	med_s = new Image(172,16);
+	med_s.src = "graphics/t/med_s.gif";
+	med_f = new Image(172,16);
+	med_f.src = "graphics/t/med.gif";
+	med_d = new Image(608,16);
+	med_d.src = "graphics/t/med_d.gif";
+
+	csxt_1 = new Image(128,128);
+	csxt_1.src = "graphics/c/csxt_1.jpg";
+	csxt_0 = new Image(128,128);
+	csxt_0.src = "graphics/c/csxt_0.gif";
+	csxt_a = new Image(12,256);
+	csxt_a.src = "graphics/c/csxt_a.gif";
+	acl_1 = new Image(128,128);
+	acl_1.src = "graphics/c/acl_1.jpg";
+	acl_0 = new Image(128,128);
+	acl_0.src = "graphics/c/acl_0.gif";
+	acl_a = new Image(12,256);
+	acl_a.src = "graphics/c/acl_a.gif";
+	csxi_1 = new Image(128,128);
+	csxi_1.src = "graphics/c/csxi_1.gif";
+	csxi_0 = new Image(128,128);
+	csxi_0.src = "graphics/c/csxi_0.gif";
+	csxi_a = new Image(12,256);
+	csxi_a.src = "graphics/c/csxi_a.gif";
+	seal_1 = new Image(128,128);
+	seal_1.src = "graphics/c/seal_1.gif";
+	seal_0 = new Image(128,128);
+	seal_0.src = "graphics/c/seal_0.gif";
+	seal_a = new Image(12,256);
+	seal_a.src = "graphics/c/seal_a.gif";
+
+	spacer = new Image(608,16);
+	spacer.src = "graphics/spacer608.gif";
+}
+
+function img_act(imgName) 
+{   if (version=="good")
+	{
+		imgOn = eval(imgName + "_s.src");
+		document[imgName].src = imgOn;
+		descrimgOn = eval(imgName + "_d.src");
+		document["desc"].src = descrimgOn;
+	}
+}
+function img_inact(imgName)
+{	if (version=="good")
+	{	document[imgName].src = eval(imgName + "_f.src");
+		document["desc"].src = "graphics/spacer608.gif";
+	}
+}
+function mast_act(imgName) 
+{	if (version=="good")
+	{	imgOn = eval(imgName + "_1.src");
+		document[imgName].src = imgOn;
+		arrowimgOn = eval(imgName + "_a.src");
+		document["arrows"].src = arrowimgOn;
+	}
+}
+function mast_inact(imgName) 
+{	if (version=="good")
+	{	imgOff = eval(imgName + "_0.src");
+		document[imgName].src = imgOff;
+		document["arrows"].src = "graphics/c/subarrows.gif";
+	}
+}
+
+</SCRIPT>
+
+</HEAD>
+
+<!-- section b3: frames setup (optional) -->
+<!-- section c: background parameters    -->
+
+<BODY TEXT="#000000" VLINK="#333366" ALINK="#FFCC33" LINK="#3300FF"  BGCOLOR="#FFFFFF">
+
+<MAP NAME="fun">
+<area shape="rect" coords="22,0,74,14" href="index.htm">
+<area shape="rect" coords="22,15,74,29" href="search.htm">
+<area shape="rect" coords="22,30,74,45" href="map.htm">
+<area shape="rect" coords="75,0,127,14" href="faqs.htm">
+<area shape="rect" coords="75,15,127,29" href="jobs.htm">
+<area shape="rect" coords="75,30,127,45" href="contact.htm">
+</MAP>
+
+<MAP NAME="cpyright">
+<area shape="rect" coords="314,15,409,29" href="contact_analog.htm">
+<area shape="rect" coords="455,15,511,29" href="contact.htm">
+</MAP>
+
+
+<!-- section d: header graphics          -->
+<a name="top">
+<CENTER>
+<TABLE CELLPADDING=0 CELLSPACING=0 WIDTH=608 BORDER=0>
+    <TR>
+        <TD COLSPAN=5 WIDTH=608><NOBR><A HREF=index.htm><IMG SRC="graphics/csx_id.gif" WIDTH=96 HEIGHT=50 BORDER=0 ALT="CSX Corporation"></A><IMG NAME="desc" SRC="graphics/spacer_top_descrip.gif" WIDTH=384 HEIGHT=50 BORDER=0 ALT=""><IMG SRC="graphics/fun.gif" WIDTH=128 HEIGHT=50 BORDER=0 ALT="function imagemap" USEMAP=#fun></NOBR></TD>
+    </TR>
+    <TR>
+        <TD WIDTH=92><IMG SRC="graphics/t_pick.gif" WIDTH=92 HEIGHT=16 BORDER=0 ALT="pick a topic"></TD>
+        <TD WIDTH=172><A HREF="cus/index.htm" TITLE="CSX for customers" onMouseover="img_act('cus'); window.status='solutions and services for CSX business';return true;" onMouseout="img_inact('cus')"><IMG NAME="cus" SRC="graphics/t/cus.gif" BORDER=0 ALT="solutions and services for CSX business unit customers" WIDTH=172 HEIGHT=16></A></TD>
+        <TD WIDTH=172><A HREF="inv/index.htm" TITLE="CSX for investors" onMouseover="img_act('inv'); window.status='stock quotes, annual reports, and analysis';return true;" onMouseout="img_inact('inv')"><IMG NAME="inv" SRC="graphics/t/inv.gif" BORDER=0 ALT="stock quotes, annual reports, and analysis" WIDTH=172 HEIGHT=16></A></TD>
+        <TD WIDTH=172><A HREF="med/index.htm" TITLE="CSX for the media" onMouseover="img_act('med'); window.status='press releases, fact sheets, and subscribe to the CSX Express';return true;" onMouseout="img_inact('med')"><IMG NAME="med" SRC="graphics/t/med.gif" BORDER=0 ALT="press releases, fact sheets, and subscribe to the CSX Express" WIDTH=172 HEIGHT=16></A></TD>
+    </TR>
+    <TR>
+        <TD COLSPAN=4 WIDTH=608><IMG SRC="fun/graphics/608_spacer.gif" WIDTH=608 HEIGHT=4 BORDER=0 ALT=""></TD>
+    </TR>
+</TABLE>
+
+<!-- section e: body copy and links      -->
+
+<TABLE WIDTH=608 CELLPADDING=5 CELLSPACING=0 BORDER=0>
+    <TR>
+        <TD WIDTH=87 VALIGN=TOP BGCOLOR=CCCCCC BACKGROUND="graphics/border.gif" ROWSPAN=5><img src="graphics/spacer8x32.gif" HEIGHT=8 WIDTH=86 BORDER=0 ALT="">
+<FONT FACE="helvetica,arial" SIZE=2>Please fill out the fields to the right to help us better serve you with your needs. It is very important to fill out the classification fields so that your mail is routed to the proper person within our organization and can be handled as quickly as possible. Please allow 2 business days for a formal response via e-mail.<BR><P>If you would prefer to speak to someone immediately, please see our <a href=contact_analog.htm>corporate contact page</a>.<BR></FONT>
+</TD>
+        <TD WIDTH=512 VALIGN=TOP>
+<TABLE WIDTH=496 CELLPADDING=2 CELLSPACING=0 BORDER=0>
+	<TR>
+<font face=arial,helvetica size=4 COLOR=787478><b>CSX Corporation</b></font><BR><FONT FACE=arial,helvetica color=666666 SIZE=3><i>Contact Us</i></font><BR><BR>
+<FONT FACE=arial,helvetica color=666666 SIZE=2>Before you contact our customer support personnel, <B>please read the <A HREF="faqs.htm">FAQ documents</A>.</B> Answers to all of your most common questions can be found there. If you request an answer to a question already addressed in a FAQ, <I>you may not receive a response from this form.</I><P>
+If you are experiencing difficulties with the navigation or viewing of this site, please see our <B><A HREF="help/index.htm">navigation help screen</A></B> or our <B><A HREF="help/faq_tech.htm">technical support FAQ</A></B>.<HR SIZE="1"></FONT></TD>
+	</TR>
+	<!-- response.htm -->
+<FORM METHOD=post ACTION="/cgi-bin/MailHandler">
+<INPUT TYPE=hidden NAME="routine" VALUE="contact">
+<INPUT TYPE=hidden NAME="subject" VALUE="">
+	<TR>
+        <TD WIDTH=128 ALIGN=RIGHT><FONT SIZE=-2 FACE="helvetica,arial" COLOR=CC0000><B>NAME:</B></FONT></td>
+        <TD WIDTH=384><INPUT TYPE=text NAME="sender" SIZE=40></td>
+    </TR>
+    <TR>
+        <TD WIDTH=128 ALIGN=RIGHT><FONT SIZE=-2 FACE="helvetica,arial"><B>COMPANY:</B></FONT></td>
+        <TD WIDTH=384><INPUT TYPE=text NAME="company" SIZE=40></td>
+    </TR>
+    <TR>
+        <TD WIDTH=128 ALIGN=RIGHT><FONT SIZE=-2 FACE="helvetica,arial" COLOR=CC0000><B>E-MAIL:</td>
+        <TD WIDTH=384><INPUT TYPE=text NAME="email" SIZE=40></td>
+    </TR>
+    <TR>
+        <TD WIDTH=128 ALIGN=RIGHT><FONT SIZE=-2 FACE="helvetica,arial" COLOR=CC0000><B>I WANT<BR>TO KNOW:</td>
+        <TD><select name="querytype">
+<option selected>click here</option>
+<OPTION VALUE=hilda_dugarel@csx.com>request an annual report
+<OPTION VALUE=mike_nall@csx.com>TWSnet information (customer tracing)
+<OPTION VALUE=Stephanie_Atkins@csx.com>CSX Intermodal information
+<OPTION VALUE=Gary_Wollenhaupt@SEALAND.com>Sea-Land information
+<OPTION VALUE=RAMILLE@csxt.csx.com>ACL information
+<OPTION VALUE=The_Greenbrier@csx.com>information on The Greenbrier
+<OPTION VALUE=webeditor@csx.com>General Information
+
+</select></td>
+    </TR>
+    <TR>
+        <TD WIDTH=128 ALIGN=RIGHT><FONT SIZE=-2 FACE="helvetica,arial"><B>PHONE:</td>
+        <TD WIDTH=384><INPUT TYPE=text NAME="phone" SIZE=40></td>
+    </TR>
+    <TR>
+        <TD WIDTH=128 ALIGN=RIGHT><FONT SIZE=-2 FACE="helvetica,arial"><B>FAX:</td>
+        <TD WIDTH=384><INPUT TYPE=text NAME="fax" SIZE=40></td>
+    </TR>
+    <TR>
+        <TD WIDTH=128 ALIGN=RIGHT><FONT SIZE=-2 FACE="helvetica,arial"><B>ADDRESS:</td>
+        <TD WIDTH=384><INPUT TYPE=text NAME="street" SIZE=40></td>
+    </TR>
+    <TR>
+        <TD WIDTH=128 ALIGN=RIGHT><FONT SIZE=-2 FACE="helvetica,arial"><B>CITY:</td>
+        <TD WIDTH=384><INPUT TYPE=text NAME="city" SIZE=40></td>
+    </TR>
+    <TR>
+        <TD WIDTH=128 ALIGN=RIGHT><FONT SIZE=-2 FACE="helvetica,arial"><B>STATE OR<BR>PROVINCE:</td>
+        <TD WIDTH=384><INPUT TYPE=text NAME="state" SIZE=40></td>
+    </TR>
+    <TR>
+        <TD WIDTH=128 ALIGN=RIGHT><FONT SIZE=-2 FACE="helvetica,arial"><B>COUNTRY:</td>
+        <TD WIDTH=384><INPUT TYPE=text NAME="country" VALUE="USA" SIZE=40></td>
+    </TR>
+    <TR>
+        <TD WIDTH=128 ALIGN=RIGHT><FONT SIZE=-2 FACE="helvetica,arial"><B>ZIP OR<BR>POSTAL CODE:</td>
+        <TD WIDTH=384><INPUT TYPE=text NAME="zip" SIZE=40></td>
+    </TR>
+    <TR>
+        <TD VALIGN=TOP ALIGN=RIGHT><FONT SIZE=-2 FACE="helvetica,arial"><br><B>COMMENTS:</td>
+        <TD WIDTH=384><TEXTAREA NAME="comments" ROWS=5 COLS=34 WRAP=PHYSICAL></TEXTAREA></td>
+    </TR>
+    <TR>
+        <TD></td>
+        <TD><INPUT TYPE=button onClick="verify(this.form);" VALUE="Send Feedback"></form></td>
+    </TR>
+</TABLE>
+</TD>
+    </TR>
+</TABLE>
+</CENTER>
+
+
+
+<!-- section x: copyright policy:        -->
+<!-- section g: copyright                -->
+<CENTER>
+<TABLE CELLPADDING=0 CELLSPACING=0 WIDTH=608 BORDER=0>
+    <TR>
+        <TD WIDTH=96 VALIGN=TOP><IMG SRC="graphics/csx_id_blackfoot.gif" WIDTH=96 HEIGHT=32 BORDER=0 ALT=""></TD>
+        <TD WIDTH=512 COLSPAN=4 VALIGN=TOP><A HREF="contact_analog.htm"><IMG SRC="graphics/rgb_spacer.gif" usemap="#cpyright" WIDTH=512 HEIGHT=72 BORDER=0 ALT="all contents copyright 1996,1997 CSX Corporation. All rights reserved."></A></TD>
+    </TR>
+</TABLE>
+</CENTER>
+<!-- section x: copyright policy:        -->
+
+</BODY>
+</HTML>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

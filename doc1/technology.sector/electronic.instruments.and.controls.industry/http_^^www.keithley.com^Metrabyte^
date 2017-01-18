@@ -1,0 +1,120 @@
+Date: Fri, 21 Nov 1997 04:07:16 GMT
+Server: Apache/1.2.4
+Last-Modified: Thu, 16 Oct 1997 21:59:42 GMT
+ETag: "29464-1112-34468e4e"
+Content-Length: 4370
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+   <TITLE>Keithley MetraByte, the Leader in PC Data
+   Acquisition</TITLE>
+   <X-SAS-WINDOW TOP=66 BOTTOM=624 LEFT=8 RIGHT=538>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+
+<P><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=541>
+   <TR>
+      <TD WIDTH="100%">
+         <P><IMG SRC="kmd_mast.GIF" WIDTH=541 HEIGHT=167 ALIGN=bottom
+         naturalsizeflag="3">
+      </TD></TR>
+   <TR>
+      <TD WIDTH="100%">
+         <P><BR>
+         
+         <MAP NAME="mb_butns">
+            <AREA SHAPE=RECT COORDS="284,47,377,75" HREF="sitemap.html">
+            <AREA SHAPE=RECT COORDS="139,43,243,72" HREF="catalog/index.html">
+            <AREA SHAPE=RECT COORDS="-1,45,130,73" HREF="products/index.html">
+            <AREA SHAPE=RECT COORDS="-1,1,93,35" HREF="../index.html">
+            <AREA SHAPE=RECT COORDS="410,47,501,73" HREF="contact/rep_main.html">
+            <AREA SHAPE=RECT COORDS="409,1,540,33" HREF="../cgi/mb_lit.cgi?lit-request">
+            <AREA SHAPE=RECT COORDS="284,6,376,33" HREF="whatsnew/index.html">
+            <AREA SHAPE=RECT COORDS="137,1,239,33" HREF="profile/index.html">
+         </MAP><IMG ISMAP USEMAP="#mb_butns" SRC="mb_butns.GIF"
+         WIDTH=541 HEIGHT=77 BORDER=0 ALIGN=bottom
+         naturalsizeflag="3"></P>
+         
+         <P>Welcome to Keithley MetraByte's new home on the World
+         Wide Web. If you have been reaching us using the URL
+         http://www.metrabyte.com, please bookmark this page. We will
+         be phasing out the domain name metrabyte.com as we integrate
+         our new look at the home of our parent company Keithley
+         Instruments, Inc.</P>
+         
+         <P>We look forward to offering you the same great products
+         and service that you are already used to, and we will be
+         implementing several new features and conveniences in the
+         near future. We are in the process of upgrading the
+         appearence of our site. We hope you enjoy the new look!</P>
+         
+         <H3>
+         <HR ALIGN=LEFT>
+         How to contact Keithley MetraByte<BR>
+         
+         
+         <HR ALIGN=LEFT>
+         </H3>
+         
+         <UL>
+            <LI><A HREF="../cgi/mb_lit.cgi?lit-request">Technical
+            Literature Requests</A>
+            
+            <LI>If you encounter problems with this server, please
+            email the
+            <A HREF="../cgi/mail.cgi?webmaster">Webmaster</A>
+            
+            <LI><A HREF="contact/specdir.html">SpecDirect</A> FaxBack
+            System (800) 636-3377 for technical information
+            
+            <LI>Phone: (800) 348-0033 (Sales information only) or
+            (440) 248-1520 (8:00 AM to 6:00 PM Eastern Time)
+            
+            <LI>Fax: (440) 248-6168
+            
+            <LI>Mail: Keithley MetraByte<BR>
+            
+            28775 Aurora Road<BR>
+            
+            Cleveland, OH 44139
+            
+            <LI>View a list of <A HREF="contact/rep_main.html">Sales
+            Representatives</A>
+            
+            <LI>Visit the home page of our parent company,
+            <A HREF="../index.html">Keithley Instruments</A>.
+         </UL>
+      </TD></TR>
+   <TR>
+      <TD WIDTH="100%">
+         <P><BR>
+         
+         
+         <HR ALIGN=LEFT>
+         <B><A HREF="../index.html">Home</A><FONT COLOR="#0000AF">
+         </FONT>| <A HREF="../TIG/SBU/index.html">Semiconductor
+         Division</A><FONT COLOR="#0000AF"> </FONT>|
+         <A HREF="../TIG/IBU/index.html">Instruments
+         Division</A><FONT COLOR="#0000AF"> </FONT>|
+         <A HREF="../rmd/index.html">Radiation Measurements
+         Division</A><FONT COLOR="#0000AF"> </FONT>|
+         <A HREF="../SmartLink/index.html">SmartLink
+         Products</A><FONT COLOR="#0000AF"> </FONT>|
+         <A HREF="index.html">Keithley MetraByte Products</A><FONT
+         COLOR="#0000AF"> </FONT>|
+         <A HREF="../acculex/index.html">Acculex Products</A><FONT
+         COLOR="#0000AF"> </FONT>|
+         <A HREF="../corporate/index.html">Corp/Financial/HR</A></B>
+         <HR ALIGN=LEFT>
+         Comments and questions regarding this WWW server to
+         <A HREF="../cgi/mail.cgi?webmaster">webmaster@keithley.com</A>
+         <HR ALIGN=LEFT>
+         <FONT SIZE="-2">&copy;Copyright 1997, Keithley Instruments,
+         Inc.</FONT>
+      </TD></TR>
+</TABLE></P>
+</BODY>
+</HTML>

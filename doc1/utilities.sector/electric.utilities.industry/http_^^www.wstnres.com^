@@ -1,0 +1,99 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 18 Dec 1997 20:52:19 GMT
+Content-Type: text/html
+
+<html>
+<head>
+<title>Western Resources</title>
+
+</head>
+<body bgcolor="ffffff" text="000000"  link="003399" vlink="663333">
+<!-- Still Image -->
+<center>
+<img src="images/wr_logo_on_white.gif">
+<p>
+<table cellpadding=1 cellspacing=3>
+<td align=right width=135><a href="/westar/energy"><img border=0 src="images/we_splash.gif"
+alt="Westar Energy" height=100 width=95></a></td>
+<td rowspan=3 width=4><br></td><td rowspan=3><img border=0 src="images/curtain.gif"
+height=315 width=220></td><td rowspan=3 width=4><br></td>
+<td align=left width=135><a href="/westar/security"><img border=0
+src="images/ws_splash.gif" alt="Westar Security" height=100 width=95></a></td>
+<tr>
+<td align=left width=135><a href="/utility"><img border=0 src="images/uo_splash.gif"
+alt="Utility Operations" height=100 width=95></a></td>
+<td align=right width=135><a href="/wing"><img border=0 src="images/wg_splash.gif" alt="The
+Wing Group" height=100 width=95></a></td>
+<tr>
+<td align=right width=135><a href="/financial"><img border=0 src="images/fi_splash.gif"
+alt="Financial Information" height=100 width=95></a></td>
+<td align=left width=135><a href="/share"><img border=0 src="images/sh_splash.gif"
+alt="Shareowner Services" height=100 width=95></a></td>
+</table>
+
+
+<!-- Major Section Links -->
+<hr align=middle><br>
+<font size=+2>
+<a href="/news/"><img border=0 src="images/whats_news.gif" alt="What's News"></a><p>
+<!-- Minor Section Links -->
+<table>
+<!-- <td><img src="images/lftbtn.gif"></td> -->
+<!-- Column one -->
+<td valign=top>
+<font size=+1>
+<li> <a href="/kcpl">KCPL Merger Info</a>
+<li> <a href="/utility/retail/mcmc.stm">Mid Continent Market Center</a> 
+<li> <a href="/bulkpower">Bulk Power Sales</a>
+<li> <a href="http://www.secapl.com/cgi-bin/qs">Current Stock Price</a>
+</td>
+<!-- Column two -->
+<td valign=top><font size=+1>
+<li> <a href="/oneok">ONEOK Alliance</a>
+<li> <a href="/utility/retail/kpl_kge/programs.stm#winter">Gas Costs Brochure</a>
+<li> <a href="/environmental">Environmental Report</a> 
+<li> <a href="/utility/#kdot">Utility/KDOT Projects</a> 
+</td>
+<!-- Column three -->
+<td valign=top><font size=+1>
+<li> <a href="/old_protect/index.stm">Protection One Transaction Info</a>
+<li> <a href="/news/prepare/">Preparing for Competition</a>
+<li> <a href="/employee">Employee News</a> 
+<li> <a href="/ecodev/">Economic Development</a>
+</td>
+<!-- <td><img src="images/rtbtn.gif"></td> -->
+</table>
+<p>
+<font size=+1><a href="/sitemap">Site Index</a></font>
+</center>
+<P>
+<hr width=90%>
+<p>
+
+
+<center>
+<font size=+1><a href="comments/index.stm">
+Comments and Suggestions:</a>
+<p>
+
+Visitors since April 18, 1996<br>
+<img border=0 src="http://www.blairlake.com/cgi-bin/Count.cgi?df=wstnres.dat&ft=0&dd=F">
+<p>
+
+Western Resources<br>
+P.O. Box 889<br>
+Topeka, KS 66601-0889<br>
+Telephone: (785) 575-6300<br>
+<a href="mailto:corpcom@wstnres.com">corpcom@wstnres.com</a><p>
+
+</center>
+<hr width=90%>
+<center>
+Produced and Designed by <a href="http://www.blairlake.com">BlairLake Inc.</a><br>
+Site last updated December 17, 1997
+</font></center></body>
+</html>
+
+
+
+

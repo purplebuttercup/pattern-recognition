@@ -1,0 +1,26 @@
+Date: Thursday, 20-Nov-97 21:37:04 GMT
+Server: WebSite/1.1e
+Allow-ranges: bytes
+Content-type: text/html
+Last-modified: Tuesday, 07-Jan-97 20:34:02 GMT
+Content-length: 493
+
+<!DOCTYPE HTML PUBLIC "-//W3O/DTD HTML//EN">
+
+<html>
+<head>
+<title>ABT co MANUFACTURER OF FINE HOME BUILDING PRODUCTS</title>
+<meta name="FORMATTER" content="Microsoft FrontPage 1.1">
+</head>
+<frameset cols="83%,17%">
+    <frame src="homenf.htm" name="main">
+    <frame src="manufact.htm" name="contents">
+    <noframes>
+    <body>
+    <p> </p>
+    <p>This web page uses frames, but your browser doesn't
+    support them.</p>
+    </body>
+    </noframes>
+</frameset>
+</html>

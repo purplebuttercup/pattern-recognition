@@ -1,0 +1,206 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 20 Nov 1997 00:55:16 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Tue, 18 Nov 1997 21:50:53 GMT
+Content-Length: 4990
+
+<HTML>
+<HEAD>
+<TITLE>Pennzoil</TITLE>
+</HEAD>
+
+<BODY LINK="#FF0000" ALINK="#009900" VLINK="#660000"  BGCOLOR="#FFFFFF">
+
+
+
+<MAP NAME="map">
+
+<AREA SHAPE=RECT COORDS="16,82, 78,98" HREF="racing/default.htm">
+
+<AREA SHAPE=RECT COORDS="16,66, 88,83" HREF="car_care/default.htm">
+
+<AREA SHAPE=RECT COORDS="16,50, 90,167" HREF="products/default.htm">
+
+</MAP>
+
+
+<MAP NAME="navmap">
+
+<AREA SHAPE=RECT COORDS="323,0 610,16" HREF="racing/default.htm">
+
+<AREA SHAPE=RECT COORDS="212,0 319,16" HREF="car_care/default.htm">
+
+<AREA SHAPE=RECT COORDS="104,0 207,15" HREF="products/default.htm">
+
+</MAP>
+
+
+<TABLE WIDTH=610 BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR>
+<TD WIDTH=159 BGCOLOR="#FFFFFF" VALIGN=TOP>
+<A HREF="welcome.htm"><IMG SRC="graphics/h_welcome.gif" BORDER=0 
+WIDTH=149 HEIGHT=127 USEMAP="#map"></A>
+</TD>
+<TD WIDTH=451 HEIGHT=207 ALIGN=CENTER BGCOLOR="#000000">
+<A HREF="welcome.htm">
+<IMG SRC="graphics/homeanim.gif" WIDTH=450 HEIGHT=271 BORDER=0></A>
+</TD>
+</TR>
+
+<TR>
+<TD></TD>
+<TD WIDTH=461 VALIGN=MIDDLE ALIGN=CENTER BGCOLOR="#000000">
+<APPLET CODEBASE="java/" CODE="pennzoil.class" WIDTH=451 HEIGHT=93> 
+<PARAM NAME="version" value=4></APPLET>
+</TD>
+</TR>
+
+<TR>
+
+<TD WIDTH=150 HEIGHT=230 VALIGN=TOP BGCOLOR="#FFFFFF">
+
+<BR>
+<BR>
+<TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0>
+<TR>
+<TD WIDTH=20></TD>
+<TD>
+
+<TABLE BORDER=0 CELLSPACING=8 CELLPADDING=0>
+<TR>
+	<TD><A HREF="products/default.htm"><FONT SIZE=-1>Pennzoil Products</FONT></A></TD>
+</TR>
+<TR>
+	<TD><A HREF="car_care/default.htm"><FONT SIZE=-1>Car Care</FONT></A></TD>
+</TR>
+
+<TR>
+	<TD><A HREF="racing/default.htm"><FONT SIZE=-1>Pennzoil Racing</FONT></A></TD>
+</TR>
+
+<TR>
+	<TD><BR>
+<BR>
+<BR>
+
+<A HREF="http://www.pzl.com"><FONT SIZE=-1>More about Pennzoil Shareholder Information</FONT></A><P>
+</TD>
+
+</TR>
+<TR>
+
+	<TD><A HREF="http://www.theautochannel.com"><FONT SIZE=-1>The Auto Channel</FONT></A></TD>
+</TR>
+</TABLE>
+
+</TD>
+</TR>
+</TABLE>
+
+
+</TD>
+<TD COLSPAN=3 HEIGHT=230 WIDTH=460 VALIGN=TOP BGCOLOR="#FFCC00">
+
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=8>
+
+<TR>
+  
+  <TD>
+ 
+
+
+
+  <P>
+
+
+<BR>
+
+<BR>
+
+<FONT SIZE=+2 COLOR="FF0000" FACE=HELVETICA, ARIAL><B>Welcome to Pennzoil Online,</B></FONT>
+<BR><FONT SIZE=3 COLOR="000000" FACE=TIMES, TIMES ROMAN><B> home of Pennzoil Motor Oil, formulated for stop-and-go driving, the kind of driving you do every day. Here, you'll find interesting features about Pennzoil's broad range of products, from America's #1 selling motor oil to our complete line of filters and specialty lubricants, automotive chemicals, lawn and garden, and marine products.</B> </FONT>
+
+<P>
+
+<BR>
+<FONT SIZE=+2 COLOR="FF0000" FACE=HELVETICA, ARIAL><B>Want a little help with your car?</B></FONT>
+<BR><FONT SIZE=3 COLOR="000000" FACE=TIMES, TIMES ROMAN><B><A HREF="car_care/oil_story/default.htm">The Motor Oil Story</A> will show you how to save money on vehicle maintenance and repairs. Be sure to visit the Racing section for a complete look at Pennzoil Racing, including information on our 1997 teams as well as our rich <A HREF="racing/racinghistory/default.htm">racing heritage</A>. It's all here. You'll also find a special section about what Pennzoil and Arnold Palmer are doing in the <A HREF="arnie/default.htm">fight against prostate cancer</A>.</B>  </FONT>
+
+<P>
+
+<BR>
+<FONT SIZE=+2 COLOR="FF0000" FACE=HELVETICA, ARIAL><B>Company News</B></FONT>
+<BR><FONT SIZE=3 COLOR="000000" FACE=TIMES, TIMES ROMAN><B>
+<A HREF="http://www.pzl.com/newsview.htm">Click here</A> for the latest news about Pennzoil Company.
+</B></FONT>
+<P>
+<BR>
+
+<A HREF="Car_care/winterize/Default.htm"><IMG SRC="Car_care/winterize/graphics/wintercar2.gif" ALIGN=RIGHT WIDTH="112" HEIGHT="112" BORDER="0"></A>
+<FONT SIZE=+2 COLOR="FF0000" FACE=HELVETICA, ARIAL><B>It's time to winterize your vehicle.</B></FONT>
+<BR
+
+<BR><FONT SIZE=3 COLOR="000000" FACE=TIMES, TIMES ROMAN><B>With summer gone, and winter all over us, we will soon be entering the toughest driving season. <A HREF="Car_care/winterize/Default.htm">Click here</A> to learn how to properly prepare your vehicle for the cold.</B></FONT>
+</B></FONT>
+
+
+
+<P>
+
+</TD>
+</TR>
+
+</TABLE>
+
+
+
+<BR>
+<BR>
+
+
+</TD>
+</TR>
+</TABLE>
+
+
+<TABLE WIDTH=610 BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR>
+	<TD BGCOLOR="#FFFFFF">
+		<IMG SRC="graphics/navigation/homenav.gif" ALT="Home Navigation" 
+		WIDTH=610 HEIGHT=16 BORDER=0 USEMAP="#navmap"></TD>
+	
+</TR>
+</TABLE>
+
+<TABLE WIDTH=610 BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR>
+<TD WIDTH=150 HEIGHT=50 ALIGN=RIGHT BGCOLOR="#FFFFFF">
+<BR>
+
+<BR>
+</TD>
+<TD WIDTH=460 HEIGHT=50 BGCOLOR="#FFCC00" ALIGN=TOP>
+<BR>
+
+
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR>
+<TD WIDTH=60></TD>
+<TD><FONT SIZE=-2>&#169;1997, Pennzoil Products Company, All Rights Reserved</FONT>
+</TD>
+</TR>
+</TABLE>
+
+
+&nbsp;&nbsp;<BR>
+</TD>
+</TR>
+</TABLE>
+
+
+
+</BODY>
+</HTML>

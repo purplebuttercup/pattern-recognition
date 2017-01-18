@@ -1,0 +1,66 @@
+Server: Netscape-Communications/1.1
+Date: Wednesday, 19-Nov-97 23:48:20 GMT
+Last-modified: Tuesday, 18-Nov-97 17:13:16 GMT
+Content-length: 3577
+Content-type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>Newsroom</TITLE>
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+var x
+
+message=new Array
+
+//BEGIN PRESS RELEASES
+message[0]="SAN FRANCISCO, Nov. 18, 1997 -- Chevron today announced approval of a project to nearly double capacity of its newly commissioned associated-gas utilization project in Nigeria, operated by its wholly owned subsidiary, Chevron Nigeria Ltd. (CNL), in association with the Nigerian National Petroleum Corp. (NNPC).";
+message[1]="NEW ORLEANS, Nov. 5, 1997 -- Chevron's deep-water development program in the Gulf of Mexico is aiming to add more than 2 billion barrels in new oil reserves over the next 10 to 20 years, Peter J. Robertson, president of Chevron U.S.A. Production Co., today told the Tulane University Business Forum.";
+message[2]="SAN FRANCISCO, Oct. 29, 1997 -- Chevron Corp. declared a quarterly dividend of 58 cents per share, payable Dec. 10 to stockholders of record Nov. 20.";
+//END PRESS RELEASES
+
+//BEGIN SPEECHES
+message[4]="<CENTER><B>Peter J. Robertson<BR>President Chevron U.S.A. Production Company<BR>to the Tulane University Business Forum New Orleans, Louisiana</B></CENTER><P>Good morning and thanks for inviting me to participate in this forum.  It's a pleasure to be here.  New Orleans is one of Chevron's major employee population centers.  And it's one of those places that I love returning to. It seems there's always a reason to celebrate here.  Maybe those of us in the business community could learn something from that.";
+message[5]="<CENTER><B>Kenneth T. Derr<BR>Chairman of the Board and Chief Executive Officer, Chevron Corporation<BR>to the World Petroleum Congress, Beijing, China</B></CENTER><P>It's a privilege to be here in Beijing to talk about our industry and to honor the memory of Thomas Dewhurst, the father of the World Petroleum Congress.  Mr. Dewhurst passed away in 1973.  So he never witnessed the Arab oil embargo of that year or what happened to oil prices in the years that followed.  If he were with us today, I think he would be proud that our industry has spent the 1990s learning how to be successful without high oil prices -- and proving we don't need high oil prices in order to grow the industry.<P>";
+message[6]="<CENTER><IMG SRC=speeches/1997/97-10-16_images/chinese0.gif WIDTH=323 HEIGHT=134 BORDER=0></CENTER><P>";
+//END SPEECHES
+
+function rollOver(msg){
+	if (!window.frames[1].frames.length){
+		return
+	}
+	x=window.frames[1].frames[1].document
+	y=window.frames[1].frames[0]
+	x.open()
+	x.write("<BODY BGCOLOR=FFFFFF LINK=003366 VLINK=cc0000 ALINK=ff0000><CENTER><TABLE BORDER=6 CELLPADDING=5 WIDTH=96% HEIGHT=96%><TR><TD BGCOLOR=DDDDDD><FONT SIZE=-1>")
+	x.write(message[msg])
+	x.write("<CENTER><A HREF=http://" + location.hostname + y.document.links[msg].pathname + ">Go</A></CENTER></TD></TR></TABLE></CENTER>")
+	x.close()
+}
+
+//-->
+</SCRIPT>
+</HEAD>
+<FRAMESET ROWS=114,* FRAMEBORDER=0 BORDER=0 BORDERCOLOR=FFFFFF>
+<FRAME SRC=titlebar.html SCROLLING=NO MARGINHEIGHT=0>
+<FRAME SRC=frames1.html NAME=Main>
+<NOFRAMES>
+<BODY BGCOLOR=FFFFFF VLINK=FF0000>
+<H2 ALIGN=center>Media Room</H2>
+<P ALIGN=center><I><FONT SIZE=+1>We're proud of our efforts to provide timely, meaningful information to the public.  We're now pleased to offer this information via the World Wide Web.</FONT></I></P>
+
+<HR WIDTH=400>
+<DL>
+<DD><A HREF=pressrel/><B>Press Releases</B></A>
+<P>
+<DD><A HREF=speeches/><B>Speeches</B></A> delivered by our Chairman and other senior executives.
+</DL>
+<PRE>
+
+
+</PRE>
+<CENTER><A HREF=/chevron_root/ TARGET=_top>Home</A></CENTER>
+</BODY>
+</NOFRAMES>
+</FRAMESET>
+</HTML>

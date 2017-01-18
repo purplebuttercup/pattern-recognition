@@ -1,0 +1,128 @@
+Server: Microsoft-IIS/3.0
+Date: Wed, 19 Nov 1997 22:52:33 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Thu, 08 May 1997 16:19:54 GMT
+Set-Cookie: EGSOFT_ID=128.2.209.145-3532088560.29160765; expires=Fri, 31-Dec-2010 00:00:00 GMT; path=/
+Content-Length: 4475
+
+<HTML>
+<head>
+<title>National-Oilwell -Multiplex Plunger (Oilfield & Industrial) Pumps & Parts</title></head>
+<body background="../bckgrnds/fleck.gif" bgcolor="#dddddd" vlink="#0000FF" alink="#FFFFFF">
+<!*************************************************************************>
+<script language="JavaScript">
+  trap = new Object();
+  trap = "On";
+
+  function checkIt(){
+    if (trap=="On") return false;
+    if (trap=="Off") return true;
+  }
+ 
+  function verifyIt(){
+  var count;
+    trap="Off";
+    for(count=1; count<11; count+=1){
+      if (count==8) continue;
+      if (document.downloadit.elements[count].value==""){
+       trap="On";
+       alert("All fields must be filled in to download the software!");
+       return;
+       }
+    }
+    document.downloadit.submit();
+  }
+
+  function helpMe(){
+    alert("Fill out the registration form to download the interactive catalog!");
+  }
+
+  function eraseIt(){
+    location="sendit.htm";
+  }
+
+  function backUp(){
+   location.href="http://www.natoil.com/";
+  }
+
+</script>
+<!*************************************************************************>
+<font size=6 color=ff6600  face="arial black"><img src=../gifs/new01.gif >Interactive Catalog</font><BR>  
+<IMG SRC="../../gifs/MARGIN.gif" align=left width=40 height=85>
+<font size=6 color=003399 face="arial black">Multiplex Plunger</font><BR>  
+<font size=3 color=003399 face="arial black">OILFIELD & INDUSTRIAL</font><BR> 
+<font size=5 color=003399 face="arial black">Pumps & Parts</font><BR>
+
+<!*************************************************************************>
+<br>
+<center>
+<font size=6 face="comic sans ms, arial">Download Registration</font>
+</center>
+<!*************************************************************************>
+<p>
+<center>
+<table border-=0>
+<form NAME="downloadit" METHOD="POST" ACTION="/scripts/CGI_PERF.EXE" onSubmit='return checkIt()'>
+<INPUT TYPE=HIDDEN NAME=CmdFile value="/forms/register.cmdl">
+
+<tr><td><font face="comic sans ms, arial">First Name : </font></td>
+<td><input type=text name=Fname></td>
+<td>  <font face="comic sans ms, arial">Last Name : </font></td>
+<td><input type=text name=Lname></td></tr>
+
+<tr><td ><font face="comic sans ms, arial">Address    : </font></td>
+<td colspan=4><input type=text size=67 name=addr></td></tr>
+
+<tr><td><font face="comic sans ms, arial">City : </font></td>
+<td colspan=4><input type=text size=67 name=city></td></tr>
+
+<tr><td><font face="comic sans ms, arial">State : </font></td>
+<td><input type=text size=20 name=state>  </td>
+<td><font face="comic sans ms, arial">Zip : </font></td>
+<td><input type=text name=zip size=10></td></tr>
+
+<tr><td><font face="comic sans ms, arial">Company : </font></td>
+<td colspan=4><input type=text size=67 name=company></td></tr>
+
+<tr><td><font face="comic sans ms, arial">Title : </font></td>
+<td><input type=text size=20 name=title></td>
+<td rowspan=3 colspan=2><img src=../gifs/plungej.gif width=150 height=125></td></tr>
+
+<tr><td><font face="comic sans ms, arial">Phone : </font></td>
+<td><input type=text name=phone></td></tr>
+
+<tr><td><font face="comic sans ms, arial">Fax : </font></td>
+<td><input type=text name=fax></td></tr>
+</table>
+</center>
+<!*************************************************************************>
+<p>
+<center>
+<input type=button  value="Cancel" onClick="backUp()"  >
+<input type=button value="Clear Form" onClick="eraseIt()">
+<input type=button value="Start Download" onclick="verifyIt()">
+<input type=button value="Help" onClick="helpMe()">
+</form>
+</center>
+<!*************************************************************************>
+<center>
+<P>
+<img src="../../animated/rainbow1.gif">
+<P>
+<table border=2>
+<td><img src=../../gifs/natoil.gif width=150 height=75></td>
+</table>
+<h6><em>(C) 1997 Copyright National-Oilwell</em></h6>
+<P><A HREF="maps/noifootr.map"><IMG BORDER="0" SRC="maps/noimap.gif" USEMAP="#maps/noimap.gif" ISMAP></A></P>
+</center>
+<!*************************************************************************>
+</BODY>
+</HTML>
+<!*************************************************************************>
+<MAP NAME="maps/noimap.gif">
+<AREA SHAPE="RECT" COORDS="12,7,93,56" HREF="http://www.natoil.com/">
+<AREA SHAPE="RECT" COORDS="95,7,184,56" HREF="http://www.natoil.com/paper/front.htm">
+<AREA SHAPE="RECT" COORDS="185,7,270,56" HREF="http://www.natoil.com/locate.htm">
+</MAP>
+

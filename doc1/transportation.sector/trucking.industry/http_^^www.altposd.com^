@@ -1,0 +1,148 @@
+Date: Thu, 20 Nov 1997 16:19:01 GMT
+Server: Apache/1.2b10
+Last-Modified: Tue, 18 Nov 1997 20:40:01 GMT
+ETag: "b679-11b9-3471fd21"
+Content-Length: 4537
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+
+<HTML>
+<HEAD>
+<TITLE>ALTERNATE POSTAL DELIVERY, INC.</TITLE>
+<LINK REV="MADE" HREF="mailto:webmaster@altposd.com">
+<script language="JavaScript">
+
+<!-- begin  
+       
+var id,pause=0,position=0,revol=1;
+function banner() {
+	var i,k;
+	var m1="";
+	var m2="      Welcome to Alternate Postal Delivery's Web Site!      ";
+	var m3="EXTRA! EXTRA! News America FSI and Alternate Postal Delivery Enter Strategic Sampling Alliance.  For more information see the Press Release page.   ";
+	var m4="                                                      ";
+	var m5=" ";
+	var msg=m1+m2+m3+m4+m5;
+	var speed=10;
+	document.form2.banner.value=msg.substring(position,position+60);
+	if(position++==(msg.length-60)) {
+		position=0;
+		if( --revol < 1 ){
+			document.form2.banner.value=msg.substring(position,position+60);
+			return;
+			}
+		}
+	id=setTimeout("banner()",1000/speed);
+	}
+
+// end -->
+
+</script>
+
+<!  var m4="Check the Press Release page for the our first quarter results. ">
+
+</HEAD>
+<!BODY BGCOLOR=#ffffff link=#009999 vlink=#666666 onload="banner()">
+<BODY BGCOLOR=#ffffff link=#009999 vlink=#666666>
+
+<table border=0>
+<tr width=70%,30%>
+	<td>
+		<FONT SIZE=4><STRONG>
+		"Alternate Postal Delivery's mission is to establish the
+		nation's foremost private delivery network providing
+		reliable and cost-effective distribution to consumer
+		addresses, creating new profit opportunities through
+		target marketing."
+		</STRONG></FONT SIZE=4>
+		</td>
+	<td>
+		<IMG WIDTH=300 HEIGHT=140 SRC="smallapd.gif" >
+		</td>
+	</table>
+
+<center><img width=500 height=4 src="apdbar.gif"></center>
+<P>
+
+<!center>
+<!form name="form2" >
+<!input 	type="text"
+	name="banner"
+	size=52
+	value="  Welcome to Alternate Postal Delivery's Web Site!"
+	>
+<!/form>
+<!/center>
+
+<!onMouseOver="window.status='';return true">
+
+<font size=4>
+
+<IMG width=12 height=12 SRC="blueball.gif"><A HREF="philmess.htm"
+	onMouseOver="window.status='Read what is new at Alternate Postal';return true">
+	Welcome from Phil Miller, President and CEO
+	</A><BR>
+<IMG width=12 height=12 SRC="blueball.gif"><A HREF="stockq.htm"
+	onMouseOver="window.status='Alternate Postal\'s symbol is ALTD on the NASDAQ Small Cap';return true">
+	NASDAQ Stock Quote	
+	</A><BR>
+<IMG width=12 height=12 SRC="blueball.gif"><A HREF="http://www.usspi.com"
+	onMouseOver="window.status='Place ads in Suburban Newspapers Nationally';return true">
+	U.S. Suburban Press, Inc</a>
+	<BR>
+<IMG width=12 height=12 SRC="blueball.gif"><A HREF="conf97.htm"
+	onMouseOver="window.status='The Next Generation of Alternate Delivery';return true">
+	The 1997 Alternate Postal Delivery Conference</a>
+	<BR>
+<IMG width=12 height=12 SRC="blueball.gif"><A HREF="nmshome.htm"
+	onMouseOver="window.status='Services and software featuring the Pro*filer';return true">
+	Newspaper Marketing Solutions, Inc</a>
+	<BR>
+<IMG width=12 height=12 SRC="blueball.gif"><A HREF="pressrel.htm"
+	onMouseOver="window.status='Newest release posted August 5, 1997';return true">
+	Press Release Archive</A>
+	<BR>
+<IMG width=12 height=12 SRC="blueball.gif"><A HREF="article.htm"
+	onMouseOver="window.status='Find many articles relating to our industry here';return true">
+	Articles and Information</a>
+	<BR>
+<IMG width=12 height=12 SRC="blueball.gif"><A HREF="guest.htm"
+	onMouseOver="window.status='Send your comments and request more information by filling out this form';return true">
+	Contact Alternate Postal Delivery, Inc.
+	</A><BR>
+<IMG width=12 height=12 SRC="blueball.gif"><A HREF="apdmap.htm"
+	onMouseOver="window.status='These pages contain information about many of our affiliates and associates';return true">
+	Delivery Network and Market Pages
+	</A><BR>
+<IMG width=12 height=12 SRC="blueball.gif"><A HREF="links.htm"
+	onMouseOver="window.status='Have fun surfing other sites';return true">
+	Links to Related Sites and Search Engines
+	</A><BR>
+
+<p>
+<center>
+<! You are visitor number br >
+<!IMG align=center SRC="http://counter.digits.com/wc/-z/-d/5/alternate-delivery"
+	width=75 height=20 border=0 hspace=4>
+</center>
+
+<center><img width=500 height=4 align=bottom src="apdbar.gif"></center>
+
+<FONT SIZE=2>
+<CENTER>
+This page, and all contents, are Copyright &COPY;
+1997 by<br>
+Newspaper Marketing Solutions, Inc., Grand Rapids, Michigan<BR>
+Comments on these pages: 
+<A HREF="mailto:webmaster@altposd.com">
+webmaster@altposd.com</A><BR>
+<I>
+Last Updated: 05-29-97
+</I>
+</CENTER>
+</FONT SIZE=2>
+
+</BODY>
+</HTML>

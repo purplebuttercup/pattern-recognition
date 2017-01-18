@@ -1,0 +1,189 @@
+Server: Microsoft-IIS/4.0
+Date: Thu, 18 Dec 1997 12:48:29 GMT
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+
+	<META name="description" content="Need to locate the nearest Crestar ATM or branch? Use this application to search according to city or county.">
+	<META name="keywords" content="discover crestar bank, about us, learn more, branch locator, find atm, find branch, find moneystop, 2000">
+	<META Name="author"  Content= "jb">
+	<META Name="resource-type"  Content="document">
+	<META Name="copyright"  Content="1997 Crestar Bank">
+	<META Name="distribution" Content="global">
+
+	<TITLE>Crestar Bank - Discover Crestar: Branch Locator</TITLE>
+	<script language="JavaScript">
+
+<!--
+agent = navigator.userAgent
+
+browserVer = 2;
+
+if (agent.substring(0,7) == "Mozilla"){
+
+    if (parseInt(agent.substring(8,9)) >= 3) {browserVer = 1;}
+
+}
+
+
+if (browserVer == 1) {
+
+	bankonline_white = new Image(135, 15);
+	bankonline_white.src = "../images_nav/bankonline_white.gif";
+	bankonline_y = new Image(135, 15);
+	bankonline_y.src = "../images_nav/bankonline_y.gif";
+
+	bank24_white = new Image(135, 15);
+	bank24_white.src = "../images_nav/bank24_white.gif";
+	bank24_y = new Image(135, 15);
+	bank24_y.src = "../images_nav/bank24_y.gif";
+
+	borrow_white = new Image(135, 15);
+	borrow_white.src = "../images_nav/borrow_white.gif";
+	borrow_y = new Image(135, 15);
+	borrow_y.src = "../images_nav/borrow_y.gif";
+
+	aboutcrestar_white = new Image(135, 15);
+	aboutcrestar_white.src = "../images_nav/aboutcrestar_white.gif";
+	aboutcrestar_y = new Image(135, 15);
+	aboutcrestar_y.src = "../images_nav/aboutcrestar_y.gif";
+
+	branchlocator_white = new Image(135, 15);
+	branchlocator_white.src = "../images_nav/branchlocator_white.gif";
+	branchlocator_y = new Image(135, 15);
+	branchlocator_y.src = "../images_nav/branchlocator_y.gif";
+
+	discovercrestar_white = new Image(135, 15);
+	discovercrestar_white.src = "../images_nav/discovercrestar_white.gif";
+	discovercrestar_y = new Image(135, 15);
+	discovercrestar_y.src = "../images_nav/discovercrestar_y.gif";
+
+	custservice_white = new Image(135, 15);
+	custservice_white.src = "../images_nav/custservice_white.gif";
+	custservice_y = new Image(135, 15);
+	custservice_y.src = "../images_nav/custservice_y.gif";
+
+	requestnews_white = new Image(135, 15);
+	requestnews_white.src = "../images_nav/requestnews_white.gif";
+	requestnews_y = new Image(135, 15);
+	requestnews_y.src = "../images_nav/requestnews_y.gif";
+
+	crestardirect_white = new Image(135, 15);
+	crestardirect_white.src = "../images_nav/crestardirect_white.gif";
+	crestardirect_y = new Image(135, 15);
+	crestardirect_y.src = "../images_nav/crestardirect_y.gif";
+
+	checking_white = new Image(135, 15);
+	checking_white.src = "../images_nav/checking_white.gif";
+	checking_y = new Image(135, 15);
+	checking_y.src = "../images_nav/checking_y.gif";
+
+	communicate_white = new Image(135, 15);
+	communicate_white.src = "../images_nav/communicate_white.gif";
+	communicate_y = new Image(135, 15);
+	communicate_y.src = "../images_nav/communicate_y.gif";
+
+	explorebb_white = new Image(135, 15);
+	explorebb_white.src = "../images_nav/explorebb_white.gif";
+	explorebb_y = new Image(135, 15);
+	explorebb_y.src = "../images_nav/explorebb_y.gif";
+
+	home_white = new Image(135, 15);
+	home_white.src = "../images_nav/home_white.gif";
+	home_y = new Image(135, 15);
+	home_y.src = "../images_nav/home_y.gif";
+
+	insure_white = new Image(135, 15);
+	insure_white.src = "../images_nav/insure_white.gif";
+	insure_y = new Image(135, 15);
+	insure_y.src = "../images_nav/insure_y.gif";
+
+	invest_white = new Image(135, 15);
+	invest_white.src = "../images_nav/invest_white.gif";
+	invest_y = new Image(135, 15);
+	invest_y.src = "../images_nav/invest_y.gif";
+
+	save_white = new Image(135, 15);
+	save_white.src = "../images_nav/save_white.gif";
+	save_y = new Image(135, 15);
+	save_y.src = "../images_nav/save_y.gif";
+
+	sitemap_white = new Image(135, 15);
+	sitemap_white.src = "../images_nav/sitemap_white.gif";
+	sitemap_y = new Image(135, 15);
+	sitemap_y.src = "../images_nav/sitemap_y.gif";
+
+	callback_white = new Image(135, 60);
+	callback_white.src = "../images_nav/callback_white.gif";
+	callback_y = new Image(135, 60);
+	callback_y.src = "../images_nav/callback_y.gif";
+
+	backtotop_white = new Image(135, 15);
+	backtotop_white.src = "../images_nav/backtotop_white.gif";
+	backtotop_y = new Image(135, 15);
+	backtotop_y.src = "../images_nav/backtotop_y.gif";
+}
+
+function hiLite(imgDocID,imgObjName) {
+
+	if (browserVer == 1) {
+
+		document.images[imgDocID].src = eval(imgObjName + ".src");
+	}
+
+}
+//-->
+
+</script>
+
+
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" LINK="000099" ALINK="#FFFFFF" VLINK="#666666" BACKGROUND="../images/standard_bg.gif" topmargin=0><a name=top></a>
+
+<TABLE CELLPADDING=0 BORDER=0 WIDTH=600>
+	<TR><TD BGCOLOR="#FF0000" HEIGHT=25 COLSPAN=2><IMG SRC="../images/logo.gif"></TD></TR>
+	<TR><TD WIDTH=150 FONT COLOR="#ffffff" VALIGN=TOP>
+		<a href="index.stm" onMouseOver="window.status='Return to Discover Crestar Main Page'; return true;"><IMG SRC="../images_nav/discover_gray.gif" width=135 height=15 alt="Link: Return to Discover Crestar" border=0></a><br>
+		<A HREF="aboutus.stm" onMouseOver="hiLite('aboutcrestar_white','aboutcrestar_y'); window.status='Link to About Crestar'; return true;" onMouseOut="hiLite('aboutcrestar_white','aboutcrestar_white');"><IMG SRC="../images_nav/aboutcrestar_white.gif" border=0 name="aboutcrestar_white" width=135 height=15 alt="Link: About Crestar"></A><br>
+		<IMG SRC="../images_nav/branchlocator_y.gif" border=0 name="branchlocator_white" width=135 height=15 alt="Link: Branch Locator"><br>
+		
+<IMG SRC="../images_nav/black_15x135.gif" border=0 width=135 height=15><br>
+
+<A HREF="../bankonline/index.stm" onMouseOver="hiLite('bankonline_white','bankonline_y'); window.status='Link to Bank Online'; return true;" onMouseOut="hiLite('bankonline_white','bankonline_white');"><IMG SRC="../images_nav/bankonline_white.gif" border=0 name="bankonline_white" width=135 height=15 alt="Link: Bank Online"></A><br>
+		<A HREF="../save/index.stm" onMouseOver="hiLite('save_white','save_y'); window.status='Link to Save'; return true;" onMouseOut="hiLite('save_white','save_white');"><IMG SRC="../images_nav/save_white.gif" border=0 name="save_white" width=135 height=15 alt="Link: Save"></A><br>
+		<A HREF="../borrow/index.stm" onMouseOver="hiLite('borrow_white','borrow_y'); window.status='Link to Borrow'; return true;" onMouseOut="hiLite('borrow_white','borrow_white');"><IMG SRC="../images_nav/borrow_white.gif" border=0 name="borrow_white" width=135 height=15 alt="Link: Borrow"></A><br>
+		<A HREF="../invest/index.stm" onMouseOver="hiLite('invest_white','invest_y'); window.status='Link to Invest'; return true;" onMouseOut="hiLite('invest_white','invest_white');"><IMG SRC="../images_nav/invest_white.gif" border=0 name="invest_white" width=135 height=15 alt="Link: Invest"></A><br>
+		<A HREF="../checking/index.stm" onMouseOver="hiLite('checking_white','checking_y'); window.status='Link to Checking'; return true;" onMouseOut="hiLite('checking_white','checking_white');"><IMG SRC="../images_nav/checking_white.gif" border=0 name="checking_white" width=135 height=15 alt="Link: Check Out Checking"></A><br>
+		<A HREF="../explorebb/index.stm" onMouseOver="hiLite('explorebb_white','explorebb_y'); window.status='Link to Explore Business Banking'; return true;" onMouseOut="hiLite('explorebb_white','explorebb_white');"><IMG SRC="../images_nav/explorebb_white.gif" border=0 name="explorebb_white" width=135 height=15 alt="Link: Explore Business Banking"></A><br>
+		<A HREF="../insure/index.stm" onMouseOver="hiLite('insure_white','insure_y'); window.status='Link to Insure'; return true;" onMouseOut="hiLite('insure_white','insure_white');"><IMG SRC="../images_nav/insure_white.gif" border=0 name="insure_white" width=135 height=15 alt="Link: Insure"></A><br>
+		<A HREF="../bank24/index.stm" onMouseOver="hiLite('bank24_white','bank24_y'); window.status='Link to Bank 24 Hours'; return true;" onMouseOut="hiLite('bank24_white','bank24_white');"><IMG SRC="../images_nav/bank24_white.gif" border=0 name="bank24_white" width=135 height=15 alt="Link: Bank 24hours"></A><br>
+		<A HREF="../communicate/index.stm" onMouseOver="hiLite('communicate_white','communicate_y'); window.status='Link to Communicate'; return true;" onMouseOut="hiLite('communicate_white','communicate_white');"><IMG SRC="../images_nav/communicate_white.gif" border=0 name="communicate_white" width=135 height=15 alt="Link: Communicate"></A><br>
+
+		<A HREF="../sitemap/index.stm" onMouseOver="hiLite('sitemap_white','sitemap_y'); window.status='Link to Site Map'; return true;" onMouseOut="hiLite('sitemap_white','sitemap_white');"><IMG SRC="../images_nav/sitemap_white.gif" border=0 name="sitemap_white" width=135 height=15 alt="Link: Sitemap"></A><br>
+		<A HREF="../index.html" onMouseOver="hiLite('home_white','home_y'); window.status='Link to Home'; return true;" onMouseOut="hiLite('home_white','home_white');"><IMG SRC="../images_nav/home_white.gif" border=0 name="home_white" width=135 height=15 alt="Link: Return Home"></A><br>
+
+		<A HREF="http://speakwithagent.att.net/cgi-bin/welcome?SN=crestar+bank&amp;SC=
+default" onMouseOver="hiLite('callback_white','callback_y'); window.status='Link to Instant Callback'; return true;" onMouseOut="hiLite('callback_white','callback_white');"><IMG SRC="../images_nav/callback_white.gif" border=0 name="callback_white" width=135 height=60 alt="Link: Instant Callback" vspace=8></A><br>
+		</TD>
+
+	<TD ROWSPAN=2 VALIGN=TOP>
+		<FONT FACE="arial,helvetica" SIZE=-1><IMG SRC="../images/discover_branchhead.gif" ALT="Find a Crestar Branch Near You." VSPACE=5><br>
+<img src="../images/discover_shopcart.jpg" height=250 width=200 align=right alt="A wealth of banking services.">
+We have a wide variety of services available at ample locations throughout Virginia, Maryland and the District of Columbia.  Just search your area to find a place near you.
+<p>
+Please type in the city/town or county in which you would like to find a Crestar branch.
+<br>
+<form action="../scripts/branches.asp" method=post>
+City: <input type=text name="city" size=30><br>
+County: <input type=text name="county" size=30><br>
+<input type=submit value="Search"><br>
+</form>
+</font></td></tr>
+		<TR><TD VALIGN=BOTTOM><A HREF="#top" onMouseOver="hiLite('backtotop_white','backtotop_y'); window.status='Link to Top'; return true;" onMouseOut="hiLite('backtotop_white','backtotop_white');"><IMG SRC="../images_nav/backtotop_white.gif" ALT="Link: Back to Top" WIDTH="135" HEIGHT="15" BORDER="0" name="backtotop_white"></a>
+<br><IMG SRC="../images_nav/copyright.gif" alt="Copyright 1997 Crestar Bank" border=0></TD></TR>
+</TABLE>
+
+</body>
+</html>

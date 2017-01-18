@@ -1,0 +1,382 @@
+Date: Mon, 29 Dec 1997 21:06:59 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Mon, 25 Aug 1997 18:44:43 GMT
+Content-length: 15791
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Integral Systems OASYS </title>
+<meta name="FORMATTER" content="Microsoft FrontPage 2.0">
+</head>
+
+<body background="gifs/paper-04.gif">
+
+<p><img src="gifs/oalogo.gif" align="right" hspace="0"
+width="300" height="200"> </p>
+
+<h1 align="center"><a name="OASYS"><font color="#000080" size="7">OASYS</font></a></h1>
+
+<hr>
+
+<h2>System Overview</h2>
+
+<p><strong>OASYS</strong> is a workstation-based software tool
+for spacecraft orbit analysis. Its principal functions are: </p>
+
+<dl>
+    <dd><font size="4"><img src="gifs/dot_purp.gif" width="20"
+        height="20"></font><a href="#Orbit"><font size="4">Orbit
+        Determination</font></a><font size="4"> </font></dd>
+    <dd><font size="4"><img src="gifs/dot_purp.gif" width="20"
+        height="20"></font><a href="#Ephemeris"><font size="4">Ephemeris
+        Propagation</font></a><font size="4"> </font></dd>
+    <dd><font size="4"><img src="gifs/dot_purp.gif" width="20"
+        height="20"></font><a href="#Maneuver"><font size="4">Maneuver
+        Planning</font></a><font size="4"> </font></dd>
+</dl>
+
+<p><strong>OASYS</strong> provides end-to-end support for
+spacecraft orbit determination and control. With <strong>OASYS</strong>,
+you can manage a single spacecraft or a fleet in any earth orbit,
+including Low Earth, Geosynchronous, and Molniya-type orbits. </p>
+
+<p>In a typical operational environment, <strong>OASYS</strong>
+is used to estimate the spacecraft state from tracking data, to
+propagate a high precision ephemeris to predict the future
+spacecraft state, and to compute thrust parameters to maneuver
+the spacecraft into a desired orbit. Other functions, such as
+Attitude Determination and Fuel Accounting, can be provided as
+spacecraft-specific options in <strong>OASYS</strong>. </p>
+
+<p>The system provides a state-of-the-art graphical user
+interface. The software is interactive and fully integrated,
+making it much easier to learn and use than batch-oriented orbit
+packages. In fact, most <strong>OASYS</strong> sessions can be
+accomplished using only the mouse, with no keystrokes required.
+Using option menus, for example, you can instantly display
+orbital elements in a variety of user-specified coordinate frames
+(including Cartesian, Keplerian, Geodetic, Brouwer-Mean, and
+Equinoctial) and engineering units (both Metric and English). </p>
+
+<p><strong>OASYS</strong> may be hosted on any UNIX workstation
+under X-Windows/Motif compatible window managers. The software
+runs faster than traditional orbit packages because its modern
+numerical algorithms are optimized for earth orbits. And since <strong>OASYS</strong>
+is workstation-based, it is available for a fraction of the cost
+of systems based on mainframes and mini-computers. </p>
+
+<p>The <strong>OASYS</strong> software is database driven, so you
+can easily add new spacecraft or new ground stations. The
+database includes: </p>
+
+<blockquote>
+    <p><img src="gifs/dot_purp.gif" width="20" height="20">Astronomical/Geophysical
+    Constants <br>
+    <img src="gifs/dot_purp.gif" width="20" height="20">Ranging
+    Station Locations <br>
+    <img src="gifs/dot_purp.gif" width="20" height="20">Antenna
+    and Station Biases <br>
+    <img src="gifs/dot_purp.gif" width="20" height="20">Spacecraft
+    Parameters <br>
+    <img src="gifs/dot_purp.gif" width="20" height="20">Thruster
+    Characteristics </p>
+</blockquote>
+
+<p>These parameters are modifiable using the <strong>OASYS</strong>
+on-line editor or a commercial relational (SQL) database
+management system. </p>
+
+<hr>
+
+<h2><a name="Orbit">Orbit Determination</a></h2>
+
+<p>The Orbit Determination module provides an orbit fix which
+best fits a set of input measurements. Most standard measurement
+types, including phasemeter, range, turn-around range, range
+rate, azimuth, and elevation, are already supported. Other
+measurement types can be easily accommodated by modifying the <strong>OASYS</strong>
+measurement model. </p>
+
+<p>Once the measurements are ingested, the software calculates
+the associated orbit. The measurements may be pre-filtered
+(automatically or manually). The resulting set of good
+measurements is fed through a statistical estimation algorithm
+which computes an orbit that is the best fit to the measurement
+set. The software then computes and displays the measurement
+residuals. </p>
+
+<p>An Orbit Determination state dialog is also provided which
+allows you to analyze the statistics associated with the fit. The
+state dialog provides initial and final statistical estimates
+for: </p>
+
+<dl>
+    <dd><img src="gifs/dot_purp.gif" width="20" height="20">Dynamic
+        States (Orbital Elements) </dd>
+    <dd><img src="gifs/dot_purp.gif" width="20" height="20">Dynamic
+        Biases (Solar Pressure and Drag Coefficients) </dd>
+    <dd><img src="gifs/dot_purp.gif" width="20" height="20">Measurement
+        Biases </dd>
+    <dd><img src="gifs/dot_purp.gif" width="20" height="20">Measurement
+        Noise </dd>
+</dl>
+
+<p>The final orbit fit is stored for future reference and
+transferred automatically to the Ephemeris Propagation routines. </p>
+
+<hr>
+
+<h2><a name="Ephemeris">Ephemeris Propagation</a></h2>
+
+<p>The Ephemeris Propagation software forecasts the spacecraft
+position over time on the basis of initial state estimates
+obtained from Orbit Determination or user input. The propagator
+uses an adaptive numerical integrator which is optimized for
+earth-orbit calculations. This variable step/variable order
+algorithm determines step size based on the dynamics of the orbit
+and a user-specified error tolerance, resulting in faster and
+more accurate propagations. Brouwer-Lyddane, Kepler, and NORAD
+semi-analytic propagators are also available. </p>
+
+<p>You can do a short run of a few orbits to get a quick set of
+event predicts, or a long run of months (or years) to study
+long-term stability. Propagations can even be run backward in
+time, allowing you to back propagate the state to evaluate
+measurement residuals or thruster performance after maneuvers. </p>
+
+<p>The force model is database-driven and consists of the
+following components: </p>
+
+<dl>
+    <dd><img src="gifs/dot_purp.gif" width="20" height="20">N x M
+        Spherical Harmonic Geopotential </dd>
+    <dd><img src="gifs/dot_purp.gif" width="20" height="20">Solar
+        and Lunar Point Mass </dd>
+    <dd><img src="gifs/dot_purp.gif" width="20" height="20">Solar
+        Pressure </dd>
+    <dd><img src="gifs/dot_purp.gif" width="20" height="20">Atmospheric
+        Drag</dd>
+    <dd><img src="gifs/dot_purp.gif" width="20" height="20">Thrust/Impulse
+    </dd>
+</dl>
+
+<p>The memory resident output ephemeris is immediately available
+to other software functions, including Maneuver Planning and
+Plots/Reports. </p>
+
+<hr>
+
+<h2><a name="Maneuver">Maneuver Planning</a></h2>
+
+<p>The <strong>OASYS</strong> Maneuver Planning software provides
+a unique graphical interface for planning and implementing
+spacecraft maneuvers. There are three basic steps to the process:
+</p>
+
+<dl>
+    <dd><img src="gifs/dot_purp.gif" width="20" height="20">Select
+        a Thruster Configuration </dd>
+    <dd><img src="gifs/dot_purp.gif" width="20" height="20">Select
+        a Maneuver Type </dd>
+    <dd><img src="gifs/dot_purp.gif" width="20" height="20">Define
+        a Maneuver Target or Delta </dd>
+</dl>
+
+<p>The graphical approach to maneuver planning has two
+advantages: it is easy to use, and the graphical display provides
+an intuitively obvious interpretation of both the pre-maneuver
+state and the post-maneuver state. </p>
+
+<p><strong>OASYS</strong> supports general cross-track (change
+inclination, ascending node) and along track (change semi-major
+axis) maneuvers. The graphical planner for geosynchronous
+spacecraft operates on drift, eccentricity, and inclination. The
+software automatically posts a plot of the spacecraft's predicted
+trajectory and current box limits. You can then click on the plot
+and define a new trajectory using the mouse. Once you are
+satisfied with the trajectory, a click of the mouse will save it
+to disk as the post-maneuver state. The required burn times for
+the selected thruster set are computed automatically. </p>
+
+<hr>
+
+<h2><a name="Plots and Reports">Plots and Reports</a></h2>
+
+<p><strong>OASYS</strong> provides a complete set of data output
+products, including: </p>
+
+<dl>
+    <dd><img src="gifs/dot_purp.gif" width="20" height="20"><a
+        href="gifs/oagt.gif"><strong>Ground Track Plot</strong></a>
+        showing spacecraft nadir ground track and station contact
+        circles on a world map </dd>
+    <dd><img src="gifs/dot_purp.gif" width="20" height="20"><a
+        href="gifs/cart.gif"><strong>Cartesian</strong></a><strong>
+        and </strong><a href="gifs/polar.gif"><strong>Polar</strong></a><strong>
+        Plots</strong> for trending spacecraft orbit data and
+        consumables </dd>
+    <dd><img src="gifs/dot_purp.gif" width="20" height="20"><a
+        href="text/eph_rpt.txt"><strong>Ephemeris Reports</strong></a>
+        providing the orbital elements at user-specified
+        intervals </dd>
+    <dd><img src="gifs/dot_purp.gif" width="20" height="20"><a
+        href="text/ant.txt"><strong>Predicted Tracking Files</strong></a>
+        for station antenna pre-positioning and real-time control
+    </dd>
+    <dd><img src="gifs/dot_purp.gif" width="20" height="20"><a
+        href="text/evt_rpt.txt"><strong>Event Report</strong></a>
+        specifying the time of orbital/station events such as
+        perigee/apogee, node crossings, sun/eclipse transitions,
+        and spacecraft rise/set <br>
+    </dd>
+</dl>
+
+<p>The contents and formats of the output products can be
+customized on-line via the <strong>OASYS</strong> menus. An
+integrated set of conversion routines allows both program inputs
+and outputs to be expressed in Metric and English engineering
+units as well as a variety of coordinate frames. </p>
+
+<hr>
+
+<h2><a name="Screen Shots">Screen Shots</a></h2>
+
+<p>Click on the examples below for some <strong>OASYS</strong>
+screen shots: </p>
+
+<dl>
+    <dd><img src="gifs/dot_purp.gif" width="20" height="20"> <a
+        href="gifs/oamain.gif">Main Menu</a> </dd>
+    <dd><img src="gifs/dot_purp.gif" width="20" height="20"> <a
+        href="gifs/oaephm.gif">Ephemeris Services Menu</a> </dd>
+    <dd><img src="gifs/dot_purp.gif" width="20" height="20"> <a
+        href="gifs/oaodm.gif">Orbit Determination Menu</a> </dd>
+    <dd><img src="gifs/dot_purp.gif" width="20" height="20"> <a
+        href="gifs/oame.gif">Measurement Edit Plot</a> </dd>
+    <dd><img src="gifs/dot_purp.gif" width="20" height="20"> <a
+        href="gifs/oamanm.gif">Maneuver Services Menu</a> </dd>
+    <dd><img src="gifs/dot_purp.gif" width="20" height="20"> <a
+        href="gifs/oaskm.gif">Station Keeping Menu</a> </dd>
+    <dd><img src="gifs/dot_purp.gif" width="20" height="20"> <a
+        href="gifs/oadrift.gif">Drift Maneuver Planner</a> </dd>
+    <dd><img src="gifs/dot_purp.gif" width="20" height="20"> <a
+        href="gifs/oagt.gif">Ground Track Plot</a> </dd>
+</dl>
+
+<hr>
+
+<h2><a name="UpdateSources">Update Sources for Orbital
+Information</a></h2>
+<div align="center"><center>
+
+<table border="3" width="750">
+    <tr>
+        <td align="center" width="250"><a
+        href="http://www.sel.noaa.gov"><img src="gifs/sec.gif"
+        alt="SEC" border="0" width="250" height="150"></a> </td>
+        <td align="center" width="250"><a
+        href="http://maia.usno.navy.mil"><img
+        src="gifs/neos-one.gif" alt="NEOS" border="0" width="250"
+        height="150"></a> </td>
+        <td align="center" width="250"><a
+        href="http://www.grove.net/~tkelso"><img
+        src="gifs/cel-www.gif" alt="Celestial" border="0"
+        width="250" height="150"></a></td>
+    </tr>
+    <tr>
+        <td align="center" width="250"><a
+        href="gopher://proton.sel.noaa.gov/00/latest/RSGA">F10.7cm
+        Solar Flux</a> </td>
+        <td align="center" width="250"><a
+        href="ftp://maia.usno.navy.mil/ser7/ser7.dat">Polar
+        Motion &amp; UTC Corrections</a> </td>
+        <td align="center" width="250"><a
+        href="http://www.grove.net/~tkelso/NORAD/elements/">NORAD
+        Two-Line Elements</a></td>
+    </tr>
+</table>
+</center></div>
+
+<p>NORAD Two-Line Elements can also be obtained from the NASA
+Orbital Information Group (OIG) BBS. They provide shuttle
+elements and data for most objects in the USSPACECOM catalogue.
+Telnet to <a href="telnet://oig1.gsfc.nasa.gov">oig1.gsfc.nasa.gov</a>
+and login as <i>oig</i> with password <i>goddard1</i>. After
+going through a simple registration process you can download the
+data you desire.</p>
+
+<p><font size="3">The latest ASCII Database Files (</font><font
+size="3" face="Courier New"><strong>.adb</strong></font><font
+size="3">) [updated monthly] are available for download from the
+ISI anonymous ftp site.</font></p>
+
+<blockquote>
+    <p><font size="3" face="Courier New"><strong>polar_mo.adb</strong></font><font
+    size="3"> -</font><a
+    href="ftp://ftp.integ.com/pub/oasys/updates/V2/polar_mo.adb"><font
+    size="3">Version 2</font></a><font size="3">/</font><a
+    href="ftp://ftp.integ.com/pub/oasys/updates/V3/polar_mo.adb"><font
+    size="3">Version 3</font></a><font size="3"> - Polar Motion
+    and UTC Corrections<br>
+    </font><font size="3" face="Courier New"><strong>et_ut.adb</strong></font><font
+    size="3"> - </font><a
+    href="ftp://ftp.integ.com/pub/oasys/updates/V2/et_ut.adb"><font
+    size="3">Version 2</font></a><font size="3">/</font><a
+    href="ftp://ftp.integ.com/pub/oasys/updates/V3/et_ut.adb"><font
+    size="3">Version 3</font></a><font size="3"> - Table Of Leap
+    Seconds</font></p>
+</blockquote>
+
+<hr>
+
+<h2>Additional Information</h2>
+
+<p>For further information on <strong>OASYS</strong> features,
+prices, and support, contact <a href="mailto:carchedi@integ.com"><strong>Steve
+Carchedi</strong></a> at the address below, or <a
+href="mailto:carchedi@integ.com">email</a> him directly. </p>
+
+<hr>
+
+<p align="center">Integral Systems, Inc.<img
+src="gifs/dot_blue.gif" alt="*" align="absbottom" width="20"
+height="20"> 5000 Philadelphia Way<img src="gifs/dot_blue.gif"
+alt="*" align="absbottom" width="20" height="20"> Suite A<img
+src="gifs/dot_blue.gif" alt="*" align="absbottom" width="20"
+height="20"> Lanham MD 20706-4417 USA<br>
+Phone: (301) 731-4233<img src="gifs/dot_blue.gif" alt="*"
+align="absbottom" width="20" height="20"> Fax: (301) 731-9606 <br>
+<a href="mailto:mwest@integ.com">contact sales</a> <img
+src="gifs/dot_blue.gif" alt="*" align="absbottom" width="20"
+height="20"> <a href="mailto:earp@integ.com">contact webmaster</a>
+</p>
+
+<hr>
+
+<p><em>The following are trademarks or registered trademarks: </em></p>
+
+<p><em>OASYS - Integral Systems, Inc. <br>
+UNIX - UNIX Systems Laboratories, Inc. <br>
+X-Windows - Massachusetts Institute of Technology <br>
+Motif - The Open Software Foundation, Inc. </em></p>
+
+<hr>
+
+<p align="center"><!--webbot bot="ImageMap"
+rectangle=" (156,21) (193, 90)  isidrs.htm"
+rectangle=" (24,21) (58, 88)  isiepoch.htm"
+rectangle=" (71,19) (145, 90)  index.htm" src="gifs/contrl01.gif"
+border="0" width="216" height="108" startspan --><MAP NAME="FrontPageMap"><AREA SHAPE="RECT" COORDS="156, 21, 193, 90" HREF="isidrs.htm"><AREA SHAPE="RECT" COORDS="24, 21, 58, 88" HREF="isiepoch.htm"><AREA SHAPE="RECT" COORDS="71, 19, 145, 90" HREF="index.htm"></MAP><a
+href="_vti_bin/shtml.exe/isioasys.htm/map"><img
+src="gifs/contrl01.gif" width="216" ismap usemap="#FrontPageMap"
+height="108" border="0"></a><!--webbot bot="ImageMap" endspan
+i-checksum="3538" --></p>
+</body>
+</html>

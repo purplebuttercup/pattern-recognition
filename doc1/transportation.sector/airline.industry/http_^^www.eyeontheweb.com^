@@ -1,0 +1,405 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 20 Nov 1997 15:52:58 GMT
+Content-type: text/html
+
+<HTML>
+<HEAD><TITLE>Web navigation for the neXt generation</TITLE>
+
+<!-- Eye on the Web is the web's leading resource site with access to many great web features, including personal options. -->
+
+<META Name="description" Content="Eye on the Web provides access to many great web features, including personal options. Eye on the Web was designed to bring you the best of the World Wide Web.">
+
+<META Name="keywords" CONTENT=Internet, internet, World Wide Web, world wide web, WWW, www, Eye on the Web, eye on the web, USA Today, usa today, CNN, cnn, MSNBC, msnbc, Time Daily, time daily, C/Net News.Com, c/net news.com, Websites, websites, Web, web, Navigation, navigation, Resources, resources, Sites, sites, Newsstand, newsstand, Marketplace, marketplace, On Ramp, on ramp, On-Ramp, on-ramp, Information Superhighway, information superhighway, Infobahn, infobahn, Sports, sports, Arts, arts, Entertainment, entertainment, News, news, Associated Press, associated press, Reuters, reuters, Weather, weather, Government, government, Law, law, Religion, religion, Offbeat, offbeat, Philosophy, philosophy, Reference, reference, Travel, travel, Leisure, leisure, Science, science, Technology, technology, Horoscope, horoscope, Internet, internet, World Wide Web, 
+world wide web, Websites, websites, Web Navigation, web navigation">
+
+<META NAME="resource-type" content="Eye on the Web is the web's leading 
+resource site with access to many great web features, including personal options">
+
+<META name="distribution" content="global">
+<META http-equiv="PICS-Label" content='(PICS-1.0 "http://www.rsac.org/ratingsv01.html" l gen true comment "RSACi North America Server" by "andyjc@intersolutions.com" for "http://www.eyeontheweb.com" on "1996.04.04T08:15-0500" exp "1997.07.01T08:15-0500" r (n 0 s 0 v 0 l 0))'>
+
+<SCRIPT LANGUAGE="javascript">
+<!--
+var helpwin=0;
+var rwin=0; 
+
+function loadRemote() {
+    remoteWindow =
+window.open('remote/remote.cfm','EyeRemote','resizable=yes,menubar=no,location=no,toolbar=no,status=no,directories=no,width=255,height=370');
+    top.rwin = 1;
+  
+}
+
+function closeRemote() {
+  if (top.rwin == 1) {
+    top.rwin = 0;
+    remoteWindow.close();
+  }
+}
+
+// -->
+</script>
+
+</HEAD>
+
+
+
+
+<BODY BGCOLOR=ffffff BACKGROUND=img/metal3.jpg TEXT=000000 LINK=000068 VLINK=000068>
+
+<TABLE BORDER=0 WIDTH=600 CELLSPACING=0 CELLPADDING=2>
+<TR><TD ROWSPAN=7 VALIGN=top>
+<BR>
+<CENTER>
+<A HREF="javascript:loadRemote()"><img src="remote/rembut2.gif" border=0 valign=top></a>
+</CENTER>
+<P>
+
+
+
+
+
+
+<b><font face="arial, times roman" size=2>
+<a href="it/index.cfm">Internet Today</a><br>
+<img src="img/1x1.gif" HEIGHT=8 WIDTH=1><BR>
+<a href="topsite.cfm">Top Sites</a><br>
+<img src="img/1x1.gif" HEIGHT=8 WIDTH=1><BR>
+
+
+
+<a href="http://www.eyeontheweb.com/linkpage.cfm?icategory=arts">Arts & Entertainment</a><br>
+<img src="img/1x1.gif" HEIGHT=8 WIDTH=1><BR>
+
+
+
+
+
+<a href="http://www.eyeontheweb.com/linkpage.cfm?icategory=news">Newsstand</a><br>
+<img src="img/1x1.gif" HEIGHT=8 WIDTH=1><BR>
+
+
+
+
+
+<a href="http://www.eyeontheweb.com/linkpage.cfm?icategory=market">Marketplace</a><br>
+<img src="img/1x1.gif" HEIGHT=8 WIDTH=1><BR>
+
+
+
+
+
+<a href="http://www.eyeontheweb.com/linkpage.cfm?icategory=Sports">Sports</a><br>
+<img src="img/1x1.gif" HEIGHT=8 WIDTH=1><BR>
+
+
+
+
+
+<a href="http://www.eyeontheweb.com/linkpage.cfm?icategory=Home">Home & Family</a><br>
+<img src="img/1x1.gif" HEIGHT=8 WIDTH=1><BR>
+
+
+
+
+
+<a href="http://www.eyeontheweb.com/linkpage.cfm?icategory=Travel">Travel & Leisure</a><br>
+<img src="img/1x1.gif" HEIGHT=8 WIDTH=1><BR>
+
+
+
+
+
+<a href="http://www.eyeontheweb.com/linkpage.cfm?icategory=Weather">Weather</a><br>
+<img src="img/1x1.gif" HEIGHT=8 WIDTH=1><BR>
+
+
+
+
+
+<a href="http://www.eyeontheweb.com/linkpage.cfm?icategory=Religion">Religion, Astrology, & Philosophy</a><br>
+<img src="img/1x1.gif" HEIGHT=8 WIDTH=1><BR>
+
+
+
+
+
+<a href="http://www.eyeontheweb.com/linkpage.cfm?icategory=Science1">Science & Technology</a><br>
+<img src="img/1x1.gif" HEIGHT=8 WIDTH=1><BR>
+
+
+
+
+
+<a href="http://www.eyeontheweb.com/linkpage.cfm?icategory=Reference">Reference Desk</a><br>
+<img src="img/1x1.gif" HEIGHT=8 WIDTH=1><BR>
+
+
+
+
+
+<a href="http://www.eyeontheweb.com/linkpage.cfm?icategory=Business">Business & Finance</a><br>
+<img src="img/1x1.gif" HEIGHT=8 WIDTH=1><BR>
+
+
+
+
+
+<a href="http://www.eyeontheweb.com/linkpage.cfm?icategory=Government">Government & Law</a><br>
+<img src="img/1x1.gif" HEIGHT=8 WIDTH=1><BR>
+
+
+
+
+
+<a href="http://www.eyeontheweb.com/linkpage.cfm?icategory=Net">Net Essentials</a><br>
+<img src="img/1x1.gif" HEIGHT=8 WIDTH=1><BR>
+
+
+
+
+
+<a href="http://www.eyeontheweb.com/linkpage.cfm?icategory=Computers">Computers & The Net</a><br>
+<img src="img/1x1.gif" HEIGHT=8 WIDTH=1><BR>
+
+
+
+
+
+<a href="http://www.eyeontheweb.com/linkpage.cfm?icategory=Education">Education Center</a><br>
+<img src="img/1x1.gif" HEIGHT=8 WIDTH=1><BR>
+
+
+
+
+</font>
+<font face="arial, times roman" size=1>
+<img src="img/1x1.gif" HEIGHT=8 WIDTH=1><BR>
+<A HREF="submit.cfm">Submit a Site</a><br>
+<img src="img/1x1.gif" HEIGHT=8 WIDTH=1><BR>
+<A HREF="mailto:jessica@intersolutions.com?subject=I want to become an EOW reviewer!">Become a Reviewer</a><br>
+</font>
+</b>
+<P>
+<img src="img/1x1.gif" width=125 height=1>
+
+
+<P>
+
+<CENTER>
+<IMG SRC="http://www.eyeontheweb.com/img/graybox.jpg" HEIGHT=5 WIDTH=100><BR>
+<FONT SIZE=1 FACE="Arial">
+<B>A C C O L A D E S</B>
+<P>
+<A HREF="http://netday.iworld.com/poweruser/sotd/96.08/96.08.29.html"><img src="http://www.eyeontheweb.com/img/iworld.gif" ALT="iWorld Site of the Day" height=75 width=75 BORDER=0></A>
+<P>
+<A HREF="http://www.webcom.com/webscout/">
+<!--IMG SRC="http://www.webcom.com/webscout/Pics/Award100.gif" ALT="Webscout Award" HEIGHT=80 WIDTH=80 BORDER=0-->
+<IMG SRC="http://www.eyeontheweb.com/img/Award100.gif" ALT="Webscout Award" HEIGHT=80 WIDTH=80 BORDER=0></A>
+<p>
+<a href="http://www.CyberTeddy-Online.com/teddy/"><img src="http://www.eyeontheweb.com/img/teddy.gif" width=80 height=102 border=0></a>
+<p>
+<a href="http://www.homepcmag.com"><img src="http://www.eyeontheweb.com/img/hpc_web.gif" border=0 width=97></a>
+</FONT>
+</CENTER>
+
+
+</TD>
+<td rowspan=7>
+<img src="img/1x1.gif" height=100 width=5 align=right>
+</td>
+
+<!-- Banner -->
+<TD VALIGN=top>
+<CENTER>
+<IMG width=361 height=80 src="img/eyehead.gif" align=bottom>
+
+<BR>
+
+<font face="arial, times roman" size=-1>
+<A HREF="makehome.cfm">make <I>eow</I> your home page</A>
+<img src="img/bullet.gif">
+<A HREF="profile.cfm">personalize <I>eow</I></A> 
+<img src="img/bullet.gif">
+<A HREF="contact.cfm"><i>eye</i> contact</A>
+<br>
+<A HREF="sos/index.cfm">SearchOurSite</A> 
+<img src="img/bullet.gif">
+<A HREF="search/index.cfm">SearchTheWeb</A>
+</FONT>
+
+
+<p>
+
+<A HREF="http://www.intersolutions.com"><IMG SRC="banners/isi.jpg" BORDER=0></A>
+
+</CENTER>
+</TD></TR>
+
+<!-- Personal Cell -->
+
+<TR><TD VALIGN=TOP BGCOLOR="#8fdcff">
+<IMG SRC="img/graybox.jpg" HEIGHT=1 WIDTH=468></TD></TR>
+
+<TR><TD VALIGN=TOP BGCOLOR="#8fdcff">
+<center><img src="img/pp.gif" width=166 height=29></center>
+
+<FONT SIZE=-1 COLOR="#0000ff">
+<CENTER><A HREF="http://www.geocities.com/SoHo/Studios/6234/">Today's Comics</A>
+
+<IMG SRC="img/1x1.gif" WIDTH=100 HEIGHT=1 BORDER=0>
+
+<A HREF="http://www.nws.noaa.gov/weather/">Today's Forecast</A>
+<BR>
+<A HREF="http://www.usatoday.com/sports/scores97/scores.htm">Sports Scoreboard</A>
+<IMG SRC="img/1x1.gif" WIDTH=100 HEIGHT=1 BORDER=0>
+<A HREF="http://homearts.com/affil/tc/tc00sher.htm">Your Daily Horoscope</A>
+<P>
+Are you using the latest software?  Find out in <A HREF="linkpage.cfm?icategory=Net"><I>Net Essentials</I></A>.</CENTER></FONT></TD></TR>
+
+<TR><TD VALIGN=TOP BGCOLOR="#8fdcff">
+<IMG SRC="img/graybox.jpg" HEIGHT=1 WIDTH=468></TD></TR>
+
+<!-- News Streams -->
+<TR><TD VALIGN=top>
+<FONT COLOR="#0000ff" SIZE=3>
+<applet align=bottom codebase=java code="Ashleyticker.class" width=460 height=25>
+     <param name=typeface value="Arial">
+     <param name=fontsize value=14>
+     <param name=style value=1>
+     <param name=sensitive value=10>
+     <param name=step value=2>
+     <param name=offset value=1>
+     <param name=text value=0,0,205>
+     <param name=shadow value=255,255,255>
+     <param name=backgd value=255,255,255>
+     <param name=count value=1>
+     <param name=repeat value=1>
+	<param name=message0 value="Iraq reverses ban; crisis seems over (USA Today)...  
+Septuplets survive 'miracle' birth (CNN) ...  
+U.S. urges caution in overseas travel (USA Today)...  
+Egypt vows to tighten security (NY Times)...  
+Stockholders sue Union Pacific (NY Times)...  
+">
+  <PRE>
+  <IMG SRC="img/news.gif" WIDTH=13 HEIGHT=23>Iraq reverses ban; crisis seems over (USA Today)...  
+
+  <IMG SRC="img/news.gif" WIDTH=13 HEIGHT=23>Septuplets survive 'miracle' birth (CNN) ...  
+
+  </PRE>
+</applet>
+</FONT>
+
+<P>
+<CENTER>
+<A HREF="http://www.usatoday.com">
+<IMG SRC="img/usatlogo.gif" ALT="USA Today" WIDTH=62 HEIGHT=35 BORDER=0 ALIGN=bottom></A>
+
+<IMG SRC="img/1x1.gif" WIDTH=20 HEIGHT=1 BORDER=0>
+<A HREF="http://www.cnn.com/">
+<IMG SRC="img/cnn.gif" ALT="CNN" WIDTH=55 HEIGHT=35 BORDER=0></A>
+
+<IMG SRC="img/1x1.gif" WIDTH=20 HEIGHT=1 BORDER=0>
+<A HREF="http://www.msnbc.com/news/default.asp">
+<IMG SRC="img/msn.gif" ALT="MSNBC" HEIGHT=35 WIDTH=75 BORDER=0></A>
+
+<IMG SRC="img/1x1.gif" WIDTH=20 HEIGHT=1 BORDER=0>
+<A HREF="http://www.pathfinder.com/time/daily/">
+<IMG SRC="img/TIME.gif" ALT="Time Daily" WIDTH=64 HEIGHT=35 BORDER=0></A>
+
+<IMG SRC="img/1x1.gif" WIDTH=20 HEIGHT=1 BORDER=0>
+<A HREF="http://www.news.com/">
+<IMG SRC="img/cnet.gif" ALT="c|net" BORDER=0 width=65 height=35></A>
+</CENTER>
+
+<BR>
+<IMG SRC="img/1x1.gif" WIDTH=360 HEIGHT=1 ALIGN=left>
+<A HREF="categories/ns.html"><I>...more News</I></A>
+<HR NOSHADE>
+</TD></TR>
+
+<!-- Today's Feature Article-->
+
+<TR><TD>
+<center>
+<img src="img/fs.gif" ALT="Featured Story"><br>
+___________________________________
+
+
+<p>
+</center>
+<center><img src="img/flytitle.jpg"><br>
+<font size=+2><b>Flying on a Wing and a Handful of Change</b></font><img src=img/1x1.gif width=300 height=1><font size=-1>by Jessica O'Neill</font></center><p><p><b><font size=+2>T</font></b>o travel is to live. The excitement of discovering new places, the joy of visiting old friends, and the pure satisfaction of just getting away. But what's one to do when the money tree runs dry? <p>
+
+
+
+When you mix the concept of travel with a lack of funds, it may seem like a lost cause, but I'm here to tell you this is not the case. Take it from someone who lives paycheck to paycheck and still manages to explore the world. I may not fly first class. I may not even know exactly where I'm flying until I get on the plane, but the point is I fly, and you can too...
+
+
+
+
+
+
+
+
+
+
+
+
+<br CLEAR=ALL>
+<IMG SRC="img/1x1.gif" WIDTH=400 HEIGHT=1 ALIGN=left>
+<A HREF="fs.cfm"><I>...more</I></A>
+<br>
+
+<HR NOSHADE>
+
+<center>
+<font face="arial, times roman" size=-1>
+<A HREF="about.cfm">welcome to the eye</A> 
+<img src="img/bullet.gif" width=5 height=5>
+<A HREF="bugus.cfm">bug us</A>
+<img src="img/bullet.gif" width=5 height=5>
+<A HREF="future.cfm">eye on the future</A>
+</font>
+</center>
+
+
+<HR NOSHADE>
+<IMG SRC="img/ieow.gif" WIDTH=277 HEIGHT=24 BORDER=0 ALIGN=texttop>
+<BR>
+<IMG SRC="http://www.stattrax.com/cgi/stattrax.cgi/1155:2:3" HEIGHT=1 WIDTH=1>
+<p>
+
+<center>
+
+<TABLE border=0>
+<TR>
+<td align=center>
+&#160;<a href="http://www.netscape.com/comprod/mirror/index.html"><font size=-1><br><img align=middle
+src="img/now8.gif" alt="Netscape Now!" border=0><br><b>Enhanced for Netscape</b></a><br> 
+&#160;<a href="http://www.netscape.com/comprod/mirror/index.html"></font></a>
+</td>
+<td>
+&#160; &#160;
+</td>
+<td align=center valign=top>
+<font size=-1>Best experienced with<br>
+<a href="http://www.microsoft.com/ie/download"><IMG SRC="img/ie.gif"></a>
+<br>Click here to download</font>
+</td>
+</TR>
+</TABLE>
+
+</center>
+
+</TD></TR>
+
+<TR><TD><img src="img/1x1.gif" height=250 width=1></TD></TR>
+</TABLE>
+
+</BODY>
+</HTML>
+
+
+
+<IMG SRC="http://www.stattrax.com/cgi/stattrax.cgi/1155:2:3" HEIGHT=1 WIDTH=1>

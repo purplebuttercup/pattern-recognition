@@ -1,0 +1,90 @@
+Server: Netscape-Enterprise/2.0a
+Date: Mon, 29 Dec 1997 20:50:06 GMT
+Accept-ranges: bytes
+Last-modified: Wed, 29 Oct 1997 18:21:58 GMT
+Content-length: 2386
+Content-type: text/html
+
+<!-- 
+(c) 1996, Infonautics, Inc.
+Designer: Philip H. Williams
+last updated: Oct 23, 1997 
+-->
+<html>
+<head>
+<title>Web Site: Infonautics Inc.</title>
+</head>
+<body bgcolor=#000000 text=#ffffff link="#bb0000" vlink="#bb0000" alink="#000099">
+
+<center>
+<!-- 266 lft & 288 rgt -->
+<table width=554 border=0 cellpadding=0 cellspacing=0>
+  <tr>
+    <td width=100% colspan=2></td>
+  </tr>
+  <tr>
+    <td width=266 valign="top">
+      <img src="art/ravn_1.gif" border=0 width=266 height=081><br>
+      <img lowsrc="art/ravn_2lo.gif" src="art/ravn_2.gif" border=0 width=266 height=104><br>
+      <img src="art/ravn_3.gif" border=0 width=266 height=194><br>
+      
+    </td>
+
+    <td width=288 valign="top">
+      <!-- gin: SERVER MAPPED -->
+      <a href="map/index.map">
+      <img src="art/ravn_4.gif" border=0 width=288 height=324 ISMAP><br>
+      </a>
+      <!-- fin: SERVER MAPPED -->
+
+      <!-- gin: CLIENT MAPPED --z
+      <img src="art/ravn_4.gif" border=0 width=288 height=324 usemap="#index">
+      <!-- fin: CLIENT MAPPED -->
+      <br><br>
+
+      <!--
+      <applet code=NavigatorTicker11.class width=266 height=28>
+      <param name=count value=1>
+      <param name=msg0 value="Holiday greetings from all of us at Infonautics ...  \\ No Link">
+      <param name=speed value=6>
+      <param name=bgco value="0,0,0">
+      <param name=txtco value="132,156,222">
+      <param name=linkco value="132,156,222">
+      </applet>
+      -->
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 align="center">
+      <table width=530 border=0 cellspacing=0 cellpadding=0>
+        <tr>
+          <td>
+            <font color="#849cde" face="arial,helvetica" size=-0>
+            <img border=0 src="gfx/spacer.gif" width=10 height=4><br>
+            Infonautics, Inc., the parent company of Infonautics Corporation, 
+            is a publicly traded company on the
+            <font size=-1><b>NASDAQ</b></font> exchange under the symbol 
+            <a href="inve.htm"><font color="#cc0000" size=-1><b>INFO</b></font></a>.
+
+          </td>
+        </tr>
+      </table>
+
+      </font>
+    </td>
+  </tr>
+</table>
+</center>
+
+</body>
+</html>
+
+
+<!-- CLIENT SIDE MAPPING COORDINATES -->
+<map name="index">
+<area coords="028,214 263,239" href="abou.htm">
+<area coords="028,241 263,276" href="publ.htm">
+<area coords="028,269 263,294" href="cnsm.htm">
+<area coords="028,296 263,323" href="educ.htm">
+</map>
+

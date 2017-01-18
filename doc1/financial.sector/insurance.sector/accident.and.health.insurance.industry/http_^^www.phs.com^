@@ -1,0 +1,89 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 18 Dec 1997 09:00:38 GMT
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+   <TITLE>PacifiCare Health Systems</TITLE>
+</HEAD>
+<BODY BGCOLOR="WHITE">
+
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=690>
+   <TR>
+	<TD WIDTH=190>
+	<IMG SRC="common/images/phs4.gif" ALT="PacifiCare Health Systems" WIDTH=140 HEIGHT=41>
+	</TD>
+	<TD VALIGN=bottom WIDTH=500>
+	<IMG ISMAP USEMAP="#navbar1" SRC="common/images/phs_navbar1.gif" ALT="navigation buttons" WIDTH=426 
+	HEIGHT=14 BORDER=0 ALIGN=bottom>
+       <MAP NAME="navbar1">
+            <AREA SHAPE=RECT COORDS="342,0,430,14" HREF="HealthSystems/employop">
+            <AREA SHAPE=RECT COORDS="282,0,341,12" HREF="healthsystems/search/index.asp">
+            <AREA SHAPE=RECT COORDS="194,0,279,13" HREF="healthsystems/whatsnew">
+            <AREA SHAPE=RECT COORDS="118,0,194,13" HREF="healthsystems/locations">
+            <AREA SHAPE=RECT COORDS="0,0,117,13" HREF="healthsystems/about">
+	</MAP>
+	</TD>
+   </TR>
+</TABLE>
+
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=690>
+   <TR>
+	<TD WIDTH=690 HEIGHT=15>
+	&nbsp;
+	</TD>
+   </TR>
+</TABLE>
+
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=690>
+   <TR>
+	<TD VALIGN="top" WIDTH=190>
+	<!--Bringing in navigation buttons and default map-->
+	<IMG SRC="common/images/buttonsvert.gif" ALT="Navigation Buttons" Border="0" USEMAP="#buttonsvert" ISMAP>
+
+<map name="buttonsvert">
+<area shape="rect" coords="1,0,133,22" href="healthsystems/members">
+<area shape="rect" coords="1,32,133,55" href="healthsystems/brokers">
+<area shape="rect" coords="0,66,132,88" href="healthsystems/providers">
+<area shape="rect" coords="2,100,134,122" href="healthsystems/employers">
+<area shape="default" nohref>
+</map>
+	<BR>
+	<a href="healthsystems/locations/providir.htm"><img vspace="10" src="common/images/provdir_new.gif" 
+	width=136 height=59 border=0 alt="new provider directory pages"></a>
+	</TD>
+	<TD VALIGN=top align="MIDDLE" WIDTH=500>
+	<IMG SRC="common/images/collage6.jpg" ALT="collage" width=464 height=275>
+	<BR>
+		
+	<BR>
+	<FONT SIZE="-1">
+	<A HREF="HealthSystems/about">About PacifiCare</A> | 
+	<A HREF="HealthSystems/locations">Locations</A> | 	
+	<A HREF="HealthSystems/whatsnew">What's New</A> | 
+	<A HREF="HealthSystems/search/index.asp">Search</A> | 
+	<A HREF="HealthSystems/employop">Job Postings</A>
+	<BR>
+	<BR>
+	<A HREF="HealthSystems/members">Members</A> | 
+	<A HREF="HealthSystems/brokers">Brokers</A> | 
+	<A HREF="HealthSystems/providers">Providers</A> | 
+	<A HREF="HealthSystems/employers">Employers</A>
+	</FONT>         
+         
+	<!--Bringing in copyright blurb-->
+	<P ALIGN=CENTER>&nbsp;<FONT SIZE=-2><A HREF="http://www.phs.com/common/pages/cpy_rt.htm">Please
+click here for legal restrictions and conditions of use applicable for this
+site. <BR>
+Use of this site signifies your agreement to the conditions of use.</A></FONT></P>
+
+	</TD>
+   </TR>
+</TABLE>
+
+
+</BODY>
+</HTML>

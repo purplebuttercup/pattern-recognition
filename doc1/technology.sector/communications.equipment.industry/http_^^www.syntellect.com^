@@ -1,0 +1,54 @@
+Server: Netscape-Commerce/1.12
+Date: Friday, 21-Nov-97 02:34:24 GMT
+Last-modified: Monday, 13-Oct-97 16:47:44 GMT
+Content-length: 2734
+Content-type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>Syntellect Interactive Communications</TITLE>
+<META NAME="description" CONTENT="Syntellect is committed to helping businesses better serve their customers through a broad range of interactive products and services. System solutions include Interactive Voice Response, Computer Telephony Interfaces and Predictive Dialing. Syntellect Interactive Services provides voice and data processing services for companies that prefer to outsource.">
+<META NAME="keywords" CONTENT="interactive, pay-per-view, voice, telecommunications, predictive, dialing, telephony, computer, software, hardware, programming, systems, cableTV, banking,healthcare, newspapers">
+</HEAD>
+<BODY BGCOLOR="#ffffff" LINK="#ff1018" TEXT="#000000" VLINK="#505050">
+<CENTER>
+<IMG SRC="logo.gif" ALT="Syntellect Interactive Communications" WIDTH="590" HEIGHT="49">
+<A HREF="virtual.html"><IMG SRC="vaicon.gif" ALT="Virtual Access" WIDTH="66" HEIGHT="62" ALIGN="RIGHT" BORDER="0"></A>
+<BR CLEAR="ALL">
+<IMG SRC="globimg.jpg" WIDTH="587" HEIGHT="230" BORDER="0" ALT="Syntellect" usemap="#globimg"><BR>
+<HR SIZE="1">
+<FONT SIZE="2">
+| <A HREF="about.html">About Syntellect</A>  |
+ <A HREF="products.html">Vocal Point Products</A> |
+ <A HREF="solution.html">Industry Solutions</A> |
+ <A HREF="inter.html">Syntellect Interactive Services</A> |<BR>
+| <A HREF="email.html">E-Mail Us</A> |
+ <A HREF="whatsnew.html">What's New</A> |
+ <A HREF="careers.html">Career Opportunities</A> |
+ <A HREF="consult.html">Consultant Relations</A> |
+ <A HREF="usergrp.html">User Group</A> |
+ <A HREF="offices.html">Offices</A> |
+</FONT>
+<HR SIZE="1" WIDTH="60%">
+<FONT SIZE="2">All contents Copyright &copy; 1997 Syntellect Inc.  All rights reserved.<BR>
+This page is available at www.syntellect.com</FONT>
+</CENTER>
+<map name="globimg">
+<area shape="rect" coords="14,35,144,64" href="about.html">
+<area shape="rect" coords="37,68,139,134" href="about.html">
+<area shape="rect" coords="92,0,247,22" href="products.html">
+<area shape="rect" coords="166,67,265,134" href="products.html">
+<area shape="rect" coords="271,0,425,22" href="solution.html">
+<area shape="rect" coords="309,67,411,133" href="solution.html">
+<area shape="rect" coords="424,24,592,61" href="inter.html">
+<area shape="rect" coords="442,68,543,134" href="inter.html">
+<area shape="rect" coords="2,137,97,172" href="email.html">
+<area shape="rect" coords="99,137,191,173" href="whatsnew.html">
+<area shape="rect" coords="193,138,286,172" href="careers.html">
+<area shape="rect" coords="289,135,383,169" href="consult.html">
+<area shape="rect" coords="386,135,480,172" href="usergrp.html">
+<area shape="rect" coords="482,136,575,173" href="offices.html">
+<area shape="default" nohref>
+</map>
+</BODY>
+</HTML>

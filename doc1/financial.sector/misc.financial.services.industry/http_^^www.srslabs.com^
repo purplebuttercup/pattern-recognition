@@ -1,0 +1,55 @@
+Date: Thu, 18 Dec 1997 12:06:24 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 1922
+Last-modified: Fri, 21 Nov 1997 19:46:51 GMT
+
+<HTML>
+<HEAD>
+<TITLE>Welcome to SRS Labs, Inc.</TITLE>
+</HEAD>
+<BODY BACKGROUND="images/BackTile01.jpg" BGCOLOR="#000000" TEXT="#C0C0C0"></BODY>
+<BR>
+<BR>
+<CENTER>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD VALIGN="top" ALIGN="right">
+<IMG SRC="images/SRSHome01.gif" ALT="SRS Labs, Inc." WIDTH="134" HEIGHT="184" BORDER="0"><BR>
+<a href="oem/comdex/micron.html"><IMG SRC="images/truanim.gif" ALT="Comdex Registration Discount" WIDTH="116" HEIGHT="59" BORDER="0"></a><BR>
+</TD>
+<TD VALIGN="top">
+<IMG SRC="images/SRSHome03.gif" WIDTH="141" HEIGHT="279" BORDER="0"><BR>
+</TD>
+<TD VALIGN="bottom" ALIGN="left">
+<IMG SRC="images/SRSHome04.gif" WIDTH="57" HEIGHT="50" BORDER="0"><BR>
+<A HREF="announce/announce.html"><IMG SRC="images/SRSHome05.gif" ALT="Company Announcements" WIDTH="156" HEIGHT="35" BORDER="0"></A><BR>
+<A HREF="about/about.html"><IMG SRC="images/SRSHome06.gif" ALT="About SRS Labs, Inc." WIDTH="169" HEIGHT="35" BORDER="0"></A><BR>
+<A HREF="technology/technology.html"><IMG SRC="images/SRSHome07.gif" ALT="SRS Labs Technology" WIDTH="171" HEIGHT="35" BORDER="0"></A><BR>
+<A HREF="products/products.html"><IMG SRC="images/SRSHome08.gif" ALT="Partner's Products" WIDTH="165" HEIGHT="35" BORDER="0"></A><BR>
+<A HREF="oem/oem.html"><IMG SRC="images/SRSHome09.gif" ALT="OEM Solutions" WIDTH="148" HEIGHT="35" BORDER="0"></A><BR>
+<A HREF="demos/demos.html"><IMG SRC="images/SRSHome10.gif" ALT="Sight's & Sounds of SRS Labs" WIDTH="122" HEIGHT="33" BORDER="0"></A><BR>
+</TD>
+</TR>
+</TABLE>
+<Pre>
+
+
+
+
+</pre>
+
+   <table border=5 cellpadding=2 cellspacing=0 bgcolor=white><tr><td> 
+   <a href="http://www.stockhouse.com" target=newwindow><img src="images/stockhouse.gif" width=124 height=37 border=0 alt="StockHouse -- Site of the
+   Day!!!"></a> 
+   </td></tr></table> 
+
+
+</CENTER>
+<!--
+<BGSOUND SRC="lightning.wav">
+<EMBED SRC="lightning.wav" AUTOSTART="TRUE" width=0 height=0>
+-->
+
+</BODY>
+</HTML>

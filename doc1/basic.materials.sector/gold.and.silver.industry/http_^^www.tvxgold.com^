@@ -1,0 +1,102 @@
+Date: Thu, 20 Nov 1997 22:06:20 GMT
+Server: WebSitePro/1.1h
+Accept-ranges: bytes
+Content-type: text/html
+Last-modified: Thu, 29 May 1997 16:50:44 GMT
+Content-length: 4498
+
+<!----
+	TVX Gold Inc. WWW Pages
+		
+	Created by:	David Beaupre
+			QUEUE Systems Inc.
+
+	(C) TVX Gold Inc., 1996
+	(C) QUEUE Systems Inc., 1996
+--->
+<HTML>
+<HEAD>
+<TITLE>TVX Gold Inc.</TITLE>
+</HEAD>
+<BODY BACKGROUND="/images/bground.gif" BGCOLOR="#FFFFFF" TEXT="#0000BB"  
+	VLINK="#800020" LINK="#0000FF" ALINK="#FF2020">
+
+<TABLE BORDER="0" VALIGN="TOP" WIDTH=100%>
+	<TR>
+		<TD WIDTH="75" ALIGN=LEFT VALIGN=TOP><IMG SRC="/images/tvx_gld.gif" BORDER=0></TD>
+		<TD VALIGN=BOTTOM ALIGN=RIGHT WIDTH=100%><I><B><FONT SIZE=+2>...Becoming a 1,000,000 Ounce Producer</FONT></B></I></TD>
+	</TR>
+</TABLE>
+
+<HR>
+
+<TABLE BORDER=0 VALIGN=TOP WIDTH=100%>
+	<TR VALIGN=TOP>
+		<TD ALIGN=LEFT WIDTH="75">
+			<P><A HREF="/PressReleases/"><IMG ALT="Press Releases" WIDTH=75 HEIGHT=40 BORDER=0 SRC="/images/pressreleases.gif"></A><BR>
+			<P><A HREF="/AnnualReport/"><IMG ALT="Annual Reports" WIDTH=75 HEIGHT=40 BORDER=0 SRC="/images/annualreport.gif"></A><BR>
+			<P><A HREF="/QuarterlyReport/"><IMG SRC="/images/quarterlyreport.gif" ALT="Quarterly Reports" WIDTH=75 HEIGHT=40 BORDER=0></A>
+			<P><A HREF="/Stock/"><IMG ALT="Stock Information" WIDTH=75 HEIGHT=40 BORDER=0 SRC="/images/stockinfo.gif"></A><BR>
+			<P><A HREF="/CorporateInformation.htm"><IMG WIDTH=75 HEIGHT=40 BORDER=0 SRC="/images/corporateinfo.gif" ALT="Corporate Information"></A><BR>
+			<P><A HREF="/MiningTerminology.htm"><IMG SRC="/images/MiningTerminology.gif" ALT="Mining Terminology" WIDTH=75 HEIGHT=40 BORDER=0></A>
+			<P><A HREF="/cgi-shl/dbml.exe?Template=/Tvx/GuestBook.dbm"><IMG WIDTH=75 HEIGHT=40 BORDER=0 SRC="/images/guestbook.gif" ALT="Guest Book"></A><BR>
+			<P><FONT SIZE=-2>You're visitor...<BR></CENTER><IMG SRC="/private/cgi-shl/counter.exe?-sa+-w4+index.htm"></FONT>
+
+		</TD>
+		<TD ALIGN=LEFT WIDTH=100%>
+
+			<CENTER><IMG SRC="/images/TVXLogo_280.gif" ALT="TVX Gold Inc." WIDTH=280 HEIGHT=200 BORDER=0></CENTER>
+<!--
+			<HR>
+			<BR CLEAR=RIGHT><CENTER><B><FONT SIZE=+1>A Global Perspective</FONT></B></CENTER><BR>
+ 
+<MAP NAME="Mining Operations">
+-->
+<!-- #$-:Image Map file created by Map THIS! -->
+<!-- #$-:Map THIS! free image map editor by Todd C. Wilson -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:1.20 -->
+<!-- #$AUTHOR:David Beaupre -->
+<!-- #$DATE:Fri Jun 21 13:59:42 1996 -->
+<!-- #$PATH:V:\images\ -->
+<!-- #$GIF:TVXOperations.gif -->
+<!--
+<AREA SHAPE=POLY COORDS="31,91,-1,99,-1,130,59,130,59,106,88,100,84,82,30,91,31,91" HREF=/AnnualReport/1995/MineralHill.htm>
+<AREA SHAPE=POLY COORDS="1,39,42,40,90,80,101,69,63,31,70,25,69,13,-1,13,-1,38,3,40,1,39" HREF=/AnnualReport/1995/NewBritannia.htm>
+<AREA SHAPE=POLY COORDS="44,0,115,0,114,26,101,26,113,75,107,87,99,76,103,71,93,27,74,23,72,12,42,12,43,1,44,0" HREF=/AnnualReport/1995/Musselwhite.htm>
+<AREA SHAPE=POLY COORDS="124,75,223,75,225,104,114,101,124,75" HREF=/AnnualReport/1995/CasaBerardi.htm>
+<AREA SHAPE=POLY COORDS="132,138,132,164,149,164,145,185,162,187,207,137,132,138" HREF=/AnnualReport/1995/NovoAstro.htm>
+<AREA SHAPE=POLY COORDS="110,174,31,186,33,221,96,220,126,186,110,174" HREF=/AnnualReport/1995/Pachicutza.htm>
+<AREA SHAPE=POLY COORDS="81,243,50,259,50,284,106,284,141,230,130,221,81,243" HREF=/AnnualReport/1995/LaCoipa.htm>
+<AREA SHAPE=POLY COORDS="153,196,169,242,207,245,208,276,161,276,147,197,153,196" HREF=/AnnualReport/1995/Crixas.htm>
+<AREA SHAPE=POLY COORDS="157,205,220,206,220,234,173,234,157,205" HREF=/AnnualReport/1995/Brasilia.htm>
+<AREA SHAPE=POLY COORDS="216,12,217,34,243,36,247,93,265,92,262,35,305,33,306,6,214,5,216,12" HREF=/AnnualReport/1995/KasperskeHory.htm>
+<AREA SHAPE=POLY COORDS="255,110,322,179,323,211,383,210,383,182,353,180,265,95,256,111,255,110" HREF=/AnnualReport/1995/Kassandra.htm>
+<AREA SHAPE=POLY COORDS="447,71,450,127,495,126,493,87,466,84,465,64,448,71,447,71" HREF=/AnnualReport/1995/Asacha.htm>
+</MAP>
+ 			<CENTER><IMG SRC="/images/GlobalPerspective.gif" ALT="TVX Gold Inc. - Global Operations" ISMAP USEMAP="#Mining Operations" WIDTH=500 HEIGHT=330 BORDER=0></CENTER>
+ -->
+		</TD>
+	</TR>
+</TABLE>
+
+<HR>
+<CENTER>
+<FONT SIZE=-2>WWW pages designed and maintained by</FONT><BR>
+<A HREF="http://www.queuecs.com"><IMG SRC="http://www.queuecs.com/images/queue150.gif" ALT="QUEUE Systems Inc." WIDTH=150 HEIGHT=46 BORDER=0></A>
+</CENTER>
+
+<BR>
+<CENTER>
+<PRE>&#169; TVX Gold Inc.
+<A HREF="mailto:webmaster@tvxgold.com">webmaster@tvxgold.com</A></PRE>
+</CENTER>
+
+</BODY>
+
+</HTML>
+
+
+
+
+

@@ -1,0 +1,147 @@
+Server: Microsoft-IIS/3.0
+Date: Thu, 18 Dec 1997 20:53:51 GMT
+Content-Type: text/html
+
+<html>
+<head>
+<title>Western Resources: What's News: Preparing for Competition</title>
+</head>
+<!-- Insert text, vlink, link, and td bgcolor below. -->
+<!-- then save this file as "header.txt" in the appropriate directory. -->
+
+<body bgcolor="ffffff" text="000000">
+<table border=0 cellpadding=0 cellspacing=0>
+
+<!-- ****** here's where the header picture goes ****** -->
+<!-- Codes:
+	we = Westar Energy
+	ws = Westar Security
+	wg = Wing Group
+	uo = Utility Operations
+	fi = Financial Information
+	sh = Shareowner Services
+	wn = What's News
+	bp = Bulk Power Sales
+	ev = Environmental
+	en = Employee News
+	ir = Investment Recovery
+	pr = Preparing for Competition
+-->
+<!-- ****** When changing the filename & sidebar color below, do not allow the
+            line to wrap.   The line must remain intact. ****** -->
+
+<td width=150 valign=top bgcolor="cc9933"><table border=0 cellpadding=0 cellspacing=0><td><img border=0 src="/images/wn_pict.gif"><br><img border=0 src="/images/spacer.gif" width=150 height=3></td></table>
+
+<br>
+<center>
+<table border=0 width=120>
+
+<!-- ****** insert sidebar links below ****** -->
+
+<td align=right><font size=3><b><a href="/news/">What's News</a></b></font></td><tr><td height=20 colspan=2><br></td><tr>
+<td align=right><font size=3><b><a href="/news/topics">Industry Topics</a></b></font></td><tr><td height=20 colspan=2><br></td><tr>
+<td align=right><font size=3><b><a href="/entrance.html">Home</a></b></font></td><tr><td height=20 colspan=2><br></td><tr>
+<td align=center valign=bottom><a href="/entrance.html"><img border=0 src="/images/wn_wrstar.gif" width=100></a></td>
+
+<!-- ****** end of sidebar links ****** -->
+
+</table>
+</center>
+</td>
+<td valign=top width=488 bgcolor="ffffff">
+
+<!-- ****** here's where the header graphic goes ****** -->
+<!-- Codes:
+	we = Westar Energy
+	ws = Westar Security
+	wg = Wing Group
+	uo = Utility Operations
+	fi = Financial Information
+	sh = Shareowner Services
+	wn = What's News
+	bp = Bulk Power Sales
+	ev = Environmental
+	en = Employee News
+	ir = Investment Recovery
+	pr = Preparing for Competition
+-->
+	
+<img border=0 src="/images/pr_head.gif" alt="Preparing for Competition">
+<p>
+<blockquote>
+
+<!-- ****** insert content of page below ****** -->
+
+Western Resources supports a transition to a competitive marketplace
+that assures fairness to all and makes service reliability and safety
+top priorities.
+<p>
+The transition to a competitive marketplace should:
+<p>
+<ul>
+<li>Preserve existing standards of safety, reliability, and dependable electric service;
+<p>
+<li>Offer consumers the opportunity to shop for options that most closely meet their needs;
+<p>
+<li>Make affordable electricity available to everyone;
+<p>
+<li>Ensure that competition occurs on a 'fair and level' playing field;
+<p>
+<li>Provide open access for all retail wheeling competitors; and,
+<p>
+<li>Provide for a mechanism to fully recover 'stranded costs.'
+<p>
+</ul>
+<p>
+<b>Company Position</b><br>
+John E. Hayes, Jr., Chairman of the Board and Chief Executive Officer,
+Western Resources, Inc. <a href="../topics/wheel.stm">comments</a> before the Kansas Legislative Task Force
+on Retail Wheeling July 10, 1997.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+<!-- ****** end of body content ****** -->
+
+</blockquote>
+<p>
+<center>
+
+<hr width=95%>
+
+<p>
+
+<font size=-2>
+
+<a href="/westar/energy/">Westar Energy</a> |
+
+<a href="/westar/security">Westar Security</a> |
+
+<a href="/utility/">Utility Operations</a> |
+
+<a href="/financial/">Financial Information</a> |
+
+<a href="/news/">What's News</a> |
+
+<a href="/employee/">Employee News</a> | 
+
+<a href="/">Home</a>
+
+</center>
+
+
+</font>
+</td></table>
+</body>
+</html>

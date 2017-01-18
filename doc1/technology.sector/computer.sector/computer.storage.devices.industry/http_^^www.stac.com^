@@ -1,0 +1,415 @@
+Server: Microsoft-IIS/3.0
+Date: Fri, 21 Nov 1997 03:51:46 GMT
+Content-type: text/html
+Set-Cookie: ENTRYPOINT=68382; expires=Fri, 21-Nov-1997 08:00:00 GMT; path=/
+Set-Cookie: ASPSESSIONID=VBEKVYGUNPSTNOXA; path=/
+Cache-control: private
+
+
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+
+<meta name="description" content="Stac, Inc. provides software-based
+solutions to meet the urgent distributed business systems recovery
+needs of enterprise customers.">
+
+<meta name="keywords" content="Replica, ReachOut, Stac, Hi/fn, disaster
+recovery, tape backup, server backup, distributed enterprise, server recovery,
+help desk, remote access">
+
+<title>Stac, Inc. Home Page</title>
+<meta name="FORMATTER" content="Microsoft FrontPage 2.0">
+</head>
+
+<body background="images/background_blend%202.GIF"
+bgcolor="#FFFFFF">
+
+<table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+        <td valign="bottom" width="5">&nbsp;</td>
+        <td valign="bottom"><a href="index.asp" target="_top" onMouseOver="window.status='To the Stac home page';return true"
+           onMouseOut="window.status=' ';return true"><img
+        src="images/stac_navbar_home.gif" alt="Stac Home Page"
+        border="0" width="105" height="38"></a></td>
+        <td valign="bottom"><img
+        src="images/stac_navbar_blank_136w.gif" width="136"
+        height="22"></td>
+        <td align="right" valign="bottom" nowrap><font size="2"
+        face="Arial"><strong><script language="JavaScript"><!--
+
+
+
+// hide JavaScript contents from browsers that do not support JavaScript
+
+<!-- set the day
+
+var today = new Date();
+var day = today.getDay();
+
+if (day == 0)
+  document.write('Sunday ');
+else if (day == 1)
+  document.write('Monday ');
+else if (day == 2)
+  document.write('Tuesday ');
+else if (day == 3)
+  document.write('Wednesday ');
+else if (day == 4)
+  document.write('Thursday ');
+else if (day == 5)
+  document.write('Friday ');
+else if(day == 6)
+  document.write('Saturday ');
+document.write(" ");
+
+<!-- set the month
+
+var today = new Date();
+var day = today.getMonth();
+
+if (day == 0)
+  document.write(" January");
+else if (day == 1)
+  document.write(" February");
+else if (day == 2)
+  document.write(" March");
+else if (day == 3)
+  document.write(" April");
+else if (day == 4)
+  document.write(" May");
+else if (day == 5)
+  document.write(" June");
+if (day == 6)
+  document.write(" July");
+else if (day == 7)
+  document.write(" August");
+else if (day == 8)
+  document.write(" September");
+else if (day == 9)
+  document.write(" October");
+else if (day == 10)
+  document.write(" November");
+else if (day == 11)
+  document.write(" December");
+document.write(" ");
+
+<!-- set the date
+
+var today = new Date();
+var day = today.getDate();
+
+document.write(day);
+document.write(", ");
+
+<!-- set the year
+
+var today = new Date();
+var day = today.getYear();
+
+document.write("19" + day);
+
+// stop hiding
+// --></script>
+
+<br>
+        </strong></font><img
+        src="images/stac_navbar_blank_84w.gif" width="84"
+        height="22"><a href="products/index.html" target="_top" onMouseOver="window.status='Information about Stac software products';return true"
+           onMouseOut="window.status=' ';return true"><img
+        src="images/stac_navbar_products.gif" alt="Products"
+        border="0" width="87" height="22"></a><a
+        href="company/index.html" target="_top" onMouseOver="window.status='Information about Stac, including career opportunties';return true"
+           onMouseOut="window.status=' ';return true"><img
+        src="images/stac_navbar_company.gif" alt="Company"
+        border="0" width="87" height="22"></a></td>
+<td align="top" rowspan="2"><a href="http://www.hifn.com" target="_top" onMouseOver="window.status='To the web site of Hi/fn, a Stac subsidiary';return true"
+           onMouseOut="window.status=' ';return true"><img src="images/hifn.jpg" border="0" alt="Hi/fn, Efficient / Secure Networking Subsidiary"></a></td>
+    </tr>
+<tr><td colspan="4"><a href="company/index.html" onMouseOver="window.status='Information about Stac';return true"
+           onMouseOut="window.status=' ';return true"><img
+        src="images/mission_stmt.gif"
+        alt="Stac, Inc., provides software-based solutions to meet the urgent distributed business systems recovery needs of enterprise customers."
+        border="0" width="500" height="60"></a></td></tr>
+</table>
+
+<!--<table border="0" cellpadding="4" cellspacing="0" width="550"
+bordercolor="#800000" bordercolordark="#800000"
+bordercolorlight="#800000">
+    <tr>
+        <td colspan="2"><a href="company/index.html"><img
+        src="images/mission_stmt_txt.gif"
+        alt="Founded in 1983, Stac is a leading supplier of storage management and remote access solutions that feature disaster recovery and security capabilities."
+        border="0" width="500" height="60"></a></td>
+    </tr>
+</table>-->
+
+<table border="0">
+    <tr>
+        <td align="center" valign="top" rowspan="3" width="100"><a
+        href="freedownloads/" onMouseOver="window.status='Free Replica and ReachOut software you can download';return true"  
+           onMouseOut="window.status=' ';return true"><img
+        src="images/button_free_downloads.gif"
+        alt="Free Downloads" border="0" width="90" height="28"></a><p><a
+        href="sales/" onMouseOver="window.status='Information about how and where to purchase Replica and ReachOut';return true"
+           onMouseOut="window.status=' ';return true"><img
+        src="images/button_purchasing_stac_prods.gif"
+        alt="Purchasing Stac Products" border="0" width="90"
+        height="28"></a></p>
+        <p><a href="events/" onMouseOver="window.status='Dates and places where you can see Stac products and talk to us';return true" 
+            onMouseOut="window.status=' ';return true"><img
+        src="images/button_events_and_shows.gif"
+        alt="Events and Shows" border="0" width="90" height="28"></a></p>
+        <p><a href="http://support.stac.com" onMouseOver="window.status='How to get the service and support you need, when you need it';return true" 
+            onMouseOut="window.status=' ';return true"><img
+        src="images/button_service_and_support.gif"
+        alt="Service and Support" border="0" width="90"
+        height="28"></a></p>
+        <p><a href="govt/" onMouseOver="window.status='Dates and places of government and education events with a Stac presence';return true" 
+            onMouseOut="window.status=' ';return true"><img
+        src="images/button_govt%20_and_edu.gif"
+        alt="Government and Education" border="0" width="90"
+        height="28"></a></p>
+        <p><a href="reseller/" onMouseOver="window.status='Information about partnering with Stac to produce and distribute Stac products';return true" 
+            onMouseOut="window.status=' ';return true"><img
+        src="images/button_partnering_with_stac.gif"
+        alt="Partnering with Stac" border="0" width="90"
+        height="28"></a></p>
+        <p><a href="press/" onMouseOver="window.status='Graphics and product information for use by press professionals';return true" 
+            onMouseOut="window.status=' ';return true"><img
+        src="images/button_press_room.gif" alt="Press Room"
+        border="0" width="90" height="28"></a></p>
+        <p><a href="contact/" onMouseOver="window.status='How to contact Stac by phone, e-mail, postal mail, or FAX';return true" 
+            onMouseOut="window.status=' ';return true"><img
+        src="images/button_contact_stac.gif" alt="Contact Stac"
+        border="0" width="90" height="28"></a></p>
+        <p><img src="images/100_px_blue_rule.gif" width="50"
+        height="2"></p>
+        <p><font size="2" face="Arial"><strong>Stac Worldwide</strong></font></p>
+        <p><a href="Spanish/"><font size="2" face="Arial"><strong><img
+        src="images/flag_spain.gif" border="0" width="15"
+        height="9"></strong></font></a><font size="2"
+        face="Arial"><strong> </strong></font><a
+        href="Spanish/"><font size="2" face="Arial"><strong>Español</strong></font></a></p>
+        <p><a href="German/"><font size="2"
+        face="Arial"><strong><img src="images/flag_german.gif"
+        border="0" width="15" height="9"></strong></font></a><font
+        size="2" face="Arial"><strong> </strong></font><a
+        href="German/"><font size="2" face="Arial"><strong>Deutsch</strong></font></a></p>
+        <p><a href="French/index.html"><font size="2"
+        face="Arial"><strong><img src="images/flag_french.gif"
+        border="0" width="15" height="10"></strong></font></a><font
+        size="2" face="Arial"><strong> </strong></font><a
+        href="French/"><font size="2" face="Arial"><strong>Français</strong></font></a></p>
+        <p><a href="Japanese/"><font
+        size="2" face="Arial"><strong><img
+        src="images/flag_Japanese.gif" align="middle" border="0"
+        width="15" height="10"></strong></font></a><font size="2"
+        face="Arial"><strong> </strong></font><a
+        href="Japanese/"><font
+        size="2" face="Arial"><strong><img
+        src="images/nihongo_text.GIF"
+        alt="Nihongo (Soliton K.K.)" align="middle" border="0"
+        width="68" height="25"></strong></font></a></p>
+        <p><a href="Portuguese/"><font size="2"
+        face="Arial"><strong><img src="images/flag_brazil.gif"
+        alt="Portugues" border="0" width="15" height="9"></strong></font></a><font
+        size="2" face="Arial"><strong> </strong></font><a
+        href="Portuguese/"><font size="2" face="Arial"><strong>Português</strong></font></a></p>
+        <p><img src="images/100_px_blue_rule.gif" width="50"
+        height="2"></p>
+        </td>
+        <td rowspan="3" width="25">&nbsp;</td>
+        <td valign="top" rowspan="3" width="320"><a
+        href="replica/" onMouseOver="window.status='To the Replica home page for full details.';return true"  
+           onMouseOut="window.status=' ';return true"><img
+        src="images/bboard_foolproof_airbag3.gif"
+        alt="&quot;...foolproof disaster-recovery plan for NT networks&quot; &amp; &quot;server-side air bag for NT&quot;"
+        border="0" width="320" height="215"></a><p align="center"><img
+        src="images/100_px_blue_rule.gif" width="300" height="2"></p>
+        <table border="0" cellpadding="6" cellspacing="0">
+            <tr>
+                <td valign="top" width="160"><a
+                href="replica/"><font size="2"
+                face="Arial"><strong>Replica Wins </strong><em><strong><ital>Windows
+                Sources</ital></strong></em><strong> &quot;1997 Expert's
+                Choice&quot; Award</strong></font></a><br>
+                <font size="2">Replica<sup>TM</sup>
+                3 for Microsoft Windows NT 
+                was named &quot;1997 Windows Sources Expert's
+                Choice&quot; in the Networking/Groupware category
+                at this year's PC Expo in New York City.</font></p>
+                <p><font size="2" face="Arial"><strong>Find Out
+                What Others Have to Say...</strong></font><font
+                size="2"><br>
+
+                Reviews, remarks and comparisons on </font><a
+                href="reachout/reviews.html"><font size="2">ReachOut</font></a><font
+                size="2"> &amp; </font><a
+                href="replica/reviews.html"><font size="2">Replica</font></a></p>
+
+                <p><a href="reachout/index.html"><font size="2"
+                face="Arial"><em><strong>LAN Times</strong></em><strong>
+                Recommends ReachOut for All OS's</strong></font></a><font
+                face="Times New Roman"><br>
+                </font><font size="2">&quot;The best word to
+                describe Stac Inc.'s ReachOut 7 is
+                versatile...&quot;</font></p>
+
+                <p><a
+                href="reachout/index.html"><font size="2"
+                face="Arial"><strong>ReachOut</strong></font></a><font
+                size="2" face="Arial"><strong> Receives 4 Stars
+                from </strong><em><strong>PC Computing</strong></em></font></p>
+
+                </td>
+
+                <td valign="top" width="160"><p><a
+                href="replica/download.html"><font size="2"
+                face="Arial"><strong>Replica Intranetwork Edition for Windows
+                NT Now Available</strong></font></a></p>
+               
+	       <p><font size="2" face="Arial"><strong>See Stac
+                in Boston this December!</strong></font><br>
+                <font size="2">We will be at Microsoft Explorer 97. </font><a
+                href="events/index.html"><font size="2">See the
+             Events &amp; Shows page for details...</font></a></p>
+
+                <p><a href="replica/index.html"><font size="2" face="Arial">
+                <strong> Leading Publications Recommend Replica</strong></font></a>                
+                <ul>
+                <font face="Times New Roman" font size="2"><li>
+                <a href="replica/reviews.html#windowssources"><i>Windows Sources</i></a></li>
+                <li><a href="replica/reviews.html#PCWeek"><i>PC Week</i></a></li>
+                <li><a href="replica/reviews.html#networkcomputing"><i>Network Computing</i></a></li>
+                <li><a href="replica/reviews.html#backoffice"><i>Back Office Magazine</i></a></li>
+                </font>
+                </ul></p>
+                </td>
+            </tr>
+        </table>
+        <table border="0" cellpadding="6" cellspacing="0">
+            <tr>
+                <td align="center" valign="top" width="320"><a
+                href="news/index.html"><font size="2"
+                face="Arial"><em><strong>more News...</strong></em></font></a></td>
+            </tr>
+        </table>
+        </td>
+        <td align="center" valign="top" rowspan="3" width="25"><img
+        src="images/line_vertical_620_px.gif" width="2"
+        height="700"></td>
+        <td valign="top" rowspan="3" width="120"><table
+        border="0">
+            <tr>
+                <td><p><img
+                src="images/100_px_blue_rule.gif" width="110"
+                height="2"></p><a href="replica/index.html" onMouseOver="window.status='To the Replica home page for full details.';return true"  
+           onMouseOut="window.status=' ';return true"><img
+                src="images/header_Replica_hmpg.gif"
+                alt="REPLICA" border="0" width="64" height="18"></a><br>
+                <font size="2" face="Arial">Fast, Easy File and
+                Server Recovery</font><p><img
+                src="images/100_px_blue_rule.gif" width="110"
+                height="2"></p>
+                <p><a href="reachout/index.html" onMouseOver="window.status='To the ReachOut home page for full details.';return true"  
+           onMouseOut="window.status=' ';return true"><img
+                src="images/header_RO_hmpg.gif" alt="REACHOUT"
+                border="0" width="82" height="18"></a><br>
+                <font size="2" face="Arial">Reach Any PC From
+                Everywhere, Every Way</font></p>
+                <p><img src="images/100_px_blue_rule.gif"
+                width="110" height="2"></p>
+
+                </td>
+            </tr>
+        </table>
+        </td>
+    </tr>
+</table>
+
+<p>&nbsp;</p>
+
+<table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+        <td align="center"><font size="1" face="Arial">&nbsp; </font><a
+        href="products/index.html"><font size="1" face="Arial">Products</font></a><font
+        size="1" face="Arial"> | </font><a
+        href="company/index.html"><font size="1" face="Arial">Company</font></a><font
+        size="1" face="Arial"> | </font><a
+        href="freedownloads/index.html"><font size="1"
+        face="Arial">Free Downloads</font></a><font size="1"
+        face="Arial"> | </font><a href="sales/index.html"><font
+        size="1" face="Arial">Purchasing Stac Products</font></a><font
+        size="1" face="Arial"> | </font><a
+        href="events/index.html"><font size="1" face="Arial">Events
+        &amp; Shows</font></a><font size="1" face="Arial"> | </font><a
+        href="http://support.stac.com"><font size="1"
+        face="Arial">Service &amp; Support</font></a><br><a
+        href="govt/index.html"><font size="1" face="Arial">Government
+        &amp; Education</font></a><font
+        size="1" face="Arial"> | </font><font size="1" face="Arial">
+        </font><a href="reseller/index.html"><font size="1"
+        face="Arial">Partnering with Stac</font></a><font
+        size="1" face="Arial"> | </font><a
+        href="press/index.html"><font size="1" face="Arial">Press
+        Room</font></a><font size="1" face="Arial"> | </font><a
+        href="contact/index.html"><font size="1" face="Arial">Contact
+        Stac</font></a><font size="1" face="Arial"><br>
+        </font><a href="replica/index.html"><font size="1"
+        face="Arial">Replica</font></a><font size="1"
+        face="Arial"> | </font><a href="reachout/index.html"><font
+        size="1" face="Arial">ReachOut</font></a><font size="1"
+        face="Arial"> | </font><a
+        href="http://www.hifn.com/"><font size="1" face="Arial">Hi/fn
+        Inc.</font></a></td>
+    </tr>
+</table>
+
+<p>&nbsp;</p>
+
+<table border="0" cellpadding="0" cellspacing="0" width="70%">
+    <tr>
+        <td align="center" width="88">&nbsp;</td>
+        <td align="center"><h6 align="center"><a
+        href="http://www.microsoft.com/ie/logo.asp"><img
+        src="images/button-ie4_ani.gif"
+        alt="Get Microsoft Internet Explorer" border="0" width="88"
+        height="31"></a></h6>
+        </td>
+        <td align="center"><h6 align="center"><a
+        href="http://home.netscape.com/comprod/mirror/index.html"><img
+        src="images/button_navigator3.gif"
+        alt="Netscape Navigator 3" border="0" width="88"
+        height="31"></a></h6>
+        </td>
+        <td align="center"><h6 align="center"><a
+        href="http://www.adobe.com/acrobat/readstep.html"><img
+        src="images/button_acrobat_reader.gif"
+        alt="Adobe Acrobat Reader" align="middle" border="0"
+        width="88" height="31"></a></h6>
+        </td>
+    </tr>
+</table>
+
+<p><a href="/company/copyrite.html"><font size="1">© 1997 Stac,
+Inc.</font></a></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+
+</body>
+</html>

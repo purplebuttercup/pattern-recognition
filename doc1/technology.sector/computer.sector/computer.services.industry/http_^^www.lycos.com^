@@ -1,0 +1,67 @@
+Server: Netscape-Communications/1.1
+Date: Monday, 29-Dec-97 20:51:16 GMT
+Generator: wps_standard_response
+Content-type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>Lycos: Your Personal Internet Guide</TITLE>
+</HEAD>
+
+<BODY>
+<MAP NAME=blackbar>
+<AREA SHAPE=RECT COORDS=473,35,582,49 HREF=http://www.lycosemail.com>
+<AREA SHAPE=RECT COORDS=473,16,582,28 HREF=http://news.lycos.com/headlines/TopNews/default.asp>
+<AREA SHAPE=RECT COORDS=355,35,463,49 HREF=http://chat.lycoschat.com>
+<AREA SHAPE=RECT COORDS=354,15,462,28 HREF=http://personal.lycos.com>
+</MAP><IMG SRC=graphics/logobar.gif alt="Lycos: Your Personal Internet Guide" BORDER=0 width=600 height=65 usemap=#blackbar ISMAP>
+
+<FORM ACTION=/cgi-bin/pursuit METHOD=GET>
+	<BR><PRE>   Search: <SELECT NAME=cat>
+  	<OPTION SELECTED VALUE=lycos>The Web 
+	<OPTION VALUE=sounds>Sounds
+	<OPTION VALUE=graphics>Pictures
+	<OPTION VALUE=point>TOP 5%
+	<OPTION VALUE=geo>Personal Homepages 
+	<OPTION VALUE=ups>UPS Tracking #
+	<OPTION VALUE=bn>Books
+	<OPTION VALUE=stockfind>Stock Symbol
+	<OPTION VALUE=recipedia>Recipes
+	<OPTION VALUE=dejanews>Newsgroups</SELECT>for: <INPUT TYPE=text NAME=query VALUE="" SIZE=20>  <INPUT TYPE=SUBMIT VALUE="Go Get It">
+<INPUT TYPE=hidden NAME=mtemp VALUE="lite"></FORM>
+	      <A HREF="/help/">HELP</A>     <A HREF="http://lycospro.lycos.com/lycospro-nojava.html">Custom Search</A>     <A HREF="/contact.html">Give us your feedback!</A>
+</PRE>
+<TABLE WIDTH=600><TR><TD ALIGN=CENTER><a href="/cgi-bin/nph-adclick.exe/CID=0000d5d90000000200000000/ST=lycos/SV=lycos/A=.lycos.lycos_homepage."><img  src="http://ads.lycos.com/ads/globalstock13.gif" alt="Global Stock Games"  width=468 height=60></a><br><a href="/cgi-bin/nph-adclick.exe/CID=0000d5d90000000200000000/ST=lycos/SV=lycos/A=.lycos.lycos_homepage.">Click here to visit site</a></TD></TR></TABLE>
+<PRE>
+    	<A HREF="http:/cgi-bin/nph-bounce?bn-home|http://www.barnesandnoble.com">Barnes and Noble</A>                 <A HREF="http://www.classifieds2000.com/cgi-cls/display.exe?lycos+class">Classifieds</A>
+    	<A HREF="http://www.companiesonline.com/">CompaniesOnline</A>                  <A HREF="/peoplefind/">People Find</A>
+    	<A HREF="/ups/bridge.html">UPS Services</A>                     <A HREF="http://www.lycos.com/cgi-bin/nph-bounce?gtehome-button|http://yp.gte.net/lhome">Yellow Pages</A>
+    	<A HREF="/roadmap.html">Road Maps</A>                        <A HREF="http://www.stockfind.newsalert.com/">Stock Find</A>
+</PRE>
+<PRE>
+    	WEB GUIDES: Pick a guide, then explore the Web!
+    	<A HREF="/autos/">Autos</A>			
+    	<A HREF="/business/">Business</A>			<A HREF=/money/>Money</A>
+    	<A HREF=/careers/>Careers</A>				<A HREF=/news/>News</A>		   
+    	<A HREF=/computers/>Computers</A>			<A HREF=/people/>People</A>							
+    	<A HREF=/education/>Education</A>			<A HREF=/shopping/>Shopping</A>   
+    	<A HREF=/entertainment/>Entertainment</A>			<A HREF=/space/>Space/Sci-Fi</A>			     
+    	<A HREF=/fashion/>Fashion</A>				<A HREF=/sports/>Sports</A>
+	<A HREF=/games/>Games</A>						
+    	<A HREF=/government/>Government</A>			<A HREF=/travel/>Travel</A>			
+    	<A HREF=/health/>Health</A>						
+    	<A HREF=/kids/>Kids</A>			
+
+<A HREF=/info/>About Lycos</A>             <A HREF=/addasite.html>Add Your Site to Lycos</A>    <A HREF=/lycosinc/advertising.html>Advertise with Lycos</A>
+<A HREF=/lycosinc/busdev/index.html>Business Development</A>    <A HREF=/software/>Free Software</A>             <A HREF=/lycosinc/lycosjobs.html>Jobs4You</A>
+<A HREF=/linktolycos.html>Link to Lycos</A>           <A HREF=/new2net.html>New2Net</A>
+
+<A HREF=/lycosinc/legal.html>Copyright</A> (c) 1997 Lycos,Inc.  
+All Rights Reserved. 
+Lycos (r) is a registered trademark 
+of Carnegie Mellon University<BR>
+<A HREF=/lycosinc/legal.html>Terms and Conditions</A>
+</PRE>
+</BODY>
+</HTML>
+
