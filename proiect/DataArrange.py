@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import os
 
-g = open('./data/data.txt', 'wb')
+g = open('../data/data.txt', 'wb')
 
 #iterate all html pages
 rootdir = "../doc1"
@@ -10,7 +10,8 @@ for subdir, dirs, files in os.walk(rootdir):
         filepath = subdir + os.sep + file
 
         if filepath.endswith(".html"):
-            print(subdir)
+            subdir_list = subdir.split('\\')
+            print(subdir_list)
 
 
             #get only array of text from html
@@ -23,3 +24,9 @@ for subdir, dirs, files in os.walk(rootdir):
 
             str_list = rawText.split()
             print(str_list)
+
+
+
+g.close()
+
+print('Fin.')
