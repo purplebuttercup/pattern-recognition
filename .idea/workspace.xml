@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="625a1638-bda9-461d-9ae9-12ed231a9077" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/raw_data.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc1/financial.sector/insurance.sector/property.and.casualty.insurance.industry/http_^^www.tokiomarine.co.jp^" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc1/financial.sector/insurance.sector/property.and.casualty.insurance.industry/http_^^www.tokiomarine.co.jp^j0001^html^mail.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc1/financial.sector/insurance.sector/property.and.casualty.insurance.industry/http_^^www.tokiomarine.co.jp^j0503^html^index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc1/financial.sector/insurance.sector/property.and.casualty.insurance.industry/http_^^www.tokiomarine.co.jp^j0600^html^index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc1/financial.sector/insurance.sector/property.and.casualty.insurance.industry/http_^^www.tokiomarine.co.jp^j0604^html^index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc1/financial.sector/insurance.sector/property.and.casualty.insurance.industry/http_^^www.tokiomarine.co.jp^j0700^html^risk_adm_index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc1/financial.sector/insurance.sector/property.and.casualty.insurance.industry/http_^^www.tokiomarine.co.jp^j0800^html^0.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc1/financial.sector/insurance.sector/property.and.casualty.insurance.industry/http_^^www.tokiomarine.co.jp^j0800^html^4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc1/financial.sector/insurance.sector/property.and.casualty.insurance.industry/http_^^www.tokiomarine.co.jp^j0800^html^5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc1/financial.sector/insurance.sector/property.and.casualty.insurance.industry/http_^^www.tokiomarine.co.jp^j0800^html^panfu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proiect/ClassMap.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proiect/DataArrange.py" afterPath="$PROJECT_DIR$/proiect/DataArrange.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proiect/Loader.py" afterPath="$PROJECT_DIR$/proiect/Loader.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proiect/Main.py" afterPath="$PROJECT_DIR$/proiect/Main.py" />
     </list>
     <ignored path="pattern-rec.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,8 +26,8 @@
       <file leaf-file-name="DataArrange.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/proiect/DataArrange.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="41" column="42" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
+            <state relative-caret-position="51">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="37" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -49,11 +35,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClassMap.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/proiect/ClassMap.py">
+      <file leaf-file-name="DataArrangeFinal.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/proiect/DataArrangeFinal.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+              <folding>
+                <element signature="e#1#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="final_data.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/final_data.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClassMap.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proiect/ClassMap.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -100,6 +108,7 @@
         <option value="$PROJECT_DIR$/proiect/Loader.py" />
         <option value="$PROJECT_DIR$/proiect/DataArrange.py" />
         <option value="$PROJECT_DIR$/proiect/ClassMap.py" />
+        <option value="$PROJECT_DIR$/proiect/DataArrangeFinal.py" />
       </list>
     </option>
   </component>
@@ -191,7 +200,7 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.DataArrange">
+  <component name="RunManager" selected="Python.DataArrangeFinal">
     <configuration default="false" name="DataArrange" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -205,6 +214,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pattern-rec" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proiect/DataArrange.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="DataArrangeFinal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/proiect" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pattern-rec" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proiect/DataArrangeFinal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -360,13 +386,15 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.DataArrange" />
       <item index="1" class="java.lang.String" itemvalue="Python.Loader" />
+      <item index="2" class="java.lang.String" itemvalue="Python.DataArrangeFinal" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.DataArrange" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.DataArrangeFinal" />
+        <item index="1" class="java.lang.String" itemvalue="Python.DataArrange" />
       </list>
     </recent_temporary>
   </component>
@@ -393,7 +421,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -464,21 +492,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/proiect/ClassMap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/proiect/DataArrange.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="41" column="42" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
+        <state relative-caret-position="51">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="37" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proiect/ClassMap.py">
+    <entry file="file://$PROJECT_DIR$/data/final_data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proiect/DataArrangeFinal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-          <folding />
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
