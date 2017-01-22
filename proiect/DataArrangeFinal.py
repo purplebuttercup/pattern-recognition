@@ -38,10 +38,10 @@ for line in f.readlines():
 
     # put data
     if (nr % 21 == 0):
-        test_set_x.append(rest[2])
+        test_set_x.append(rest[1])
         test_set_y.append(int(rest[0]))
     else:
-        train_set_x.append(rest[2])
+        train_set_x.append(rest[1])
         train_set_y.append(int(rest[0]))
 
 test_set_xxx = np.asarray(test_set_x)

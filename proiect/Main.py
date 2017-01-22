@@ -1,65 +1,74 @@
 
-from . import Loader
+import Loader
+import Batcher
+from Network import Network
 import tensorflow as tf
+import numpy as np
 
 # ------------ Data Prep ------------
 
 #load data
 x_train, y_train, x_test, y_test, vocabulary = Loader.load_data()
 
+print("Vocabulary size: {:d}".format(len(vocabulary)))
+print("Train data : {:d} - Test data : {:d}".format(len(y_train), len(y_test)))
 
 
 # Set parameters
-learning_rate = 0.01
+learning_rate = 0.02
 training_iteration = 30
-batch_size = 100
-display_step = 2
+batch_size = 50
+epochs_size = 2000
+evaluate_every = 100
+sentence_size = x_train.shape[1]
+categories = 8
 
-# TF graph input
-x = tf.placeholder("float", [None, 784]) # mnist data image of shape 28*28=784
-y = tf.placeholder("float", [None, 10]) # 0-9 digits recognition => 10 classes
+display_step = 1
 
-# Create a model
 
-# Set model weights
-W = tf.Variable(tf.zeros([784, 10]))
-b = tf.Variable(tf.zeros([10]))
 
-# Construct a linear model
-model = tf.nn.softmax(tf.matmul(x, W) + b) # Softmax
+#  ------------ Train ------------
+g = tf.Graph()
+with g.as_default():
+    sess = tf.InteractiveSession()
+    with sess.as_default():
 
-# Minimize error using cross entropy
-# Cross entropy
-cost_function = -tf.reduce_sum(y*tf.log(model))
-# Gradient Descent
-optimizer = tf.train.GradientDescentOptimizer(learning_rate).minimize(cost_function)
+        network = Network(sentence_size=x_train.shape[1], categories=categories, learning_rate=learning_rate)
 
-# Initializing the variables
-init = tf.initialize_all_variables()
+        global_step = tf.Variable(0, name="global_step", trainable=False)
 
-# Launch the graph
-with tf.Session() as sess:
-    sess.run(init)
 
-    # Training cycle
-    for iteration in range(training_iteration):
-        avg_cost = 0.
-        total_batch = int(mnist.train.num_examples/batch_size)
-        # Loop over all batches
-        for i in range(total_batch):
-            batch_xs, batch_ys = mnist.train.next_batch(batch_size)
-            # Fit training using batch data
-            sess.run(optimizer, feed_dict={x: batch_xs, y: batch_ys})
-            # Compute average loss
-            avg_cost += sess.run(cost_function, feed_dict={x: batch_xs, y: batch_ys})/total_batch
-        # Display logs per eiteration step
-        if iteration % display_step == 0:
-            print("Iteration:", '%04d' % (iteration + 1), "cost=", "{:.9f}".format(avg_cost))
+        # Gradient Descent
+        optimizer = tf.train.GradientDescentOptimizer(learning_rate)
+        grads_and_vars = optimizer.compute_gradients(network.cost)
+        train_op = optimizer.apply_gradients(grads_and_vars, global_step=global_step)
 
-    print("Tuning completed!")
 
-    # Test the model
-    predictions = tf.equal(tf.argmax(model, 1), tf.argmax(y, 1))
-    # Calculate accuracy
-    accuracy = tf.reduce_mean(tf.cast(predictions, "float"))
-    print("Accuracy:", accuracy.eval({x: x_test, y: y_test}))
+        # initialize vars then run session
+        init_op = tf.global_variables_initializer()
+        sess.run(init_op)
+
+        # training
+        def train_step(x_batch, y_batch):
+            feed_dict = {network.x: x_batch, network.y: y_batch}
+            _, step = sess.run([train_op, global_step], feed_dict)
+
+        # testing
+        def test_step(x_batch, y_batch):
+            feed_dict = {network.x: x_batch, network.y: y_batch}
+            step, cost, accuracy = sess.run([global_step, network.cost, network.accuracy], feed_dict)
+
+            print("Step: {} \nAccuracy: {: 0.3f}".format(step, accuracy))
+
+        # generate batches
+        batches = Batcher.batch_generator(list(zip(x_train, y_train)), batch_size, epochs_size, validation=False)
+
+            # Training cycle
+            # main loop (train then test at every n step)
+        for batch in batches:
+            x_batch, y_batch = zip(*batch)
+            train_step(x_batch, y_batch)
+            current_step = tf.train.global_step(sess, global_step)
+
+            if current_step % evaluate_every == 0:
+                test_step(x_test, y_test)

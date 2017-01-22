@@ -51,9 +51,11 @@ for subdir, dirs, files in os.walk(rootdir):
             #print(title)
 
             cleanText = clean_string(rawText)
-            g.write(cleanText + '\t')
-            print(cleanText)
-
+            txt_list = cleanText.split()
+            if len(txt_list) > 30 & len(txt_list) < 100:
+                g.write(' '.join(txt_list[30:]) + '\t')
+            elif  len(txt_list) > 30 & len(txt_list) >= 100:
+                g.write(' '.join(txt_list[30:60]) + '\t')
             g.write('\n')
 
 
