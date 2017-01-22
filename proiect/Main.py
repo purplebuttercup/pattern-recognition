@@ -1,5 +1,5 @@
 
-import Loader
+from . import Loader
 import tensorflow as tf
 
 # ------------ Data Prep ------------
@@ -62,4 +62,4 @@ with tf.Session() as sess:
     predictions = tf.equal(tf.argmax(model, 1), tf.argmax(y, 1))
     # Calculate accuracy
     accuracy = tf.reduce_mean(tf.cast(predictions, "float"))
-    print "Accuracy:", accuracy.eval({x: mnist.test.images, y: mnist.test.labels})
+    print("Accuracy:", accuracy.eval({x: x_test, y: y_test}))
